@@ -1,0 +1,8 @@
+caption: 'Ширина канта'
+unit: мм
+description: ''
+key: width_of_edging
+type: text
+required: false
+collection: false
+option: {  }

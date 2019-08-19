@@ -1,0 +1,16 @@
+caption: 'Материал крюка'
+unit: ''
+description: ''
+key: hook_material
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Береза
+    - Дерево
+    - Карбон
+    - Пластик
+    - Стекловолокно
+    - Фибергласс
+    - Шпон

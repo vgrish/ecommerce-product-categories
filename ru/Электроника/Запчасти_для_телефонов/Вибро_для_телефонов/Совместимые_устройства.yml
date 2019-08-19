@@ -1,0 +1,8 @@
+caption: 'Совместимые устройства'
+unit: ''
+description: ''
+key: compatible_devices
+type: text
+required: false
+collection: false
+option: {  }

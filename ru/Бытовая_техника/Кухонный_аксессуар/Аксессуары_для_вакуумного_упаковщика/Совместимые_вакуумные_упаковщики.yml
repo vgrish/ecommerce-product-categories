@@ -1,0 +1,20 @@
+caption: 'Совместимые вакуумные упаковщики'
+unit: ''
+description: ''
+key: compatible_vacuum_packers
+type: option
+required: false
+collection: true
+option:
+    - '12 см'
+    - '15 см'
+    - '20 см'
+    - '22 см'
+    - '23 см'
+    - '26 см'
+    - '27,5 см'
+    - '28,5 см'
+    - '28 см'
+    - '30 см'
+    - '40 см'
+    - '50 см'

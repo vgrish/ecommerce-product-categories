@@ -1,0 +1,17 @@
+caption: 'Cодержание уксусной кислоты'
+unit: '%'
+description: 'Укажите процент cодержания уксусной кислоты'
+key: content_of_acetic_acid
+type: option
+required: false
+collection: false
+option:
+    - '3'
+    - '5'
+    - '6'
+    - '10'
+    - '12'
+    - '20'
+    - '30'
+    - '70'
+    - '80'

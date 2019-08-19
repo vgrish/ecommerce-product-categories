@@ -1,0 +1,8 @@
+caption: 'Длина трубки'
+unit: см
+description: ''
+key: tube_length
+type: text
+required: false
+collection: false
+option: {  }

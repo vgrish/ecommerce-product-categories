@@ -1,0 +1,8 @@
+caption: 'Рабочая диафрагма'
+unit: F
+description: 'Записывается только число'
+key: working_diaphragm
+type: text
+required: false
+collection: false
+option: {  }

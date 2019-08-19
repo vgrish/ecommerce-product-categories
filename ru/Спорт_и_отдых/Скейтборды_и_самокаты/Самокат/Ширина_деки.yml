@@ -1,0 +1,8 @@
+caption: 'Ширина деки'
+unit: см
+description: ''
+key: width_of_deck
+type: text
+required: false
+collection: false
+option: {  }

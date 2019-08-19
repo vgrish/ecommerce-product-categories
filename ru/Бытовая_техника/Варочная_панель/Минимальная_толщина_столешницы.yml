@@ -1,0 +1,8 @@
+caption: 'Минимальная толщина столешницы'
+unit: мм
+description: 'Записывается только число'
+key: min_thickness_of_countertop
+type: text
+required: false
+collection: false
+option: {  }

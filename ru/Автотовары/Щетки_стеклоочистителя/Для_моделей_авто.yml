@@ -1,0 +1,8 @@
+caption: 'Для моделей авто'
+unit: ''
+description: ''
+key: for_models_of_cars
+type: text
+required: false
+collection: false
+option: {  }

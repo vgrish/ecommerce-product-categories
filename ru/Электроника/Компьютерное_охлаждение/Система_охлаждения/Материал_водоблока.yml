@@ -1,0 +1,9 @@
+caption: 'Материал водоблока'
+unit: ''
+description: ''
+key: material_waterblock
+type: option
+required: false
+collection: true
+option:
+    - Медь

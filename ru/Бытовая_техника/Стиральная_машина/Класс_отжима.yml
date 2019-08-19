@@ -1,0 +1,17 @@
+caption: 'Класс отжима'
+unit: ''
+description: ''
+key: class_pressing
+type: option
+required: false
+collection: false
+option:
+    - A
+    - A+
+    - A++
+    - A+++
+    - B
+    - C
+    - D
+    - E
+    - G

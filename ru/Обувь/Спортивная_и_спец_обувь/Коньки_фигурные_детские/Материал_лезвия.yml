@@ -1,0 +1,14 @@
+caption: 'Материал лезвия'
+unit: ''
+description: ''
+key: blade_material
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - 'Высокоуглеродистая сталь'
+    - 'Нержавеющая сталь'
+    - 'Нержавеющая сталь с покрытием'
+    - 'Никелированная сталь'
+    - Сталь

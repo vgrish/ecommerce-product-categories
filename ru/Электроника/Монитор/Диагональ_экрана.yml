@@ -1,0 +1,8 @@
+caption: 'Диагональ экрана'
+unit: дюймы
+description: 'Записывается только число'
+key: screen_size
+type: text
+required: false
+collection: false
+option: {  }

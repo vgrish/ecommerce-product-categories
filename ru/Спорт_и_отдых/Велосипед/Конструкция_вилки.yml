@@ -1,0 +1,14 @@
+caption: 'Конструкция вилки'
+unit: ''
+description: ''
+key: plug_design
+type: option
+required: false
+collection: false
+option:
+    - Воздушная
+    - Воздушно-масляная
+    - Жесткая
+    - Пружинная
+    - Пружинно-масляная
+    - Пружинно-эластомерная

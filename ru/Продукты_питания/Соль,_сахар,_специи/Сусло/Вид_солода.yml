@@ -1,0 +1,14 @@
+caption: 'Вид солода'
+unit: ''
+description: 'Выберите вид солода'
+key: type_of_malt
+type: option
+required: false
+collection: true
+option:
+    - Неохмеленный
+    - Охмеленный
+    - Ржаной
+    - Светлый
+    - Темный
+    - Ячменный

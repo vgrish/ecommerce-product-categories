@@ -1,0 +1,8 @@
+caption: 'Макс. энергия удара'
+unit: Дж
+description: 'Записывается только число'
+key: max_impact_energy
+type: text
+required: false
+collection: false
+option: {  }

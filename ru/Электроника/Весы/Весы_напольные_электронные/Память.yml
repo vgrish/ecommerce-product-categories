@@ -1,0 +1,17 @@
+caption: Память
+unit: 'кол-во пользователей'
+description: 'Сколько пользователей может хранить памяьт весов'
+key: memory
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '4'
+    - '5'
+    - '8'
+    - '10'
+    - '12'
+    - '16'
+    - Неограниченно

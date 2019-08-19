@@ -1,0 +1,26 @@
+caption: Байонет
+unit: ''
+description: 'Байонет объектива'
+key: mount
+type: option
+required: false
+collection: true
+option:
+    - 'Canon EF'
+    - 'Canon EF-M'
+    - 'Canon EF-S'
+    - 'Fujifilm X Mount'
+    - 'Hasselblad HC'
+    - 'Leica M'
+    - 'Leica S'
+    - 'Leica T'
+    - 'Mamiya M645'
+    - 'Micro 4/3'
+    - 'Nikon 1'
+    - 'Nikon F'
+    - 'Pentax 645AF2'
+    - 'Pentax KA/KAF/KAF2'
+    - 'Pentax Q'
+    - 'Samsung NX'
+    - 'Sony A'
+    - 'Sony E'

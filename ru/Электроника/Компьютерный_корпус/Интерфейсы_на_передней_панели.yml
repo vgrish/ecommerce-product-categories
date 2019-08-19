@@ -1,0 +1,23 @@
+caption: 'Интерфейсы на передней панели'
+unit: ''
+description: ''
+key: interfaces_on_front_panel
+type: option
+required: false
+collection: true
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - SAS
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'VGA (f)'
+    - 'mini SAS'
+    - 'Комбинированный 3.5 мм (выход на наушники/микрофонный вход)'
+    - 'Линейный выход 3.5 мм'
+    - 'Микрофонный вход 3.5 мм'

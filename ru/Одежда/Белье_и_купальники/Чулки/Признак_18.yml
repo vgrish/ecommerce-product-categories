@@ -1,0 +1,8 @@
+caption: 'Признак 18+'
+unit: ''
+description: 'Критически важно! Признак в обязательном порядке должен быть проставлен для всех товаров 18+.'
+key: sign_18
+type: bool
+required: false
+collection: false
+option: {  }

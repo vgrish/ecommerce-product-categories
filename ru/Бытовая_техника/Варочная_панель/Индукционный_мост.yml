@@ -1,0 +1,10 @@
+caption: 'Индукционный мост'
+unit: ''
+description: ''
+key: induction_bridge
+type: option
+required: false
+collection: false
+option:
+    - 'Левая ближняя и дальняя конфорки'
+    - 'Правая ближняя и дальняя конфорки'

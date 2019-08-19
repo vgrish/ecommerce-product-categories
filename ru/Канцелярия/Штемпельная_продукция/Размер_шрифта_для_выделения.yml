@@ -1,0 +1,8 @@
+caption: 'Размер шрифта для выделения'
+unit: мм
+description: ''
+key: font_size_for_selection
+type: text
+required: false
+collection: false
+option: {  }

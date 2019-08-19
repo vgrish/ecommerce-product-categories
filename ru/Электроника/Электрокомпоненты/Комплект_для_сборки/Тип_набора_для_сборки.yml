@@ -1,0 +1,14 @@
+caption: 'Тип набора для сборки'
+unit: ''
+description: ''
+key: type_of_kit
+type: option
+required: false
+collection: false
+option:
+    - 'Генератор сигналов'
+    - Осциллограф
+    - 'Тестер электронных компонентов'
+    - Усилитель
+    - 'Цветомузыкальная приставка'
+    - Часы

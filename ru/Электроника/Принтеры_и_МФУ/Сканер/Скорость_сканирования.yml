@@ -1,0 +1,8 @@
+caption: 'Скорость сканирования'
+unit: ''
+description: 'Записывается в любом формате'
+key: scanning_speed
+type: text
+required: false
+collection: false
+option: {  }

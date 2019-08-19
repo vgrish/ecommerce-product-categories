@@ -1,0 +1,12 @@
+caption: 'Крепление трансдьюсера'
+unit: ''
+description: ''
+key: mount_transducer
+type: option
+required: false
+collection: true
+option:
+    - 'На днище'
+    - 'На поплавок'
+    - 'На транец'
+    - Универсальное

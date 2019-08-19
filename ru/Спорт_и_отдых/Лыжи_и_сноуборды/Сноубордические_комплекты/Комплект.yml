@@ -1,0 +1,16 @@
+caption: Комплект
+unit: ''
+description: ''
+key: kit
+type: option
+required: false
+collection: true
+option:
+    - Ботинки
+    - Крепления
+    - Лыжи
+    - Палки
+    - Сноуборд
+    - 'Чеход для сноуборда'
+    - 'Чехол для ботинок'
+    - 'Чехол для лыж'

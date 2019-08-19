@@ -1,0 +1,11 @@
+caption: 'Оформление пера'
+unit: ''
+description: ''
+key: design_of_pen
+type: option
+required: false
+collection: true
+option:
+    - Закрытое
+    - Открытое
+    - Полуоткрытое

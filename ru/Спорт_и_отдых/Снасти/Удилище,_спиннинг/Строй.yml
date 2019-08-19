@@ -1,0 +1,12 @@
+caption: Строй
+unit: ''
+description: ''
+key: stroy
+type: option
+required: false
+collection: false
+option:
+    - 'Быстрый (Fast)'
+    - 'Медленный (Slow)'
+    - 'Сверхбыстрый (Extra-fast)'
+    - 'Средний (Medium)'

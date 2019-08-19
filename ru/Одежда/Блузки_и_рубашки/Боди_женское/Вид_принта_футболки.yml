@@ -1,0 +1,15 @@
+caption: 'Вид принта (футболки)'
+unit: ''
+description: ''
+key: type_of_print_t_shirts
+type: option
+required: false
+collection: true
+option:
+    - Камуфляж
+    - Надписи
+    - Однотонный
+    - Орнамент
+    - Полоска/горох
+    - Принт/Логотип
+    - Разноцветный

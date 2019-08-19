@@ -1,0 +1,8 @@
+caption: 'Глубина фальца'
+unit: мм
+description: 'Записывается только число'
+key: depth_folds
+type: text
+required: false
+collection: false
+option: {  }

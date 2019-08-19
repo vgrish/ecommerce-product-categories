@@ -1,0 +1,8 @@
+caption: 'Макс. увеличение'
+unit: крат
+description: 'Записывается только число'
+key: max_increase
+type: text
+required: false
+collection: false
+option: {  }

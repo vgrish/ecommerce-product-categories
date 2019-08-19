@@ -1,0 +1,11 @@
+caption: 'Интенсивность вкуса'
+unit: ''
+description: 'Выберите степень интенсивности вкуса'
+key: intensity_of_taste
+type: option
+required: false
+collection: false
+option:
+    - Крепкий
+    - Мягкий
+    - Средний

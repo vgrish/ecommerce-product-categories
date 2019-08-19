@@ -1,0 +1,11 @@
+caption: 'Форма выпуска муки'
+unit: ''
+description: 'Укажите форму выпуска муки'
+key: release_form_of_flour
+type: option
+required: false
+collection: true
+option:
+    - 'Грубый помол'
+    - 'Крупный помол'
+    - 'Мелкий помол'

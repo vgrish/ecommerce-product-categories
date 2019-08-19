@@ -1,0 +1,12 @@
+caption: 'Тип каминной вытяжки'
+unit: ''
+description: 'Выбирается расположение/вид каминной вытяжки'
+key: type_chimney_hoods
+type: option
+required: false
+collection: false
+option:
+    - Наклонная
+    - Островная
+    - Пристенная
+    - Угловая

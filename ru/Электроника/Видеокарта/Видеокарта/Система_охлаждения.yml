@@ -1,0 +1,12 @@
+caption: 'Система охлаждения'
+unit: ''
+description: ''
+key: cooling_system
+type: option
+required: false
+collection: false
+option:
+    - Активная
+    - Гибридная
+    - Жидкостная
+    - Пассивная

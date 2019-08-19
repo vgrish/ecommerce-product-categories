@@ -1,0 +1,9 @@
+caption: 'Свойства ткани'
+unit: ''
+description: 'Выберите, если ткань является водонепроницаемой'
+key: fabric_properties
+type: option
+required: false
+collection: false
+option:
+    - Водонепроницаемая

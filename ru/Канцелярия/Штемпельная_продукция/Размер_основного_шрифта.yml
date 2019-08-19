@@ -1,0 +1,8 @@
+caption: 'Размер основного шрифта'
+unit: мм
+description: ''
+key: size_of_main_font
+type: text
+required: false
+collection: false
+option: {  }

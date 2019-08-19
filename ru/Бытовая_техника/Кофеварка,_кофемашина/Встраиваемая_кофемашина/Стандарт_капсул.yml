@@ -1,0 +1,19 @@
+caption: 'Стандарт капсул'
+unit: ''
+description: "Тип капсул, используемых кофемашиной. \nКак правило, к каждой модели подходят определенные капсулы. Требуемый тип капсул указывается на корпусе устройства или в инструкции по эксплуатации."
+key: standard_capsules
+type: option
+required: false
+collection: false
+option:
+    - Caffitaly
+    - Cafissimo
+    - 'Dolce Gusto'
+    - 'E.S.E. (44 мм)'
+    - 'Illy Iperespresso'
+    - 'LB (Lavazza Blue)'
+    - LEP
+    - 'Lui L''espresso'
+    - Nespresso
+    - 'Senseo (55 мм)'
+    - 'Т-диск TASSIMO'

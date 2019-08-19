@@ -1,0 +1,8 @@
+caption: 'Вес товара'
+unit: г
+description: 'Вес товара без упаковки (нетто) в граммах в расчете на 1 SKU.'
+key: item_weight
+type: text
+required: false
+collection: false
+option: {  }

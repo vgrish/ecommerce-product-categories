@@ -1,0 +1,8 @@
+caption: 'Характеристики звука'
+unit: ''
+description: ''
+key: sound_characteristics
+type: text
+required: false
+collection: false
+option: {  }

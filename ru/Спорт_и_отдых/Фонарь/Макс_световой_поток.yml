@@ -1,0 +1,8 @@
+caption: 'Макс. световой поток'
+unit: Люмен
+description: ''
+key: max_luminous_flux
+type: text
+required: false
+collection: false
+option: {  }

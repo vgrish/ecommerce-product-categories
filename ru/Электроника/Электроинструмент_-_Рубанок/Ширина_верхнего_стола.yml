@@ -1,0 +1,8 @@
+caption: 'Ширина верхнего стола'
+unit: мм
+description: 'Записывается только число'
+key: width_of_upper_table
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: Окно
+unit: ''
+description: ''
+key: window
+type: option
+required: false
+collection: false
+option:
+    - 'Без окна'
+    - 'Окно слева'
+    - 'Окно справа'

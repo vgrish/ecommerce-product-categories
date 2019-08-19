@@ -1,0 +1,10 @@
+caption: 'Большая манжета'
+unit: ''
+description: 'Манжета считается большой, если производитель указывает размер 22-42 или 32-45 и выше'
+key: large_cuff
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

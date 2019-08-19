@@ -1,0 +1,10 @@
+caption: 'Цветность печати'
+unit: ''
+description: ''
+key: color_print
+type: option
+required: false
+collection: true
+option:
+    - Монохромное
+    - Цветное

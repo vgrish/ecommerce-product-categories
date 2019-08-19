@@ -1,0 +1,8 @@
+caption: 'Высота полотна'
+unit: см
+description: 'Записывается максимальная высота полотна экрана, в см, только цифры'
+key: blade_height
+type: text
+required: false
+collection: false
+option: {  }

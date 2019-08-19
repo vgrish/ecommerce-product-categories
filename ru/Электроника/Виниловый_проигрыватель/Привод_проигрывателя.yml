@@ -1,0 +1,11 @@
+caption: 'Привод проигрывателя'
+unit: ''
+description: ''
+key: drive_player
+type: option
+required: false
+collection: false
+option:
+    - Прямой
+    - Ременной
+    - Роликовый

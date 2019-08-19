@@ -1,0 +1,8 @@
+caption: 'Длина рабочей части'
+unit: мм
+description: 'Здесь необходимо указать длину ТОЛЬКО рабочей части изделия.'
+key: length_of_working_part
+type: text
+required: false
+collection: false
+option: {  }

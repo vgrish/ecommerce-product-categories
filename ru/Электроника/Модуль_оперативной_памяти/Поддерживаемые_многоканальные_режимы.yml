@@ -1,0 +1,11 @@
+caption: 'Поддерживаемые многоканальные режимы'
+unit: ''
+description: ''
+key: support_multi_channel_modes
+type: option
+required: false
+collection: true
+option:
+    - Двухканальный
+    - Трехканальный
+    - Четырехканальный

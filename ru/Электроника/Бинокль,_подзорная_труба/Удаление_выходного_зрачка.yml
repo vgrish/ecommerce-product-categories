@@ -1,0 +1,8 @@
+caption: 'Удаление выходного зрачка'
+unit: мм
+description: 'Записывается только число'
+key: removal_of_exit_pupil
+type: text
+required: false
+collection: false
+option: {  }

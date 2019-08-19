@@ -1,0 +1,16 @@
+caption: 'Покрытие корпуса'
+unit: ''
+description: ''
+key: coverage_of_case
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Антибликовое
+    - Антипригарное
+    - Влагостойкое
+    - Глянцевое
+    - Матовое
+    - 'Нержавеющая сталь'
+    - Тефлоновое

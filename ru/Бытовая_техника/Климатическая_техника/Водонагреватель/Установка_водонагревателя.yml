@@ -1,0 +1,10 @@
+caption: 'Установка водонагревателя'
+unit: ''
+description: ''
+key: water_heater_installation
+type: option
+required: false
+collection: true
+option:
+    - Вертикальная
+    - Горизонтальная

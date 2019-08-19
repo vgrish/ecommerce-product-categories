@@ -1,0 +1,8 @@
+caption: 'Макс. длина видеокарты'
+unit: мм
+description: 'Записывается только число'
+key: max_length_graphics_card
+type: text
+required: false
+collection: false
+option: {  }

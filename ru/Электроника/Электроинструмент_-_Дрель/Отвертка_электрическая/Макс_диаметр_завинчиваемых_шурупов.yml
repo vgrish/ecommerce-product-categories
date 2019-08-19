@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр завинчиваемых шурупов'
+unit: мм
+description: 'Записывается только число'
+key: max_diameter_of_screws_screwed
+type: text
+required: false
+collection: false
+option: {  }

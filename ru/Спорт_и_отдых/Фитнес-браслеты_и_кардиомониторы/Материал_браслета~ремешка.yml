@@ -1,0 +1,15 @@
+caption: 'Материал браслета/ремешка'
+unit: ''
+description: ''
+key: bracelet_material_strap
+type: option
+required: false
+collection: true
+option:
+    - 'Гипоаллергенный силикон'
+    - Кожа
+    - Пластик
+    - "Пластик медицинского класса\_"
+    - 'Резина медицинского класса'
+    - Силикон
+    - Текстиль

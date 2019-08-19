@@ -1,0 +1,8 @@
+caption: 'Количество слотов RAM'
+unit: ''
+description: 'Записывается только число'
+key: number_of_slots_of_ram
+type: text
+required: false
+collection: false
+option: {  }

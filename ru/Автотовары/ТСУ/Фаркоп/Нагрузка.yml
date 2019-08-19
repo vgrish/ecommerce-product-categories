@@ -1,0 +1,8 @@
+caption: Нагрузка
+unit: т
+description: ''
+key: load
+type: text
+required: false
+collection: false
+option: {  }

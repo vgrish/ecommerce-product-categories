@@ -1,0 +1,13 @@
+caption: 'Конструкция камеры'
+unit: ''
+description: ''
+key: camera_design
+type: option
+required: false
+collection: false
+option:
+    - Корпусная
+    - Купольная
+    - Поворотная
+    - Фиксированная
+    - Цилиндрическая

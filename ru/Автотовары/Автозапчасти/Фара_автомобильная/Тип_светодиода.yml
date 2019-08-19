@@ -1,0 +1,12 @@
+caption: 'Тип светодиода'
+unit: ''
+description: ''
+key: led_type
+type: option
+required: false
+collection: false
+option:
+    - 'SMD 3528'
+    - 'SMD 5050'
+    - 'SMD 5630'
+    - 'SMD 5730'

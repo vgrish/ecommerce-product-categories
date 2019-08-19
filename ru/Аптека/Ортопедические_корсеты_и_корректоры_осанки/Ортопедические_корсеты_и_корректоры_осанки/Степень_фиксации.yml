@@ -1,0 +1,13 @@
+caption: 'Степень фиксации'
+unit: ''
+description: ''
+key: degree_of_fixation
+type: option
+required: false
+collection: false
+option:
+    - Сильная
+    - Слабая
+    - Средняя
+    - Умеренная
+    - 'Экстра сильная'

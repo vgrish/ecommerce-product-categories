@@ -1,0 +1,8 @@
+caption: 'Количество полос'
+unit: ''
+description: ''
+key: number_of_bands
+type: text
+required: false
+collection: false
+option: {  }

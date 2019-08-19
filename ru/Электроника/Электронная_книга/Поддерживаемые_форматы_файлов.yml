@@ -1,0 +1,114 @@
+caption: 'Поддерживаемые форматы файлов'
+unit: ''
+description: 'Поддерживаемые для воспроизведения форматы файлов'
+key: supported_file_formats
+type: option
+required: false
+collection: true
+option:
+    - 3G2
+    - 3GP
+    - AAC+/eAAC+
+    - AAC/eAAC
+    - AC3
+    - ACC
+    - AIFF
+    - AMR
+    - APE
+    - ASF
+    - AVCHD
+    - 'AVCHD 3D'
+    - AVI
+    - 'AVI Motion JPEG'
+    - 'Apple Lossless'
+    - Audible
+    - 'Audio CD'
+    - BMP
+    - CD-DA
+    - CD-R/RW
+    - CHM
+    - DAT
+    - DATA
+    - DJVU
+    - DOC
+    - DV
+    - 'DVD Video'
+    - DVD+R/+RW
+    - DVD-R/-RW
+    - DivX
+    - EPUB
+    - F4V
+    - FB2
+    - FLAC
+    - FLV
+    - GIF
+    - GPX
+    - H.263
+    - H.264
+    - H.265
+    - HTML
+    - JPEG
+    - LPCM
+    - LRC
+    - 'Light Field RAW'
+    - M2TS
+    - M4A
+    - M4V
+    - MIDI
+    - MKV
+    - MOBI
+    - MOV
+    - MP3
+    - MP4
+    - MPA
+    - MPE
+    - MPEG
+    - 'MPEG VX'
+    - MPEG-1
+    - MPEG-2
+    - 'MPEG-4 AVC'
+    - 'MPEG-4 H.264'
+    - MPEG4
+    - MPG
+    - MPO
+    - MQS
+    - 'Motion JPEG'
+    - OGG
+    - PCM
+    - PDB
+    - PDF
+    - PNG
+    - PS
+    - RAW
+    - RM
+    - RMVB
+    - RTF
+    - 'Real Audio'
+    - SMI
+    - SRT
+    - SSA
+    - SUB
+    - SVCD
+    - TIFF
+    - TP
+    - TRP
+    - TS
+    - TXT
+    - UMD
+    - VC-1
+    - VCD
+    - VOB
+    - VRO
+    - WAV
+    - WMA
+    - WMV
+    - XAVC
+    - 'XAVC S'
+    - Xvid
+    - ZIP-FB2
+    - iFrame
+    - аудиоплеер
+    - видеоплеер
+    - 'просмотр изображений'
+    - 'просмотр офисных документов'
+    - 'просмотр электронных книг'

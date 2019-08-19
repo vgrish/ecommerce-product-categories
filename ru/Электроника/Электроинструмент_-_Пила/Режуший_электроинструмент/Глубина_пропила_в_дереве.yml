@@ -1,0 +1,8 @@
+caption: 'Глубина пропила в дереве'
+unit: мм
+description: 'Записывается только число'
+key: cutting_depth_in_wood
+type: text
+required: false
+collection: false
+option: {  }

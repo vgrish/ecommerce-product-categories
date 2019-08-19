@@ -1,0 +1,8 @@
+caption: 'Максимальная выдержка'
+unit: сек
+description: 'Записывается только число'
+key: max_exposure
+type: text
+required: false
+collection: false
+option: {  }

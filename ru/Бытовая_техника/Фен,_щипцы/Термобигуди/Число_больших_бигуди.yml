@@ -1,0 +1,8 @@
+caption: 'Число больших бигуди'
+unit: ''
+description: ''
+key: number_of_large_curlers
+type: option
+required: false
+collection: false
+option: {  }

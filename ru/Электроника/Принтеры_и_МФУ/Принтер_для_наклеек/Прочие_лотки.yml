@@ -1,0 +1,8 @@
+caption: 'Прочие лотки'
+unit: ''
+description: 'Тут описываются все остальные, не указанные ранее, лотки'
+key: other_trays
+type: text
+required: false
+collection: false
+option: {  }

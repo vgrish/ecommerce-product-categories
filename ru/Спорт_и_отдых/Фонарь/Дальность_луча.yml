@@ -1,0 +1,8 @@
+caption: 'Дальность луча'
+unit: м
+description: ''
+key: range_of_beam
+type: text
+required: false
+collection: false
+option: {  }

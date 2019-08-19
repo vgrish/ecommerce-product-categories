@@ -1,0 +1,10 @@
+caption: 'Принцип детекции'
+unit: ''
+description: ''
+key: principle_of_detection
+type: option
+required: false
+collection: true
+option:
+    - POI
+    - Радиолокация

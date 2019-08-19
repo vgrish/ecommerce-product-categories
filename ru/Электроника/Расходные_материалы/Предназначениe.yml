@@ -1,0 +1,8 @@
+caption: Предназначениe
+unit: ''
+description: 'Записывается предназначение расходного материала - для чего он нужен'
+key: purpose
+type: text
+required: false
+collection: false
+option: {  }

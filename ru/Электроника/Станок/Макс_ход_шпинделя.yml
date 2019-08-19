@@ -1,0 +1,8 @@
+caption: 'Макс. ход шпинделя'
+unit: мм
+description: 'Записывается только число'
+key: max_travel_of_spindle
+type: text
+required: false
+collection: false
+option: {  }

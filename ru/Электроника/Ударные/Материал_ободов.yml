@@ -1,0 +1,8 @@
+caption: 'Материал ободов'
+unit: ''
+description: ''
+key: material_rims
+type: option
+required: false
+collection: true
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Мин. скорость вращения'
+unit: об/мин
+description: 'Записывается только число'
+key: min_rotation_speed
+type: text
+required: false
+collection: false
+option: {  }

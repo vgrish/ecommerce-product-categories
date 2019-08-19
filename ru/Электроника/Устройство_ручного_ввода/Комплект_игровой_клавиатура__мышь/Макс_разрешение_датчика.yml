@@ -1,0 +1,8 @@
+caption: 'Макс. разрешение датчика'
+unit: 'dpi (cpi)'
+description: 'Записывается только число'
+key: max_sensor_resolution
+type: text
+required: false
+collection: false
+option: {  }

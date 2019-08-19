@@ -1,0 +1,10 @@
+caption: Транспортировка
+unit: ''
+description: ''
+key: transportation
+type: option
+required: false
+collection: false
+option:
+    - Переносной
+    - 'Система роликов'

@@ -1,0 +1,8 @@
+caption: 'Длина струны'
+unit: м
+description: ''
+key: length_of_strings
+type: text
+required: false
+collection: false
+option: {  }

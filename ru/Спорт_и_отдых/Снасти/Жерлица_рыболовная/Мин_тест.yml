@@ -1,0 +1,8 @@
+caption: 'Мин. тест'
+unit: граммы
+description: ''
+key: min_test
+type: text
+required: false
+collection: false
+option: {  }

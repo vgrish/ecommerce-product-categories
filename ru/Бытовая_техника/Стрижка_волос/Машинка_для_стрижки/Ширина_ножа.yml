@@ -1,0 +1,8 @@
+caption: 'Ширина ножа'
+unit: мм
+description: 'Ширина режущей кромки ножа, записывается только число'
+key: width_of_knife
+type: text
+required: false
+collection: false
+option: {  }

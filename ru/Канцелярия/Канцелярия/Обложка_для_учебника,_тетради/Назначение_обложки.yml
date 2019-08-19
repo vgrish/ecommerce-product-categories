@@ -1,0 +1,14 @@
+caption: 'Назначение обложки'
+unit: ''
+description: ''
+key: purpose_of_cover
+type: option
+required: false
+collection: true
+option:
+    - 'Для дневника'
+    - 'Для контурных карт и атласов'
+    - 'Для специальных изданий'
+    - 'Для тетрадей'
+    - 'Для учебников'
+    - 'Для школьного журнала'

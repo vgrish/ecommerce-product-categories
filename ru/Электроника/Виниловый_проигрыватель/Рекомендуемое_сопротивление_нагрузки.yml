@@ -1,0 +1,8 @@
+caption: 'Рекомендуемое сопротивление нагрузки'
+unit: Ом
+description: 'Записывается только число'
+key: recommended_load_impedance
+type: text
+required: false
+collection: false
+option: {  }

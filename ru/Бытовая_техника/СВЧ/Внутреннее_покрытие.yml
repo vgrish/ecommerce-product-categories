@@ -1,0 +1,11 @@
+caption: 'Внутреннее покрытие'
+unit: ''
+description: ''
+key: internal_coating
+type: option
+required: false
+collection: true
+option:
+    - Керамическое
+    - 'Нержавеющая сталь'
+    - Эмалевое

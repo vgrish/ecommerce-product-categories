@@ -1,0 +1,8 @@
+caption: 'Мин. диагональ'
+unit: дюймы
+description: 'Записывается только число'
+key: min_diagonal
+type: text
+required: false
+collection: false
+option: {  }

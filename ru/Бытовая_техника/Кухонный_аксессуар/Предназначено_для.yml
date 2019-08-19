@@ -1,0 +1,8 @@
+caption: 'Предназначено для'
+unit: ''
+description: 'Записываются модели совместимых устройств'
+key: designed_for
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Вид красителя'
+unit: ''
+description: 'Выберите вид красителя'
+key: kind_of_dye
+type: option
+required: false
+collection: false
+option:
+    - Жидкий
+    - Сухой

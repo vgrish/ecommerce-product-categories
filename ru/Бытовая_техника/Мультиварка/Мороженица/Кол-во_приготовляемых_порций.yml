@@ -1,0 +1,8 @@
+caption: 'Кол-во приготовляемых порций'
+unit: ''
+description: ''
+key: number_cooked_servings
+type: text
+required: false
+collection: false
+option: {  }

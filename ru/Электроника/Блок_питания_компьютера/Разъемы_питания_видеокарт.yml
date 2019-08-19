@@ -1,0 +1,19 @@
+caption: 'Разъемы питания видеокарт'
+unit: ''
+description: ''
+key: power_connectors_video_cards
+type: option
+required: false
+collection: true
+option:
+    - '2 x PCI-E 6/8-пин'
+    - '4 x PCI-E 6/8-пин'
+    - '5 x PCI-E 6/8-пин'
+    - '6 pin + 6 pin'
+    - '6 pin'
+    - '6 x PCI-E 6/8-пин'
+    - '8 pin + 8 pin'
+    - '8 pin + 8 pin + 8 pin'
+    - '8 pin + 8 pin + 6 pin'
+    - '8 pin + 6 pin'
+    - '8 pin'

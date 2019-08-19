@@ -1,0 +1,8 @@
+caption: Влагосодержание
+unit: '%'
+description: ''
+key: moisture_content
+type: text
+required: false
+collection: false
+option: {  }

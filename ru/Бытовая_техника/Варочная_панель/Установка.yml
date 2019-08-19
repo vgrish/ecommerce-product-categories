@@ -1,0 +1,10 @@
+caption: Установка
+unit: ''
+description: ''
+key: installation
+type: option
+required: false
+collection: false
+option:
+    - 'Вровень со столешницей'
+    - Стандартная

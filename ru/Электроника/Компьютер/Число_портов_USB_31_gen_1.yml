@@ -1,0 +1,8 @@
+caption: 'Число портов USB 3.1 gen 1'
+unit: ''
+description: 'Он же USB 3.0, записывается только число'
+key: number_of_usb_ports_3_1_gen_1
+type: text
+required: false
+collection: false
+option: {  }

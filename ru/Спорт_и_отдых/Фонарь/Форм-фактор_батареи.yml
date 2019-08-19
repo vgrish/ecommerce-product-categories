@@ -1,0 +1,24 @@
+caption: 'Форм-фактор батареи'
+unit: ''
+description: ''
+key: form_factor_battery
+type: option
+required: false
+collection: true
+option:
+    - '14500'
+    - '16340'
+    - '18650'
+    - AA
+    - 'AAA (LR03)'
+    - 'AG7 (LR926)'
+    - 'C (LR14)'
+    - CR1220
+    - CR123
+    - CR2016
+    - CR2025
+    - CR2032
+    - D
+    - 'LR41 (LR736)'
+    - 'LR44 (V13GA, AG13, LR1154)'
+    - Оригинальный

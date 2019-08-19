@@ -1,0 +1,8 @@
+caption: 'Содержание арабики'
+unit: '%'
+description: 'Укажите процент содержания арабики'
+key: content_of_arabica
+type: text
+required: false
+collection: false
+option: {  }

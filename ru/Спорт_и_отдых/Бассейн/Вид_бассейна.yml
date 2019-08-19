@@ -1,0 +1,12 @@
+caption: 'Вид бассейна'
+unit: ''
+description: ''
+key: view_of_pool
+type: option
+required: false
+collection: false
+option:
+    - Каркасно-надувной
+    - Каркасный
+    - Композитный
+    - Надувной

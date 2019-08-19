@@ -1,0 +1,8 @@
+caption: 'Макс. длина стежка'
+unit: мм
+description: 'Записывается только число'
+key: max_stitch_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Длина шнура'
+unit: м
+description: 'Записывается только число'
+key: cord_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Углы поворота'
+unit: ''
+description: ''
+key: rotation_angles
+type: text
+required: false
+collection: false
+option: {  }

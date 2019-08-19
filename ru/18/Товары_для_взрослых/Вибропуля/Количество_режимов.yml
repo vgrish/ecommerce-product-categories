@@ -1,0 +1,8 @@
+caption: 'Количество режимов'
+unit: ''
+description: 'Если у товара есть несколько режимов, укажите их количество'
+key: number_of_modes
+type: text
+required: false
+collection: false
+option: {  }

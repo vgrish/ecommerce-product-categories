@@ -1,0 +1,8 @@
+caption: 'Количество PCI'
+unit: ''
+description: 'Записывается только число'
+key: number_of_pci
+type: text
+required: false
+collection: false
+option: {  }

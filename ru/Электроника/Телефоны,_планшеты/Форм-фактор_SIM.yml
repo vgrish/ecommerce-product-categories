@@ -1,0 +1,12 @@
+caption: 'Форм-фактор SIM'
+unit: ''
+description: 'Выбирается размер SIM-карты, подходящий для устройства'
+key: form_factor_sim
+type: option
+required: false
+collection: true
+option:
+    - 'Apple SIM'
+    - Micro-SIM
+    - Mini-SIM
+    - Nano-SIM

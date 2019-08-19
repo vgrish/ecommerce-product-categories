@@ -1,0 +1,8 @@
+caption: 'Макс. время работы от батарей'
+unit: ч
+description: ''
+key: max_time_battery_life
+type: text
+required: false
+collection: false
+option: {  }

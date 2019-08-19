@@ -1,0 +1,25 @@
+caption: 'Декодеры звука'
+unit: ''
+description: ''
+key: decoders_sound
+type: option
+required: false
+collection: true
+option:
+    - DTS
+    - 'DTS 96/24'
+    - 'DTS HD HR'
+    - DTS-Es
+    - DTS-HD
+    - 'DTS-HD LBR'
+    - 'DTS-HD Master Audio'
+    - 'DTS-Neo: 6'
+    - 'Dolby Digital'
+    - 'Dolby Digital EX'
+    - 'Dolby Digital II'
+    - 'Dolby Digital Plus'
+    - 'Dolby Dual Mono'
+    - 'Dolby Pro Logic'
+    - 'Dolby Pro Logic II'
+    - 'Dolby Pro Logic IIx'
+    - 'Dolby True HD'

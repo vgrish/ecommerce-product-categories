@@ -1,0 +1,8 @@
+caption: Тормоз
+unit: ''
+description: ''
+key: brake
+type: text
+required: false
+collection: false
+option: {  }

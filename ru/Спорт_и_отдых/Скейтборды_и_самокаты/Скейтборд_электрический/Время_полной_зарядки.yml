@@ -1,0 +1,8 @@
+caption: 'Время полной зарядки'
+unit: часов
+description: ''
+key: full_charge_time
+type: text
+required: false
+collection: false
+option: {  }

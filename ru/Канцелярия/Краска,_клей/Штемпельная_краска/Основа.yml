@@ -1,0 +1,11 @@
+caption: Основа
+unit: ''
+description: ''
+key: basis
+type: option
+required: false
+collection: false
+option:
+    - Водная
+    - Водно-масляная
+    - Масляная

@@ -1,0 +1,14 @@
+caption: 'Вид кассы'
+unit: ''
+description: ''
+key: kind_of_cash
+type: option
+required: false
+collection: true
+option:
+    - 'TypeSet A'
+    - 'TypeSet В'
+    - 'TypeSet С'
+    - 'Символы 6005'
+    - 'Символы 6006'
+    - Цифры

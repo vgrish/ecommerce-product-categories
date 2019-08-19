@@ -1,0 +1,8 @@
+caption: 'Частота пульсации струи'
+unit: имп/мин
+description: 'Записывается только число'
+key: frequency_of_pulsation_of_jet
+type: text
+required: false
+collection: false
+option: {  }

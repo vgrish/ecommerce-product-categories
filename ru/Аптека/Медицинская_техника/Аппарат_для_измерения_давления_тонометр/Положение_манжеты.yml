@@ -1,0 +1,10 @@
+caption: 'Положение манжеты'
+unit: ''
+description: ''
+key: position_of_cuff
+type: option
+required: false
+collection: false
+option:
+    - 'На запястье'
+    - 'На плечо'

@@ -1,0 +1,8 @@
+caption: 'Совместимые ОС'
+unit: ''
+description: ''
+key: compatible_os
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: Твердость
+unit: ''
+description: ''
+key: hardness
+type: text
+required: false
+collection: false
+option: {  }

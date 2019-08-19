@@ -1,0 +1,8 @@
+caption: 'Число батарей звонка'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_batteries_call
+type: text
+required: false
+collection: false
+option: {  }

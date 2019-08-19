@@ -1,0 +1,8 @@
+caption: 'Дальность ИК-подсветки'
+unit: м
+description: 'Записывается только число'
+key: range_ir_illumination
+type: text
+required: false
+collection: false
+option: {  }

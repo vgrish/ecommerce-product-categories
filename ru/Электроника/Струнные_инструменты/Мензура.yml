@@ -1,0 +1,8 @@
+caption: Мензура
+unit: мм
+description: 'Записывается только число'
+key: bore
+type: text
+required: false
+collection: false
+option: {  }

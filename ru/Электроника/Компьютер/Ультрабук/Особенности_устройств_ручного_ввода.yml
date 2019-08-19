@@ -1,0 +1,15 @@
+caption: 'Особенности устройств ручного ввода'
+unit: ''
+description: 'Особенности устройств ввода ноутбука'
+key: features_of_manual_input
+type: option
+required: false
+collection: true
+option:
+    - Multi-touch
+    - Водонепроницаемая
+    - Водоустойчивая
+    - Подсветка
+    - 'Разноцветная подсветка'
+    - 'Сенсорная полоса прокрутки'
+    - 'Сенсорные кнопки'

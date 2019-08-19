@@ -1,0 +1,14 @@
+caption: 'Макс. формат оригинала'
+unit: ''
+description: 'Макс. размер сканируемого документа'
+key: max_original_size
+type: option
+required: false
+collection: false
+option:
+    - '14 х 23,5 см'
+    - '21,6 x 29,7 см'
+    - '21,6 x 31,1 см'
+    - 'A3 (297 x 420 мм)'
+    - 'A4 (216 x 303 мм)'
+    - Legal

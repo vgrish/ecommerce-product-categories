@@ -1,0 +1,8 @@
+caption: 'Макс. скорость случайной записи (блоки 4Кб)'
+unit: IOPS
+description: 'Записывается только число'
+key: max_speed_of_random_recording_blocks_of_4kb
+type: text
+required: false
+collection: false
+option: {  }

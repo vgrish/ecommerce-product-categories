@@ -1,0 +1,10 @@
+caption: 'Подсветка видеокарты'
+unit: ''
+description: ''
+key: backlight_graphics_card
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

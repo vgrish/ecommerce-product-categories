@@ -1,0 +1,11 @@
+caption: 'Загрузка диска'
+unit: ''
+description: 'Вид приемника диска у дисковода устройства'
+key: download_disk
+type: option
+required: false
+collection: false
+option:
+    - 'Верхняя загрузка'
+    - 'Фронтальная щелевая загрузка'
+    - 'Фронтальный лоток'

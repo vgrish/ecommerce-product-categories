@@ -1,0 +1,13 @@
+caption: 'Тип лодочного мотора'
+unit: ''
+description: ''
+key: type_of_boat_motor
+type: option
+required: false
+collection: false
+option:
+    - 'Бензиновый мотор'
+    - Гидравлический
+    - 'Дизельный мотор'
+    - Ручной
+    - Электродвигатель

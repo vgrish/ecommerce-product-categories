@@ -1,0 +1,8 @@
+caption: Яркость
+unit: ''
+description: ''
+key: brightness
+type: text
+required: false
+collection: false
+option: {  }

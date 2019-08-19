@@ -1,0 +1,25 @@
+caption: Полнота
+unit: ''
+description: 'Укажите полноту стопы по ГОСТ 3927-88 цифрами от 1 до 12'
+key: completeness
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - '10'
+    - C
+    - D
+    - E
+    - F
+    - G
+    - H
+    - M
+    - W

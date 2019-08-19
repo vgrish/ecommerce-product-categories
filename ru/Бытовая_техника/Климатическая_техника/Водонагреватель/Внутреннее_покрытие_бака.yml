@@ -1,0 +1,12 @@
+caption: 'Внутреннее покрытие бака'
+unit: ''
+description: ''
+key: internal_coating_tank
+type: option
+required: false
+collection: false
+option:
+    - 'Нержавеющая сталь'
+    - Стеклокерамика
+    - Эмаль
+    - 'Эмаль титановая'

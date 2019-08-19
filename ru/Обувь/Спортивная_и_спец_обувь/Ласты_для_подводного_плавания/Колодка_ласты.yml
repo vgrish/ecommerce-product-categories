@@ -1,0 +1,11 @@
+caption: 'Колодка ласты'
+unit: ''
+description: ''
+key: plate_fins
+type: option
+required: false
+collection: false
+option:
+    - Средняя
+    - Узкая
+    - Широкая

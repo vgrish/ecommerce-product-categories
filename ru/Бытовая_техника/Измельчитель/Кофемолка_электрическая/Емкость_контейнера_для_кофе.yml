@@ -1,0 +1,8 @@
+caption: 'Емкость контейнера для кофе'
+unit: г
+description: 'Записывается только число'
+key: capacity_container_for_coffee
+type: text
+required: false
+collection: false
+option: {  }

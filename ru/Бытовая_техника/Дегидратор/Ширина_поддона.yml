@@ -1,0 +1,8 @@
+caption: 'Ширина поддона'
+unit: см
+description: 'Записывается только число'
+key: width_of_pallet
+type: text
+required: false
+collection: false
+option: {  }

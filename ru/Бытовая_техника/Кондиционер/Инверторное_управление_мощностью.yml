@@ -1,0 +1,8 @@
+caption: 'Инверторное управление мощностью'
+unit: ''
+description: ''
+key: inverter_power_control
+type: bool
+required: false
+collection: false
+option: {  }

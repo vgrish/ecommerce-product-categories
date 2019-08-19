@@ -1,0 +1,10 @@
+caption: 'Назначение гриля'
+unit: ''
+description: ''
+key: purpose_of_grill
+type: option
+required: false
+collection: false
+option:
+    - 'Для дачи'
+    - 'Для дома'

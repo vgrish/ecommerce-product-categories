@@ -1,0 +1,18 @@
+caption: Форма
+unit: ''
+description: ''
+key: form
+type: option
+required: false
+collection: true
+option:
+    - Дорожка
+    - Квадрат
+    - Круг
+    - Нестандартная
+    - Овал
+    - Полукруг
+    - Прямоугольник
+    - Сердечко
+    - Треугольник
+    - 'Четверть круга'

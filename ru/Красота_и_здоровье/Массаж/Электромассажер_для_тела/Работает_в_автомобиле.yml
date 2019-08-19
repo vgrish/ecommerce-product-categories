@@ -1,0 +1,10 @@
+caption: 'Работает в автомобиле'
+unit: ''
+description: ''
+key: works_in_car
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

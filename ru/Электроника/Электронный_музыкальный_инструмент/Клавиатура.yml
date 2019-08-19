@@ -1,0 +1,8 @@
+caption: Клавиатура
+unit: ''
+description: ''
+key: keyboard
+type: text
+required: false
+collection: false
+option: {  }

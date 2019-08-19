@@ -1,0 +1,11 @@
+caption: 'Вид оснастки'
+unit: ''
+description: ''
+key: view_snap
+type: option
+required: false
+collection: false
+option:
+    - Автоматическая
+    - Карманная
+    - Ручная

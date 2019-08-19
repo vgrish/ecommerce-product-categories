@@ -1,0 +1,13 @@
+caption: 'Вид бильярда'
+unit: ''
+description: ''
+key: pool
+type: option
+required: false
+collection: false
+option:
+    - 'Для карамболя'
+    - 'Для мини-бильярда'
+    - 'Для пирамиды'
+    - 'Для русского бильярда'
+    - 'Для снукера'

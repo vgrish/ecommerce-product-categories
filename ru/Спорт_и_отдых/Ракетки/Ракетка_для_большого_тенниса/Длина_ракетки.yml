@@ -1,0 +1,8 @@
+caption: 'Длина ракетки'
+unit: см
+description: ''
+key: length_of_racket
+type: text
+required: false
+collection: false
+option: {  }

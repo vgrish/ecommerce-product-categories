@@ -1,0 +1,11 @@
+caption: 'Режим обработки петли'
+unit: ''
+description: ''
+key: processing_mode_loop
+type: option
+required: false
+collection: true
+option:
+    - Автомат
+    - Полуавтомат
+    - Ручной

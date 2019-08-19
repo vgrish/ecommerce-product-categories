@@ -1,0 +1,15 @@
+caption: 'Вид рахат лукума'
+unit: ''
+description: 'Выберите вид рахат-лукума'
+key: view_turkish_delight
+type: option
+required: false
+collection: true
+option:
+    - Белый
+    - Визирь
+    - Инжирный
+    - Медовый
+    - Ореховый
+    - 'С лепестками цветов'
+    - Фруктовый

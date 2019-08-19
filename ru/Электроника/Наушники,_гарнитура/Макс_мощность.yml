@@ -1,0 +1,8 @@
+caption: 'Макс. мощность'
+unit: мВт
+description: 'Записывается только число'
+key: max_power
+type: text
+required: false
+collection: false
+option: {  }

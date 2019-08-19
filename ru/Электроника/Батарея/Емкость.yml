@@ -1,0 +1,8 @@
+caption: Емкость
+unit: Вт•ч
+description: 'Записывается только число'
+key: capacity
+type: text
+required: false
+collection: false
+option: {  }

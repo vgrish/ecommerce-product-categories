@@ -1,0 +1,8 @@
+caption: Минерализация
+unit: ''
+description: 'Укажите степень минерализации воды - числовое значение'
+key: mineralization
+type: text
+required: false
+collection: false
+option: {  }

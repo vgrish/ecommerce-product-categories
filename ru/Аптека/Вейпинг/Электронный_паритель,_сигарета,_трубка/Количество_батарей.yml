@@ -1,0 +1,8 @@
+caption: 'Количество батарей'
+unit: шт
+description: 'Записывается только число'
+key: battery_number
+type: text
+required: false
+collection: false
+option: {  }

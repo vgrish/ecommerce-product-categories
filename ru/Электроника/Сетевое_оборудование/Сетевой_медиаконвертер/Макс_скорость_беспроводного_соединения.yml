@@ -1,0 +1,8 @@
+caption: 'Макс. скорость беспроводного соединения'
+unit: Мбит/с
+description: 'Записывается только число'
+key: max_speed_of_wireless_connection
+type: text
+required: false
+collection: false
+option: {  }

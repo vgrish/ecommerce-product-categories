@@ -1,0 +1,8 @@
+caption: 'Материал каркаса'
+unit: ''
+description: ''
+key: frame_material
+type: text
+required: false
+collection: false
+option: {  }

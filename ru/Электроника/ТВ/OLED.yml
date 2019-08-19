@@ -1,0 +1,8 @@
+caption: OLED
+unit: ''
+description: ''
+key: oled
+type: bool
+required: false
+collection: false
+option: {  }

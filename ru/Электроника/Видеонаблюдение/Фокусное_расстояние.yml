@@ -1,0 +1,8 @@
+caption: 'Фокусное расстояние'
+unit: мм
+description: 'Записывается только число'
+key: focal_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Поверхность полотна экрана'
+unit: ''
+description: 'Записывается вид отражающей поверхности экрана, напр. Matt White'
+key: surface_of_screen
+type: text
+required: false
+collection: false
+option: {  }

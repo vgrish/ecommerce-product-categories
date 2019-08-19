@@ -1,0 +1,8 @@
+caption: 'Поддерживаемые носители'
+unit: ''
+description: 'На каких материалах можно печатать'
+key: supported_media
+type: text
+required: false
+collection: false
+option: {  }

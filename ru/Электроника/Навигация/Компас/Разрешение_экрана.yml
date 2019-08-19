@@ -1,0 +1,20 @@
+caption: 'Разрешение экрана'
+unit: ''
+description: 'Выбирается разрешение экрана устройства'
+key: screen_resolution
+type: option
+required: false
+collection: false
+option:
+    - 320x240
+    - 480x272
+    - 800x480
+    - 800х600
+    - 1024x768
+    - 1024x600
+    - 1280x720
+    - '1366x768 HD'
+    - 1560x720
+    - 1920x1200
+    - '1920x1080 Full HD'
+    - '3840x2160 4K UHD'

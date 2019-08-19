@@ -1,0 +1,8 @@
+caption: Охлаждение
+unit: ''
+description: 'Записываются характеристики кулеров, вентиляторов блока питания (диаметр, количество, подсветка и т.д.)'
+key: cooling
+type: text
+required: false
+collection: false
+option: {  }

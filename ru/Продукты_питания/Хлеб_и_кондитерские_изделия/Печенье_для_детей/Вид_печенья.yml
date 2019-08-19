@@ -1,0 +1,20 @@
+caption: 'Вид печенья'
+unit: ''
+description: 'Выберите вид печенья'
+key: kind_of_cookies
+type: option
+required: false
+collection: true
+option:
+    - Галета
+    - Имбирное
+    - Крекер
+    - Кукурузное
+    - Овсяное
+    - Песочное
+    - Сахарное
+    - Сдобное
+    - Сладкое
+    - Слоеное
+    - Соленое
+    - Сухое

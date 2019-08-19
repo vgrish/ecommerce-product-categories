@@ -1,0 +1,8 @@
+caption: 'Материал массива'
+unit: ''
+description: ''
+key: material_of_array
+type: option
+required: false
+collection: true
+option: {  }

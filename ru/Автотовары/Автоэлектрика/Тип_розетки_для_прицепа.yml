@@ -1,0 +1,20 @@
+caption: 'Тип розетки для прицепа'
+unit: ''
+description: ''
+key: type_of_socket_for_trailer_towing
+type: option
+required: false
+collection: false
+option:
+    - '4 контакта круглая'
+    - '4 контакта плоская'
+    - '7 контактов'
+    - '13 контактов'
+    - 'RJ-11 телефон/модем'
+    - 'RJ-45 Ethernet'
+    - USB
+    - 'Аудио розетка'
+    - Евровилка
+    - 'Розетка Тип F'
+    - 'ТВ антенна'
+    - Таймер

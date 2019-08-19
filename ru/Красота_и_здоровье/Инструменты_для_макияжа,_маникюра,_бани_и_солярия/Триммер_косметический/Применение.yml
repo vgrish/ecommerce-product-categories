@@ -1,0 +1,16 @@
+caption: Применение
+unit: ''
+description: ''
+key: application
+type: option
+required: false
+collection: true
+option:
+    - Антисептик
+    - 'Для бритья'
+    - 'Для груминга'
+    - 'Для депиляции'
+    - 'Для солярия'
+    - 'Для стайлинга'
+    - 'Для ухода'
+    - 'После бритья'

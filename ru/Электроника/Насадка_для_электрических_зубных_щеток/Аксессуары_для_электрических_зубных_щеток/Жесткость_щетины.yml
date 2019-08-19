@@ -1,0 +1,11 @@
+caption: 'Жесткость щетины'
+unit: ''
+description: ''
+key: stiffness_of_bristles
+type: option
+required: false
+collection: true
+option:
+    - Жесткая
+    - Мягкая
+    - Средняя

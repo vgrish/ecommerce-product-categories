@@ -1,0 +1,8 @@
+caption: 'Динамический диапазон'
+unit: ''
+description: ''
+key: dynamic_range
+type: text
+required: false
+collection: false
+option: {  }

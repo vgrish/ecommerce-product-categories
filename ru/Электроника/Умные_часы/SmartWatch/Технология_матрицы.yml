@@ -1,0 +1,59 @@
+caption: 'Технология матрицы'
+unit: ''
+description: 'Выбирается технология матрицы экрана'
+key: technology_matrix
+type: option
+required: false
+collection: false
+option:
+    - A-MVA
+    - AMOLED
+    - AMVA+
+    - ASV
+    - CSTN
+    - ClearBlack
+    - E-ink
+    - 'E-ink Carta'
+    - 'E-ink HD'
+    - 'E-ink HD Carta'
+    - 'E-ink Mobius Carta'
+    - 'E-ink Pearl'
+    - 'E-ink Pearl HD'
+    - 'E-ink Triton'
+    - FSTN
+    - 'Full HD Super AMOLED'
+    - 'HD Super AMOLED'
+    - HVA
+    - IGZO
+    - IPS
+    - LCD
+    - LTPS
+    - MVA
+    - OLED
+    - P-OLED
+    - PLS
+    - PVA
+    - 'Pixel Qi'
+    - QLED
+    - 'Retina IPS'
+    - S-PVA
+    - STN
+    - 'Super AMOLED'
+    - 'Super AMOLED Plus'
+    - 'Super Clear LCD'
+    - 'Super IPS'
+    - 'Super IPS LCD2'
+    - 'Super IPS+'
+    - 'Super MVA'
+    - SuperLCD
+    - 'SuperLCD 2'
+    - 'SuperLCD 3'
+    - 'SuperLCD 5'
+    - 'SuperLCD 6'
+    - TFT
+    - TN
+    - 'True HD IPS+'
+    - 'Ultra AMOLED'
+    - VA
+    - 'Графический LCD'
+    - 'Текстовый LCD'

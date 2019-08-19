@@ -1,0 +1,16 @@
+caption: 'Материал лодки'
+unit: ''
+description: ''
+key: material_of_boat
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Винил
+    - 'ПВХ (поливинилхлорид)'
+    - Пластик
+    - Полиэстер
+    - Сталь
+    - Текстиль
+    - Фанера

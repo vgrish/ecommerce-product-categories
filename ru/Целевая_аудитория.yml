@@ -1,0 +1,10 @@
+caption: 'Целевая аудитория'
+unit: ''
+description: 'Предназначено для детей или взрослых.'
+key: target_audience
+type: option
+required: true
+collection: false
+option:
+    - Взрослая
+    - Детская

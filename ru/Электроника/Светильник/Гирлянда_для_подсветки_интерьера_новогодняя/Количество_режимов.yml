@@ -1,0 +1,8 @@
+caption: 'Количество режимов'
+unit: ''
+description: 'Записывается только число'
+key: number_of_modes
+type: text
+required: false
+collection: false
+option: {  }

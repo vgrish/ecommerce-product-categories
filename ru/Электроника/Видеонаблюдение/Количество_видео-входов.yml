@@ -1,0 +1,8 @@
+caption: 'Количество видео-входов'
+unit: ''
+description: ''
+key: number_of_video_inputs
+type: text
+required: false
+collection: false
+option: {  }

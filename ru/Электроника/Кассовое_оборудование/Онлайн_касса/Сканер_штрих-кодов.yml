@@ -1,0 +1,12 @@
+caption: 'Сканер штрих-кодов'
+unit: ''
+description: 'Вид сканера штрих-кодов'
+key: barcode_scanner
+type: option
+required: false
+collection: true
+option:
+    - 1D
+    - 2D
+    - Планшетный
+    - Протяжный

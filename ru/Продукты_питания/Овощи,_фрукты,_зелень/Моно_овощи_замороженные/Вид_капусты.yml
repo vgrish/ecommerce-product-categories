@@ -1,0 +1,10 @@
+caption: 'Вид капусты'
+unit: ''
+description: 'Только для капусты: укажите вид капусты'
+key: of_cabbage
+type: option
+required: false
+collection: true
+option:
+    - Белокочанная
+    - Краснокочанная

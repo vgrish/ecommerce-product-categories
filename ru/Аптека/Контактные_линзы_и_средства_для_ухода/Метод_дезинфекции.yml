@@ -1,0 +1,10 @@
+caption: 'Метод дезинфекции'
+unit: ''
+description: ''
+key: method_of_disinfection
+type: option
+required: false
+collection: false
+option:
+    - Пероксидный
+    - Химический

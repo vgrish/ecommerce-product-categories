@@ -1,0 +1,8 @@
+caption: 'Количество режимов работы'
+unit: ''
+description: 'Указывается только число'
+key: number_of_modes
+type: int
+required: false
+collection: false
+option: {  }

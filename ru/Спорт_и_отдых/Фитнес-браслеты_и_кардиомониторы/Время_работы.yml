@@ -1,0 +1,8 @@
+caption: 'Время работы'
+unit: ''
+description: ''
+key: while_working
+type: text
+required: false
+collection: false
+option: {  }

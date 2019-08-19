@@ -1,0 +1,10 @@
+caption: 'Вид акустики'
+unit: ''
+description: ''
+key: view_acoustics
+type: option
+required: false
+collection: false
+option:
+    - Активная
+    - Пассивная

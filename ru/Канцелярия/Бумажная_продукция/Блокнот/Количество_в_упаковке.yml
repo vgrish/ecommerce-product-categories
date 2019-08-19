@@ -1,0 +1,8 @@
+caption: 'Количество в упаковке'
+unit: шт
+description: ''
+key: package_quantity
+type: text
+required: false
+collection: false
+option: {  }

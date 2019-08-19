@@ -1,0 +1,12 @@
+caption: 'Назначение видеокарт'
+unit: ''
+description: ''
+key: appointment_cards
+type: option
+required: false
+collection: false
+option:
+    - Геймерские
+    - 'Для майнинга'
+    - Обычные
+    - Профессиональные

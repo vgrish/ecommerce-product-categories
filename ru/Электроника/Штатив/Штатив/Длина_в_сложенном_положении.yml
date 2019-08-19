@@ -1,0 +1,8 @@
+caption: 'Длина в сложенном положении'
+unit: см
+description: 'Записывается только число'
+key: length_in_folded_position
+type: text
+required: false
+collection: false
+option: {  }

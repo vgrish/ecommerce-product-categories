@@ -1,0 +1,8 @@
+caption: 'Общий объем SSD'
+unit: ГБ
+description: 'Записывается только число'
+key: total_volume_of_ssd
+type: text
+required: false
+collection: false
+option: {  }

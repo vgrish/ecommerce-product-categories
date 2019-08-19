@@ -1,0 +1,10 @@
+caption: Ортопедический
+unit: ''
+description: 'Поставьте "Да" если данный товар обладает ортопедическим свойством.'
+key: orthopedic
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

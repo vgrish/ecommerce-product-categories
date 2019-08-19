@@ -1,0 +1,28 @@
+caption: 'Стандарт пылесборника'
+unit: ''
+description: 'Номер, модель пылесборника пылесоса'
+key: standard_dust_collector
+type: option
+required: false
+collection: true
+option:
+    - E51
+    - ELECTROBAG
+    - S-Bag
+    - SB90
+    - TB36
+    - TB42
+    - 'ULTRA Bag'
+    - Uni-bag
+    - VP-54
+    - VP-77
+    - VP-78
+    - VP-95
+    - 'Тип D'
+    - 'Тип E'
+    - 'Тип F'
+    - 'Тип G'
+    - 'Тип GXL'
+    - 'Тип GXXL'
+    - 'Тип H'
+    - 'Тип P'

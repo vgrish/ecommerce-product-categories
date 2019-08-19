@@ -1,0 +1,10 @@
+caption: 'Фильтр водяного насоса'
+unit: ''
+description: ''
+key: filter_water_pump
+type: option
+required: false
+collection: false
+option:
+    - Картридж
+    - Песочный

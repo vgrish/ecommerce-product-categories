@@ -1,0 +1,8 @@
+caption: 'Производ-ть в режиме воздухоотвода'
+unit: куб.м/ч
+description: 'Записывается только число'
+key: n_th_mode_exhaust
+type: text
+required: false
+collection: false
+option: {  }

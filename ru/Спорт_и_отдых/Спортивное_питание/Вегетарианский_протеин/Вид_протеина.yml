@@ -1,0 +1,17 @@
+caption: 'Вид протеина'
+unit: ''
+description: ''
+key: type_of_protein
+type: option
+required: false
+collection: false
+option:
+    - Вегетарианский
+    - Гидролизованный
+    - Говяжий
+    - Изолят
+    - Казеин
+    - Многокомпонентный
+    - Соевый
+    - Сывороточный
+    - Яичный

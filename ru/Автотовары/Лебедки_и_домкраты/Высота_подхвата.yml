@@ -1,0 +1,8 @@
+caption: 'Высота подхвата'
+unit: см
+description: ''
+key: height_of_wings
+type: text
+required: false
+collection: false
+option: {  }

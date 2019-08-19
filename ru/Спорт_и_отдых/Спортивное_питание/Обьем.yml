@@ -1,0 +1,8 @@
+caption: Обьем
+unit: мл
+description: ''
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

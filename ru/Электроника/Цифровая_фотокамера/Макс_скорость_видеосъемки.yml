@@ -1,0 +1,8 @@
+caption: 'Макс. скорость видеосъемки'
+unit: кадр/с
+description: 'Записывается только число'
+key: max_speed_video
+type: text
+required: false
+collection: false
+option: {  }

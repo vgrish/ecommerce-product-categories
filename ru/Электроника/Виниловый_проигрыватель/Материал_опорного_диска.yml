@@ -1,0 +1,10 @@
+caption: 'Материал опорного диска'
+unit: ''
+description: ''
+key: material_of_backing_plate
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Пластик

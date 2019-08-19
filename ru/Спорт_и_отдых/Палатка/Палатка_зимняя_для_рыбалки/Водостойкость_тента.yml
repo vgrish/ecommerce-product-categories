@@ -1,0 +1,8 @@
+caption: 'Водостойкость тента'
+unit: 'мм в.ст.'
+description: ''
+key: water_resistance_of_an_awning
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Конструкция объектива'
+unit: 'элементов в группах'
+description: 'Записывается только число'
+key: lens_design
+type: text
+required: false
+collection: false
+option: {  }

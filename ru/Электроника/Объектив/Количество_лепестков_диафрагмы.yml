@@ -1,0 +1,8 @@
+caption: 'Количество лепестков диафрагмы'
+unit: ''
+description: ''
+key: number_of_diaphragm_blades
+type: text
+required: false
+collection: false
+option: {  }

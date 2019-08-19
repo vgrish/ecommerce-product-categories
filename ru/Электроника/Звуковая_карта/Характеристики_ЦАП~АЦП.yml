@@ -1,0 +1,8 @@
+caption: 'Характеристики ЦАП/АЦП'
+unit: ''
+description: 'Записывается модель, характеристики ЦАПа'
+key: specifications_dac_adc
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,16 @@
+caption: Автоэкспозиция
+unit: ''
+description: ''
+key: ae
+type: option
+required: false
+collection: true
+option:
+    - 'Автоэкспозиция без использования камеры'
+    - 'Режим ADI-TTL'
+    - 'Режим E-TTL'
+    - 'Режим E-TTL II'
+    - 'Режим P-TTL'
+    - 'Режим S-TTL'
+    - 'Режим TTL'
+    - 'Режим i-TTL'

@@ -1,0 +1,8 @@
+caption: 'Скорость подачи заготовки'
+unit: м/мин
+description: 'Записывается только число'
+key: feed_rate_of_workpiece
+type: text
+required: false
+collection: false
+option: {  }

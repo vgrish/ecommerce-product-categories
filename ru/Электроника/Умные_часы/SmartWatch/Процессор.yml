@@ -1,0 +1,8 @@
+caption: Процессор
+unit: МГц
+description: 'Записывается только число'
+key: processor
+type: text
+required: false
+collection: false
+option: {  }

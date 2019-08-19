@@ -1,0 +1,8 @@
+caption: 'Условия хранения'
+unit: ''
+description: 'Укажите условия хранения продукта КАК НА УПАКОВКЕ'
+key: storage_conditions
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Функции МФУ'
+unit: ''
+description: ''
+key: functions_of_mfp
+type: option
+required: false
+collection: true
+option:
+    - Копир
+    - Принтеp
+    - Сканеp
+    - Телефон
+    - Факс

@@ -1,0 +1,8 @@
+caption: 'Общий объем холодильной камеры'
+unit: л
+description: 'Записывается только число'
+key: total_amount_of_refrigerating_chamber
+type: text
+required: false
+collection: false
+option: {  }

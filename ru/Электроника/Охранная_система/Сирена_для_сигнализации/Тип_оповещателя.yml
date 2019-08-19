@@ -1,0 +1,13 @@
+caption: 'Тип оповещателя'
+unit: ''
+description: ''
+key: type_of_siren
+type: option
+required: false
+collection: false
+option:
+    - Звуковой
+    - 'Пожарная сигнализация'
+    - Свето-звуковой
+    - Световой
+    - 'Тревожная кнопка'

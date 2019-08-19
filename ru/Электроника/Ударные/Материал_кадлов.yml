@@ -1,0 +1,8 @@
+caption: 'Материал кадлов'
+unit: ''
+description: ''
+key: material_kudlow
+type: option
+required: false
+collection: true
+option: {  }

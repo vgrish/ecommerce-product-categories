@@ -1,0 +1,8 @@
+caption: Регулировки
+unit: ''
+description: ''
+key: adjustment
+type: text
+required: false
+collection: false
+option: {  }

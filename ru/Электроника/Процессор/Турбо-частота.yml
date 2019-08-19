@@ -1,0 +1,8 @@
+caption: Турбо-частота
+unit: ГГц
+description: 'Записывается только число'
+key: turbo_frequency
+type: text
+required: false
+collection: false
+option: {  }

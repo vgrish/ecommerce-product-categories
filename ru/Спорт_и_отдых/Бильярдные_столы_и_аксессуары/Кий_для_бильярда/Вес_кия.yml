@@ -1,0 +1,8 @@
+caption: 'Вес кия'
+unit: г
+description: 'Впишите только число, без едениц измерений, например 25'
+key: weight_of_cue
+type: text
+required: false
+collection: false
+option: {  }

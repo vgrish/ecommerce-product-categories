@@ -1,0 +1,8 @@
+caption: 'Скорость подачи'
+unit: м/мин
+description: 'Записывается только число'
+key: feed_rate
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Ширина рейсмусного стола'
+unit: мм
+description: 'Записывается только число'
+key: table_width_raskosnov
+type: text
+required: false
+collection: false
+option: {  }

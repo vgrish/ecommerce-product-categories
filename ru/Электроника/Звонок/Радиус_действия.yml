@@ -1,0 +1,8 @@
+caption: 'Радиус действия'
+unit: м
+description: 'Записывается только число'
+key: radius
+type: text
+required: false
+collection: false
+option: {  }

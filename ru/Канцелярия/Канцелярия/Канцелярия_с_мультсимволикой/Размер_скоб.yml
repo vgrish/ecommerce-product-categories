@@ -1,0 +1,22 @@
+caption: 'Размер скоб'
+unit: ''
+description: ''
+key: size_of_staples
+type: option
+required: false
+collection: true
+option:
+    - '10'
+    - 23/20
+    - 23/8
+    - 23/23
+    - 23/10
+    - 23/13
+    - 23/15
+    - 23/6
+    - 23/17
+    - 24/8
+    - 24/6
+    - 24/10
+    - 26/6
+    - 26/8

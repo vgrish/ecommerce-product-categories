@@ -1,0 +1,13 @@
+caption: 'Длина рукава'
+unit: ''
+description: 'Длинный – до запястья, короткий – до локтя и выше, без рукавов – рукав отсутствует'
+key: sleeve_length
+type: option
+required: false
+collection: false
+option:
+    - 'Без рукавов'
+    - Бретельки
+    - Длинный
+    - Короткий
+    - 'Рукав 3/4'

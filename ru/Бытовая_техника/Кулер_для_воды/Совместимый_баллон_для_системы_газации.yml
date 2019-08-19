@@ -1,0 +1,18 @@
+caption: 'Совместимый баллон для системы газации'
+unit: ''
+description: ''
+key: compatible_cylinder_for_gas_supply_systems
+type: option
+required: false
+collection: false
+option:
+    - 'CO2 12 г'
+    - 'CO2 5 л'
+    - 'CO2 8 г'
+    - 'CO2 промышленный 12 г'
+    - 'N2O 12 г'
+    - 'N2O 8 г'
+    - 'пропан с резьбовым креплением 110 г'
+    - 'пропан с резьбовым креплением 230 г'
+    - 'пропан с резьбовым креплением 450 г'
+    - 'пропан с цанговым креплением'

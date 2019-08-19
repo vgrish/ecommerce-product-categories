@@ -1,0 +1,12 @@
+caption: 'Регулировка стоек/треноги'
+unit: ''
+description: 'Выбираются регулировки треноги/стоек экрана'
+key: adjustment_stands_tripod
+type: option
+required: false
+collection: true
+option:
+    - Вращение
+    - Наклон
+    - Поворот
+    - 'Регулируемая высота'

@@ -1,0 +1,14 @@
+caption: 'Вид мочалки'
+unit: ''
+description: ''
+key: kind_of_washcloth
+type: option
+required: false
+collection: false
+option:
+    - Губка
+    - Массажная
+    - Мягкая
+    - Пояс
+    - Рукавица
+    - Щетка

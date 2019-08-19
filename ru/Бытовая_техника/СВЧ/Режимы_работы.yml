@@ -1,0 +1,11 @@
+caption: 'Режимы работы'
+unit: ''
+description: ''
+key: modes_of_operation
+type: option
+required: false
+collection: true
+option:
+    - Гриль
+    - Конвекция
+    - Соло

@@ -1,0 +1,11 @@
+caption: Амортизация
+unit: ''
+description: ''
+key: depreciation
+type: option
+required: false
+collection: false
+option:
+    - Двухподвес
+    - Жесткий
+    - Хардтейл

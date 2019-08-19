@@ -1,0 +1,8 @@
+caption: 'Ширина зева гаечного ключа'
+unit: мм
+description: ''
+key: spanner_size
+type: text
+required: false
+collection: false
+option: {  }

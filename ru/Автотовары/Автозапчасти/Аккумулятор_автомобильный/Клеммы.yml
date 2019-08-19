@@ -1,0 +1,12 @@
+caption: Клеммы
+unit: ''
+description: ''
+key: terminals
+type: option
+required: true
+collection: false
+option:
+    - Боковые
+    - Плоские
+    - Стандартные
+    - Тонкие

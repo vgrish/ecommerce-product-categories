@@ -1,0 +1,8 @@
+caption: 'Кол-во разъемов PCI-E 8-пин'
+unit: ''
+description: 'Записывается только число'
+key: number_of_pci_e_8_pin
+type: text
+required: false
+collection: false
+option: {  }

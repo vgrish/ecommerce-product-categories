@@ -1,0 +1,12 @@
+caption: 'Сорт редьки'
+unit: ''
+description: 'Только для редьки: укажите сорт редьки'
+key: variety_of_radish
+type: option
+required: false
+collection: true
+option:
+    - Белая
+    - Дайкон
+    - Зеленая
+    - Черная

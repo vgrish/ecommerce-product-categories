@@ -1,0 +1,8 @@
+caption: 'Толщина колеса'
+unit: мм
+description: ''
+key: wheel_thickness
+type: text
+required: false
+collection: false
+option: {  }

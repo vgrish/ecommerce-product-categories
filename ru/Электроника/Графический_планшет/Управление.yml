@@ -1,0 +1,8 @@
+caption: Управление
+unit: ''
+description: ''
+key: management
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Ширина загрузочного отверстия'
+unit: мм
+description: 'Записывается только число'
+key: width_of_feed_opening
+type: text
+required: false
+collection: false
+option: {  }

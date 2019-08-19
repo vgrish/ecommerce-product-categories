@@ -1,0 +1,10 @@
+caption: 'Вид домофона'
+unit: ''
+description: ''
+key: type_of_intercom
+type: option
+required: false
+collection: false
+option:
+    - 'Без трубки'
+    - 'С трубкой'

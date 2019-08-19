@@ -1,0 +1,8 @@
+caption: 'Материал кия'
+unit: ''
+description: ''
+key: material_cue
+type: option
+required: false
+collection: true
+option: {  }

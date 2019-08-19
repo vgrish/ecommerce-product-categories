@@ -1,0 +1,14 @@
+caption: 'Вид молочных консервов'
+unit: ''
+description: 'Выберите вид молочных консервов'
+key: kind_of_canned_milk
+type: option
+required: false
+collection: true
+option:
+    - 'Вареное молоко'
+    - 'Кокосовое молоко'
+    - 'Концентрированное молоко'
+    - Молоко
+    - 'Сгущеное молоко'
+    - Сливки

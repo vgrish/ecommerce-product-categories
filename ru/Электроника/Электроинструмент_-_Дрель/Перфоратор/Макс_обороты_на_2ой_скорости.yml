@@ -1,0 +1,8 @@
+caption: 'Макс. обороты на 2ой скорости'
+unit: об./мин
+description: 'Записывается только число'
+key: max_speed_on_2nd_speed
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Дальность обнаружения'
+unit: м
+description: 'Записывается только число'
+key: detection_range
+type: text
+required: false
+collection: false
+option: {  }

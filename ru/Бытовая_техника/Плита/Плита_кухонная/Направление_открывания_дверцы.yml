@@ -1,0 +1,12 @@
+caption: 'Направление открывания дверцы'
+unit: ''
+description: ''
+key: direction_of_opening_door
+type: option
+required: false
+collection: false
+option:
+    - 'Боковое налево'
+    - 'Боковое направо'
+    - Вперед
+    - 'Выдвижная тележка'

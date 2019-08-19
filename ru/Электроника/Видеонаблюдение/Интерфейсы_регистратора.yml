@@ -1,0 +1,31 @@
+caption: 'Интерфейсы регистратора'
+unit: ''
+description: ''
+key: interfaces_registrar
+type: option
+required: false
+collection: true
+option:
+    - BNC
+    - Coax
+    - HDMI
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - RCA
+    - RJ-45
+    - RS-232
+    - RS-485
+    - SAS
+    - SATA
+    - 'SATA2 3.0 Гбит/с'
+    - 'SATA3 6.0 Гбит/с'
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'VGA (D-Sub)'
+    - 'VGA (f)'
+    - 'microUSB 2.0'
+    - 'mini SAS'
+    - 'Разъем для видеокамеры заднего вида'

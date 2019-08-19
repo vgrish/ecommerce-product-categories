@@ -1,0 +1,8 @@
+caption: 'Мощность сабвуфера'
+unit: Вт
+description: 'Записывается только число'
+key: power_subwoofer
+type: text
+required: false
+collection: false
+option: {  }

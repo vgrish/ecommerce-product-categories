@@ -1,0 +1,14 @@
+caption: 'Вид карандаша'
+unit: ''
+description: ''
+key: pencil
+type: option
+required: false
+collection: true
+option:
+    - Акварельный
+    - Механический
+    - Пастельный
+    - Простой
+    - Цанговый
+    - Цветной

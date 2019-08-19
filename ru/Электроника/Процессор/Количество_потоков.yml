@@ -1,0 +1,8 @@
+caption: 'Количество потоков'
+unit: ''
+description: ''
+key: number_of_threads
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Тип клавиатуры'
+unit: ''
+description: 'Технология клавиш клавиатуры'
+key: type_keyboard
+type: option
+required: false
+collection: true
+option:
+    - Мембранная
+    - Механическая
+    - Ножничная
+    - Полумеханическая

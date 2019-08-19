@@ -1,0 +1,8 @@
+caption: 'Передаточное число'
+unit: ''
+description: ''
+key: gear_ratio
+type: text
+required: false
+collection: false
+option: {  }

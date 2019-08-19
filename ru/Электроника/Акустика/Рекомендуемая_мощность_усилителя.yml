@@ -1,0 +1,8 @@
+caption: 'Рекомендуемая мощность усилителя'
+unit: Вт
+description: 'Записывается только число'
+key: recommended_amplifier_power
+type: text
+required: false
+collection: false
+option: {  }

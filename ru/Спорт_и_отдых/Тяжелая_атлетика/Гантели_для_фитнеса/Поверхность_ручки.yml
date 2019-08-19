@@ -1,0 +1,18 @@
+caption: 'Поверхность ручки'
+unit: ''
+description: ''
+key: surface_of_handle
+type: option
+required: false
+collection: false
+option:
+    - 'Без покрытия'
+    - 'Виниловая (пластик)'
+    - Неопреновая
+    - Обрезиненная
+    - Окрашенная
+    - Пластик
+    - Полипропиленовая
+    - Стальная
+    - Хромированная
+    - Чугунная

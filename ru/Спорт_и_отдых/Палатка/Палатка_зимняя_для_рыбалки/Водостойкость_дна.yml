@@ -1,0 +1,8 @@
+caption: 'Водостойкость дна'
+unit: 'мм в.ст.'
+description: ''
+key: water_resistant_bottom
+type: text
+required: false
+collection: false
+option: {  }

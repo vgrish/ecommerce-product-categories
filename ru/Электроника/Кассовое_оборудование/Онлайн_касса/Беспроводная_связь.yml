@@ -1,0 +1,12 @@
+caption: 'Беспроводная связь'
+unit: ''
+description: 'Выбираются поддерживаемые беспроводные интерфейсы'
+key: wireless
+type: option
+required: false
+collection: true
+option:
+    - 'Bluetooth 4.0'
+    - 'GSM 2G'
+    - 'GSM 3G'
+    - Wi-Fi

@@ -1,0 +1,8 @@
+caption: 'Макс. ширина пакета'
+unit: см
+description: 'Записывается только число, указывается максимальная ширина вакуумируемого (запаиваемого) пакета'
+key: max_width
+type: text
+required: false
+collection: false
+option: {  }

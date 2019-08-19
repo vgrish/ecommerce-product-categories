@@ -1,0 +1,8 @@
+caption: 'Макс. поддерживаемая диагональ экрана'
+unit: дюймы
+description: 'Записывается только число'
+key: max_supported_screen_size
+type: text
+required: false
+collection: false
+option: {  }

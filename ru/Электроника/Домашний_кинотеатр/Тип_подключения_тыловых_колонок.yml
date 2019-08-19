@@ -1,0 +1,9 @@
+caption: 'Тип подключения тыловых колонок'
+unit: ''
+description: ''
+key: type_of_connection_of_rear_speakers
+type: option
+required: false
+collection: false
+option:
+    - ''

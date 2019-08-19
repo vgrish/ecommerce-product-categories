@@ -1,0 +1,8 @@
+caption: 'Количество порций'
+unit: ''
+description: ''
+key: number_of_servings
+type: text
+required: false
+collection: false
+option: {  }

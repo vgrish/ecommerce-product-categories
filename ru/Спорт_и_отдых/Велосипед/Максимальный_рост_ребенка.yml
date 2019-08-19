@@ -1,0 +1,8 @@
+caption: 'Максимальный рост ребенка'
+unit: см
+description: ''
+key: max_height_of_child
+type: text
+required: false
+collection: false
+option: {  }

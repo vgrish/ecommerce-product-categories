@@ -1,0 +1,8 @@
+caption: 'Предоплаченные минуты'
+unit: мин
+description: 'Записывается только число'
+key: prepaid_minutes
+type: text
+required: false
+collection: false
+option: {  }

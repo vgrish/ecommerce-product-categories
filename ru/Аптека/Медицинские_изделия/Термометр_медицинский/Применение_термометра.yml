@@ -1,0 +1,13 @@
+caption: 'Применение термометра'
+unit: ''
+description: 'В какой области тела производится измерение температуры.'
+key: use_of_thermometer
+type: option
+required: false
+collection: true
+option:
+    - Налобный
+    - Оральный
+    - Подмышечный
+    - Ректальный
+    - Ушной

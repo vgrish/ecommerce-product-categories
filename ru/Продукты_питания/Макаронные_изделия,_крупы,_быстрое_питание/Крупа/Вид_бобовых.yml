@@ -1,0 +1,16 @@
+caption: 'Вид бобовых'
+unit: ''
+description: 'Укажите вид бобовых'
+key: view_bean
+type: option
+required: false
+collection: true
+option:
+    - 'Бобы мунг'
+    - Горох
+    - Нут
+    - 'Соевые бобы'
+    - 'Фасоль белая'
+    - 'Фасоль зеленая'
+    - 'Фасоль красная'
+    - Чечевица

@@ -1,0 +1,10 @@
+caption: 'Режим работы'
+unit: ''
+description: ''
+key: mode
+type: option
+required: false
+collection: true
+option:
+    - Отвод
+    - Циркуляция

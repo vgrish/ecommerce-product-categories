@@ -1,0 +1,17 @@
+caption: 'Беспроводные интерфейсы'
+unit: ''
+description: ''
+key: wireless_interfaces
+type: option
+required: false
+collection: true
+option:
+    - Bluetooth
+    - 'Bluetooth 2.1'
+    - 'Bluetooth 3.0'
+    - 'Bluetooth 4.0'
+    - 'Bluetooth 4.1'
+    - 'Bluetooth 4.2'
+    - NFC
+    - Wi-Fi
+    - Проводной

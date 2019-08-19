@@ -1,0 +1,12 @@
+caption: 'Вид креплений для горных лыж'
+unit: ''
+description: ''
+key: view_attachments_for_skiing
+type: option
+required: false
+collection: false
+option:
+    - V311
+    - V412
+    - V614
+    - V816

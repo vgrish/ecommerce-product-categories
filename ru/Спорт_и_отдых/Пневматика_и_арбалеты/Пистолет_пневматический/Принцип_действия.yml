@@ -1,0 +1,13 @@
+caption: 'Принцип действия'
+unit: ''
+description: ''
+key: principle_of_operation
+type: option
+required: false
+collection: false
+option:
+    - 'Газобалонная пневматика (NBB)'
+    - 'Газобалонная пневматика с имитацией отдачи (GBB)'
+    - 'Пружинная пневматика (Spring)'
+    - 'Электропневматика (AEG)'
+    - 'Электропневматика с имитацией отдачи (EBB)'

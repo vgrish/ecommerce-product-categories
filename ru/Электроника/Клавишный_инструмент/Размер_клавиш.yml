@@ -1,0 +1,10 @@
+caption: 'Размер клавиш'
+unit: ''
+description: ''
+key: size_of_keys
+type: option
+required: false
+collection: false
+option:
+    - Компактные
+    - Полноразмерные

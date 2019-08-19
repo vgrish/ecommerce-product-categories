@@ -1,0 +1,11 @@
+caption: 'Вид рабочей поверхности'
+unit: ''
+description: ''
+key: view_of_working_surface
+type: option
+required: false
+collection: true
+option:
+    - Гриль
+    - Камень
+    - Форма

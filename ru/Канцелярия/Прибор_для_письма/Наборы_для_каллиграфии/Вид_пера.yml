@@ -1,0 +1,15 @@
+caption: 'Вид пера'
+unit: ''
+description: ''
+key: pen_view
+type: option
+required: false
+collection: true
+option:
+    - Курсивное
+    - Музыкальное
+    - Наклонное
+    - Остроконечное
+    - Плакатное
+    - Усеченное
+    - Ширококонечное

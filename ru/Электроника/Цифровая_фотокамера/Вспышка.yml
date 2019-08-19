@@ -1,0 +1,11 @@
+caption: Вспышка
+unit: ''
+description: ''
+key: flash
+type: option
+required: false
+collection: false
+option:
+    - Откидная
+    - Сменная
+    - Стационарная

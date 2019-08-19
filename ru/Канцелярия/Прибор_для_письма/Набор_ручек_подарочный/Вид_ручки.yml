@@ -1,0 +1,17 @@
+caption: 'Вид ручки'
+unit: ''
+description: ''
+key: kind_of_pen
+type: option
+required: false
+collection: true
+option:
+    - Гелевая
+    - Капиллярная
+    - Кисть
+    - Маркерная
+    - Мультисистемная
+    - Перьевая
+    - Роллер
+    - Ручка-стилус
+    - Шариковая

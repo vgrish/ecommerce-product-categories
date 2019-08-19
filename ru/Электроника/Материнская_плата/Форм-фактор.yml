@@ -1,0 +1,19 @@
+caption: Форм-фактор
+unit: ''
+description: ''
+key: form_factor
+type: option
+required: false
+collection: false
+option:
+    - '1 DIN'
+    - '2 DIN'
+    - ATX
+    - BTX
+    - Mini-ITX
+    - Pico-ITX
+    - XL-ATX
+    - eATX
+    - mATX
+    - mBTX
+    - 'Штатное место'

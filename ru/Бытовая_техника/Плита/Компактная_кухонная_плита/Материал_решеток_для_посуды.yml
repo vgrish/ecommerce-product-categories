@@ -1,0 +1,17 @@
+caption: 'Материал решеток для посуды'
+unit: ''
+description: ''
+key: grating_material_for_cookware
+type: option
+required: false
+collection: false
+option:
+    - 'Без подклада'
+    - Металл
+    - 'Нержавеющая сталь'
+    - 'Нержавеющая сталь с покрытием'
+    - Сталь
+    - 'Хромированная поверхность'
+    - Чугун
+    - 'Эмалированная сталь'
+    - Эмаль

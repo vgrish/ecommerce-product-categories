@@ -1,0 +1,21 @@
+caption: 'Классификация по API'
+unit: ''
+description: ''
+key: classification_api
+type: option
+required: false
+collection: false
+option:
+    - 'API CI-4/SL'
+    - CF
+    - CH-4/SL
+    - SF/CC
+    - SG/CD
+    - SJ/CF
+    - SL
+    - SL/CF
+    - SM
+    - SM/CF
+    - SN
+    - SN/CF
+    - SN/SM

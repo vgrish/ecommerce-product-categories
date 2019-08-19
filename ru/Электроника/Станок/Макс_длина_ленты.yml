@@ -1,0 +1,8 @@
+caption: 'Макс. длина ленты'
+unit: мм
+description: 'Записывается только число'
+key: max_belt_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество басов'
+unit: шт.
+description: 'Записывается только число'
+key: amount_of_bass
+type: text
+required: false
+collection: false
+option: {  }

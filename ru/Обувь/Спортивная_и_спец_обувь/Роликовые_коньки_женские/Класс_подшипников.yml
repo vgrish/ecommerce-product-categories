@@ -1,0 +1,14 @@
+caption: 'Класс подшипников'
+unit: ''
+description: ''
+key: class_of_bearings
+type: option
+required: false
+collection: false
+option:
+    - '608 Z'
+    - 'ABEC 1'
+    - 'ABEC 3'
+    - 'ABEC 5'
+    - 'ABEC 7'
+    - 'ABEC 9'

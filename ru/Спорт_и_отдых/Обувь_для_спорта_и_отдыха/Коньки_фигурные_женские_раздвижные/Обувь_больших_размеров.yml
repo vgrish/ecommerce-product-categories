@@ -1,0 +1,8 @@
+caption: 'Обувь больших размеров'
+unit: ''
+description: 'Укажите, если размер товара больше чем: для женщин – 41 размера, для мужчин – 43 размера'
+key: shoes_large_size
+type: bool
+required: false
+collection: false
+option: {  }

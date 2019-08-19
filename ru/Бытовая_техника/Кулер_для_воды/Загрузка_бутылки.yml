@@ -1,0 +1,12 @@
+caption: 'Загрузка бутылки'
+unit: ''
+description: ''
+key: download_of_bottle
+type: option
+required: false
+collection: false
+option:
+    - Сверху
+    - Слева
+    - Снизу
+    - Справа

@@ -1,0 +1,8 @@
+caption: 'Высота вентилятора'
+unit: мм
+description: 'Записывается только число'
+key: height_of_fan
+type: text
+required: false
+collection: false
+option: {  }

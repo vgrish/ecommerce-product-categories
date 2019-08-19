@@ -1,0 +1,8 @@
+caption: 'Макс. нагрузка'
+unit: Вт
+description: 'Записывается только число'
+key: max_load
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: Факс
+unit: ''
+description: 'Характеристики факсимильной части аппарата'
+key: fax
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Материал щетины'
+unit: ''
+description: ''
+key: material_of_bristle
+type: option
+required: false
+collection: false
+option:
+    - Дерево
+    - 'Искусственная щетина'
+    - Металл
+    - 'Натуральная щетина'
+    - 'Смешанная щетина'

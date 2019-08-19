@@ -1,0 +1,11 @@
+caption: 'Тип жесткого диска'
+unit: ''
+description: ''
+key: hard_drive_type
+type: option
+required: false
+collection: true
+option:
+    - HDD
+    - SSD
+    - SSHD

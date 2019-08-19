@@ -1,0 +1,8 @@
+caption: 'Длина кия'
+unit: см
+description: ''
+key: length_kiya
+type: text
+required: false
+collection: false
+option: {  }

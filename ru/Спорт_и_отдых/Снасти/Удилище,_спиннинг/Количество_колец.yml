@@ -1,0 +1,8 @@
+caption: 'Количество колец'
+unit: ''
+description: ''
+key: number_of_rings
+type: text
+required: false
+collection: false
+option: {  }

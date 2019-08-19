@@ -1,0 +1,8 @@
+caption: 'Чувствительность (MM)'
+unit: мВ
+description: 'Записывается только число'
+key: sensitivity
+type: text
+required: false
+collection: false
+option: {  }

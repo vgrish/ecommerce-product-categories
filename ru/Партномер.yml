@@ -1,0 +1,8 @@
+caption: Партномер
+unit: ''
+description: 'Для электроники и бытовой техники. Записывается код товара производителя/BOM-код'
+key: note
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Вид стиральной машины'
+unit: ''
+description: ''
+key: view_washing_machine
+type: option
+required: false
+collection: false
+option:
+    - Автоматическая
+    - Активаторная
+    - Ультразвуковая

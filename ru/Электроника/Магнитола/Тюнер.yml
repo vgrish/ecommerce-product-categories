@@ -1,0 +1,11 @@
+caption: Тюнер
+unit: ''
+description: ''
+key: tuner
+type: option
+required: false
+collection: false
+option:
+    - DECT
+    - Аналоговый
+    - Цифровой

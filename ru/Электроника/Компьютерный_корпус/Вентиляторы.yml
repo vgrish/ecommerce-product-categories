@@ -1,0 +1,8 @@
+caption: Вентиляторы
+unit: ''
+description: 'Записывается расположение, количество, характеристики установленных вентиляторов корпуса'
+key: fans
+type: text
+required: false
+collection: false
+option: {  }

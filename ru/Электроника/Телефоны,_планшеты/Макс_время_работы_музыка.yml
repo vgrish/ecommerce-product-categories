@@ -1,0 +1,8 @@
+caption: 'Макс. время работы (музыка)'
+unit: ч
+description: 'Максимальное время работы устройства при воспроизведении музыки, записывается только число'
+key: max_working_time_music
+type: text
+required: false
+collection: false
+option: {  }

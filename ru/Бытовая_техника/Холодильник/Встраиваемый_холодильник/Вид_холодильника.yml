@@ -1,0 +1,10 @@
+caption: 'Вид холодильника'
+unit: ''
+description: ''
+key: refrigerator
+type: option
+required: false
+collection: false
+option:
+    - 'Без морозильной камеры'
+    - 'С морозильной камерой'

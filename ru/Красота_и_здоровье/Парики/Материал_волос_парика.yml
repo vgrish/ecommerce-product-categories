@@ -1,0 +1,10 @@
+caption: 'Материал волос парика'
+unit: ''
+description: ''
+key: hair_material_of_wig
+type: option
+required: false
+collection: false
+option:
+    - Искусственные
+    - Натуральные

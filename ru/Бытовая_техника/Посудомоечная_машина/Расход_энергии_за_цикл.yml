@@ -1,0 +1,8 @@
+caption: 'Расход энергии за цикл'
+unit: кВт
+description: 'Записывается только число'
+key: energy_consumption_per_cycle
+type: text
+required: false
+collection: false
+option: {  }

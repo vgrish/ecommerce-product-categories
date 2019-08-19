@@ -1,0 +1,8 @@
+caption: Библиотека
+unit: ''
+description: ''
+key: library
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Диаметр заднего колеса'
+unit: мм
+description: ''
+key: diameter_of_rear_wheel
+type: text
+required: false
+collection: false
+option: {  }

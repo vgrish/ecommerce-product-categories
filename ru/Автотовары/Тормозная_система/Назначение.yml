@@ -1,0 +1,11 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: false
+option:
+    - 'Задняя ось'
+    - 'Передняя ось'
+    - 'Стояночный тормоз'

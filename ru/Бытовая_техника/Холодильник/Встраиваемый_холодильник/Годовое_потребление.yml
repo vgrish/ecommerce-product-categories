@@ -1,0 +1,8 @@
+caption: 'Годовое потребление'
+unit: 'кВт ч/год'
+description: 'Записывается только число'
+key: annual_consumption_of
+type: text
+required: false
+collection: false
+option: {  }

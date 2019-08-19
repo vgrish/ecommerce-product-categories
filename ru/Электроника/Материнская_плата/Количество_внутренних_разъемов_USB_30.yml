@@ -1,0 +1,8 @@
+caption: 'Количество внутренних разъемов USB 3.0'
+unit: ''
+description: 'Записывается только число'
+key: number_of_internal_usb_30
+type: text
+required: false
+collection: false
+option: {  }

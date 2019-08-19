@@ -1,0 +1,10 @@
+caption: 'Поддержка 3D'
+unit: ''
+description: ''
+key: support_3d
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

@@ -1,0 +1,8 @@
+caption: 'Количество разъемов SATA 6 Гбит/с'
+unit: ''
+description: 'Записывается только число'
+key: number_of_connectors_sata_6gb
+type: text
+required: false
+collection: false
+option: {  }

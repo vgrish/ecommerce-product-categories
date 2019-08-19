@@ -1,0 +1,8 @@
+caption: 'Расход воды за цикл'
+unit: л
+description: 'Записывается только число'
+key: water_consumption_per_cycle
+type: text
+required: false
+collection: false
+option: {  }

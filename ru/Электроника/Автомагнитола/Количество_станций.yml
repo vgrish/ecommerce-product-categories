@@ -1,0 +1,8 @@
+caption: 'Количество станций'
+unit: ''
+description: ''
+key: number_of_stations
+type: text
+required: false
+collection: false
+option: {  }

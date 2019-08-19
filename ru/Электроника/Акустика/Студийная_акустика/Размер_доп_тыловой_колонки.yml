@@ -1,0 +1,8 @@
+caption: 'Размер доп. тыловой колонки'
+unit: см
+description: 'Записывается только число'
+key: size_of_extra_rear_speakers
+type: text
+required: false
+collection: false
+option: {  }

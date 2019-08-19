@@ -1,0 +1,10 @@
+caption: 'Материал обечайки'
+unit: ''
+description: ''
+key: material_shell
+type: option
+required: false
+collection: true
+option:
+    - Ель
+    - Липа

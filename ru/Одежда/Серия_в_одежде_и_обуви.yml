@@ -1,0 +1,8 @@
+caption: 'Серия в одежде и обуви'
+unit: ''
+description: 'Укажите название серии, в которую входит товар. Если серий несколько - указывается только основная'
+key: series_in_clothes_and_shoes
+type: text
+required: false
+collection: false
+option: {  }

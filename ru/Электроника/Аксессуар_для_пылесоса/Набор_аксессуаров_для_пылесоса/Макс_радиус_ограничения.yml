@@ -1,0 +1,8 @@
+caption: 'Макс. радиус ограничения'
+unit: м
+description: 'Записывается только число'
+key: max_radius_limit
+type: text
+required: false
+collection: false
+option: {  }

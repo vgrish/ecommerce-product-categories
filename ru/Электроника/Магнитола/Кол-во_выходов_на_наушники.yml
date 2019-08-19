@@ -1,0 +1,8 @@
+caption: 'Кол-во выходов на наушники'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_headphone_outputs
+type: text
+required: false
+collection: false
+option: {  }

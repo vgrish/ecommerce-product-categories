@@ -1,0 +1,8 @@
+caption: 'Количество дисков'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_discs
+type: text
+required: false
+collection: false
+option: {  }

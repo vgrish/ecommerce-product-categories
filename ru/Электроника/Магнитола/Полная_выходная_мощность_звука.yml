@@ -1,0 +1,8 @@
+caption: 'Полная выходная мощность звука'
+unit: Вт
+description: 'Записывается только число'
+key: full_audio_output
+type: text
+required: false
+collection: false
+option: {  }

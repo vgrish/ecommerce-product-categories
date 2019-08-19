@@ -1,0 +1,8 @@
+caption: 'Поле зрения на расстоянии 1000 м'
+unit: м
+description: 'Записывается только число'
+key: field_of_view_at_distance_of_1000_m
+type: text
+required: false
+collection: false
+option: {  }

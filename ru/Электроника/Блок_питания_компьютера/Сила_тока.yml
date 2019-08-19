@@ -1,0 +1,8 @@
+caption: 'Сила тока'
+unit: ''
+description: 'Записываются силы тока на шинах блока питания'
+key: current
+type: text
+required: false
+collection: false
+option: {  }

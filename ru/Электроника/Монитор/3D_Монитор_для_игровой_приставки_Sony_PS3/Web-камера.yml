@@ -1,0 +1,8 @@
+caption: Web-камера
+unit: ''
+description: 'Записываются характеристики web-камеры'
+key: web_camera
+type: text
+required: false
+collection: false
+option: {  }

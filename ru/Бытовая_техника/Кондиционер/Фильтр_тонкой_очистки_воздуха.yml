@@ -1,0 +1,8 @@
+caption: 'Фильтр тонкой очистки воздуха'
+unit: ''
+description: ''
+key: filter_of_thin_clearing_of_air
+type: bool
+required: false
+collection: false
+option: {  }

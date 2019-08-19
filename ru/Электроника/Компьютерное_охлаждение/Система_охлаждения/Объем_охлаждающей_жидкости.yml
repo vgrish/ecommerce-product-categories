@@ -1,0 +1,8 @@
+caption: 'Объем охлаждающей жидкости'
+unit: мл
+description: 'Записывается только число'
+key: volume_of_coolant
+type: text
+required: false
+collection: false
+option: {  }

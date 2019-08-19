@@ -1,0 +1,10 @@
+caption: 'Форма бака'
+unit: ''
+description: ''
+key: shape_of_tank
+type: option
+required: false
+collection: false
+option:
+    - Округлая
+    - Плоская

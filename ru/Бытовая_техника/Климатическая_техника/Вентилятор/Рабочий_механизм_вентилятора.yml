@@ -1,0 +1,11 @@
+caption: 'Рабочий механизм вентилятора'
+unit: ''
+description: ''
+key: working_mechanism_of_fan
+type: option
+required: false
+collection: false
+option:
+    - Безлопастной
+    - Осевой
+    - Радиальный

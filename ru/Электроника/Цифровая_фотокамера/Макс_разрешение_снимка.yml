@@ -1,0 +1,23 @@
+caption: 'Макс. разрешение снимка'
+unit: ''
+description: ''
+key: max_image_resolution
+type: option
+required: false
+collection: false
+option:
+    - 1560x720
+    - 3040x1440
+    - 4000x3000
+    - 4160x3120
+    - 4608x3456
+    - 4896x3672
+    - 5152x3864
+    - 5184x3888
+    - 5184x3456
+    - 5472x3648
+    - 5568x3712
+    - 5616x3744
+    - 6000x4000
+    - 6016x4016
+    - 7360x4912

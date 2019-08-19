@@ -1,0 +1,11 @@
+caption: 'Тип духовки'
+unit: ''
+description: ''
+key: oven_type
+type: option
+required: false
+collection: false
+option:
+    - Газовый
+    - Комбинированный
+    - Электрический

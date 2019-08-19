@@ -1,0 +1,8 @@
+caption: Ресурс
+unit: ''
+description: 'Общее количество страниц, которое можно напечатать с помощью картриджа/тонера'
+key: resource
+type: text
+required: false
+collection: false
+option: {  }

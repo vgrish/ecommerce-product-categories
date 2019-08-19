@@ -1,0 +1,16 @@
+caption: 'Внутреннее покрытие чаши'
+unit: ''
+description: ''
+key: internal_coating_of_bowl
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Антибактериальное
+    - Антипригарное
+    - Керамическое
+    - 'Нержавеющая сталь'
+    - Тефлоновое
+    - 'Устойчивое к царапинам'
+    - Эмалевое

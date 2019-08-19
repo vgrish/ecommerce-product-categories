@@ -1,0 +1,30 @@
+caption: Особенности
+unit: ''
+description: 'Выбираются особенности устройства'
+key: features
+type: option
+required: false
+collection: true
+option:
+    - BitTorrent-клиент
+    - 'HomePlug AV'
+    - IPv6
+    - Wake-on-LAN
+    - 'microSD слот'
+    - 'Встроенный сплиттер'
+    - Дисплей
+    - Интернет-фильтр
+    - Медиа-сервер
+    - 'Межсетевой экран (FireWall)'
+    - 'Монтируется в стойку'
+    - 'Питание по Ethernet (Power over Ethernet)'
+    - 'Питание через USB'
+    - 'Поддержка ADSL2/2+'
+    - 'Поддержка USB-модемов'
+    - 'Поддержка VDSL2'
+    - Принт-сервер
+    - 'Режим моста'
+    - 'Режим сна'
+    - Факс
+    - 'Фильтрация по IP-адресам'
+    - 'Фильтрация по MAC-адресам'

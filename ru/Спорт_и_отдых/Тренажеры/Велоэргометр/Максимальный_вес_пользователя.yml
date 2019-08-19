@@ -1,0 +1,8 @@
+caption: 'Максимальный вес пользователя'
+unit: кг
+description: 'Впишите только число, без едениц измерений, например 25'
+key: max_user_weight
+type: text
+required: false
+collection: false
+option: {  }

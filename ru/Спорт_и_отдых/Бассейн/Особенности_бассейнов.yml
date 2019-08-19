@@ -1,0 +1,15 @@
+caption: 'Особенности бассейнов'
+unit: ''
+description: ''
+key: features_pools
+type: option
+required: false
+collection: true
+option:
+    - 'Воздушный насос'
+    - Лестница
+    - Морозоустойчивость
+    - 'Подогрев воды'
+    - Скиммер
+    - 'Сумка для хранения'
+    - Хлоргенератор

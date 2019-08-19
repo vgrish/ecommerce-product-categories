@@ -1,0 +1,10 @@
+caption: 'Вид охладителя'
+unit: ''
+description: ''
+key: look_cooler
+type: option
+required: false
+collection: false
+option:
+    - Испарительный
+    - Компрессионный

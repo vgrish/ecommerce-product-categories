@@ -1,0 +1,8 @@
+caption: 'Мощность нагрузки'
+unit: Вт
+description: 'Записывается только число'
+key: load_power
+type: text
+required: false
+collection: false
+option: {  }

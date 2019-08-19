@@ -1,0 +1,64 @@
+caption: 'Форм-фактор батареи'
+unit: ''
+description: 'Типоразмер батарейки'
+key: form_factor_battery
+type: option
+required: false
+collection: true
+option:
+    - '"Крона" (6LR61)'
+    - '4LR44 (476A)'
+    - 6LR61
+    - 6F22
+    - '16340'
+    - '18650'
+    - '26650'
+    - AA
+    - 'AAA (LR03)'
+    - 'AG0 (LR521)'
+    - 'AG1 (LR621)'
+    - 'AG10 (L1131)'
+    - 'AG5 (LR48)'
+    - 'AG7 (LR926)'
+    - 'C (LR14)'
+    - CR1216
+    - CR1220
+    - CR1225
+    - CR123
+    - CR1616
+    - CR1620
+    - CR1632
+    - CR2
+    - CR2016
+    - CR2025
+    - CR2032
+    - CR2430
+    - CR2450
+    - D
+    - DC
+    - LR1
+    - 'LR34 (V10GA, 189)'
+    - 'LR41 (LR736)'
+    - LR43
+    - 'LR44 (V13GA, AG13, LR1154)'
+    - 'LR45 (AG9, LR936, SR936W)'
+    - LR54
+    - 'LR55 (AG8, LR1120, SR1120W)'
+    - 'LR58 (AG11, SR721SW)'
+    - 'LR59 (AG2, SR726W)'
+    - 'LR60 (LR620, 164)'
+    - 'LR66 (AG4, LR626)'
+    - 'LR69 (AG6, SR920W)'
+    - 'MN21 (A23, K23A, LRV08, LRV8)'
+    - 'MN27 (A27, 27A, V27A)'
+    - R14
+    - 'R20 SR2'
+    - 'SR41 (384/392)'
+    - 'SR60 (V364, D364, SR621SW)'
+    - 'SR66 (V377, D377, SR626SW)'
+    - 'SR69 (V371)'
+    - 'ZA10 (PR70, AC10, DA230)'
+    - 'ZA13 (PR48, AC13, DA13)'
+    - 'ZA312 (PR41, AC312, DA312)'
+    - 'ZA675 (PR44, AC675, DA675, V675A)'
+    - Оригинальный

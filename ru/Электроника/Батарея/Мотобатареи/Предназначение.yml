@@ -1,0 +1,15 @@
+caption: Предназначение
+unit: ''
+description: ''
+key: purpose
+type: option
+required: false
+collection: true
+option:
+    - 'Для HI - FI автосистем'
+    - 'Для грузового автомобиля'
+    - 'Для квадроцикла'
+    - 'Для легкового автомобиля'
+    - 'Для мототехники'
+    - 'Для снегохода'
+    - Тяговый

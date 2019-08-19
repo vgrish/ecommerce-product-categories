@@ -1,0 +1,8 @@
+caption: 'Выходной ток'
+unit: А
+description: 'Записывается только число'
+key: output_current
+type: text
+required: false
+collection: false
+option: {  }

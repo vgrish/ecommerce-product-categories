@@ -1,0 +1,11 @@
+caption: 'Расположение молнии'
+unit: ''
+description: ''
+key: location_of_zipper
+type: option
+required: false
+collection: false
+option:
+    - Левосторонняя
+    - Правосторонняя
+    - Центральная

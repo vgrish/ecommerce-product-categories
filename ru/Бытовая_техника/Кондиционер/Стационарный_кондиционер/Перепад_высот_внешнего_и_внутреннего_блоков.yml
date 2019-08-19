@@ -1,0 +1,8 @@
+caption: 'Перепад высот внешнего и внутреннего блоков'
+unit: м
+description: 'Записывается только число'
+key: elevation_of_external_and_internal_blocks
+type: text
+required: false
+collection: false
+option: {  }

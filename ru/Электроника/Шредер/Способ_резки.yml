@@ -1,0 +1,10 @@
+caption: 'Способ резки'
+unit: ''
+description: ''
+key: way_of_cutting
+type: option
+required: false
+collection: false
+option:
+    - Паралелльный
+    - Перекрестный

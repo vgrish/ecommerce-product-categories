@@ -1,0 +1,11 @@
+caption: 'Измерение температуры'
+unit: ''
+description: 'Температуру чего планируется измерять - воздуха, воды, тела.'
+key: temperature_measurement
+type: option
+required: false
+collection: true
+option:
+    - Воды
+    - Воздуха
+    - Тела

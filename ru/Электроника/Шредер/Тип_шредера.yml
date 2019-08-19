@@ -1,0 +1,11 @@
+caption: 'Тип шредера'
+unit: ''
+description: ''
+key: type_shredder
+type: option
+required: false
+collection: false
+option:
+    - Архивный
+    - Офисный
+    - Персональный

@@ -1,0 +1,10 @@
+caption: 'Вид зажигалки'
+unit: ''
+description: ''
+key: view_lighters
+type: option
+required: false
+collection: false
+option:
+    - 'Зажигалка- свеча'
+    - 'С гибким носиком'

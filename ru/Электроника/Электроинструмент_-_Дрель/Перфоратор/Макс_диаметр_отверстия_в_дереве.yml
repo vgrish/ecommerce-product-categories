@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр отверстия в дереве'
+unit: мм
+description: 'Записывается только число'
+key: max_hole_diameter_in_wood
+type: text
+required: false
+collection: false
+option: {  }

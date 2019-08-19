@@ -1,0 +1,19 @@
+caption: 'Стандарт капсул/чалдов'
+unit: ''
+description: 'Выберите разновидность капсул/чалдов'
+key: standard_capsules_of_caldav
+type: option
+required: false
+collection: false
+option:
+    - Caffitaly
+    - Cafissimo
+    - 'Dolce Gusto'
+    - 'E.S.E. (44 мм)'
+    - 'Illy Iperespresso'
+    - 'LB (Lavazza Blue)'
+    - LEP
+    - 'Lui L''espresso'
+    - Nespresso
+    - 'Senseo (55 мм)'
+    - 'Т-диск TASSIMO'

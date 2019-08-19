@@ -1,0 +1,8 @@
+caption: 'Автономное сохранение холода'
+unit: ч
+description: 'Время, в течении которого холодильник может сохранять температуру без дополнительного питания'
+key: standalone_cold_preservation
+type: text
+required: false
+collection: false
+option: {  }

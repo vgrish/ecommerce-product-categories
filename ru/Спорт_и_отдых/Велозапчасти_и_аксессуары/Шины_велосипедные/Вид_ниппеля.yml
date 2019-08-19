@@ -1,0 +1,11 @@
+caption: 'Вид ниппеля'
+unit: ''
+description: ''
+key: appearance_of_nipple
+type: option
+required: false
+collection: false
+option:
+    - Dunlop
+    - 'Presta (FV, SV – French или Sclaverand Valve)'
+    - 'Автомобильный (AV, Shrader, Шредер,)'

@@ -1,0 +1,8 @@
+caption: 'Мощность мотора'
+unit: кВт
+description: ''
+key: power_of_motor
+type: text
+required: false
+collection: false
+option: {  }

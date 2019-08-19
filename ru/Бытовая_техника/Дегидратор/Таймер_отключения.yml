@@ -1,0 +1,8 @@
+caption: 'Таймер отключения'
+unit: ч
+description: 'Записывается только число'
+key: timer
+type: text
+required: false
+collection: false
+option: {  }

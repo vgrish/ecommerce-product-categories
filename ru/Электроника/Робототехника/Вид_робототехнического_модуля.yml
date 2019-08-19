@@ -1,0 +1,12 @@
+caption: 'Вид робототехнического модуля'
+unit: ''
+description: ''
+key: view_robotics_module
+type: option
+required: false
+collection: true
+option:
+    - Двигатель
+    - 'Колеса, гусеницы'
+    - 'Крепежные элементы'
+    - Сервопривод

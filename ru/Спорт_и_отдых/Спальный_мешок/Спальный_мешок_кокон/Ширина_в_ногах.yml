@@ -1,0 +1,8 @@
+caption: 'Ширина в ногах'
+unit: см
+description: ''
+key: width_in_feet
+type: text
+required: false
+collection: false
+option: {  }

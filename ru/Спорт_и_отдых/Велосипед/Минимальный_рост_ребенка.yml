@@ -1,0 +1,8 @@
+caption: 'Минимальный рост ребенка'
+unit: см
+description: ''
+key: min_height_of_child
+type: text
+required: false
+collection: false
+option: {  }

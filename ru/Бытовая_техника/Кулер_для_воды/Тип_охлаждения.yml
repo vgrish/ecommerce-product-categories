@@ -1,0 +1,12 @@
+caption: 'Тип охлаждения'
+unit: ''
+description: ''
+key: cooling_type
+type: option
+required: false
+collection: false
+option:
+    - Абсорбционный
+    - Компрессорный
+    - Термоэлектрический
+    - Электронный

@@ -1,0 +1,8 @@
+caption: 'Размер центрального канала'
+unit: см
+description: 'Записывается только число'
+key: size_of_central_channel
+type: text
+required: false
+collection: false
+option: {  }

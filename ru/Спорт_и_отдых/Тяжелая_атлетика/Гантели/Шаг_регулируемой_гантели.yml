@@ -1,0 +1,8 @@
+caption: 'Шаг регулируемой гантели'
+unit: кг
+description: ''
+key: step_adjustable_dumbbells
+type: text
+required: false
+collection: false
+option: {  }

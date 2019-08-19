@@ -1,0 +1,12 @@
+caption: 'Очистка духовки'
+unit: ''
+description: ''
+key: cleaning_oven
+type: option
+required: false
+collection: false
+option:
+    - Каталитическая
+    - 'Очистка паром (Aquaclean)'
+    - Пиролитическая
+    - Традиционная

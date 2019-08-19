@@ -1,0 +1,8 @@
+caption: 'Спектр волн'
+unit: ''
+description: ''
+key: wave_spectrum
+type: text
+required: false
+collection: false
+option: {  }

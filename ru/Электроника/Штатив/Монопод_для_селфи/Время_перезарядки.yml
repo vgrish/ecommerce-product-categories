@@ -1,0 +1,8 @@
+caption: 'Время перезарядки'
+unit: мин.
+description: 'Записывается только число'
+key: recharge_time
+type: text
+required: false
+collection: false
+option: {  }

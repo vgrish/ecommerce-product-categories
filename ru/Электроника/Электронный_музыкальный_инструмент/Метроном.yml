@@ -1,0 +1,8 @@
+caption: Метроном
+unit: ''
+description: ''
+key: metronome
+type: text
+required: false
+collection: false
+option: {  }

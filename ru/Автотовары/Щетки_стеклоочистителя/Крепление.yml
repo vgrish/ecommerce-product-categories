@@ -1,0 +1,20 @@
+caption: Крепление
+unit: ''
+description: ''
+key: mount
+type: option
+required: false
+collection: true
+option:
+    - 'Боковое крепление (Side Mounting)'
+    - 'Боковой зажим (Pinch tab)'
+    - 'Боковой штырь (Side pin)'
+    - 'Верхний зажим (Slim Top)'
+    - 'Верхний замок (Top lock)'
+    - 'Клешня (Claw)'
+    - 'Кнопка (Push button)'
+    - 'Крючок (Hook / J-Hook)'
+    - 'Оригинальное (Special)'
+    - 'Узкая кнопка (Narrow Push Button)'
+    - 'Штыковой замок (Bayonet arm)'
+    - 'Штырь (Pin lock)'

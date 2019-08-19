@@ -1,0 +1,8 @@
+caption: 'Давление струи воды'
+unit: кПа
+description: 'Записывается только число'
+key: pressure_jets_of_water
+type: text
+required: false
+collection: false
+option: {  }

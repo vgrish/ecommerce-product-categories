@@ -1,0 +1,10 @@
+caption: 'Игровой планшет'
+unit: ''
+description: 'Выбирайте "Да" ТОЛЬКО для игровых планшетов'
+key: gaming_tablet
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

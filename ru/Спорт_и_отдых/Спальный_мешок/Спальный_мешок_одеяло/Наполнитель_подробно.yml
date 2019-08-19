@@ -1,0 +1,27 @@
+caption: 'Наполнитель подробно'
+unit: ''
+description: ''
+key: filler_detail
+type: option
+required: false
+collection: true
+option:
+    - 'APF-Isoterm 3D'
+    - 'Hollow Fiber'
+    - 'Hollow Fiber 7Н'
+    - Termofiber-S-PRO
+    - 'Искусственные материалы'
+    - Нейлон
+    - Поликоттон
+    - Полиэстер
+    - Полиэстерфайбер
+    - Полиэфир
+    - Пух
+    - Силикон
+    - Синтепон
+    - Синтетика
+    - 'Стружка кедра'
+    - Термолайт
+    - Термофайбер
+    - Холлофайбер
+    - Шелтер

@@ -1,0 +1,12 @@
+caption: 'Рабочая область'
+unit: ''
+description: 'Размер рабочей области планшета'
+key: workspace
+type: option
+required: false
+collection: false
+option:
+    - A3
+    - A4
+    - A5
+    - A6

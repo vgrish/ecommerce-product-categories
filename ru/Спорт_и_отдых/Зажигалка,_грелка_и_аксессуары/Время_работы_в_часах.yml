@@ -1,0 +1,8 @@
+caption: 'Время работы в часах'
+unit: ''
+description: ''
+key: working_time_in_hours
+type: text
+required: false
+collection: false
+option: {  }

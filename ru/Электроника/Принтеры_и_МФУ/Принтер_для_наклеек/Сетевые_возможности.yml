@@ -1,0 +1,15 @@
+caption: 'Сетевые возможности'
+unit: ''
+description: 'Какие сетевые интерфейсы поддерживает устройство'
+key: networking_opportunities
+type: option
+required: false
+collection: true
+option:
+    - '10/100 Ethernet'
+    - AirPrint
+    - Bluetooth
+    - 'Gigabit Ethernet'
+    - NFC
+    - Wi-Fi
+    - ИК-порт

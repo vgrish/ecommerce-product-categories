@@ -1,0 +1,8 @@
+caption: 'Расстояние между оптическими центрами'
+unit: ''
+description: ''
+key: distance_between_optical_centers
+type: text
+required: false
+collection: false
+option: {  }

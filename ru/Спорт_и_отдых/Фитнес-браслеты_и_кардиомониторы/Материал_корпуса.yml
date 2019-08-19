@@ -1,0 +1,12 @@
+caption: 'Материал корпуса'
+unit: ''
+description: ''
+key: case_material
+type: option
+required: false
+collection: false
+option:
+    - 'Аналог нейлона'
+    - 'Анодированый алюминий'
+    - 'Нержавеющий медицинский металл'
+    - Пластик

@@ -1,0 +1,8 @@
+caption: 'Макс. вес лодки'
+unit: кг
+description: 'Впишите только число, без едениц измерений, например 25'
+key: max_boat_weight
+type: text
+required: false
+collection: false
+option: {  }

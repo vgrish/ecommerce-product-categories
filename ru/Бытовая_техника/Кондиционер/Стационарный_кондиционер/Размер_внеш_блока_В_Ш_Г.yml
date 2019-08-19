@@ -1,0 +1,8 @@
+caption: 'Размер внеш. блока (В*Ш*Г)'
+unit: ''
+description: ''
+key: size_of_external_unit
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Материал ядра радиатора'
+unit: ''
+description: ''
+key: material_core_radiator
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Медь

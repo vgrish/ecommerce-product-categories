@@ -1,0 +1,15 @@
+caption: 'Вид роликов'
+unit: самокатов
+description: ''
+key: rollers
+type: option
+required: false
+collection: false
+option:
+    - Беговые
+    - Внедорожные
+    - 'Для агрессивной езды'
+    - 'Для слалома'
+    - 'Для фитнеса'
+    - 'Для фрискейта'
+    - Квады

@@ -1,0 +1,8 @@
+caption: 'Одежда больших размеров'
+unit: ''
+description: 'Укажите, если размер товара больше чем: для женщин – 52 размера, для мужчин – 54 размера'
+key: clothes_of_big_sizes
+type: bool
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Рабочая сеть стабилизатора'
+unit: ''
+description: ''
+key: work_network_stabilizer
+type: option
+required: false
+collection: false
+option:
+    - Двухфазная
+    - Однофазная
+    - Трехфазная

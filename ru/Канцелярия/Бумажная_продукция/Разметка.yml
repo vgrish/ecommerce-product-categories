@@ -1,0 +1,15 @@
+caption: Разметка
+unit: ''
+description: ''
+key: markup
+type: option
+required: false
+collection: true
+option:
+    - 'Без разметки'
+    - 'В клетку'
+    - 'В косую линейку'
+    - 'В крупную клетку'
+    - 'В линейку'
+    - 'В точку'
+    - Нотная

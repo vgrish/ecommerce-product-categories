@@ -1,0 +1,11 @@
+caption: 'Форма грифа'
+unit: ''
+description: ''
+key: neck_shape
+type: option
+required: false
+collection: false
+option:
+    - Изогнутый
+    - Прямой
+    - 'С параллельным хватом'

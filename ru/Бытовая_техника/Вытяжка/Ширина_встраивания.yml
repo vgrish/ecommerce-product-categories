@@ -1,0 +1,18 @@
+caption: 'Ширина встраивания'
+unit: см
+description: ''
+key: width_of_embedding
+type: option
+required: false
+collection: false
+option:
+    - '30 см'
+    - '40 см'
+    - '45 см'
+    - '50 см'
+    - '60 см'
+    - '70 см'
+    - '80 см'
+    - '90 см'
+    - '90х90 см'
+    - Нестандарт

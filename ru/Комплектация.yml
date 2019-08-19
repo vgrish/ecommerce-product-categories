@@ -1,0 +1,8 @@
+caption: Комплектация
+unit: ''
+description: ''
+key: equipment
+type: text
+required: false
+collection: false
+option: {  }

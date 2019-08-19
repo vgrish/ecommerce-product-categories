@@ -1,0 +1,11 @@
+caption: 'Назначение ласт'
+unit: ''
+description: ''
+key: purpose_of_fins
+type: option
+required: false
+collection: false
+option:
+    - 'Для дайвинга'
+    - 'Для плавания'
+    - 'Для сноркелинга'

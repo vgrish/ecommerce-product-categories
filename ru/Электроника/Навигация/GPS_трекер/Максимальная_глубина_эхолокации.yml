@@ -1,0 +1,8 @@
+caption: 'Максимальная глубина эхолокации'
+unit: ''
+description: ''
+key: max_depth_of_echolocation
+type: text
+required: false
+collection: false
+option: {  }

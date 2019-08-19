@@ -1,0 +1,8 @@
+caption: Глубинность
+unit: м
+description: ''
+key: depth
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. угол наклона полотна'
+unit: '%'
+description: ''
+key: max_angle_of_incline
+type: text
+required: false
+collection: false
+option: {  }

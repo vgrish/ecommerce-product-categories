@@ -1,0 +1,10 @@
+caption: Хват
+unit: ''
+description: ''
+key: grip
+type: option
+required: false
+collection: false
+option:
+    - Левый
+    - Правый

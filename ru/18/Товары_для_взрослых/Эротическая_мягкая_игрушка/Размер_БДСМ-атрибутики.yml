@@ -1,0 +1,16 @@
+caption: 'Размер БДСМ-атрибутики'
+unit: ''
+description: 'Выберите тот размер изделия, какой указан на упаковке/этикетке. Если товар безразмерный, то выбирайте значение "Универсальный"'
+key: size_bdsm_paraphernalia
+type: option
+required: false
+collection: false
+option:
+    - L
+    - M
+    - S
+    - XL
+    - XS
+    - XXL
+    - XXXL
+    - Универсальный

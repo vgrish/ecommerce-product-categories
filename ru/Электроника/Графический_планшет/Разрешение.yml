@@ -1,0 +1,8 @@
+caption: Разрешение
+unit: линий/дюйм
+description: 'Записывается только число'
+key: resolution
+type: text
+required: false
+collection: false
+option: {  }

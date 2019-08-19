@@ -1,0 +1,8 @@
+caption: 'Диапазон показателей тепмературы внутри'
+unit: ''
+description: ''
+key: range_of_indicators_tepmerature_inside
+type: text
+required: false
+collection: false
+option: {  }

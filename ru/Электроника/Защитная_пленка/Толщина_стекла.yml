@@ -1,0 +1,8 @@
+caption: 'Толщина стекла'
+unit: мм
+description: 'Записывается только число'
+key: thickness_of_glass
+type: text
+required: false
+collection: false
+option: {  }

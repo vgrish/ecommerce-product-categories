@@ -1,0 +1,8 @@
+caption: 'Фактический размер товара'
+unit: см
+description: ''
+key: actual_size_of_product
+type: text
+required: false
+collection: false
+option: {  }

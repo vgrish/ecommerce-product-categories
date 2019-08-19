@@ -1,0 +1,25 @@
+caption: 'Поддержка стандартов и драйверов'
+unit: ''
+description: ''
+key: standards_support_and_drivers
+type: option
+required: false
+collection: true
+option:
+    - A3D
+    - AES/EBU
+    - ALSA
+    - ASIO
+    - CoreAudio
+    - DirectSound
+    - 'DirectSound 3D'
+    - DirectWIRE
+    - DirectX
+    - 'EAX 1.0'
+    - 'EAX 2.0'
+    - 'EAX 3.0'
+    - 'EAX 4.0'
+    - 'EAX 5.0'
+    - MME
+    - OpenAL
+    - WDM

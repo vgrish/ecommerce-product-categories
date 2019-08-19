@@ -1,0 +1,10 @@
+caption: 'Поддерживаемый метод контроля ошибок'
+unit: ''
+description: ''
+key: supported_method_of_error_control
+type: option
+required: false
+collection: true
+option:
+    - ECC
+    - non-ECC

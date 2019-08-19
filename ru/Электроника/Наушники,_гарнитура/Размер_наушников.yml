@@ -1,0 +1,10 @@
+caption: 'Размер наушников'
+unit: ''
+description: ''
+key: headphone_size
+type: option
+required: false
+collection: false
+option:
+    - Накладные
+    - Полноразмерные

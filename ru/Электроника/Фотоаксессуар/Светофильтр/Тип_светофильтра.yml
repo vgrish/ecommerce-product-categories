@@ -1,0 +1,12 @@
+caption: 'Тип светофильтра'
+unit: ''
+description: ''
+key: type_of_filter
+type: option
+required: false
+collection: false
+option:
+    - Защитный
+    - Макро
+    - Поляризационный
+    - Художественный

@@ -1,0 +1,11 @@
+caption: 'Жесткость щетины'
+unit: ''
+description: 'Какая степень жесткости у зубной щетки? Укажите в соответствии с тем, что указано на упаковке.'
+key: stiffness_of_bristles
+type: option
+required: false
+collection: false
+option:
+    - Жесткая
+    - Мягкая
+    - Средняя

@@ -1,0 +1,8 @@
+caption: 'Общий угол излучения'
+unit: °
+description: ''
+key: total_angle_of_radiation
+type: text
+required: false
+collection: false
+option: {  }

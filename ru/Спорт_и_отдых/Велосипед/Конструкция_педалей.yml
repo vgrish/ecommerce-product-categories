@@ -1,0 +1,13 @@
+caption: 'Конструкция педалей'
+unit: ''
+description: ''
+key: design_of_pedals
+type: option
+required: false
+collection: false
+option:
+    - Классическая
+    - Платформы
+    - 'С контактами'
+    - 'С туклипсами'
+    - Складная

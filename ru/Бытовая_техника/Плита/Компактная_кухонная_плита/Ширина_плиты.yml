@@ -1,0 +1,8 @@
+caption: 'Ширина плиты'
+unit: см
+description: 'Записывается только число'
+key: plate_width
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: Емкость
+unit: ''
+description: ''
+key: capacity
+type: option
+required: false
+collection: false
+option:
+    - Стандартная
+    - Увеличенная
+    - Эконом

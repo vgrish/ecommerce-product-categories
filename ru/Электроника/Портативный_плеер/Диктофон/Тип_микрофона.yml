@@ -1,0 +1,10 @@
+caption: 'Тип микрофона'
+unit: ''
+description: 'Выбирается технология микрофона'
+key: microphone_type
+type: option
+required: false
+collection: false
+option:
+    - Динамический
+    - Конденсаторный

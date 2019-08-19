@@ -1,0 +1,8 @@
+caption: Вес
+unit: кг
+description: 'Впишите только число, без едениц измерений, например 25'
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

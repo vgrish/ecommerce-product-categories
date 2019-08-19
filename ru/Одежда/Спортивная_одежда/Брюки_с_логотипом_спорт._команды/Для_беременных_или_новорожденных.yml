@@ -1,0 +1,10 @@
+caption: 'Для беременных или новорожденных'
+unit: ''
+description: 'Выберете соответствующее значение, если товар подходит под категории.'
+key: for_pregnant_women_or_newborns
+type: option
+required: false
+collection: false
+option:
+    - 'Для беременных'
+    - 'Для новорожденных'

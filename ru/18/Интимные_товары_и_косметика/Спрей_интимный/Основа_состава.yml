@@ -1,0 +1,11 @@
+caption: 'Основа состава'
+unit: ''
+description: ''
+key: basis_of_composition
+type: option
+required: false
+collection: false
+option:
+    - Водная
+    - Масляная
+    - Силиконовая

@@ -1,0 +1,8 @@
+caption: 'Лоток подачи'
+unit: листов
+description: 'Записывается только число'
+key: tray
+type: text
+required: false
+collection: false
+option: {  }

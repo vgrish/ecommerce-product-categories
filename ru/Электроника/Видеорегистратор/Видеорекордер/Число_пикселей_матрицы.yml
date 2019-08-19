@@ -1,0 +1,8 @@
+caption: 'Число пикселей матрицы'
+unit: Мпикс
+description: 'Записывается только число'
+key: number_of_pixels_of_matrix
+type: text
+required: false
+collection: false
+option: {  }

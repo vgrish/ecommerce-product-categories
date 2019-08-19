@@ -1,0 +1,8 @@
+caption: 'Макс. ток потребления'
+unit: А
+description: 'Записывается только число'
+key: max_current_consumption
+type: text
+required: false
+collection: false
+option: {  }

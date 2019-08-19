@@ -1,0 +1,13 @@
+caption: 'Поддержка SLI/CrossFire'
+unit: ''
+description: ''
+key: support_sli_crossfire
+type: option
+required: false
+collection: false
+option:
+    - CrossFire
+    - 'CrossFire X'
+    - NVLink
+    - SLI
+    - нет

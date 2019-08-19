@@ -1,0 +1,21 @@
+caption: 'Поддерживаемые протоколы и ПО'
+unit: ''
+description: ''
+key: supported_protocols_and_po
+type: option
+required: false
+collection: true
+option:
+    - 1-Wire
+    - 'Apple HomeKit'
+    - 'FIBARO Home Center 2'
+    - 'FIBARO Home Center Lite'
+    - Insteon
+    - KNX
+    - 'Vera 3'
+    - 'Vera Lite'
+    - Wi-Fi
+    - X10
+    - Z-Wave
+    - ZigBee
+    - Zipato

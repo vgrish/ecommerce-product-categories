@@ -1,0 +1,8 @@
+caption: 'Число перевозимых велосипедов'
+unit: ''
+description: 'Заполняйте только для багажников, которые предназначены для перевозки велосипедов'
+key: number_of_transported_bikes
+type: text
+required: false
+collection: false
+option: {  }

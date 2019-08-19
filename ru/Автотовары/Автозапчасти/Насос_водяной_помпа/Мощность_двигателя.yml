@@ -1,0 +1,8 @@
+caption: 'Мощность двигателя'
+unit: л.с.
+description: ''
+key: engine_power
+type: text
+required: false
+collection: false
+option: {  }

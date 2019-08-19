@@ -1,0 +1,8 @@
+caption: Углеводы
+unit: 'грамм в 1 порции'
+description: ''
+key: carbohydrates
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,24 @@
+caption: 'Форматы дисков'
+unit: ''
+description: 'Поддерживаемые форматы дисков'
+key: disc_formats
+type: option
+required: false
+collection: true
+option:
+    - BD-R
+    - BD-RW
+    - BD-Re
+    - 'Blu-ray 3D'
+    - CD-DA
+    - CD-R/CD-RW
+    - CD-ROM
+    - DVD+R/+RW
+    - DVD-R/-RW
+    - 'DualLayer DVD'
+    - 'Picture CD'
+    - SD/MMC
+    - USB
+    - USB/SD/MMC
+    - VideoCD
+    - кассеты

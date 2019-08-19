@@ -1,0 +1,10 @@
+caption: 'Подключение денежного ящика'
+unit: ''
+description: 'Выбирается только "Да", если к устройству подключается денежный ящик'
+key: connect_cash_drawer
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

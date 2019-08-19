@@ -1,0 +1,8 @@
+caption: Пробег
+unit: ''
+description: ''
+key: mileage
+type: text
+required: false
+collection: false
+option: {  }

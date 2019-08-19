@@ -1,0 +1,21 @@
+caption: 'Качество видео'
+unit: ''
+description: ''
+key: video_quality
+type: option
+required: false
+collection: true
+option:
+    - 4K
+    - 30p
+    - 50i
+    - 50p
+    - 60i
+    - 60p
+    - 720p
+    - 960p
+    - 1080i
+    - 1080p
+    - 1440p
+    - 2160p
+    - VGA

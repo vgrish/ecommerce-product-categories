@@ -1,0 +1,12 @@
+caption: 'Защита информации'
+unit: ''
+description: ''
+key: protection_of_information
+type: option
+required: false
+collection: true
+option:
+    - 802.1X
+    - WEP
+    - WPA
+    - WPA2

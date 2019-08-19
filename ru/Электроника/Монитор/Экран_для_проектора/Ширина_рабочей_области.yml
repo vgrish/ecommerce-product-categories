@@ -1,0 +1,8 @@
+caption: 'Ширина рабочей области'
+unit: см
+description: 'Записывается ширина области экрана, на которую ведется проекция, в см, только цифры'
+key: width_of_stage
+type: float
+required: false
+collection: false
+option: {  }

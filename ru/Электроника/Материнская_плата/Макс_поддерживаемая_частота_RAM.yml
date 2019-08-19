@@ -1,0 +1,8 @@
+caption: 'Макс. поддерживаемая частота RAM'
+unit: ''
+description: ''
+key: max_supported_frequency_of_ram
+type: text
+required: false
+collection: false
+option: {  }

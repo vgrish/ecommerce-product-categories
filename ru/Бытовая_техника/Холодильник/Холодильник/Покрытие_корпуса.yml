@@ -1,0 +1,12 @@
+caption: 'Покрытие корпуса'
+unit: ''
+description: ''
+key: coverage_of_case
+type: option
+required: false
+collection: false
+option:
+    - Антибактериальное
+    - Глянцевое
+    - 'Нержавеющая сталь'
+    - Эмалевое

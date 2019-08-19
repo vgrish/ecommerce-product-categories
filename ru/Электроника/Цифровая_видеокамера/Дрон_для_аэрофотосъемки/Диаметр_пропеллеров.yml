@@ -1,0 +1,8 @@
+caption: 'Диаметр пропеллеров'
+unit: мм
+description: 'Только число без единиц измерения.'
+key: diameter_of_propellers
+type: text
+required: false
+collection: false
+option: {  }

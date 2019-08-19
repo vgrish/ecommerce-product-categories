@@ -1,0 +1,8 @@
+caption: 'Мощность в режиме обогрева'
+unit: Вт
+description: 'Записывается только число'
+key: capacity_in_heating_mode
+type: text
+required: false
+collection: false
+option: {  }

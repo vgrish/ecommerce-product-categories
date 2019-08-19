@@ -1,0 +1,8 @@
+caption: 'Длина проводки'
+unit: ''
+description: ''
+key: length_of_wiring
+type: text
+required: false
+collection: false
+option: {  }

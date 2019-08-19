@@ -1,0 +1,11 @@
+caption: 'Тип гриля'
+unit: ''
+description: ''
+key: type_of_grill
+type: option
+required: false
+collection: false
+option:
+    - Газовый
+    - Инфракрасный
+    - Электрический

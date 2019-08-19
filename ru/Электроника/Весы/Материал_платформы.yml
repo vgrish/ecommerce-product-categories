@@ -1,0 +1,21 @@
+caption: 'Материал платформы'
+unit: ''
+description: ''
+key: platform_material
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Алюминий
+    - Бамбук
+    - Дерево
+    - 'Закаленное стекло'
+    - Металл
+    - Нейлон
+    - 'Нержавеющая сталь'
+    - Пластик
+    - Резина
+    - Силикон
+    - Сталь
+    - Стекло

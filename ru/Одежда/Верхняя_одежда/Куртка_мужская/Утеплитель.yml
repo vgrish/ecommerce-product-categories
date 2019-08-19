@@ -1,0 +1,8 @@
+caption: Утеплитель
+unit: гр
+description: 'Указать граммовку утеплителя, особо актуально для детской верхней одежды'
+key: insulation
+type: text
+required: false
+collection: false
+option: {  }

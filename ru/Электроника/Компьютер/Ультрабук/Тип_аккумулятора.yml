@@ -1,0 +1,23 @@
+caption: 'Тип аккумулятора'
+unit: ''
+description: 'Выбирается химический тип аккумулятора'
+key: battery_type
+type: option
+required: false
+collection: true
+option:
+    - AGM
+    - Li-ion
+    - Li-pol
+    - LiFePo4
+    - NiCd
+    - NiMH
+    - Гелевый
+    - Гибридный
+    - Кальциевый
+    - Литиевый
+    - Малосурьмянистый
+    - Свинцово-кислотный
+    - Солевой
+    - Сурьмянистый
+    - Щелочной

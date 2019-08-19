@@ -1,0 +1,8 @@
+caption: 'Количество розеток'
+unit: шт
+description: 'Записывается только число'
+key: number_of_outlets
+type: text
+required: false
+collection: false
+option: {  }

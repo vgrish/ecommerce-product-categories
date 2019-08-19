@@ -1,0 +1,12 @@
+caption: 'Вид модема'
+unit: ''
+description: ''
+key: modem_view
+type: option
+required: false
+collection: true
+option:
+    - 3G
+    - '4G (LTE)'
+    - Коммутатор
+    - Маршрутизатор

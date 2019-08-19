@@ -1,0 +1,12 @@
+caption: 'Крепление велокресла'
+unit: ''
+description: ''
+key: mount_velocista
+type: option
+required: false
+collection: false
+option:
+    - 'На багажник'
+    - 'На верхнюю трубу'
+    - 'На подседельную трубу'
+    - 'На руль'

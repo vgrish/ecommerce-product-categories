@@ -1,0 +1,8 @@
+caption: 'Обрабатываемая площадь'
+unit: ''
+description: ''
+key: treated_area
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. глубина сканирования'
+unit: м
+description: ''
+key: max_scan_depth
+type: text
+required: false
+collection: false
+option: {  }

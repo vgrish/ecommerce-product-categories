@@ -1,0 +1,12 @@
+caption: 'Форма сухого завтрака'
+unit: ''
+description: 'Укажите форму сухого завтрака'
+key: form_of_dry_breakfast
+type: option
+required: false
+collection: false
+option:
+    - Колечки
+    - Подушечки
+    - Хлопья
+    - Шарики

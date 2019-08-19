@@ -1,0 +1,11 @@
+caption: 'Цвет вина'
+unit: ''
+description: 'Выберите цвет вина'
+key: color_of_wine
+type: option
+required: false
+collection: false
+option:
+    - Белое
+    - Красное
+    - Розовое

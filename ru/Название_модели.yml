@@ -1,0 +1,8 @@
+caption: 'Название модели'
+unit: ''
+description: 'Укажите название модели товара. Не указывайте в этом поле тип и бренд.'
+key: model_name
+type: text
+required: false
+collection: false
+option: {  }

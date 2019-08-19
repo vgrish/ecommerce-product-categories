@@ -1,0 +1,14 @@
+caption: 'Вид термометра'
+unit: ''
+description: 'Технология и принцип, с помощью которых происходит измерение температуры'
+key: kind_of_thermometer
+type: option
+required: false
+collection: true
+option:
+    - Жидкостный
+    - Инфракрасный
+    - Полоска-индикатор
+    - Пустышка
+    - Ртутный
+    - Цифровой

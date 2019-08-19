@@ -1,0 +1,8 @@
+caption: 'Количество предустановок тюнера'
+unit: ''
+description: 'Записывается только число'
+key: number_of_presets_of_tuner
+type: text
+required: false
+collection: false
+option: {  }

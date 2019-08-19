@@ -1,0 +1,15 @@
+caption: 'Тренируемые группы мышц'
+unit: ''
+description: ''
+key: train_muscle_groups
+type: option
+required: false
+collection: true
+option:
+    - Грудь
+    - Кисти
+    - Ноги
+    - Пресс
+    - Руки
+    - Спина
+    - Шея

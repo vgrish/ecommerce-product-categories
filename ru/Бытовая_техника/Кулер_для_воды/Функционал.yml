@@ -1,0 +1,13 @@
+caption: Функционал
+unit: ''
+description: ''
+key: functionality
+type: option
+required: false
+collection: true
+option:
+    - 'Газированная вода (CO2)'
+    - Озонирование
+    - 'Подача воды комнатной температуры'
+    - 'Регулировка температуры'
+    - 'УФ обработка'

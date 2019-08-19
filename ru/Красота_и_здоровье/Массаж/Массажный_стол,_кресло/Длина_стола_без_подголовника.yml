@@ -1,0 +1,8 @@
+caption: 'Длина стола без подголовника'
+unit: см
+description: ''
+key: table_length_without_headrest
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - Автокондиционер
+    - 'Домашний кондиционер'

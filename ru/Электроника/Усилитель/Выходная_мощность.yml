@@ -1,0 +1,8 @@
+caption: 'Выходная мощность'
+unit: ''
+description: ''
+key: output_power
+type: text
+required: false
+collection: false
+option: {  }

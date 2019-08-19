@@ -1,0 +1,13 @@
+caption: 'Вид лука'
+unit: ''
+description: 'Только для лука: укажите разновидность лука'
+key: view_of_bow
+type: option
+required: false
+collection: true
+option:
+    - Белый
+    - Красный
+    - Порей
+    - Репчатый
+    - Шалот

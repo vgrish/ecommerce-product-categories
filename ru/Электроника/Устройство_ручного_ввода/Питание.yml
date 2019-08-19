@@ -1,0 +1,8 @@
+caption: Питание
+unit: ''
+description: ''
+key: food
+type: text
+required: false
+collection: false
+option: {  }

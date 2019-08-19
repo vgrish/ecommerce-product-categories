@@ -1,0 +1,11 @@
+caption: 'Конструкция удилища'
+unit: ''
+description: ''
+key: design_of_rod
+type: option
+required: false
+collection: false
+option:
+    - Кастинговая
+    - Телескопическая
+    - Штекерная

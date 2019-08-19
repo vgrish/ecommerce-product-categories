@@ -1,0 +1,37 @@
+caption: 'Кодовое название граф. процессора'
+unit: ''
+description: ''
+key: code_name_count_processor
+type: option
+required: false
+collection: false
+option:
+    - Caicos
+    - GK208
+    - GP102
+    - GP104
+    - GP106
+    - GP107
+    - GP108
+    - GT218
+    - GV100
+    - 'Navi 10'
+    - 'Oland Pro'
+    - 'Polaris 12'
+    - 'Polaris 20 XL'
+    - 'Polaris 20 XTR'
+    - 'Polaris 20 XTX'
+    - 'Polaris 21'
+    - 'Polaris 30 XT'
+    - RV810
+    - TU102
+    - TU104
+    - TU104-410
+    - TU106-300
+    - TU106-400
+    - TU106-410
+    - TU116
+    - TU117
+    - 'Vega 10 XL'
+    - 'Vega 10 XT'
+    - 'Vega 20'

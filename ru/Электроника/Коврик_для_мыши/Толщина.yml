@@ -1,0 +1,8 @@
+caption: Толщина
+unit: мм
+description: 'Записывается только число'
+key: thickness
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Вид икры'
+unit: ''
+description: 'Укажите вид икры'
+key: caviar
+type: option
+required: false
+collection: true
+option:
+    - Красная
+    - Прочая
+    - Черная

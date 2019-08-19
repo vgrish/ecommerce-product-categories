@@ -1,0 +1,8 @@
+caption: 'Ширина рабочей поверхности'
+unit: см
+description: 'Записывается только число'
+key: width_of_working_surface
+type: text
+required: false
+collection: false
+option: {  }

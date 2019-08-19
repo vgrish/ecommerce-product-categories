@@ -1,0 +1,8 @@
+caption: 'Дальность связи'
+unit: м
+description: 'Записывается только число'
+key: range_of_communication
+type: text
+required: false
+collection: false
+option: {  }

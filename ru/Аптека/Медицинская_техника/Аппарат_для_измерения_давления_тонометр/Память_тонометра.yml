@@ -1,0 +1,10 @@
+caption: 'Память тонометра'
+unit: ''
+description: 'Какие параметры может хранить память тонометра'
+key: memory_of_tonometer
+type: option
+required: false
+collection: true
+option:
+    - 'Сохранение измерений нескольких пользователей'
+    - 'Сохранение результатов предыдущих измерений'

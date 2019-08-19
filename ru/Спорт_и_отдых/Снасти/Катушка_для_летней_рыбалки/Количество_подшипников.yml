@@ -1,0 +1,8 @@
+caption: 'Количество подшипников'
+unit: ''
+description: ''
+key: number_of_bearings
+type: text
+required: false
+collection: false
+option: {  }

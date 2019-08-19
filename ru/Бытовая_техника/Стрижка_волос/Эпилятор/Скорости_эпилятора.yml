@@ -1,0 +1,8 @@
+caption: 'Скорости эпилятора'
+unit: ''
+description: 'Описывается для чего какая скорость эпилятора'
+key: speed_of_epilator
+type: text
+required: false
+collection: false
+option: {  }

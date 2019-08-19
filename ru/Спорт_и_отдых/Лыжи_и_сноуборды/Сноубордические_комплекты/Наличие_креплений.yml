@@ -1,0 +1,10 @@
+caption: 'Наличие креплений'
+unit: ''
+description: ''
+key: presence_of_isofix
+type: option
+required: false
+collection: false
+option:
+    - 'Без крепления'
+    - 'С креплением'

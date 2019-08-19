@@ -1,0 +1,8 @@
+caption: 'Встроенная камера'
+unit: ''
+description: ''
+key: built_in_camera
+type: option
+required: false
+collection: false
+option: {  }

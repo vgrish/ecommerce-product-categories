@@ -1,0 +1,19 @@
+caption: 'Форма оправы'
+unit: ''
+description: ''
+key: form_of_rim
+type: option
+required: false
+collection: false
+option:
+    - Wayfarer
+    - Авиатор
+    - Бабочки
+    - 'Без оправы'
+    - Квадратная
+    - Клубмастер
+    - 'Кошачий глаз'
+    - Круглая
+    - Овальная
+    - Прямоугольная
+    - Стрекозы

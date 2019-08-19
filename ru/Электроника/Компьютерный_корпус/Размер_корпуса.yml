@@ -1,0 +1,15 @@
+caption: 'Размер корпуса'
+unit: ''
+description: ''
+key: size_of_case
+type: option
+required: false
+collection: false
+option:
+    - Desktop
+    - 'Full Tower'
+    - 'Micro Tower'
+    - 'Midi Tower'
+    - 'Mini Tower'
+    - 'Slim Desktop'
+    - 'Super Tower'

@@ -1,0 +1,8 @@
+caption: 'Нагрузка в месяц'
+unit: ''
+description: ''
+key: load_in_a_month
+type: text
+required: false
+collection: false
+option: {  }

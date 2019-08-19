@@ -1,0 +1,8 @@
+caption: Сопротивление
+unit: ''
+description: ''
+key: resistance
+type: text
+required: false
+collection: false
+option: {  }

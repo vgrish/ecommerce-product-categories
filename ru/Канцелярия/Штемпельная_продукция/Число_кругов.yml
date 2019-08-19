@@ -1,0 +1,12 @@
+caption: 'Число кругов'
+unit: ''
+description: ''
+key: number_of_circles
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '1,5'
+    - '2'
+    - '2,5'

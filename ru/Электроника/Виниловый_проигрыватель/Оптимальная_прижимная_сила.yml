@@ -1,0 +1,8 @@
+caption: 'Оптимальная прижимная сила'
+unit: г
+description: 'Записывается только число'
+key: optimal_downforce
+type: text
+required: false
+collection: false
+option: {  }

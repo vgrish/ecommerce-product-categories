@@ -1,0 +1,10 @@
+caption: 'Вид оптического привода'
+unit: ''
+description: 'Расположение привода'
+key: view_optical_drive
+type: option
+required: false
+collection: true
+option:
+    - Внешний
+    - Встроенный

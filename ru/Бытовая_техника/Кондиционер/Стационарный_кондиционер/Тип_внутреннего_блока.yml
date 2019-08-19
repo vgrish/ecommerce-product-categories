@@ -1,0 +1,14 @@
+caption: 'Тип внутреннего блока'
+unit: ''
+description: ''
+key: indoor_unit_type
+type: option
+required: false
+collection: false
+option:
+    - Канальный
+    - Кассетный
+    - Колонный
+    - Напольно-потолочный
+    - Настенный
+    - Оконный

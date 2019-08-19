@@ -1,0 +1,8 @@
+caption: 'Начальная скорость'
+unit: ''
+description: ''
+key: initial_velocity
+type: text
+required: false
+collection: false
+option: {  }

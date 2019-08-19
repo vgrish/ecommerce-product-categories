@@ -1,0 +1,16 @@
+caption: 'Поддержка VPN'
+unit: ''
+description: ''
+key: vpn_support
+type: option
+required: false
+collection: true
+option:
+    - 'IPSec транзит'
+    - 'L2TP клиент'
+    - 'L2TP транзит'
+    - 'OpenVPN клиент'
+    - 'OpenVPN сервер'
+    - 'PPTP клиент'
+    - 'PPTP сервер'
+    - 'PPTP транзит'

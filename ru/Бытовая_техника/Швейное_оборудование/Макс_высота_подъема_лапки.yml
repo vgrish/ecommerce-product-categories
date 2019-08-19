@@ -1,0 +1,8 @@
+caption: 'Макс. высота подъема лапки'
+unit: мм
+description: 'Записывается только число'
+key: max_lifting_height_legs
+type: text
+required: false
+collection: false
+option: {  }

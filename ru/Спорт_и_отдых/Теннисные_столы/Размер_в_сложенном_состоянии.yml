@@ -1,0 +1,8 @@
+caption: 'Размер в сложенном состоянии'
+unit: ''
+description: ''
+key: size_when_folded
+type: text
+required: false
+collection: false
+option: {  }

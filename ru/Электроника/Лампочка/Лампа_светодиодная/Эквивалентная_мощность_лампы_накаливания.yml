@@ -1,0 +1,8 @@
+caption: 'Эквивалентная мощность лампы накаливания'
+unit: Вт
+description: 'Записывается только число'
+key: equivalent_power_of_filament_lamp
+type: text
+required: false
+collection: false
+option: {  }

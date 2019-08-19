@@ -1,0 +1,8 @@
+caption: 'Ход вилки'
+unit: мм
+description: ''
+key: fork
+type: text
+required: false
+collection: false
+option: {  }

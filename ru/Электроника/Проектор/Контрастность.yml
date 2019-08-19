@@ -1,0 +1,8 @@
+caption: Контрастность
+unit: ''
+description: ''
+key: contrast
+type: text
+required: false
+collection: false
+option: {  }

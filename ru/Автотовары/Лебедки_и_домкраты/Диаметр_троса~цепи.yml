@@ -1,0 +1,8 @@
+caption: 'Диаметр троса/цепи'
+unit: мм
+description: ''
+key: diameter_of_rope_chain
+type: text
+required: false
+collection: false
+option: {  }

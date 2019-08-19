@@ -1,0 +1,8 @@
+caption: 'Частота горизонтальной развертки'
+unit: кГц
+description: 'Записывается только число'
+key: horizontal_scanning_frequency
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Пульт ДУ'
+unit: ''
+description: ''
+key: remote_control
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Мощность тыловых колонок'
+unit: Вт
+description: 'Записывается только число'
+key: power_rear_speakers
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Сетевая карта'
+unit: ''
+description: 'Технология проводного Ethernet подключения'
+key: network_card
+type: option
+required: false
+collection: false
+option:
+    - '10/100 Fast Ethernet'
+    - '10/100/1000 Gigabit Ethernet'

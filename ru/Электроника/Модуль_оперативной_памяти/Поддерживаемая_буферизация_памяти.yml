@@ -1,0 +1,10 @@
+caption: 'Поддерживаемая буферизация памяти'
+unit: ''
+description: ''
+key: supported_buffering_memory
+type: option
+required: false
+collection: true
+option:
+    - Registered
+    - Unbuffered

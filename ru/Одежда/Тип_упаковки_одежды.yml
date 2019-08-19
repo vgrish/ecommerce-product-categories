@@ -1,0 +1,16 @@
+caption: 'Тип упаковки одежды'
+unit: ''
+description: ''
+key: type_of_packing_clothes
+type: option
+required: false
+collection: false
+option:
+    - Блистер
+    - 'Бумажный конверт'
+    - Корзинка
+    - Коробка
+    - Косметичка
+    - Пакет
+    - Сетка
+    - Чехол

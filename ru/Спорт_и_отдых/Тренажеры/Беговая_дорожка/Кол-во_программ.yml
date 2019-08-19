@@ -1,0 +1,8 @@
+caption: 'Кол-во программ'
+unit: ''
+description: ''
+key: number_of_programs
+type: text
+required: false
+collection: false
+option: {  }

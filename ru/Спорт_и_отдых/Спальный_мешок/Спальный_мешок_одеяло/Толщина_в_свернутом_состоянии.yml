@@ -1,0 +1,8 @@
+caption: 'Толщина в свернутом состоянии'
+unit: см
+description: ''
+key: thickness_in_collapsed_state
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Для левшей'
+unit: ''
+description: ''
+key: for_left_handers
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

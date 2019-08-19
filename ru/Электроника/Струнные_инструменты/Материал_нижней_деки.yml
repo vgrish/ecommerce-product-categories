@@ -1,0 +1,10 @@
+caption: 'Материал нижней деки'
+unit: ''
+description: ''
+key: lower_deck
+type: option
+required: false
+collection: true
+option:
+    - Ель
+    - Липа

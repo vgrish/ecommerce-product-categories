@@ -1,0 +1,8 @@
+caption: 'Кол-во оборотов/движений'
+unit: 'в минуту'
+description: 'Записывается только число'
+key: number_of_revolutions_of_movements
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Контроллер SATA'
+unit: ''
+description: ''
+key: sata_controller
+type: text
+required: false
+collection: false
+option: {  }

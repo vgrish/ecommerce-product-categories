@@ -1,0 +1,8 @@
+caption: OEM-номер
+unit: ''
+description: ''
+key: oem_number
+type: text
+required: false
+collection: false
+option: {  }

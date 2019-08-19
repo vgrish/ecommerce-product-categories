@@ -1,0 +1,14 @@
+caption: 'Покрытие пленки/стекла'
+unit: ''
+description: ''
+key: coating_film_glass
+type: option
+required: false
+collection: false
+option:
+    - Антибликовое
+    - Глянцевое
+    - Зеркальное
+    - Матовое
+    - Прозрачное
+    - Суперпрозрачное

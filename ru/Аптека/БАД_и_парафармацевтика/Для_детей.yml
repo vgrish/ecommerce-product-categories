@@ -1,0 +1,10 @@
+caption: 'Для детей'
+unit: ''
+description: ''
+key: for_children
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

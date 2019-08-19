@@ -1,0 +1,18 @@
+caption: 'Подсветка духовки'
+unit: ''
+description: ''
+key: lighting_oven
+type: option
+required: false
+collection: false
+option:
+    - CCFL
+    - 'Direct LED'
+    - 'Edge LED'
+    - LED
+    - OLED
+    - QLED
+    - Галогеновая
+    - Есть
+    - 'Лампа накаливания'
+    - Светодиодная

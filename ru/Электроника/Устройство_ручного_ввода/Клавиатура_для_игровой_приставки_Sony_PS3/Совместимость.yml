@@ -1,0 +1,19 @@
+caption: Совместимость
+unit: ''
+description: 'С какими платформами, или ОС совместимо устройство'
+key: compatibility
+type: option
+required: false
+collection: true
+option:
+    - Android
+    - 'Chrome OS'
+    - 'Mac OS'
+    - PC
+    - 'PSP Go'
+    - PlayStation2
+    - PlayStation3
+    - PlayStation4
+    - Wii
+    - Xbox
+    - iOS

@@ -1,0 +1,19 @@
+caption: 'Дней до замены'
+unit: ''
+description: ''
+key: days_before_replacement
+type: option
+required: false
+collection: false
+option:
+    - '1 месяц'
+    - '3 месяца'
+    - '6 месяцев'
+    - '12 месяцев'
+    - '30 дней'
+    - '182 дня'
+    - '365 дней'
+    - Двухнедельные
+    - Ежемесячные
+    - Квартальные
+    - Однодневные

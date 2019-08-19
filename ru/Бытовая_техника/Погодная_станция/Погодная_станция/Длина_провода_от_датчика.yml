@@ -1,0 +1,8 @@
+caption: 'Длина провода от датчика'
+unit: м
+description: 'Записывается только число'
+key: length_of_wire_from_sensor
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Диаметр лопастей'
+unit: см
+description: 'Записывается только число'
+key: diameter_of_blades
+type: text
+required: false
+collection: false
+option: {  }

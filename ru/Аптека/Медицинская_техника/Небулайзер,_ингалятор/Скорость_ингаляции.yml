@@ -1,0 +1,8 @@
+caption: 'Скорость ингаляции'
+unit: мл/мин
+description: ''
+key: inhalation_speed
+type: text
+required: false
+collection: false
+option: {  }

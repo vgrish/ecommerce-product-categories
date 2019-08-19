@@ -1,0 +1,11 @@
+caption: Подсветка
+unit: ''
+description: 'Вид подсветки микроскопа'
+key: backlight
+type: option
+required: false
+collection: true
+option:
+    - Зеркало
+    - 'Лампа накаливания'
+    - 'Светодиодная лампа'

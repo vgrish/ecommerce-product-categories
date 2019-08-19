@@ -1,0 +1,10 @@
+caption: 'Вид антенны'
+unit: ''
+description: ''
+key: antenna_view
+type: option
+required: false
+collection: false
+option:
+    - Внешняя
+    - Внутренняя

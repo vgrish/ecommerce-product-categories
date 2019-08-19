@@ -1,0 +1,8 @@
+caption: 'Уровень шума при стирке/отжиме'
+unit: дБ
+description: 'Записывается только число'
+key: noise_level_in_wash_spin_cycle
+type: text
+required: false
+collection: false
+option: {  }

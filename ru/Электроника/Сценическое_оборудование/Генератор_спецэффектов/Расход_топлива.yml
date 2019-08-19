@@ -1,0 +1,8 @@
+caption: 'Расход топлива'
+unit: л/ч
+description: 'Записывается только число'
+key: fuel_consumption
+type: text
+required: false
+collection: false
+option: {  }

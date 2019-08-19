@@ -1,0 +1,8 @@
+caption: 'Количество каналов'
+unit: ''
+description: ''
+key: number_of_channels
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,38 @@
+caption: Архитектура
+unit: ''
+description: 'Кодовое название архитектуры процессора'
+key: architecture
+type: option
+required: false
+collection: false
+option:
+    - AbuDhabi
+    - Bloomfield
+    - 'Coffee Lake'
+    - 'Devil''s Canyon'
+    - 'Excavator Bristol Ridge'
+    - Godavari
+    - Gulftown
+    - Haswell
+    - Haswell-E
+    - IvyBridge
+    - IvyBridge-E
+    - Kabini
+    - 'Kaby Lake'
+    - Kaveri
+    - Lynnfield
+    - 'Pinnacle Ridge'
+    - Rana
+    - 'Raven Ridge'
+    - Richland
+    - SandyBridge
+    - SandyBridge-E
+    - Shanghai
+    - Skylake
+    - Skylake-X
+    - 'Summit Ridge'
+    - Threadripper
+    - Trinity
+    - Vishera
+    - Warsaw
+    - Zambezi

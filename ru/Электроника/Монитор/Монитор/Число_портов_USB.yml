@@ -1,0 +1,8 @@
+caption: 'Число портов USB'
+unit: ''
+description: 'Записывается только число'
+key: number_of_usb_ports
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Тип лампы'
+unit: ''
+description: ''
+key: lamp_type
+type: option
+required: false
+collection: false
+option:
+    - UHE
+    - UHP

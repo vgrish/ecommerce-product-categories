@@ -1,0 +1,8 @@
+caption: 'Потребляемая мощность при обогреве'
+unit: Вт
+description: 'Записывается только число'
+key: power_consumption_for_heating
+type: text
+required: false
+collection: false
+option: {  }

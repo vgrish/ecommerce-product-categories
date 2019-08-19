@@ -1,0 +1,12 @@
+caption: Размещение
+unit: ''
+description: ''
+key: accommodation
+type: option
+required: false
+collection: true
+option:
+    - Накладное
+    - Напольное
+    - Настенное
+    - Настольное

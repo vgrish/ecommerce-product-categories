@@ -1,0 +1,14 @@
+caption: 'Диаграмма направленности'
+unit: ''
+description: ''
+key: directional_diagram
+type: option
+required: false
+collection: true
+option:
+    - Восьмерка
+    - Кардиоида
+    - Ненаправленная
+    - Однонаправленная
+    - Суперкардиоида
+    - 'Широкая кардиоида'

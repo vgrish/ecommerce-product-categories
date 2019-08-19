@@ -1,0 +1,11 @@
+caption: 'Конструкция очков'
+unit: ''
+description: ''
+key: design_points
+type: option
+required: false
+collection: false
+option:
+    - Безободковые
+    - Ободковые
+    - Полуободковые

@@ -1,0 +1,8 @@
+caption: 'Ширина корешка'
+unit: мм
+description: ''
+key: spine_width
+type: text
+required: false
+collection: false
+option: {  }

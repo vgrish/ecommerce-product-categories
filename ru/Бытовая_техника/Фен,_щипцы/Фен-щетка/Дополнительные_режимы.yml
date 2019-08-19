@@ -1,0 +1,11 @@
+caption: 'Дополнительные режимы'
+unit: ''
+description: ''
+key: additional_modes
+type: option
+required: false
+collection: true
+option:
+    - 'Автоматическое вращение насадки'
+    - Ионизация
+    - 'Холодный воздух'

@@ -1,0 +1,19 @@
+caption: 'Модуль связи Bluetooth'
+unit: ''
+description: 'Указывается версия Bluetooth протокола, которую поддерживает устройство'
+key: bluetooth_communication_module
+type: option
+required: false
+collection: false
+option:
+    - '1.2'
+    - '2.0'
+    - 2.1+EDR
+    - 3.0+HS
+    - '4.0'
+    - '4.0 aptX'
+    - '4.1'
+    - '4.2'
+    - 4.0+LE
+    - 4.2+LE
+    - '5.0'

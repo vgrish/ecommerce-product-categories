@@ -1,0 +1,13 @@
+caption: 'Назначение акустики'
+unit: ''
+description: 'Для какого звукового канала используется устройство'
+key: purpose_of_acoustics
+type: option
+required: false
+collection: true
+option:
+    - Сабвуфер
+    - Саундбар
+    - 'Тыловая акустика'
+    - 'Фронтальные колонки'
+    - 'Центральный канал'

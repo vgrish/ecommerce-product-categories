@@ -1,0 +1,13 @@
+caption: 'Принцип действия'
+unit: ''
+description: ''
+key: principle_of_operation
+type: option
+required: false
+collection: false
+option:
+    - Водный
+    - Воздушно-пенный
+    - Порошковый
+    - Углекислотный
+    - Хладоновый

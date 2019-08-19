@@ -1,0 +1,8 @@
+caption: 'Общее кол-во форсунок'
+unit: шт
+description: ''
+key: total_number_of_injectors
+type: text
+required: false
+collection: false
+option: {  }

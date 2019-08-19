@@ -1,0 +1,16 @@
+caption: 'Вид электромобиля'
+unit: ''
+description: ''
+key: kind_of_electric_car
+type: option
+required: false
+collection: false
+option:
+    - Автомобиль
+    - Багги
+    - Веломобиль
+    - Внедорожник
+    - Джип
+    - Квадроцикл
+    - Кеткар
+    - Мотоцикл

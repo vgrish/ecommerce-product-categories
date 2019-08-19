@@ -1,0 +1,11 @@
+caption: 'Тип усилителя'
+unit: ''
+description: 'Схемотехника усилителя'
+key: type_of_amplifier
+type: option
+required: false
+collection: false
+option:
+    - Гибридный
+    - Ламповый
+    - Транзисторный

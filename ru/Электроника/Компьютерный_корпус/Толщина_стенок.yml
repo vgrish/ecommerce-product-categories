@@ -1,0 +1,8 @@
+caption: 'Толщина стенок'
+unit: мм
+description: 'Записывается только число'
+key: thickness_of_walls
+type: text
+required: false
+collection: false
+option: {  }

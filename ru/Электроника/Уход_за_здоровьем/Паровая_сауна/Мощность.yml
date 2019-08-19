@@ -1,0 +1,8 @@
+caption: Мощность
+unit: ''
+description: 'Записывается потребляемая мощность прибора'
+key: power
+type: text
+required: false
+collection: false
+option: {  }

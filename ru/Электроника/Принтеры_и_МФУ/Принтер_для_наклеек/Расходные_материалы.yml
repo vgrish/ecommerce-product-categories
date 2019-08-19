@@ -1,0 +1,8 @@
+caption: 'Расходные материалы'
+unit: ''
+description: 'Записываются модели совместимых расходников - тонеров, чернил и т.п.'
+key: supplies
+type: text
+required: false
+collection: false
+option: {  }

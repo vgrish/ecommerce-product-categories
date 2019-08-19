@@ -1,0 +1,8 @@
+caption: 'Минимальная освещенность'
+unit: люкс
+description: 'Записывается только число'
+key: min_illumination
+type: text
+required: false
+collection: false
+option: {  }

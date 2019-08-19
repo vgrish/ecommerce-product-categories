@@ -1,0 +1,8 @@
+caption: 'Предоплаченные SMS'
+unit: шт.
+description: 'Записывается только число'
+key: prepaid_sms
+type: text
+required: false
+collection: false
+option: {  }

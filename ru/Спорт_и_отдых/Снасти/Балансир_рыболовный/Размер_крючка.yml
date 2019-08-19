@@ -1,0 +1,22 @@
+caption: 'Размер крючка'
+unit: 'N'
+description: ''
+key: hook_size
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - '10'
+    - '12'
+    - '14'
+    - '16'
+    - '18'
+    - '20'

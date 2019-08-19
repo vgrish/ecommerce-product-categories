@@ -1,0 +1,9 @@
+caption: 'Возрастные ограничения'
+unit: ''
+description: ''
+key: age_limit
+type: option
+required: false
+collection: true
+option:
+    - 18+

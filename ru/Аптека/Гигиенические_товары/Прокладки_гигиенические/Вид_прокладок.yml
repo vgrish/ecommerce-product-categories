@@ -1,0 +1,15 @@
+caption: 'Вид прокладок'
+unit: ''
+description: 'Укажите вид прокладок.'
+key: kind_of_gaskets
+type: option
+required: false
+collection: true
+option:
+    - Гигиенические
+    - Ежедневные
+    - Многоразовые
+    - Подмышечные
+    - Послеродовые
+    - Трусики
+    - Урологические

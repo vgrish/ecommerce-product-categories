@@ -1,0 +1,8 @@
+caption: 'Число портов Thunderbolt'
+unit: ''
+description: 'Записывается только число'
+key: number_of_thunderbolt_ports
+type: int
+required: false
+collection: false
+option: {  }

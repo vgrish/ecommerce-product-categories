@@ -1,0 +1,10 @@
+caption: 'Для правшей/для левшей'
+unit: ''
+description: ''
+key: for_right_handers_for_left_handers
+type: option
+required: false
+collection: false
+option:
+    - 'Для левшей'
+    - 'Для правшей'

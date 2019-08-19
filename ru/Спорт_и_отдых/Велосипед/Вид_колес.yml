@@ -1,0 +1,10 @@
+caption: 'Вид колес'
+unit: ''
+description: ''
+key: type_of_wheels
+type: option
+required: false
+collection: false
+option:
+    - Бескамерные
+    - Надувные

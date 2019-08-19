@@ -1,0 +1,12 @@
+caption: 'Вид блока сплит-системы'
+unit: ''
+description: 'Для комплекта сплит-системы нужно выбирать "Сплит-система"'
+key: kind_of_unit_split_system
+type: option
+required: false
+collection: false
+option:
+    - 'Внешний блок'
+    - 'Внутренний блок'
+    - Комплект
+    - Мультисплит-система

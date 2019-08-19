@@ -1,0 +1,8 @@
+caption: 'Сетевой контроллер'
+unit: ''
+description: ''
+key: network_controller
+type: text
+required: false
+collection: false
+option: {  }

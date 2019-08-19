@@ -1,0 +1,30 @@
+caption: Разъемы
+unit: ''
+description: 'Выбираются разъемы устройства (интерфейсы)'
+key: connectors
+type: option
+required: false
+collection: true
+option:
+    - '3.5 мм микрофон'
+    - '3.5 мм'
+    - '6.3 мм'
+    - 'Apple Lightning'
+    - DisplayPort
+    - HDMI
+    - 'Thunderbolt 3'
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Gen 2 (SuperSpeed+)'
+    - 'USB 3.1 Type-C'
+    - 'USB 3.1 Type-C/DisplayPort'
+    - 'USB 3.1 Type-C/Thunderbolt 3'
+    - 'USB 3.2'
+    - microHDMI
+    - 'microUSB 2.0'
+    - miniDisplayPort
+    - miniHDMI
+    - 'miniUSB 2.0'
+    - 'Комбинированный 3.5 мм (выход на наушники/микрофонный вход)'
+    - 'Разъем для видеокамеры заднего вида'

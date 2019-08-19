@@ -1,0 +1,11 @@
+caption: 'Класс тренажера'
+unit: ''
+description: ''
+key: class_simulator
+type: option
+required: false
+collection: false
+option:
+    - Домашний
+    - Клубный
+    - Профессиональный

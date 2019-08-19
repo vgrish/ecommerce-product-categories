@@ -1,0 +1,8 @@
+caption: Ширина
+unit: см
+description: 'Впишите только число, без едениц измерений, например 25'
+key: width
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,16 @@
+caption: 'Форма корпуса'
+unit: ''
+description: ''
+key: case_shape
+type: option
+required: false
+collection: false
+option:
+    - Бочка
+    - Восьмиугольник
+    - Квадрат
+    - Круг
+    - Овал
+    - Прямоугольник
+    - Треугольник
+    - Тубус

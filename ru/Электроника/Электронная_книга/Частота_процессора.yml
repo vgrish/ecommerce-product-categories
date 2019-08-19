@@ -1,0 +1,8 @@
+caption: 'Частота процессора'
+unit: МГц
+description: 'Записывается только число'
+key: processor_frequency
+type: text
+required: false
+collection: false
+option: {  }

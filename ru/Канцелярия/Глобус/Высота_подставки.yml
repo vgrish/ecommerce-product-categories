@@ -1,0 +1,8 @@
+caption: 'Высота подставки'
+unit: см
+description: ''
+key: stand_height
+type: text
+required: false
+collection: false
+option: {  }

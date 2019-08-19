@@ -1,0 +1,8 @@
+caption: 'Макс. время работы'
+unit: дни
+description: 'Записывается только число'
+key: max_working_time
+type: text
+required: false
+collection: false
+option: {  }

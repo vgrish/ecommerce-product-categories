@@ -1,0 +1,12 @@
+caption: 'Вид маски'
+unit: ''
+description: ''
+key: appearance_of_mask
+type: option
+required: false
+collection: false
+option:
+    - Альгинатная
+    - Гелевая
+    - Кремовая
+    - Тканевая

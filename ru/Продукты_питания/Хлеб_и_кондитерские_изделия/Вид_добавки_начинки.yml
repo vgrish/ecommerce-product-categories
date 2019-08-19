@@ -1,0 +1,11 @@
+caption: 'Вид добавки (начинки)'
+unit: ''
+description: ''
+key: kind_of_additives_fillings
+type: option
+required: false
+collection: true
+option:
+    - Дробленая
+    - Кусочками
+    - Цельная

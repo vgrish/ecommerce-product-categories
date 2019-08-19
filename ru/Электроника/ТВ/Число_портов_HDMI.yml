@@ -1,0 +1,8 @@
+caption: 'Число портов HDMI'
+unit: ''
+description: 'Записывается только число'
+key: number_of_hdmi_ports
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,9 @@
+caption: 'Вид продукта'
+unit: ''
+description: ''
+key: product
+type: option
+required: false
+collection: false
+option:
+    - БАД

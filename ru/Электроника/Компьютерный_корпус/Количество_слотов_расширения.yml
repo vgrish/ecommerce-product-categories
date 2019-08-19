@@ -1,0 +1,11 @@
+caption: 'Количество слотов расширения'
+unit: ''
+description: ''
+key: number_of_expansion_slots
+type: option
+required: false
+collection: false
+option:
+    - '4'
+    - '7'
+    - '10'

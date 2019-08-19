@@ -1,0 +1,19 @@
+caption: Текстура
+unit: ''
+description: ''
+key: texture
+type: option
+required: false
+collection: true
+option:
+    - Аэрозоль
+    - Гелевая
+    - Густая
+    - Жидкая
+    - Кремовая
+    - Масляная
+    - 'На водной основе'
+    - Рассыпчатая
+    - Спрей
+    - Сухая
+    - Твердая

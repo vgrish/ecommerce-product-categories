@@ -1,0 +1,8 @@
+caption: 'Характеристики динамиков'
+unit: ''
+description: ''
+key: speaker_characteristics
+type: text
+required: false
+collection: false
+option: {  }

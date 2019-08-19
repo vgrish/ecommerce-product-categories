@@ -1,0 +1,8 @@
+caption: Плотность
+unit: г/м2
+description: ''
+key: density
+type: text
+required: false
+collection: false
+option: {  }

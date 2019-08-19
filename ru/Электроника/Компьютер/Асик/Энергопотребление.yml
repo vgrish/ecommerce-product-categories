@@ -1,0 +1,8 @@
+caption: Энергопотребление
+unit: ''
+description: 'Записывается энергопотребление майнера'
+key: power_consumption
+type: text
+required: false
+collection: false
+option: {  }

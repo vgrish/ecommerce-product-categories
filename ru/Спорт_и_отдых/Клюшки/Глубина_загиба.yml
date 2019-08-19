@@ -1,0 +1,8 @@
+caption: 'Глубина загиба'
+unit: мм
+description: ''
+key: depth_of_bend
+type: text
+required: false
+collection: false
+option: {  }

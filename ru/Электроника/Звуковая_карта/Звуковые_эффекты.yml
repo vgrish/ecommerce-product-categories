@@ -1,0 +1,31 @@
+caption: 'Звуковые эффекты'
+unit: ''
+description: ''
+key: sound_effects
+type: option
+required: false
+collection: true
+option:
+    - Boost
+    - Chorus
+    - Compressor
+    - Crunch
+    - Delay
+    - Distortion
+    - Dual
+    - Echo
+    - Equalizer
+    - Flanger
+    - Fuzz
+    - Gain
+    - 'Noise Reduction'
+    - Octaver
+    - Overdrive
+    - Phaser
+    - Pitch
+    - Sustain
+    - Transpose
+    - Tuner
+    - Vibrato
+    - Ревербация
+    - Тремоло

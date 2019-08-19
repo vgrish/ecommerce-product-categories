@@ -1,0 +1,8 @@
+caption: 'Мощность фронтальных колонок'
+unit: Вт
+description: 'Записывается только число'
+key: power_front_speakers
+type: text
+required: false
+collection: false
+option: {  }

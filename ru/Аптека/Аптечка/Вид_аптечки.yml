@@ -1,0 +1,10 @@
+caption: 'Вид аптечки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_kits
+type: option
+required: false
+collection: true
+option:
+    - Индивидуальная
+    - Коллективная

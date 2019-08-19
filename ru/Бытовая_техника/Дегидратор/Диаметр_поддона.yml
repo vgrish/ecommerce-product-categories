@@ -1,0 +1,8 @@
+caption: 'Диаметр поддона'
+unit: см
+description: 'Записывается только число'
+key: diameter_of_pan
+type: text
+required: false
+collection: false
+option: {  }

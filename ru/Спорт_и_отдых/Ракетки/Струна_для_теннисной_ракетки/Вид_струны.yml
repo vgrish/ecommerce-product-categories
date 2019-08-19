@@ -1,0 +1,14 @@
+caption: 'Вид струны'
+unit: ''
+description: ''
+key: form_of_a_string
+type: option
+required: false
+collection: false
+option:
+    - Гибридная
+    - Композит
+    - Моноволокно
+    - Мультиволокно
+    - Натуральная
+    - Оплетка

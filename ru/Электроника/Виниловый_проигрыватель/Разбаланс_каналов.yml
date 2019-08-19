@@ -1,0 +1,8 @@
+caption: 'Разбаланс каналов'
+unit: дБ
+description: 'Записывается только число'
+key: imbalance_of_channels
+type: text
+required: false
+collection: false
+option: {  }

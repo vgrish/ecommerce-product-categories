@@ -1,0 +1,17 @@
+caption: 'Материал ворса кисти'
+unit: ''
+description: ''
+key: material_of_bristles_of_brush
+type: option
+required: false
+collection: true
+option:
+    - Белка
+    - Коза
+    - Колонок
+    - Мангуст
+    - Медведь
+    - Пони
+    - Синтетика
+    - Соболь
+    - Щетина

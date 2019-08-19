@@ -1,0 +1,8 @@
+caption: 'Объем ресивера'
+unit: л
+description: 'Записывается только число'
+key: volume_of_receiver
+type: text
+required: false
+collection: false
+option: {  }

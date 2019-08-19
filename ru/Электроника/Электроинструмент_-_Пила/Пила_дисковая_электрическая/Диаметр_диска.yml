@@ -1,0 +1,8 @@
+caption: 'Диаметр диска'
+unit: см
+description: 'Записывается только число'
+key: diameter_of_disc
+type: text
+required: false
+collection: false
+option: {  }

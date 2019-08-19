@@ -1,0 +1,12 @@
+caption: 'Функциональные особенности'
+unit: ''
+description: ''
+key: functional_features
+type: option
+required: false
+collection: true
+option:
+    - Автостарт/автостоп
+    - 'Индикация перегрева'
+    - 'Индикация полной корзины'
+    - Реверс

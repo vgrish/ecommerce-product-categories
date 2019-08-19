@@ -1,0 +1,14 @@
+caption: Таймер
+unit: ''
+description: 'Функциональность таймера'
+key: timer
+type: option
+required: false
+collection: true
+option:
+    - Звуковой
+    - Программатор
+    - 'С отключением'
+    - 'С отключением духовки'
+    - 'С отключением конфорок'
+    - Электронный

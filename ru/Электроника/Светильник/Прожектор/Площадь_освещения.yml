@@ -1,0 +1,8 @@
+caption: 'Площадь освещения'
+unit: кв.м
+description: 'Записывается только число'
+key: area_lighting
+type: text
+required: false
+collection: false
+option: {  }

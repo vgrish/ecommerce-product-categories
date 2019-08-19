@@ -1,0 +1,17 @@
+caption: 'Проводные интерфейсы контроллера'
+unit: ''
+description: ''
+key: wired_interfaces_controller
+type: option
+required: false
+collection: true
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - SAS
+    - 'VGA (f)'
+    - 'mini SAS'

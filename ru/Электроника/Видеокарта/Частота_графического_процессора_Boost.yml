@@ -1,0 +1,8 @@
+caption: 'Частота графического процессора (Boost)'
+unit: ''
+description: ''
+key: frequency_of_gpu_boost
+type: text
+required: false
+collection: false
+option: {  }

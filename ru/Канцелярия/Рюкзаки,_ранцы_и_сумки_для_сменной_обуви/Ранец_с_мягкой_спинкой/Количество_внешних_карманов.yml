@@ -1,0 +1,8 @@
+caption: 'Количество внешних карманов'
+unit: ''
+description: ''
+key: quantity_of_external_pockets
+type: text
+required: false
+collection: false
+option: {  }

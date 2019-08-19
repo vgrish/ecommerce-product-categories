@@ -1,0 +1,12 @@
+caption: 'Тип сканера'
+unit: ''
+description: ''
+key: scanner_type
+type: option
+required: false
+collection: true
+option:
+    - 1D
+    - 2D
+    - Планшетный
+    - Протяжный

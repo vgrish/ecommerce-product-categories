@@ -1,0 +1,13 @@
+caption: Камера
+unit: ''
+description: ''
+key: camera
+type: option
+required: false
+collection: false
+option:
+    - '0.3 Мпикс'
+    - '1 Мпикс'
+    - '1.3 Мпикс'
+    - '1.4 Мпикс'
+    - '2.0 Мпикс'

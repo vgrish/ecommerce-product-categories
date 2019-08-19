@@ -1,0 +1,8 @@
+caption: 'Количество тревожных входов'
+unit: ''
+description: ''
+key: quantity_of_alarm_inputs
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество батарей'
+unit: ''
+description: ''
+key: battery_number
+type: text
+required: false
+collection: false
+option: {  }

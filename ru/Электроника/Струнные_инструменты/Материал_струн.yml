@@ -1,0 +1,12 @@
+caption: 'Материал струн'
+unit: ''
+description: ''
+key: material_of_strings
+type: option
+required: false
+collection: true
+option:
+    - Бронза
+    - Металл
+    - Нейлон
+    - Никель

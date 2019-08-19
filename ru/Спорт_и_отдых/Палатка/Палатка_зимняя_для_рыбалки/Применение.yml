@@ -1,0 +1,12 @@
+caption: Применение
+unit: ''
+description: ''
+key: application
+type: option
+required: false
+collection: false
+option:
+    - 'Для душа/туалета'
+    - Кемпинговое
+    - Трекинговое
+    - Экстремальное

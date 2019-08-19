@@ -1,0 +1,8 @@
+caption: 'Разрешение основной тыловой камеры'
+unit: Мпикс
+description: 'Записывается только число'
+key: resolution_main_rear_camera
+type: text
+required: false
+collection: false
+option: {  }

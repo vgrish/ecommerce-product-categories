@@ -1,0 +1,11 @@
+caption: 'Материал подставки'
+unit: ''
+description: ''
+key: material_stand
+type: option
+required: false
+collection: false
+option:
+    - Дерево
+    - Металл
+    - Пластик

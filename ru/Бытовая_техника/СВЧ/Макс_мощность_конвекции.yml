@@ -1,0 +1,8 @@
+caption: 'Макс. мощность конвекции'
+unit: Вт
+description: 'Записывается только число'
+key: max_power_convection
+type: text
+required: false
+collection: false
+option: {  }

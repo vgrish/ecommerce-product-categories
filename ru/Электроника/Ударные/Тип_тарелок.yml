@@ -1,0 +1,17 @@
+caption: 'Тип тарелок'
+unit: ''
+description: ''
+key: type_of_plates
+type: option
+required: false
+collection: false
+option:
+    - Наборы
+    - 'Оркестровые тарелки'
+    - 'Ремни и чехлы для тарелок'
+    - 'Тарелки China'
+    - 'Тарелки Crash (Крэш)'
+    - 'Тарелки Effect'
+    - 'Тарелки Hi-Hats (Хай-хет)'
+    - 'Тарелки Ride (Райд)'
+    - 'Тарелки Splash'

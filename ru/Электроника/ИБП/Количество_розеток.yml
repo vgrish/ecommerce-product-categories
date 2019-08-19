@@ -1,0 +1,8 @@
+caption: 'Количество розеток'
+unit: ''
+description: ''
+key: number_of_outlets
+type: text
+required: false
+collection: false
+option: {  }

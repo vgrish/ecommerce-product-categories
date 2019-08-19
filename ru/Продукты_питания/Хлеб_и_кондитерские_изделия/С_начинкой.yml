@@ -1,0 +1,10 @@
+caption: 'С начинкой'
+unit: ''
+description: ''
+key: stuffed
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

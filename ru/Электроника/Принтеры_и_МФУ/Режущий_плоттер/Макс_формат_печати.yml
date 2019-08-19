@@ -1,0 +1,18 @@
+caption: 'Макс. формат печати'
+unit: ''
+description: 'Форматы-размеры бумаги'
+key: max_print_format
+type: option
+required: false
+collection: false
+option:
+    - '5 x 8 см'
+    - '5,1 x 7,6 см'
+    - '7,6 x 7,6 см'
+    - '14 х 23,5 см'
+    - 'A3 (297 x 420 мм)'
+    - 'A3 (303 x 426 мм)'
+    - 'A3+ (330 x 483 мм)'
+    - 'A4 (216 x 303 мм)'
+    - A4+
+    - 'A6 (105 x 148 мм)'

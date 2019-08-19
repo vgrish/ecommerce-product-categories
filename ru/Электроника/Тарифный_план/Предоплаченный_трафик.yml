@@ -1,0 +1,8 @@
+caption: 'Предоплаченный трафик'
+unit: МБ
+description: 'Записывается только число'
+key: prepaid_traffic
+type: text
+required: false
+collection: false
+option: {  }

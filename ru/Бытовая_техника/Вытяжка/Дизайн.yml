@@ -1,0 +1,18 @@
+caption: Дизайн
+unit: ''
+description: 'Дизайн вытяжки под интерьер кухни'
+key: design
+type: option
+required: false
+collection: false
+option:
+    - Hi-Tech
+    - Ампир
+    - Барокко
+    - Дизельпанк
+    - Кантри
+    - Модерн
+    - Ретро
+    - Рококо
+    - Техно
+    - Футуризм

@@ -1,0 +1,9 @@
+caption: 'Материал тонарма'
+unit: ''
+description: ''
+key: material_of_tonearm
+type: option
+required: false
+collection: true
+option:
+    - Алюминий

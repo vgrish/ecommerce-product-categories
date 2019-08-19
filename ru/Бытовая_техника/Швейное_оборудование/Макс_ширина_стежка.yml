@@ -1,0 +1,8 @@
+caption: 'Макс. ширина стежка'
+unit: мм
+description: 'Записывается только число'
+key: max_stitch_width
+type: text
+required: false
+collection: false
+option: {  }

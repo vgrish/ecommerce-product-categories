@@ -1,0 +1,8 @@
+caption: 'Кэш L2'
+unit: КБ
+description: 'Записывается только число'
+key: l2_cache
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: Форма
+unit: ''
+description: ''
+key: form
+type: option
+required: false
+collection: false
+option:
+    - 'для левшей'
+    - 'для правшей'
+    - универсальная

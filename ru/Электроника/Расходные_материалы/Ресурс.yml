@@ -1,0 +1,8 @@
+caption: Ресурс
+unit: ''
+description: 'Записывается ресурс расходного материала, в любом формате'
+key: resource
+type: text
+required: false
+collection: false
+option: {  }

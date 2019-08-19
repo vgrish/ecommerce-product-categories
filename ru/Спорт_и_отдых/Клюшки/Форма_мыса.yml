@@ -1,0 +1,18 @@
+caption: 'Форма мыса'
+unit: ''
+description: ''
+key: shape_of_cape
+type: option
+required: false
+collection: false
+option:
+    - Дорожка
+    - Квадрат
+    - Круг
+    - Нестандартная
+    - Овал
+    - Полукруг
+    - Прямоугольник
+    - Сердечко
+    - Треугольник
+    - 'Четверть круга'

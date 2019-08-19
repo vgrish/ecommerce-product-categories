@@ -1,0 +1,8 @@
+caption: 'Макс. диагональ'
+unit: дюймы
+description: 'Записывается только число'
+key: max_diagonal
+type: text
+required: false
+collection: false
+option: {  }

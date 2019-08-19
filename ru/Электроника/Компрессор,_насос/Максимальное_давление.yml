@@ -1,0 +1,8 @@
+caption: 'Максимальное давление'
+unit: 'атм (кг/см2)'
+description: 'Записывается только число'
+key: max_pressure
+type: text
+required: false
+collection: false
+option: {  }

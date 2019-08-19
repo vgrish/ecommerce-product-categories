@@ -1,0 +1,14 @@
+caption: 'Номинальное напряжение двигателя'
+unit: ''
+description: ''
+key: motor_rated_voltage
+type: option
+required: false
+collection: false
+option:
+    - '5 В'
+    - '9 В'
+    - '9.5 В'
+    - '12 В'
+    - '16 В'
+    - '19 В'

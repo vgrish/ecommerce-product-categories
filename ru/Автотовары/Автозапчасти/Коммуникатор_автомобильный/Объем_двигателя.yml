@@ -1,0 +1,8 @@
+caption: 'Объем двигателя'
+unit: 'куб. см'
+description: ''
+key: engine_size
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Ресурс картриджа'
+unit: ''
+description: 'Продолжительность работы картриджа'
+key: toner_cartridge
+type: text
+required: false
+collection: false
+option: {  }

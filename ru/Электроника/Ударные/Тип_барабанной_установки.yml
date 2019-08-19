@@ -1,0 +1,12 @@
+caption: 'Тип барабанной установки'
+unit: ''
+description: ''
+key: type_drum_set
+type: option
+required: false
+collection: false
+option:
+    - 'Комплект ударной установки'
+    - 'Педали для бас барабана'
+    - 'Стойки для ударной установки'
+    - 'Стул для барабанщика'

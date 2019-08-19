@@ -1,0 +1,8 @@
+caption: 'Номинальная мощность'
+unit: кВт
+description: ''
+key: rated_power
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,18 @@
+caption: 'Тип батарей'
+unit: ''
+description: ''
+key: battery_type
+type: option
+required: false
+collection: false
+option:
+    - '"Крона" (6LR61)'
+    - AA
+    - 'AAA (LR03)'
+    - 'C (LR14)'
+    - CR2025
+    - CR2032
+    - D
+    - LR14
+    - R14
+    - Оригинальный

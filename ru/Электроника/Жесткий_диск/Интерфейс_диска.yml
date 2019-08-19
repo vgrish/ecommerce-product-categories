@@ -1,0 +1,28 @@
+caption: 'Интерфейс диска'
+unit: ''
+description: ''
+key: drives_interface
+type: option
+required: false
+collection: true
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - PCIe
+    - SAS
+    - SATA
+    - 'SATA2 3.0 Гбит/с'
+    - 'SATA3 6.0 Гбит/с'
+    - Thunderbolt
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Type-C'
+    - 'VGA (f)'
+    - mSATA
+    - 'microUSB 3.0'
+    - 'mini SAS'

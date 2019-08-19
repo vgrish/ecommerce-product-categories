@@ -1,0 +1,8 @@
+caption: 'Максимальная мощность мотора'
+unit: л.с.
+description: ''
+key: max_engine_power
+type: text
+required: false
+collection: false
+option: {  }

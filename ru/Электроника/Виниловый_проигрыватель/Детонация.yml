@@ -1,0 +1,8 @@
+caption: Детонация
+unit: '%'
+description: 'Записывается только число'
+key: detonation
+type: text
+required: false
+collection: false
+option: {  }

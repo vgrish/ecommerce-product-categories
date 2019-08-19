@@ -1,0 +1,18 @@
+caption: 'Материал решетки для посуды'
+unit: ''
+description: ''
+key: grille_material_for_cookware
+type: option
+required: false
+collection: false
+option:
+    - ''
+    - 'Без подклада'
+    - Вишня
+    - Металл
+    - 'Нержавеющая сталь'
+    - Сталь
+    - Чугун
+    - Шардон-меланж
+    - 'Эмалированная сталь'
+    - Эмаль

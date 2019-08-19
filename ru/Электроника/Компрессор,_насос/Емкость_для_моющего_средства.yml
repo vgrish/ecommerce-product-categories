@@ -1,0 +1,8 @@
+caption: 'Емкость для моющего средства'
+unit: л
+description: 'Записывается только число'
+key: capacity_for_detergent
+type: text
+required: false
+collection: false
+option: {  }

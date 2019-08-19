@@ -1,0 +1,8 @@
+caption: 'Кол-во устанавливаемых дисков'
+unit: ''
+description: ''
+key: number_of_installed_drives
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Длина отделения'
+unit: см
+description: 'Записывается только число'
+key: length_of_branch
+type: text
+required: false
+collection: false
+option: {  }

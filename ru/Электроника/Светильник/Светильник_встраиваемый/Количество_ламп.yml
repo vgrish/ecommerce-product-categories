@@ -1,0 +1,8 @@
+caption: 'Количество ламп'
+unit: шт
+description: 'Записывается только число'
+key: number_of_bulbs
+type: text
+required: false
+collection: false
+option: {  }

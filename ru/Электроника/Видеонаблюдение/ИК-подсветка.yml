@@ -1,0 +1,8 @@
+caption: ИК-подсветка
+unit: ''
+description: ''
+key: ir_illumination
+type: text
+required: false
+collection: false
+option: {  }

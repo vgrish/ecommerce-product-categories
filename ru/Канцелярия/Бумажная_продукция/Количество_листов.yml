@@ -1,0 +1,8 @@
+caption: 'Количество листов'
+unit: шт
+description: ''
+key: number_of_sheets
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Степень газирования'
+unit: ''
+description: 'Укажите степень газирования воды'
+key: degree_of_carbonation
+type: option
+required: false
+collection: true
+option:
+    - Газированная
+    - Негазированная
+    - Сильногазированная
+    - Слабогазированная
+    - Среднегазированная

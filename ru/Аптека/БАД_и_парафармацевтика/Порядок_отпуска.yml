@@ -1,0 +1,10 @@
+caption: 'Порядок отпуска'
+unit: ''
+description: ''
+key: order_holiday
+type: option
+required: false
+collection: false
+option:
+    - 'Без рецепта'
+    - 'По рецепту'

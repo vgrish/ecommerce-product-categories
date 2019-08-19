@@ -1,0 +1,8 @@
+caption: 'Ширина полотна'
+unit: см
+description: ''
+key: width_of_fabric
+type: float
+required: false
+collection: false
+option: {  }

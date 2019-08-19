@@ -1,0 +1,8 @@
+caption: Чипсет/приемник
+unit: ''
+description: 'Записывается модель приемника и его свойства'
+key: chipset_receiver
+type: text
+required: false
+collection: false
+option: {  }

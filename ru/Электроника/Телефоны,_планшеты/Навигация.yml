@@ -1,0 +1,15 @@
+caption: Навигация
+unit: ''
+description: 'Выбираются поддерживаемые спутниковые системы'
+key: navigation
+type: option
+required: false
+collection: true
+option:
+    - A-GPS
+    - Beidou
+    - GALILEO
+    - GPS
+    - iBeacon
+    - 'Внешний GPS-приемник'
+    - ГЛОНАСС

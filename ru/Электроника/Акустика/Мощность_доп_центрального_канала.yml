@@ -1,0 +1,8 @@
+caption: 'Мощность доп. центрального канала'
+unit: Вт
+description: 'Записывается только число'
+key: extra_power_of_central_channel
+type: text
+required: false
+collection: false
+option: {  }

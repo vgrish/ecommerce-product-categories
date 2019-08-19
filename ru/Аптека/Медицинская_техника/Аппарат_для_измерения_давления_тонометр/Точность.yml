@@ -1,0 +1,8 @@
+caption: Точность
+unit: ''
+description: ''
+key: precision
+type: text
+required: false
+collection: false
+option: {  }

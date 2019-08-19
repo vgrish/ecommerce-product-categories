@@ -1,0 +1,8 @@
+caption: 'Объем духовки'
+unit: л
+description: 'Записывается только число'
+key: volume_of_oven
+type: text
+required: false
+collection: false
+option: {  }

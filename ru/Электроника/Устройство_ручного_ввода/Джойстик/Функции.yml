@@ -1,0 +1,8 @@
+caption: Функции
+unit: ''
+description: 'Записываются функции устройства'
+key: function
+type: text
+required: false
+collection: false
+option: {  }

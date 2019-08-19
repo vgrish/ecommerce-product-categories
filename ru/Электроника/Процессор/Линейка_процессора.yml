@@ -1,0 +1,52 @@
+caption: 'Линейка процессора'
+unit: ''
+description: ''
+key: line_processor
+type: option
+required: false
+collection: false
+option:
+    - A10
+    - A4
+    - A6
+    - A9
+    - Athlon
+    - 'Athlon 64 FX'
+    - 'Athlon II X3'
+    - 'Athlon X2'
+    - 'Athlon X4'
+    - Celeron
+    - 'Core i3 3-го поколения'
+    - 'Core i3 4-го поколения'
+    - 'Core i3 5-го поколения'
+    - 'Core i3 6-го поколения'
+    - 'Core i3 7-го поколения'
+    - 'Core i3 8-го поколения'
+    - 'Core i5 3-го поколения'
+    - 'Core i5 4-го поколения'
+    - 'Core i5 5-го поколения'
+    - 'Core i5 6-го поколения'
+    - 'Core i5 7-го поколения'
+    - 'Core i5 8-го поколения'
+    - 'Core i5 9-го поколения'
+    - 'Core i7 3-го поколения'
+    - 'Core i7 4-го поколения'
+    - 'Core i7 5-го поколения'
+    - 'Core i7 6-го поколения'
+    - 'Core i7 7-го поколения'
+    - 'Core i7 8-го поколения'
+    - 'Core i9'
+    - 'FX Series'
+    - 'Opteron 3-го поколения'
+    - 'Opteron 6300'
+    - Pentium
+    - 'Ryzen 3'
+    - 'Ryzen 5'
+    - 'Ryzen 7'
+    - 'Ryzen Threadripper'
+    - Sempron
+    - 'Xeon E3 v2'
+    - 'Xeon E3 v3'
+    - 'Xeon E5'
+    - 'Xeon E5 v2'
+    - 'Xeon E5 v3'

@@ -1,0 +1,8 @@
+caption: 'Макс. выходная мощность на канал'
+unit: Вт
+description: 'Записывается только число'
+key: max_power_output_per_channel
+type: text
+required: false
+collection: false
+option: {  }

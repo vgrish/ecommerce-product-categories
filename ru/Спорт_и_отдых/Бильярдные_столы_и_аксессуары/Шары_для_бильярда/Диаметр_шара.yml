@@ -1,0 +1,15 @@
+caption: 'Диаметр шара'
+unit: ''
+description: ''
+key: diameter_of_ball
+type: option
+required: false
+collection: false
+option:
+    - '25 мм'
+    - '31 мм'
+    - '38 мм'
+    - '52.4 мм'
+    - '57.2 мм'
+    - '60.3 мм'
+    - '68 мм'

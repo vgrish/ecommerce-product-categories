@@ -1,0 +1,8 @@
+caption: 'Длина стола с подголовником'
+unit: см
+description: ''
+key: table_length_with_head_rest
+type: text
+required: false
+collection: false
+option: {  }

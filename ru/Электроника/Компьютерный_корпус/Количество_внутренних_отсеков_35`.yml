@@ -1,0 +1,13 @@
+caption: 'Количество внутренних отсеков 3.5"'
+unit: ''
+description: ''
+key: number_of_internal_compartments_3_5
+type: option
+required: false
+collection: false
+option:
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '8'

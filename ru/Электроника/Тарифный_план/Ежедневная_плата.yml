@@ -1,0 +1,8 @@
+caption: 'Ежедневная плата'
+unit: руб/сут
+description: 'Записывается только число'
+key: daily_fee
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,20 @@
+caption: Диапазон
+unit: ''
+description: ''
+key: range
+type: option
+required: false
+collection: false
+option:
+    - AM
+    - DAB
+    - FM
+    - LPD
+    - LW
+    - MW
+    - PMR
+    - SW
+    - Авиа
+    - КВ
+    - УКВ
+    - 'расширенный FM'

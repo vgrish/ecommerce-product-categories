@@ -1,0 +1,8 @@
+caption: 'Производительность охлаждения'
+unit: л/ч
+description: 'Записывается только число'
+key: cooling_performance
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Диаметр отверстия для грифа'
+unit: мм
+description: ''
+key: diameter_of_hole_for_neck
+type: text
+required: false
+collection: false
+option: {  }

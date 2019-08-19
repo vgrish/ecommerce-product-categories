@@ -1,0 +1,8 @@
+caption: 'Радиус приема сигнала датчика'
+unit: м
+description: 'Записывается только число'
+key: radius_of_sensor_signal_reception
+type: text
+required: false
+collection: false
+option: {  }

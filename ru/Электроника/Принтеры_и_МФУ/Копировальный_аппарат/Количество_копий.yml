@@ -1,0 +1,8 @@
+caption: 'Количество копий'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_copies
+type: text
+required: false
+collection: false
+option: {  }

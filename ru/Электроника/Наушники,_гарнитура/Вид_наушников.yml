@@ -1,0 +1,13 @@
+caption: 'Вид наушников'
+unit: ''
+description: 'Форма наушников'
+key: of_headphones
+type: option
+required: false
+collection: true
+option:
+    - Вставные
+    - Классические
+    - Мониторные
+    - 'С заушным креплением'
+    - Спортивные

@@ -1,0 +1,8 @@
+caption: 'Количество насадок'
+unit: ''
+description: ''
+key: number_of_nozzles
+type: text
+required: false
+collection: false
+option: {  }

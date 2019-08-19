@@ -1,0 +1,8 @@
+caption: 'Скорость чтения'
+unit: ''
+description: ''
+key: read_speed
+type: text
+required: false
+collection: false
+option: {  }

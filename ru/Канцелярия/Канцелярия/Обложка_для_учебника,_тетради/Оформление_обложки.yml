@@ -1,0 +1,12 @@
+caption: 'Оформление обложки'
+unit: ''
+description: ''
+key: cover_design
+type: option
+required: false
+collection: true
+option:
+    - Полупрозрачная
+    - Прозрачная
+    - 'С принтом'
+    - Цветная

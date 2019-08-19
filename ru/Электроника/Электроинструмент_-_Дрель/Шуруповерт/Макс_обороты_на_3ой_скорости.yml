@@ -1,0 +1,8 @@
+caption: 'Макс. обороты на 3ой скорости'
+unit: об./мин
+description: 'Записывается только число'
+key: max_rpm_on_3_speed
+type: text
+required: false
+collection: false
+option: {  }

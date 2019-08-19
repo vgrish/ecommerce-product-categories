@@ -1,0 +1,8 @@
+caption: 'Мин. время измерения'
+unit: сек
+description: 'Минимально необходимое время для измерения температуры, в секундах.'
+key: min_measurement_time
+type: text
+required: false
+collection: false
+option: {  }

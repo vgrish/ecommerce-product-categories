@@ -1,0 +1,8 @@
+caption: 'Глубина пропила в алюминии (легких сплавах)'
+unit: мм
+description: 'Записывается только число'
+key: cutting_depth_in_aluminium_light_alloys
+type: text
+required: false
+collection: false
+option: {  }

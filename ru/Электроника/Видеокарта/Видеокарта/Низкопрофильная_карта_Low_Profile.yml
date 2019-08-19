@@ -1,0 +1,10 @@
+caption: 'Низкопрофильная карта (Low Profile)'
+unit: ''
+description: ''
+key: low_profile_card_low_profile
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

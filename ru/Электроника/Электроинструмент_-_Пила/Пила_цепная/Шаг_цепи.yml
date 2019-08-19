@@ -1,0 +1,10 @@
+caption: 'Шаг цепи'
+unit: ''
+description: ''
+key: chain_pitch
+type: option
+required: false
+collection: false
+option:
+    - '0.325"'
+    - '3/8"'

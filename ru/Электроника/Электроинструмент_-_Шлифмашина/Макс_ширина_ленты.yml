@@ -1,0 +1,8 @@
+caption: 'Макс. ширина ленты'
+unit: мм
+description: 'Записывается только число'
+key: max_tape_width
+type: text
+required: false
+collection: false
+option: {  }

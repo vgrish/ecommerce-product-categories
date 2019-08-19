@@ -1,0 +1,8 @@
+caption: Производительность
+unit: л/ч
+description: 'Записывается только число'
+key: performance
+type: text
+required: false
+collection: false
+option: {  }

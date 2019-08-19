@@ -1,0 +1,11 @@
+caption: 'Тип установки'
+unit: ''
+description: ''
+key: installation_type
+type: option
+required: false
+collection: false
+option:
+    - Зависимая
+    - 'Модульная Domino'
+    - Независимая

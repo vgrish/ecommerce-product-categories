@@ -1,0 +1,13 @@
+caption: Наполнитель
+unit: ''
+description: ''
+key: filler
+type: option
+required: false
+collection: true
+option:
+    - 'C3 Foam'
+    - Металл
+    - Песок
+    - 'Стружка кедра'
+    - Экокожа

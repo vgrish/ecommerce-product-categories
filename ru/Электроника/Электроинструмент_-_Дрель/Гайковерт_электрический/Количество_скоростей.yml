@@ -1,0 +1,8 @@
+caption: 'Количество скоростей'
+unit: ''
+description: 'Записывается количество'
+key: number_of_speeds
+type: text
+required: false
+collection: false
+option: {  }

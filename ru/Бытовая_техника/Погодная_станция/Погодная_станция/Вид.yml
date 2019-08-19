@@ -1,0 +1,8 @@
+caption: Вид
+unit: 'количество батарей'
+description: 'Записывается вид и количество используемых прибором батарей'
+key: view
+type: text
+required: false
+collection: false
+option: {  }

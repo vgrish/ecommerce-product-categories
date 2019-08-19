@@ -1,0 +1,17 @@
+caption: 'Вес перчатки'
+unit: ''
+description: ''
+key: weight_gloves
+type: option
+required: false
+collection: false
+option:
+    - '4 oz (унций)'
+    - '6 oz (унций)'
+    - '8 oz (унций)'
+    - '10 oz (унций)'
+    - '12 oz (унций)'
+    - '14 oz (унций)'
+    - '16 oz (унций)'
+    - '18 oz (унций)'
+    - '20 oz (унций)'

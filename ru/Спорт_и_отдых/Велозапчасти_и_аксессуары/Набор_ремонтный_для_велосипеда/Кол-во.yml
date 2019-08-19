@@ -1,0 +1,8 @@
+caption: Кол-во
+unit: шт
+description: ''
+key: number
+type: float
+required: false
+collection: false
+option: {  }

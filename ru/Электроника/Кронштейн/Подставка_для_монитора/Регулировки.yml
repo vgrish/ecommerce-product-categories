@@ -1,0 +1,12 @@
+caption: Регулировки
+unit: ''
+description: 'Регулировки положения в пространстве'
+key: adjustment
+type: option
+required: false
+collection: true
+option:
+    - Вращение
+    - Наклон
+    - Поворот
+    - 'Регулируемая высота'

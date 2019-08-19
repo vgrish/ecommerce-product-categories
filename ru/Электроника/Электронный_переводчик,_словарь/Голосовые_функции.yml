@@ -1,0 +1,8 @@
+caption: 'Голосовые функции'
+unit: ''
+description: ''
+key: voice
+type: text
+required: false
+collection: false
+option: {  }

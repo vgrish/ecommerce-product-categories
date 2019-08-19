@@ -1,0 +1,8 @@
+caption: 'Расстояние до экрана'
+unit: ''
+description: 'Рекомендуемое расстояние от проектора до экрана'
+key: distance_to_screen
+type: text
+required: false
+collection: false
+option: {  }

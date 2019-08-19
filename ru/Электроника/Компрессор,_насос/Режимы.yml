@@ -1,0 +1,8 @@
+caption: Режимы
+unit: ''
+description: ''
+key: modes
+type: text
+required: false
+collection: false
+option: {  }

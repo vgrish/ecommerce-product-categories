@@ -1,0 +1,12 @@
+caption: 'Функциональные особенности'
+unit: ''
+description: ''
+key: functional_features
+type: option
+required: false
+collection: true
+option:
+    - 'Запись в 3D'
+    - 'Запись одновременно в 2-х форматах'
+    - 'Режим прерывистой съемки'
+    - 'Технология NFC'

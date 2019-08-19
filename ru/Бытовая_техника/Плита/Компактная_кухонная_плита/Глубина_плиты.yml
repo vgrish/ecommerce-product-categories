@@ -1,0 +1,8 @@
+caption: 'Глубина плиты'
+unit: см
+description: 'Записывается только число'
+key: depth_of_plate
+type: text
+required: false
+collection: false
+option: {  }

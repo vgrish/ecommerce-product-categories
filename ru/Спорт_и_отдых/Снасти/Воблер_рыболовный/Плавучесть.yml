@@ -1,0 +1,11 @@
+caption: Плавучесть
+unit: ''
+description: ''
+key: buoyancy
+type: option
+required: false
+collection: false
+option:
+    - Нейтральная
+    - Плавающий
+    - Тонущий

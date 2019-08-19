@@ -1,0 +1,10 @@
+caption: 'Вид электроподжига'
+unit: ''
+description: ''
+key: type_of_ignition
+type: option
+required: false
+collection: false
+option:
+    - 'Автоматический(встроенный в ручку)'
+    - 'Ручной (кнопкой)'

@@ -1,0 +1,8 @@
+caption: 'Мин. скорость затвора'
+unit: сек.
+description: 'Записывается только число'
+key: min_shutter_speed
+type: text
+required: false
+collection: false
+option: {  }

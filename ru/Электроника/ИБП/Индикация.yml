@@ -1,0 +1,10 @@
+caption: Индикация
+unit: ''
+description: ''
+key: indication
+type: option
+required: false
+collection: false
+option:
+    - 'Аналоговая (стрелочная)'
+    - Цифровая

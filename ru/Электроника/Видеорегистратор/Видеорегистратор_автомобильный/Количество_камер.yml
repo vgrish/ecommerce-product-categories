@@ -1,0 +1,8 @@
+caption: 'Количество камер'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_cameras
+type: text
+required: false
+collection: false
+option: {  }

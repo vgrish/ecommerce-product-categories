@@ -1,0 +1,17 @@
+caption: 'Материал оправы'
+unit: ''
+description: ''
+key: frame_material
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - 'Вспененный полимер'
+    - Нейлон
+    - 'ПВХ (поливинилхлорид)'
+    - Пластик
+    - Поликарбонат
+    - Полиуретан
+    - Полиэстер
+    - Силикон

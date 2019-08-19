@@ -1,0 +1,25 @@
+caption: 'Сетевые протоколы'
+unit: ''
+description: ''
+key: network_protocols
+type: option
+required: false
+collection: true
+option:
+    - DDNS
+    - DHCP
+    - DLNA
+    - DMZ
+    - 'DNS Proxy'
+    - FTP
+    - HTTP
+    - 'NTP Client'
+    - P2P
+    - 'Port Trigger'
+    - SMTP
+    - SNMP
+    - TCP/IP
+    - Telnet
+    - UDP
+    - UPnP
+    - 'Virtual Server'

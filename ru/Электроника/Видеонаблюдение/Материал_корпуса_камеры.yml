@@ -1,0 +1,13 @@
+caption: 'Материал корпуса камеры'
+unit: ''
+description: ''
+key: material_of_camera_housing
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Алюминий
+    - Металл
+    - Пластик
+    - Поликарбонат

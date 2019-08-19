@@ -1,0 +1,8 @@
+caption: 'Пусковой ток'
+unit: А
+description: 'Записывается только число'
+key: inrush_current
+type: text
+required: true
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Мощность центрального канала'
+unit: Вт
+description: 'Записывается только число'
+key: power_of_central_channel
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Углы освещения'
+unit: ''
+description: ''
+key: lighting_angles
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,15 @@
+caption: 'Вид пенала'
+unit: ''
+description: ''
+key: view_case
+type: option
+required: false
+collection: false
+option:
+    - Жесткий
+    - Мягкий
+    - 'Очень жесткий'
+    - Переменный
+    - Полу-мягкий
+    - Средне-жесткий
+    - Средний

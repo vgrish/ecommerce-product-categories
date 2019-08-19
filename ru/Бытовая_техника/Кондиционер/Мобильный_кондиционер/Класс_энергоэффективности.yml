@@ -1,0 +1,17 @@
+caption: 'Класс энергоэффективности'
+unit: ''
+description: ''
+key: energy_efficiency_class
+type: option
+required: false
+collection: false
+option:
+    - A
+    - A+
+    - A++
+    - A+++
+    - B
+    - C
+    - D
+    - E
+    - G

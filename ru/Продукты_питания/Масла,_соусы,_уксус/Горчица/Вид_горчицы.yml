@@ -1,0 +1,16 @@
+caption: 'Вид горчицы'
+unit: ''
+description: 'Укажите вид горчицы'
+key: mustard_kind
+type: option
+required: false
+collection: true
+option:
+    - Дижонская
+    - Зернистая
+    - Классическая
+    - Порошок
+    - Пряная
+    - Русская
+    - Сладкая
+    - Ядреная

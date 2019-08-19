@@ -1,0 +1,13 @@
+caption: 'Передняя панель'
+unit: ''
+description: 'Вид передней панели автомагнитолы'
+key: front_panel
+type: option
+required: false
+collection: false
+option:
+    - Моторизованная
+    - Откидная
+    - Съемная
+    - 'Съемная откидная'
+    - Фиксированная

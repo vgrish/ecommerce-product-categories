@@ -1,0 +1,10 @@
+caption: Сидение
+unit: ''
+description: ''
+key: seat
+type: option
+required: false
+collection: false
+option:
+    - Жесткое
+    - Надувное

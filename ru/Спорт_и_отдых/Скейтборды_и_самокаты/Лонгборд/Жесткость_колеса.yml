@@ -1,0 +1,19 @@
+caption: 'Жесткость колеса'
+unit: ''
+description: ''
+key: stiffness_of_wheel
+type: option
+required: false
+collection: false
+option:
+    - '70 A'
+    - '78 A'
+    - '80 A'
+    - '82 A'
+    - '83 A'
+    - '84 A'
+    - '85 A'
+    - '88 A'
+    - '89 A'
+    - '92 А'
+    - '95 А'

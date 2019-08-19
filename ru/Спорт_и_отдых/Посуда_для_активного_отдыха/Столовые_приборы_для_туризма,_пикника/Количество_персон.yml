@@ -1,0 +1,8 @@
+caption: 'Количество персон'
+unit: ''
+description: ''
+key: number_of_persons
+type: text
+required: false
+collection: false
+option: {  }

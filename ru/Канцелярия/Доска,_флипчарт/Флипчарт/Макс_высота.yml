@@ -1,0 +1,8 @@
+caption: 'Макс. высота'
+unit: см
+description: ''
+key: max_height
+type: text
+required: false
+collection: false
+option: {  }

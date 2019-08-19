@@ -1,0 +1,8 @@
+caption: 'Длина грифа'
+unit: см
+description: ''
+key: length_of_neck
+type: text
+required: false
+collection: false
+option: {  }

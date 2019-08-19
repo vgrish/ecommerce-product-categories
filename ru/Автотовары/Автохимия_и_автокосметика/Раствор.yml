@@ -1,0 +1,10 @@
+caption: Раствор
+unit: ''
+description: ''
+key: solution
+type: option
+required: false
+collection: false
+option:
+    - Готовый
+    - Концентрат

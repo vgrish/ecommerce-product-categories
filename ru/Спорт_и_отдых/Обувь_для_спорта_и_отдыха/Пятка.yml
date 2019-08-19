@@ -1,0 +1,10 @@
+caption: Пятка
+unit: ''
+description: ''
+key: heel
+type: option
+required: false
+collection: false
+option:
+    - Закрытая
+    - Открытая

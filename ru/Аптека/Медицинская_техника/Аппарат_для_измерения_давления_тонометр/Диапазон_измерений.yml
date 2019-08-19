@@ -1,0 +1,8 @@
+caption: 'Диапазон измерений'
+unit: ''
+description: 'Минимальная и максимальная границы измерений'
+key: measurement_range
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Обхват бедер'
+unit: см
+description: ''
+key: hip
+type: text
+required: false
+collection: false
+option: {  }

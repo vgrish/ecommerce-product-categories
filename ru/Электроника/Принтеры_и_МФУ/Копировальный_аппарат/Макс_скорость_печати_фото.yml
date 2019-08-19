@@ -1,0 +1,8 @@
+caption: 'Макс. скорость печати фото'
+unit: ''
+description: ''
+key: max_print_speed_photo
+type: text
+required: false
+collection: false
+option: {  }

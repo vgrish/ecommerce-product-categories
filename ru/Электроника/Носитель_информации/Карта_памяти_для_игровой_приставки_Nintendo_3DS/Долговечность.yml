@@ -1,0 +1,8 @@
+caption: Долговечность
+unit: ''
+description: ''
+key: durability
+type: text
+required: false
+collection: false
+option: {  }

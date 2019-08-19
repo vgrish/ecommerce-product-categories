@@ -1,0 +1,8 @@
+caption: 'Плотность бумаги'
+unit: г/м2
+description: ''
+key: paper_weight
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Звуковой чип'
+unit: ''
+description: ''
+key: sound_chip
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр патрона'
+unit: мм
+description: 'Записывается только число'
+key: max_cartridge_diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,24 @@
+caption: Диаметр
+unit: ''
+description: ''
+key: diameter
+type: option
+required: false
+collection: false
+option:
+    - '28 мм'
+    - '37 мм'
+    - '42 мм'
+    - '45 мм'
+    - '46 мм'
+    - '49 мм'
+    - '52 мм'
+    - '55 мм'
+    - '58 мм'
+    - '62 мм'
+    - '67 мм'
+    - '72 мм'
+    - '77 мм'
+    - '82 мм'
+    - '86 мм'
+    - '95 мм'

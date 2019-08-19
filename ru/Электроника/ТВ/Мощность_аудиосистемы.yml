@@ -1,0 +1,8 @@
+caption: 'Мощность аудиосистемы'
+unit: Вт
+description: 'Записывается только число'
+key: power_of_audio_system
+type: text
+required: false
+collection: false
+option: {  }

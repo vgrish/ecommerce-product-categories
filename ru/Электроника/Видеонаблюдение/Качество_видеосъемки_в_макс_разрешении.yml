@@ -1,0 +1,8 @@
+caption: 'Качество видеосъемки в макс. разрешении'
+unit: кадров/с
+description: 'Записывается только число'
+key: video_quality_at_max_resolution
+type: text
+required: false
+collection: false
+option: {  }

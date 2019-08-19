@@ -1,0 +1,13 @@
+caption: 'Степень помола'
+unit: ''
+description: 'Укажите степень помола'
+key: degree_of_grinding
+type: option
+required: false
+collection: false
+option:
+    - Грубый
+    - 'Очень тонкий'
+    - 'Самый мелкий'
+    - Средний
+    - Тонкий

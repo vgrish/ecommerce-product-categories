@@ -1,0 +1,10 @@
+caption: 'Электроподжиг духовки'
+unit: ''
+description: ''
+key: electric_ignition_of_oven
+type: option
+required: false
+collection: false
+option:
+    - 'Автоматический(встроенный в ручку)'
+    - 'Ручной (кнопкой)'

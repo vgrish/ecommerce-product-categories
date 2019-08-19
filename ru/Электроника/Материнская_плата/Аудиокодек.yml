@@ -1,0 +1,8 @@
+caption: Аудиокодек
+unit: ''
+description: 'Записывается модель аудиокодека, по возможности и его характеристики'
+key: audio_codec
+type: text
+required: false
+collection: false
+option: {  }

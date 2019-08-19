@@ -1,0 +1,8 @@
+caption: Контроллер
+unit: ''
+description: 'В атрибут записывается контроллер, его особенности, тех. характеристки'
+key: controller
+type: text
+required: false
+collection: false
+option: {  }

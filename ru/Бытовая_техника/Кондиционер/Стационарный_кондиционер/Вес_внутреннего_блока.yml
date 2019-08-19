@@ -1,0 +1,8 @@
+caption: 'Вес внутреннего блока'
+unit: кг
+description: 'Записывается только число'
+key: weight_of_indoor_unit
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Тип загрузки'
+unit: ''
+description: ''
+key: download_type
+type: option
+required: false
+collection: false
+option:
+    - Вертикальная
+    - Фронтальная

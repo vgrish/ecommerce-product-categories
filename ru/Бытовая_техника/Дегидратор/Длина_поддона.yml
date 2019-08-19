@@ -1,0 +1,8 @@
+caption: 'Длина поддона'
+unit: см
+description: 'Записывается только число'
+key: length_of_pallet
+type: text
+required: false
+collection: false
+option: {  }

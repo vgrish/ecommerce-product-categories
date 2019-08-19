@@ -1,0 +1,8 @@
+caption: 'Число портов eSATA'
+unit: ''
+description: 'Записывается только число'
+key: number_of_ports_esata
+type: int
+required: false
+collection: false
+option: {  }

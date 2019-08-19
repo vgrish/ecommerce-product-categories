@@ -1,0 +1,8 @@
+caption: 'Число малых бигуди'
+unit: ''
+description: ''
+key: number_of_small_curler
+type: option
+required: false
+collection: false
+option: {  }

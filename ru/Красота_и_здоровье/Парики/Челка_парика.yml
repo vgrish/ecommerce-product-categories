@@ -1,0 +1,10 @@
+caption: 'Челка парика'
+unit: ''
+description: ''
+key: bangs_wig
+type: option
+required: false
+collection: false
+option:
+    - 'Без челки'
+    - 'С челкой'

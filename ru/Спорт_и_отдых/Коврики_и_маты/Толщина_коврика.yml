@@ -1,0 +1,8 @@
+caption: 'Толщина коврика'
+unit: мм
+description: ''
+key: thickness_of_mat
+type: text
+required: false
+collection: false
+option: {  }

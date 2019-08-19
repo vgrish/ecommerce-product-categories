@@ -1,0 +1,8 @@
+caption: 'Пробивная способность'
+unit: листов
+description: ''
+key: penetration
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Длина ручки'
+unit: см
+description: ''
+key: handle_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,15 @@
+caption: 'Материал палки'
+unit: ''
+description: ''
+key: material_sticks
+type: option
+required: false
+collection: true
+option:
+    - Дерево
+    - Карбон
+    - 'Композитные материалы'
+    - Пластик
+    - Стекловолокно
+    - Фанера
+    - Шпон

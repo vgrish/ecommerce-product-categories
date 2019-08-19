@@ -1,0 +1,8 @@
+caption: 'Мощность охлаждения'
+unit: Вт
+description: 'Записывается только число'
+key: cooling_capacity
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Рекомендуемая мощность БП'
+unit: Вт
+description: 'Записывается только число'
+key: recommended_rpm
+type: text
+required: false
+collection: false
+option: {  }

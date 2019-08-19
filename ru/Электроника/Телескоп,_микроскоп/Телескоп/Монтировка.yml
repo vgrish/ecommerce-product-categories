@@ -1,0 +1,11 @@
+caption: Монтировка
+unit: ''
+description: ''
+key: mount
+type: option
+required: false
+collection: false
+option:
+    - Азимутальная
+    - Немецкая
+    - Экваториальная

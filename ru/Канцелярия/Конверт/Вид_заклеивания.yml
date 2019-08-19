@@ -1,0 +1,10 @@
+caption: 'Вид заклеивания'
+unit: ''
+description: ''
+key: type_of_sealing
+type: option
+required: false
+collection: false
+option:
+    - Клей
+    - 'Отрывная лента'

@@ -1,0 +1,8 @@
+caption: 'Общее число знаков'
+unit: ''
+description: ''
+key: total_number_of_characters
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'ПО в комплекте'
+unit: ''
+description: ''
+key: po_set
+type: text
+required: false
+collection: false
+option: {  }

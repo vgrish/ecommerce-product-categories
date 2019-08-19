@@ -1,0 +1,17 @@
+caption: Вместимость
+unit: комплектов
+description: 'Сколько комплектов посуды можно помыть за одну загрузку'
+key: capacity
+type: option
+required: false
+collection: false
+option:
+    - '6'
+    - '9'
+    - '10'
+    - '11'
+    - '12'
+    - '13'
+    - '14'
+    - '15'
+    - '16'

@@ -1,0 +1,10 @@
+caption: 'Ручные программы'
+unit: ''
+description: ''
+key: manual_program
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

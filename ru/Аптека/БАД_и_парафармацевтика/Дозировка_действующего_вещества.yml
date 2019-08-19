@@ -1,0 +1,8 @@
+caption: 'Дозировка действующего вещества'
+unit: ''
+description: ''
+key: dosage_of_active_substance
+type: text
+required: false
+collection: false
+option: {  }

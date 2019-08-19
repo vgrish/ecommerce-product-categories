@@ -1,0 +1,10 @@
+caption: Подогрев
+unit: ''
+description: ''
+key: heated
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

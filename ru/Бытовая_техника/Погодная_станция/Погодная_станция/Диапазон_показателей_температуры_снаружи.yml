@@ -1,0 +1,8 @@
+caption: 'Диапазон показателей температуры снаружи'
+unit: ''
+description: 'Записывается в формате "от -30 до +40"'
+key: range_of_values_of_temperatures_outside
+type: text
+required: false
+collection: false
+option: {  }

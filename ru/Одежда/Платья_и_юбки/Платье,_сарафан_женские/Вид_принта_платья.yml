@@ -1,0 +1,16 @@
+caption: 'Вид принта (платья)'
+unit: ''
+description: ''
+key: type_of_print_dress
+type: option
+required: false
+collection: true
+option:
+    - Горох
+    - Клетка
+    - Однотонный
+    - Орнамент
+    - Полоска
+    - Принт
+    - Разноцветный
+    - Цветочный

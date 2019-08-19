@@ -1,0 +1,8 @@
+caption: 'Длина лезвия'
+unit: см
+description: ''
+key: blade_length
+type: text
+required: false
+collection: false
+option: {  }

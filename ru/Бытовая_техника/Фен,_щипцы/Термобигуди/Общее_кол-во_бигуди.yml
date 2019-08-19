@@ -1,0 +1,10 @@
+caption: 'Общее кол-во бигуди'
+unit: ''
+description: ''
+key: total_number_of_curlers
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'

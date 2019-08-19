@@ -1,0 +1,8 @@
+caption: Размеры
+unit: мм
+description: 'Размеры сторон товара без упаковки – длина х ширина х высота в миллиметрах (указывать через Х). Длина – самая большая сторона, высота – самая маленькая.'
+key: dimensions
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Максимальный рост пользователя'
+unit: см
+description: ''
+key: max_height_of_user
+type: text
+required: false
+collection: false
+option: {  }

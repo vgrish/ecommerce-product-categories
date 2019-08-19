@@ -1,0 +1,10 @@
+caption: 'Место установки камеры'
+unit: ''
+description: ''
+key: location_of_camera
+type: option
+required: false
+collection: false
+option:
+    - Внутренняя
+    - Наружная

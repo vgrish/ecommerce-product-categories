@@ -1,0 +1,8 @@
+caption: Оповещения
+unit: ''
+description: ''
+key: alert
+type: text
+required: false
+collection: false
+option: {  }

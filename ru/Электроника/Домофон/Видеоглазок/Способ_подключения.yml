@@ -1,0 +1,20 @@
+caption: 'Способ подключения'
+unit: ''
+description: ''
+key: connection_method
+type: option
+required: false
+collection: true
+option:
+    - NFC
+    - USB
+    - Wi-Fi
+    - Беспроводная
+    - 'Беспроводная 2.4ГГц'
+    - 'Беспроводная 27МГц'
+    - 'Беспроводная 5.8ГГц'
+    - 'Беспроводная Bluetooth'
+    - 'Беспроводная ИК'
+    - Проводная
+    - Радиосвязь
+    - 'Сотовая GSM'

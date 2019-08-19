@@ -1,0 +1,11 @@
+caption: 'Ввод индивидуальных данных'
+unit: ''
+description: 'Ввод параметров тела: рост, вес'
+key: enter_individual_data
+type: option
+required: false
+collection: true
+option:
+    - Возраст
+    - Пол
+    - Рост

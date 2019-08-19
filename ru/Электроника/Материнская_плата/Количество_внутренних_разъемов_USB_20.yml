@@ -1,0 +1,8 @@
+caption: 'Количество внутренних разъемов USB 2.0'
+unit: ''
+description: 'Записывается только число'
+key: number_of_internal_usb_20
+type: text
+required: false
+collection: false
+option: {  }

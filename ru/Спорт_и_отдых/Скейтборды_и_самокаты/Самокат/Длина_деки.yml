@@ -1,0 +1,8 @@
+caption: 'Длина деки'
+unit: см
+description: ''
+key: length_of_soundboard
+type: text
+required: false
+collection: false
+option: {  }

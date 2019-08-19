@@ -1,0 +1,13 @@
+caption: 'Акустическое оформление'
+unit: ''
+description: ''
+key: acoustic_design
+type: option
+required: false
+collection: false
+option:
+    - Закрытое
+    - Открытое
+    - Полуоткрытое
+    - 'Фазоинвертер сзади'
+    - 'Фазоинвертер спереди'

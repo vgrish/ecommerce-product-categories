@@ -1,0 +1,37 @@
+caption: 'Профили Bluetooth'
+unit: ''
+description: ''
+key: bluetooth_profiles
+type: option
+required: false
+collection: true
+option:
+    - A2DP
+    - AVRCP
+    - BIP
+    - BPP
+    - CIP
+    - CTP
+    - DIP
+    - DUN
+    - FAX
+    - GAP
+    - GAVDP
+    - GOEP
+    - HCRP
+    - HFP
+    - HID
+    - HSP
+    - Headset
+    - ICP
+    - LAP
+    - OPP
+    - PAN
+    - PBAP
+    - SAP
+    - SDAP
+    - SIM
+    - SPP
+    - SYNCH
+    - VDP
+    - WAPB

@@ -1,0 +1,8 @@
+caption: 'Срок службы'
+unit: г
+description: 'Записывается только число'
+key: lifetime
+type: text
+required: false
+collection: false
+option: {  }

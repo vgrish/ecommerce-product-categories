@@ -1,0 +1,14 @@
+caption: 'Выходное напряжение'
+unit: ''
+description: ''
+key: output_voltage
+type: option
+required: false
+collection: true
+option:
+    - '5 В'
+    - '9 В'
+    - '9.5 В'
+    - '12 В'
+    - '16 В'
+    - '19 В'

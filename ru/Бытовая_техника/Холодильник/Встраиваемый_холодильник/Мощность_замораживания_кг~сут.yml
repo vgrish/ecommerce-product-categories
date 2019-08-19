@@ -1,0 +1,8 @@
+caption: 'Мощность замораживания (кг/сут)'
+unit: ''
+description: ''
+key: freezing_capacity_kg_per_day
+type: text
+required: false
+collection: false
+option: {  }

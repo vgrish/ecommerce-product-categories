@@ -1,0 +1,8 @@
+caption: 'Срок хранения после открытия'
+unit: ''
+description: ''
+key: shelf_life_after_opening
+type: text
+required: false
+collection: false
+option: {  }

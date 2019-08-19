@@ -1,0 +1,8 @@
+caption: 'Базовая частота'
+unit: ГГц
+description: 'Записывается только число'
+key: base_frequency
+type: text
+required: false
+collection: false
+option: {  }

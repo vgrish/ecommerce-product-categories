@@ -1,0 +1,8 @@
+caption: 'Длина пилки/полотна/шины'
+unit: мм
+description: 'Записывается только число'
+key: length_of_blade_leaf_bus
+type: text
+required: false
+collection: false
+option: {  }

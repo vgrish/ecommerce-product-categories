@@ -1,0 +1,8 @@
+caption: 'Макс. тест'
+unit: граммы
+description: ''
+key: max_test
+type: text
+required: false
+collection: false
+option: {  }

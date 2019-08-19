@@ -1,0 +1,14 @@
+caption: 'Макс. разрешение видео'
+unit: ''
+description: ''
+key: max_video_resolution
+type: option
+required: false
+collection: false
+option:
+    - 1280x720
+    - 1560x720
+    - 1920x1080
+    - 3040x1440
+    - 3840x2160
+    - 4096x2160

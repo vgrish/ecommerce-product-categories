@@ -1,0 +1,11 @@
+caption: 'Материал ребер радиатора'
+unit: ''
+description: ''
+key: material_of_fins
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Медь
+    - Пластик

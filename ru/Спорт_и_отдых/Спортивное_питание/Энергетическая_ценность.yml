@@ -1,0 +1,8 @@
+caption: 'Энергетическая ценность'
+unit: 'ккал в 1 порции'
+description: 'Укажите энергетическую ценность продукта в ккал на 100 грамм, используйте только цифры.'
+key: energy_value
+type: text
+required: false
+collection: false
+option: {  }

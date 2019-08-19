@@ -1,0 +1,15 @@
+caption: 'Тип затвора'
+unit: ''
+description: ''
+key: shutter_type
+type: option
+required: false
+collection: false
+option:
+    - 'Механический и электронный'
+    - 'Механический центральный'
+    - 'Механический шторный'
+    - Центральный
+    - Шторно-щелевой
+    - Шторный
+    - Электронный

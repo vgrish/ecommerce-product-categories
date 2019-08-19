@@ -1,0 +1,48 @@
+caption: 'Поддержка OpenGL'
+unit: ''
+description: ''
+key: opengl
+type: option
+required: false
+collection: false
+option:
+    - DirectCompute
+    - 'DirectCompute 5.0'
+    - DirectX
+    - 'DirectX 10'
+    - 'DirectX 10.1'
+    - 'DirectX 11'
+    - 'DirectX 11.1'
+    - 'DirectX 11.2'
+    - 'DirectX 12'
+    - 'DirectX 7'
+    - 'DirectX 8.0'
+    - 'DirectX 8.0a'
+    - 'DirectX 8.1'
+    - 'DirectX 8.1b'
+    - 'DirectX 8.2'
+    - 'DirectX 9.0'
+    - 'DirectX 9.0a'
+    - 'DirectX 9.0b'
+    - 'DirectX 9.0c'
+    - OpenCL
+    - 'OpenCL 1.0'
+    - 'OpenCL 1.1'
+    - 'OpenCL 1.2'
+    - 'OpenCL 2.0'
+    - OpenGL
+    - 'OpenGL 1.4'
+    - 'OpenGL 1.5'
+    - 'OpenGL 2.0'
+    - 'OpenGL 2.1'
+    - 'OpenGL 3.0'
+    - 'OpenGL 3.1'
+    - 'OpenGL 3.2'
+    - 'OpenGL 3.3'
+    - 'OpenGL 4.0'
+    - 'OpenGL 4.1'
+    - 'OpenGL 4.2'
+    - 'OpenGL 4.3'
+    - 'OpenGL 4.4'
+    - 'OpenGL 4.5'
+    - 'OpenGL 4.6'

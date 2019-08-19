@@ -1,0 +1,8 @@
+caption: 'Размер пикселя'
+unit: мм
+description: 'Записывается только число'
+key: pixel_size
+type: text
+required: false
+collection: false
+option: {  }

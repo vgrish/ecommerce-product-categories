@@ -1,0 +1,8 @@
+caption: 'Макс. разрешение сканирования'
+unit: ''
+description: 'Записывается в любом формате'
+key: max_scan_resolution
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Год выпуска'
+unit: ''
+description: 'Год выпуска указывается только в формате 2018. Строго 4 цифры и только цифры.'
+key: release_year
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Вид крахмала'
+unit: ''
+description: 'Выберите вид крахмала'
+key: form_of_starch
+type: option
+required: false
+collection: false
+option:
+    - Картофельный
+    - Кукурузный
+    - Пшеничный

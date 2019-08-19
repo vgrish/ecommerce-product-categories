@@ -1,0 +1,17 @@
+caption: 'Вид чехла'
+unit: ''
+description: ''
+key: kind_of_cover
+type: option
+required: false
+collection: false
+option:
+    - Бампер
+    - Книжка
+    - Кобура
+    - Мешочек
+    - Накладка
+    - Пенал
+    - 'Спортивный чехол'
+    - Флип
+    - Чехол

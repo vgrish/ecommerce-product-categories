@@ -1,0 +1,8 @@
+caption: 'Состав материала'
+unit: ''
+description: 'Заполняется в формате "% материал, % материал" от большего к меньшему. Информация по % должна совпадать с пришивным ярлыком (например: 70% хлопок, 25% полиэстер, 5% эластан).'
+key: composition_of_material
+type: text
+required: false
+collection: false
+option: {  }

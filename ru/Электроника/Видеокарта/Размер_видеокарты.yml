@@ -1,0 +1,10 @@
+caption: 'Размер видеокарты'
+unit: ''
+description: ''
+key: size_of_graphics_card
+type: option
+required: false
+collection: false
+option:
+    - Low-profile
+    - Полноразмерная

@@ -1,0 +1,8 @@
+caption: 'Макс. время работы (видео)'
+unit: ч
+description: 'Максимальное время работы устройства при воспроизведении видео, записывается только число'
+key: max_working_time_video
+type: text
+required: false
+collection: false
+option: {  }

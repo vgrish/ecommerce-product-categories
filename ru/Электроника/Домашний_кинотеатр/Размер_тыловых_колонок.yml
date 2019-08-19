@@ -1,0 +1,8 @@
+caption: 'Размер тыловых колонок'
+unit: см
+description: 'Записывается только число'
+key: size_of_rear_speakers
+type: text
+required: false
+collection: false
+option: {  }

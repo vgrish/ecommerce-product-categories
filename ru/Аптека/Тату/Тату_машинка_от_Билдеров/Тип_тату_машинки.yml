@@ -1,0 +1,11 @@
+caption: 'Тип тату машинки'
+unit: ''
+description: ''
+key: type_tattoo_machines
+type: option
+required: false
+collection: false
+option:
+    - PEN
+    - Индукционная
+    - Роторная

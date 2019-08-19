@@ -1,0 +1,14 @@
+caption: 'Частота дискредитации аудио ЦАП'
+unit: кГц
+description: 'Записывается только число, значение указывается в килогерцах'
+key: sample_rate_audio_dac
+type: option
+required: false
+collection: false
+option:
+    - '32'
+    - '44.1'
+    - '48'
+    - '96'
+    - '192'
+    - '384'

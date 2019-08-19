@@ -1,0 +1,8 @@
+caption: Энергоэффективность
+unit: ''
+description: 'Записывается энергоэффективность майнера'
+key: energy_efficiency
+type: text
+required: false
+collection: false
+option: {  }

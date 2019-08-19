@@ -1,0 +1,11 @@
+caption: Видоискатель
+unit: ''
+description: 'Технология видоискателя'
+key: viewfinder
+type: option
+required: false
+collection: true
+option:
+    - 'Зеркальный (TTL)'
+    - Оптический
+    - Цифровой

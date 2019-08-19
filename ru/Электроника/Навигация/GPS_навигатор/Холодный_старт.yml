@@ -1,0 +1,8 @@
+caption: 'Холодный старт'
+unit: с
+description: 'Записывается только число'
+key: cold_start
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,50 @@
+caption: 'Операционная система'
+unit: ''
+description: 'Выбирается операционная система устройства'
+key: operating_system
+type: option
+required: false
+collection: true
+option:
+    - 'Android 1.x'
+    - 'Android 2.x'
+    - 'Android 3.x'
+    - 'Android 4.x'
+    - 'Android 5.x'
+    - 'Android 6.x'
+    - 'Android 7.x'
+    - 'Android 8.x'
+    - 'Android 9.x Pie'
+    - 'BlackBerry 7'
+    - 'Cyanogen OS 12.x'
+    - Linux
+    - 'MeeGo 1.2 Harmattan'
+    - 'Microsoft Windows 7 Premium 32-bit'
+    - 'Motorola Brew'
+    - 'My Home Screen'
+    - 'Nokia Asha 1.x'
+    - 'Nokia Series 30'
+    - 'Nokia Series 40'
+    - 'Nokia X 1.0'
+    - 'Samsung Bada'
+    - 'Samsung Bada 2.0'
+    - 'Samsung OS'
+    - Symbian
+    - 'Symbian Anna'
+    - 'Symbian Belle'
+    - Tizen
+    - Ubuntu
+    - 'Windows 10'
+    - 'Windows 10 mobile'
+    - 'Windows 8.1'
+    - 'Windows Mobile 6.5 Pro'
+    - 'Windows Phone 7.5 Mango'
+    - 'Windows Phone 8'
+    - 'Windows Phone 8.1'
+    - 'Windows RT'
+    - 'Windows RT 8.1'
+    - webOS
+    - 'webOS 2.0'
+    - 'webOS 3.0'
+    - 'webOS 3.5'
+    - 'Собственная ОС'

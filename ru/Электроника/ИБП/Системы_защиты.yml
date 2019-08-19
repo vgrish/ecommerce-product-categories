@@ -1,0 +1,8 @@
+caption: 'Системы защиты'
+unit: ''
+description: ''
+key: protection_system
+type: text
+required: false
+collection: false
+option: {  }

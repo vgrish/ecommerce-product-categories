@@ -1,0 +1,8 @@
+caption: 'Входное напряжение'
+unit: В
+description: 'Записывается только число'
+key: input_voltage
+type: text
+required: false
+collection: false
+option: {  }

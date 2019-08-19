@@ -1,0 +1,8 @@
+caption: 'Длина большей стороны'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: length_of_largest_side
+type: float
+required: false
+collection: false
+option: {  }

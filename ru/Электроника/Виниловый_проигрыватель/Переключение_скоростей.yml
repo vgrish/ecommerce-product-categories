@@ -1,0 +1,10 @@
+caption: 'Переключение скоростей'
+unit: ''
+description: ''
+key: switching_speeds
+type: option
+required: false
+collection: false
+option:
+    - Ручное
+    - Электронное

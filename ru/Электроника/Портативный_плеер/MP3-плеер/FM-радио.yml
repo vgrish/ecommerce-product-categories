@@ -1,0 +1,15 @@
+caption: FM-радио
+unit: ''
+description: 'Выбираются поддерживаемые частоты радио'
+key: fm_radio
+type: option
+required: false
+collection: true
+option:
+    - PLL-тюнер
+    - RDS
+    - 'RDS, запись эфира'
+    - RDS/EON
+    - RDS/PTY
+    - есть
+    - 'запись эфира'

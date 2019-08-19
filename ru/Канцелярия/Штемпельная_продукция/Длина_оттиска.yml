@@ -1,0 +1,8 @@
+caption: 'Длина оттиска'
+unit: мм
+description: ''
+key: length_of_print
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Диаметр колеса'
+unit: ''
+description: ''
+key: wheel_diameter
+type: option
+required: false
+collection: false
+option:
+    - '13"'
+    - '14"'
+    - '15"'
+    - '16"'

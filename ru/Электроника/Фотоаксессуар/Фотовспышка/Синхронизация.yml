@@ -1,0 +1,12 @@
+caption: Синхронизация
+unit: ''
+description: ''
+key: sync
+type: option
+required: false
+collection: true
+option:
+    - FP-синхронизация
+    - 'Разъем внешней синхронизации'
+    - 'Синхронизация по задней шторке затвора'
+    - 'Синхронизация по передней шторке затвора'

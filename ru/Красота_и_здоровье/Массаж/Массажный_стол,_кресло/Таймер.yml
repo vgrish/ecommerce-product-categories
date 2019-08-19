@@ -1,0 +1,8 @@
+caption: Таймер
+unit: ''
+description: ''
+key: timer
+type: text
+required: false
+collection: false
+option: {  }

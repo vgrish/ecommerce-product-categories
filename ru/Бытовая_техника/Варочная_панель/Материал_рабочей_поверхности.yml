@@ -1,0 +1,16 @@
+caption: 'Материал рабочей поверхности'
+unit: ''
+description: ''
+key: work_surface_material
+type: option
+required: false
+collection: false
+option:
+    - 'Закаленное стекло'
+    - Металл
+    - 'Нержавеющая сталь'
+    - Сталь
+    - Стекло
+    - Стеклокерамика
+    - 'Эмалированная сталь'
+    - Эмаль

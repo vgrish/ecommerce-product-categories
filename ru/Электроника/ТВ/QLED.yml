@@ -1,0 +1,8 @@
+caption: QLED
+unit: ''
+description: ''
+key: qled
+type: bool
+required: false
+collection: false
+option: {  }

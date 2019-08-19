@@ -1,0 +1,19 @@
+caption: 'Беспроводные подключения'
+unit: ''
+description: 'Выбираются поддерживаемые устройством беспроводные сети'
+key: wireless_connections
+type: option
+required: false
+collection: true
+option:
+    - 3G
+    - 4G
+    - EDGE
+    - LTE
+    - LTE-Advanced
+    - MST
+    - NFC
+    - Wi-Fi
+    - 'Wi-Fi 802.11a/b/g/n'
+    - 'Wi-Fi 802.11ac'
+    - 'Wi-Fi 802.11b/g/n'

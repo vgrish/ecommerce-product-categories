@@ -1,0 +1,13 @@
+caption: 'Тип установки'
+unit: ''
+description: ''
+key: installation_type
+type: option
+required: false
+collection: false
+option:
+    - 'На водостоки'
+    - 'На интегрированные рейлинги'
+    - 'На крышу автомобиля'
+    - 'На мотоцикл'
+    - 'На штатное место автомобиля'

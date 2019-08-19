@@ -1,0 +1,12 @@
+caption: 'Вид стабилизатора'
+unit: ''
+description: ''
+key: type_of_stabilizer
+type: option
+required: false
+collection: false
+option:
+    - 'Электромеханический релейный'
+    - 'Электромеханический сервоприводной'
+    - 'Электронный симисторный'
+    - 'Электронный тиристорный'

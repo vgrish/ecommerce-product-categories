@@ -1,0 +1,14 @@
+caption: 'Режим ношения'
+unit: ''
+description: ''
+key: wearing
+type: option
+required: false
+collection: true
+option:
+    - '24 часа'
+    - '48 часов'
+    - Дневной
+    - Ночной
+    - Продленный
+    - Универсальный

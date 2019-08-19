@@ -1,0 +1,20 @@
+caption: 'Поддерживаемые типы RAM.'
+unit: ''
+description: ''
+key: supported_ram_
+type: option
+required: false
+collection: true
+option:
+    - DDR2
+    - DDR3
+    - DDR3L
+    - DDR4
+    - GDDR
+    - GDDR2
+    - GDDR3
+    - GDDR5
+    - GDDR5X
+    - GDDR6
+    - HBM2
+    - LPDDR3

@@ -1,0 +1,8 @@
+caption: 'Мин. размер частиц'
+unit: мкм
+description: ''
+key: min_particle_size
+type: text
+required: false
+collection: false
+option: {  }

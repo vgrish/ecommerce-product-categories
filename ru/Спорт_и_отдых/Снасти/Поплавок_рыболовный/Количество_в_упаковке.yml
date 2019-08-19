@@ -1,0 +1,23 @@
+caption: 'Количество в упаковке'
+unit: шт
+description: ''
+key: package_quantity
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '6'
+    - '10'
+    - '12'
+    - '30'
+    - '50'
+    - '100'
+    - '200'
+    - '250'
+    - '400'
+    - '500'
+    - '1000'

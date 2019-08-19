@@ -1,0 +1,8 @@
+caption: 'Время работы'
+unit: мин
+description: "Сколько в среднем может функционировать устройство при максимальной нагрузке без перерывов, в минутах.\nУказываем только число."
+key: while_working
+type: text
+required: false
+collection: false
+option: {  }

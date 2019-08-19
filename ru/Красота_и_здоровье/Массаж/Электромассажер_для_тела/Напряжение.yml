@@ -1,0 +1,8 @@
+caption: Напряжение
+unit: В
+description: ''
+key: voltage
+type: text
+required: false
+collection: false
+option: {  }

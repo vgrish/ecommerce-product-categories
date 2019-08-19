@@ -1,0 +1,8 @@
+caption: 'Рекомендуемая площадь помещения'
+unit: кв.м.
+description: 'Записывается только число'
+key: pekomenduemaya_floor_area
+type: text
+required: false
+collection: false
+option: {  }

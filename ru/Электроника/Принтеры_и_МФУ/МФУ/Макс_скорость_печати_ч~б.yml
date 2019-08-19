@@ -1,0 +1,8 @@
+caption: 'Макс. скорость печати (ч/б)'
+unit: стр/мин
+description: 'Записывается только число'
+key: max_print_speed_ch_b
+type: text
+required: false
+collection: false
+option: {  }

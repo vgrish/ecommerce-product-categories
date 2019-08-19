@@ -1,0 +1,80 @@
+caption: 'Форматы записи звука'
+unit: ''
+description: 'Выбираются форматы файлов для записи аудио'
+key: formats_audio_recording
+type: option
+required: false
+collection: true
+option:
+    - 3G2
+    - 3GA
+    - 3GP
+    - AAC
+    - AAC+
+    - AAC-LC
+    - AAX
+    - AAX+
+    - AC-3
+    - AC3
+    - ACC
+    - ACC+
+    - ADPCM
+    - ADX
+    - AHX
+    - AIFF
+    - AMR
+    - AMR-NB
+    - AMR-WB
+    - APE
+    - ASF
+    - ATRAC
+    - AWB
+    - 'Apple Lossless'
+    - Apt-X
+    - Audible
+    - 'Audible 2'
+    - 'Audible 3'
+    - 'Audible 4'
+    - CDDA
+    - DFF
+    - DSD
+    - DSF
+    - DSS
+    - 'DSS Pro'
+    - DTS
+    - DXD
+    - E-AC-3
+    - FLAC
+    - HDCD
+    - HE-AAC
+    - 'IMY (iMelody)'
+    - LPCM
+    - M4A
+    - M4B
+    - MIDI
+    - MKA
+    - MMF
+    - MOD
+    - MP1
+    - MP2
+    - MP3
+    - MPA
+    - MPC
+    - OGG
+    - PCM
+    - RA
+    - RAM
+    - RM
+    - SMAF
+    - VOC
+    - VOX
+    - VQF
+    - WAV
+    - WMA
+    - 'WMA Pro'
+    - WMA-DRM10
+    - WV
+    - WavPack
+    - XM
+    - XMF
+    - eACC+

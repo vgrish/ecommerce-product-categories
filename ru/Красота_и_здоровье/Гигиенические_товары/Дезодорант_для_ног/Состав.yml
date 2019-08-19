@@ -1,0 +1,8 @@
+caption: Состав
+unit: ''
+description: 'Укажите подробный состав продукта. Информация должна быть полной и достоверной, а также содержать не менее того, что указано на упаковке/этикетке.'
+key: composition
+type: text
+required: true
+collection: false
+option: {  }

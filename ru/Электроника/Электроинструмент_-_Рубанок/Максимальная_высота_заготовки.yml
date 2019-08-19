@@ -1,0 +1,8 @@
+caption: 'Максимальная высота заготовки'
+unit: мм
+description: 'Записывается только число'
+key: max_height_of_workpiece
+type: text
+required: false
+collection: false
+option: {  }

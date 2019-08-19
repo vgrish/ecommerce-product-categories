@@ -1,0 +1,8 @@
+caption: 'Угол обзора'
+unit: градусов
+description: 'Записывается только число'
+key: angle
+type: text
+required: false
+collection: false
+option: {  }

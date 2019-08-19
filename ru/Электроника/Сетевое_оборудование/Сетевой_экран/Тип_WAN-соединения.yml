@@ -1,0 +1,14 @@
+caption: 'Тип WAN-соединения'
+unit: ''
+description: ''
+key: wan_connection_type
+type: option
+required: false
+collection: true
+option:
+    - IPoE
+    - L2TP
+    - PPPoE
+    - PPTP
+    - 'Динамический IP'
+    - 'Статический IP'

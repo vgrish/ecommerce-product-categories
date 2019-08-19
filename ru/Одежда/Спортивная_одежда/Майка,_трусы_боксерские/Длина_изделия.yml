@@ -1,0 +1,8 @@
+caption: 'Длина изделия'
+unit: ''
+description: 'Пропишите длину изделия (куртки, пиджаки – по спинке и т.п). Для комплектов данные укажите через запятую.'
+key: product_length
+type: text
+required: false
+collection: false
+option: {  }

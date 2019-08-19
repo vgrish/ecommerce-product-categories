@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр диска'
+unit: мм
+description: 'Записывается только число'
+key: max_disc_diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: Диаметр
+unit: см
+description: ''
+key: diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Плазменный фильтр'
+unit: ''
+description: ''
+key: plasma_filter
+type: bool
+required: false
+collection: false
+option: {  }

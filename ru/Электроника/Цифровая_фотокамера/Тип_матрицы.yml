@@ -1,0 +1,29 @@
+caption: 'Тип матрицы'
+unit: ''
+description: ''
+key: type_of_matrix
+type: option
+required: false
+collection: false
+option:
+    - CCD
+    - 'CCD APS-C'
+    - 'CCD с задней подсветкой'
+    - CMOS
+    - 'CMOS APS-C'
+    - 'CMOS CX'
+    - 'CMOS DX'
+    - 'CMOS Exmor'
+    - 'CMOS Exmor APS HD'
+    - 'CMOS Exmor R'
+    - 'CMOS Pro'
+    - 'CMOS с задней подсветкой'
+    - 'EXR CMOS'
+    - 'EXR CMOS II'
+    - 'Light Field CMOS'
+    - 'Live MOS'
+    - MOS
+    - 'Super CCD'
+    - 'Super HAD CCD'
+    - 'X-Trans CMOS'
+    - 'X-Trans CMOS II'

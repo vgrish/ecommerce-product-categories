@@ -1,0 +1,8 @@
+caption: 'Емкость контейнера для воды'
+unit: мл
+description: 'Записывается только число'
+key: capacity_of_water_container
+type: text
+required: false
+collection: false
+option: {  }

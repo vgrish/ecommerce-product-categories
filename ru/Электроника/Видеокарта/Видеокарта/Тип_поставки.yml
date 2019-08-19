@@ -1,0 +1,11 @@
+caption: 'Тип поставки'
+unit: ''
+description: ''
+key: type_of_delivery
+type: option
+required: false
+collection: false
+option:
+    - BOX
+    - OEM
+    - Retail

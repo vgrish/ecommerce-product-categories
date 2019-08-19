@@ -1,0 +1,8 @@
+caption: 'Вес товара в упаковке'
+unit: кг
+description: ''
+key: item_weight_in_packaging
+type: text
+required: false
+collection: false
+option: {  }

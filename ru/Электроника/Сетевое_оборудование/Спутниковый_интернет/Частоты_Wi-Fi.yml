@@ -1,0 +1,10 @@
+caption: 'Частоты Wi-Fi'
+unit: ''
+description: ''
+key: frequency_wi_fi
+type: option
+required: false
+collection: true
+option:
+    - '2.4 ГГц'
+    - '5 ГГц'

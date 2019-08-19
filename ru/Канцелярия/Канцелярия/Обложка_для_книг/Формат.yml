@@ -1,0 +1,9 @@
+caption: Формат
+unit: ''
+description: ''
+key: format
+type: option
+required: false
+collection: false
+option:
+    - '14 х 23,5 см'

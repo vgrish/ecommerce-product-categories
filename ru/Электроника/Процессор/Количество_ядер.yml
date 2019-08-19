@@ -1,0 +1,8 @@
+caption: 'Количество ядер'
+unit: ''
+description: ''
+key: number_of_cores
+type: text
+required: false
+collection: false
+option: {  }

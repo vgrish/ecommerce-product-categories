@@ -1,0 +1,14 @@
+caption: 'Регулировки и органы управления'
+unit: ''
+description: ''
+key: adjustment_and_controls
+type: option
+required: false
+collection: true
+option:
+    - 'Бесступенчатый термостат'
+    - 'Регулировка решетки по высоте'
+    - 'Регулировка решетки по наклону'
+    - 'Сенсорная панель'
+    - Таймер
+    - Термостат

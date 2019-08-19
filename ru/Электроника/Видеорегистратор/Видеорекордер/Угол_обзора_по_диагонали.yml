@@ -1,0 +1,8 @@
+caption: 'Угол обзора по диагонали'
+unit: град.
+description: 'Записывается только число'
+key: angle_of_view_diagonal
+type: text
+required: false
+collection: false
+option: {  }

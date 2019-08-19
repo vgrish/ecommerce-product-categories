@@ -1,0 +1,8 @@
+caption: Диаметр
+unit: мм
+description: 'Записывается только число'
+key: diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Вид масляного фильтра'
+unit: ''
+description: ''
+key: view_oil_filter
+type: option
+required: false
+collection: false
+option:
+    - Гравитационный
+    - Механический

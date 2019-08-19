@@ -1,0 +1,10 @@
+caption: 'Наличие встроенных динамиков'
+unit: ''
+description: ''
+key: presence_of_built_in_speakers
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

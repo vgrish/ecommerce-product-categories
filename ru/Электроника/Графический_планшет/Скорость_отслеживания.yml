@@ -1,0 +1,8 @@
+caption: 'Скорость отслеживания'
+unit: ''
+description: ''
+key: speed_tracking
+type: text
+required: false
+collection: false
+option: {  }

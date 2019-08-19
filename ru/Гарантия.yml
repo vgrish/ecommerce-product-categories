@@ -1,0 +1,8 @@
+caption: Гарантия
+unit: ''
+description: ''
+key: guarantee
+type: text
+required: false
+collection: false
+option: {  }

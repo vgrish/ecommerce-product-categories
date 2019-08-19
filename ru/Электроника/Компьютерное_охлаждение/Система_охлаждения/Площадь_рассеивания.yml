@@ -1,0 +1,8 @@
+caption: 'Площадь рассеивания'
+unit: см2
+description: 'Записывается только число'
+key: dispersion_area
+type: text
+required: false
+collection: false
+option: {  }

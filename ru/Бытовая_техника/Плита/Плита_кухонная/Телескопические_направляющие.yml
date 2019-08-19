@@ -1,0 +1,11 @@
+caption: 'Телескопические направляющие'
+unit: ''
+description: 'Где есть телескопические направляющие в духовом шкафу'
+key: telescopic_slide
+type: option
+required: false
+collection: false
+option:
+    - 'На 1-м уровне'
+    - 'На 2-х уровнях'
+    - 'На 3-х уровнях'

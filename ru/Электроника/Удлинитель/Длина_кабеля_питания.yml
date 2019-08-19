@@ -1,0 +1,8 @@
+caption: 'Длина кабеля питания'
+unit: м
+description: 'Записывается только число'
+key: length_of_power_cable
+type: text
+required: false
+collection: false
+option: {  }

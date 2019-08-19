@@ -1,0 +1,8 @@
+caption: Твердость
+unit: HRc
+description: ''
+key: hardness
+type: text
+required: false
+collection: false
+option: {  }

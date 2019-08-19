@@ -1,0 +1,18 @@
+caption: 'Вид лапши'
+unit: ''
+description: 'Укажите вид лапши'
+key: kind_of_noodle
+type: option
+required: false
+collection: false
+option:
+    - Вок
+    - Гречневая
+    - Домашняя
+    - Пшеничная
+    - Рисовая
+    - Соевая
+    - Стеклянная
+    - Удон
+    - Фунчоза
+    - Яичная

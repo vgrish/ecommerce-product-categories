@@ -1,0 +1,10 @@
+caption: 'С игрушкой'
+unit: ''
+description: ''
+key: with_a_toy
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

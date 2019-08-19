@@ -1,0 +1,11 @@
+caption: 'Вид салонного фильтра'
+unit: ''
+description: ''
+key: view_of_cabin_filter
+type: option
+required: false
+collection: false
+option:
+    - Жировой
+    - Противопылевой
+    - Угольный

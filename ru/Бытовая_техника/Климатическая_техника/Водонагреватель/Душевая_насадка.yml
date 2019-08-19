@@ -1,0 +1,8 @@
+caption: 'Душевая насадка'
+unit: ''
+description: ''
+key: shower_nozzle
+type: bool
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Относительная яркость'
+unit: ''
+description: ''
+key: relative_brightness
+type: text
+required: false
+collection: false
+option: {  }

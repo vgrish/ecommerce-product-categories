@@ -1,0 +1,8 @@
+caption: 'Материал бака'
+unit: ''
+description: ''
+key: tank_material
+type: text
+required: false
+collection: false
+option: {  }

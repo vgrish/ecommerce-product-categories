@@ -1,0 +1,13 @@
+caption: 'Назначение слотов'
+unit: ''
+description: 'Как используются слоты для SIM и для карты памяти'
+key: appointment_slots
+type: option
+required: false
+collection: true
+option:
+    - 'SIM 1'
+    - 'SIM 2'
+    - 'SIM 3'
+    - microSD
+    - 'Гибрид (SIM 2 / microSD)'

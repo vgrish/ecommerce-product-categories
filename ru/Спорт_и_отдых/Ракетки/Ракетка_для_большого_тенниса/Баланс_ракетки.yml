@@ -1,0 +1,8 @@
+caption: 'Баланс ракетки'
+unit: см
+description: ''
+key: balance_of_racket
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Конструкция самоката'
+unit: ''
+description: ''
+key: design_of_scooter
+type: option
+required: false
+collection: false
+option:
+    - Разборный
+    - Складной
+    - Традиционный

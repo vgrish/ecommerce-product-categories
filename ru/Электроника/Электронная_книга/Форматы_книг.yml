@@ -1,0 +1,53 @@
+caption: 'Форматы книг'
+unit: ''
+description: 'Поддерживаемые текстовые форматы файлов'
+key: book_formats
+type: option
+required: false
+collection: true
+option:
+    - ANSI
+    - AZW
+    - CB7
+    - CBR
+    - CBZ
+    - CHM
+    - 'CHM Excel'
+    - DOC
+    - DOCX
+    - DjVu
+    - EPUB
+    - FB2
+    - FB2.ZIP
+    - HTM
+    - HTML
+    - HWP
+    - IW4
+    - LCR
+    - LIT
+    - LRC
+    - LRF
+    - MOBI
+    - OEB
+    - OPF
+    - PDB
+    - PDF
+    - PPT
+    - PPTX
+    - PRC
+    - PTG
+    - PalmDOC
+    - RSS
+    - RTF
+    - TCR
+    - TXT
+    - UMD
+    - VCF
+    - VCS
+    - VNT
+    - WOLF
+    - WTXT
+    - XLS
+    - XLSX
+    - XML
+    - XPS

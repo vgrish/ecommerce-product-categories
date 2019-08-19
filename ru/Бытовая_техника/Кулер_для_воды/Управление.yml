@@ -1,0 +1,13 @@
+caption: Управление
+unit: ''
+description: ''
+key: management
+type: option
+required: false
+collection: false
+option:
+    - 'Дополнительные кнопки для вызова функций'
+    - Кнопки
+    - Механическое
+    - 'Сенсорный экран'
+    - Электромеханическое

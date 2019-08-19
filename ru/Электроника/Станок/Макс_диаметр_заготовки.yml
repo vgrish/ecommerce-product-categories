@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр заготовки'
+unit: мм
+description: 'Записывается только число'
+key: max_workpiece_diameter
+type: text
+required: false
+collection: false
+option: {  }

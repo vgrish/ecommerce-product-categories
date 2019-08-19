@@ -1,0 +1,18 @@
+caption: 'Технологические особенности'
+unit: ''
+description: ''
+key: technological_features
+type: option
+required: false
+collection: true
+option:
+    - 'Deep color'
+    - LipSync
+    - MHL
+    - x.v.Color
+    - 'Поддержка 3D изображения'
+    - 'Поддержка Ethernet-соединения (HDMI Ethernet Channel, HEC)'
+    - 'Поддержка разрешения 4K'
+    - 'Поддержка технологии реверсивного звукового канала (ARC)'
+    - 'Сделано для iPod/iPhone/iPad'
+    - 'Совместимость с HDCP'

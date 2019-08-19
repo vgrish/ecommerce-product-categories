@@ -1,0 +1,8 @@
+caption: 'Список совместимых устройств'
+unit: ''
+description: 'Перечисляются устройства, для которых изготовлен аксессуар/расходник'
+key: list_of_compatible_devices
+type: text
+required: false
+collection: false
+option: {  }

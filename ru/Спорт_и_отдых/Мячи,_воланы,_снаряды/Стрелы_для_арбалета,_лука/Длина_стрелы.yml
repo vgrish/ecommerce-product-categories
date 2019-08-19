@@ -1,0 +1,8 @@
+caption: 'Длина стрелы'
+unit: дюймы
+description: ''
+key: boom_length
+type: text
+required: false
+collection: false
+option: {  }

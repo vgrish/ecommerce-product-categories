@@ -1,0 +1,12 @@
+caption: 'Тип используемого кофе'
+unit: ''
+description: 'Вид кофе, который используется для приготовления напитка'
+key: coffee_type
+type: option
+required: false
+collection: true
+option:
+    - 'В зернах'
+    - Капсульный
+    - Молотый
+    - Сублимат

@@ -1,0 +1,8 @@
+caption: 'Выход первой страницы'
+unit: с
+description: 'Записывается только число'
+key: first_page
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,20 @@
+caption: 'Разрешение камеры'
+unit: ''
+description: ''
+key: camera_resolution
+type: option
+required: false
+collection: false
+option:
+    - '330 ТВЛ'
+    - '380 ТВЛ'
+    - '400 ТВЛ'
+    - '420 ТВЛ'
+    - '500 ТВЛ'
+    - '560 ТВЛ'
+    - '570 ТВЛ'
+    - '600 ТВЛ'
+    - '620 ТВЛ'
+    - '700 ТВЛ'
+    - '800 ТВЛ'
+    - '1000 ТВЛ'

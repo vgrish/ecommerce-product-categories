@@ -1,0 +1,8 @@
+caption: 'Оперативная память'
+unit: ГБ
+description: 'Записывается только число'
+key: ram
+type: text
+required: false
+collection: false
+option: {  }

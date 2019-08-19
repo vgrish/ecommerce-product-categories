@@ -1,0 +1,8 @@
+caption: 'Мин. темп. снаружи'
+unit: '-°С'
+description: 'Минимально измеряемое значение температуры на улице. Записывается только число'
+key: min_temp_outside
+type: text
+required: false
+collection: false
+option: {  }

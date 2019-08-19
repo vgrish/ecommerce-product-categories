@@ -1,0 +1,23 @@
+caption: 'Совместимые ОС'
+unit: ''
+description: ''
+key: compatible_os
+type: option
+required: false
+collection: true
+option:
+    - Android
+    - "Android 4.0.x\_(Ice Cream Sandwich) +"
+    - "Android 4.1.x\_(Jelly Bean) +"
+    - "Android 4.2.x\_(Jelly Bean) +"
+    - "Android 4.3.x\_(Jelly Bean) +"
+    - "Android 4.4.x\_(KitKat) +"
+    - "Android 5.0.x\_(Lollipop) +"
+    - "Android 5.1.x\_(Lollipop) +"
+    - IOS
+    - 'IOS 6.0+'
+    - 'IOS 7.0+'
+    - 'IOS 9.0+'
+    - 'Windows Phone'
+    - 'Windows Phone 8.1 +'
+    - 'iOS 8.0+'

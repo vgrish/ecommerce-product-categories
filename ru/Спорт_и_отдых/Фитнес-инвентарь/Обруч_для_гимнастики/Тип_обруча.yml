@@ -1,0 +1,11 @@
+caption: 'Тип обруча'
+unit: ''
+description: ''
+key: wrap_type
+type: option
+required: false
+collection: false
+option:
+    - Гимнастический
+    - Массажный
+    - 'Обруч- тренажер'

@@ -1,0 +1,15 @@
+caption: 'Вид лодки'
+unit: ''
+description: ''
+key: view_of_boat
+type: option
+required: false
+collection: false
+option:
+    - Гребная
+    - 'Для рыбалки'
+    - Каркасная
+    - Каркасно-надувная
+    - Моторная
+    - Моторно-гребная
+    - Сплавной

@@ -1,0 +1,8 @@
+caption: 'Количество тревожных выходов'
+unit: ''
+description: ''
+key: number_of_alarm_outputs
+type: text
+required: false
+collection: false
+option: {  }

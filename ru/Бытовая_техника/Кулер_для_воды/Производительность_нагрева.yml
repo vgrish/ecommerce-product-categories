@@ -1,0 +1,8 @@
+caption: 'Производительность нагрева'
+unit: л/ч
+description: 'Записывается только число'
+key: performance_of_heating
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: Размораживание
+unit: ''
+description: 'Вид технологии размораживания'
+key: defrost
+type: option
+required: false
+collection: true
+option:
+    - 'No frost'
+    - 'Капельная система'
+    - Ручное

@@ -1,0 +1,8 @@
+caption: 'Количество треков записи'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_tracks_recording
+type: text
+required: false
+collection: false
+option: {  }

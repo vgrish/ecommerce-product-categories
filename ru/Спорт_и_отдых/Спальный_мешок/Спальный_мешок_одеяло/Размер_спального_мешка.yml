@@ -1,0 +1,19 @@
+caption: 'Размер спального мешка'
+unit: ''
+description: ''
+key: size_sleeping_bag
+type: option
+required: false
+collection: false
+option:
+    - '1 sz'
+    - Junior
+    - L
+    - L/XL
+    - M
+    - S
+    - S/M
+    - Senior
+    - XL
+    - XXL
+    - Youth

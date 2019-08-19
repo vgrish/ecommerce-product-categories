@@ -1,0 +1,8 @@
+caption: 'Размер оперативной памяти'
+unit: МБ
+description: 'Записывается только число'
+key: amount_of_ram
+type: text
+required: false
+collection: false
+option: {  }

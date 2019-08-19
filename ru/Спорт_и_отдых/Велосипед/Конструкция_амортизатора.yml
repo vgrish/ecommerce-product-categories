@@ -1,0 +1,14 @@
+caption: 'Конструкция амортизатора'
+unit: ''
+description: ''
+key: design_of_absorber
+type: option
+required: false
+collection: false
+option:
+    - Воздушная
+    - Воздушно-масляная
+    - Жесткая
+    - Пружинная
+    - Пружинно-масляная
+    - Пружинно-эластомерная

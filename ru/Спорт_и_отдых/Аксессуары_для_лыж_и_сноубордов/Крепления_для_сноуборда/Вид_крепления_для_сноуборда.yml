@@ -1,0 +1,10 @@
+caption: 'Вид крепления для сноуборда'
+unit: ''
+description: ''
+key: look_for_a_snowboard_attachment
+type: option
+required: false
+collection: false
+option:
+    - Жесткие
+    - Мягкие

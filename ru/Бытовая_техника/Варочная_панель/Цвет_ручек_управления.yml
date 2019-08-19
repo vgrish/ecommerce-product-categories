@@ -1,0 +1,8 @@
+caption: 'Цвет ручек управления'
+unit: ''
+description: ''
+key: color_of_knobs
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Конструкция теннисного стола'
+unit: ''
+description: ''
+key: design_table_tennis_table
+type: option
+required: false
+collection: false
+option:
+    - Сборный
+    - Складной
+    - Стационарный

@@ -1,0 +1,13 @@
+caption: 'Вид аксессуара для ударных'
+unit: ''
+description: ''
+key: accessory_for_percussion
+type: option
+required: false
+collection: false
+option:
+    - 'Барабанные палочки'
+    - 'Ключи, пружины для барабанов'
+    - Метроном
+    - 'Сурдины для барабанов'
+    - 'Тренировочный пэд'

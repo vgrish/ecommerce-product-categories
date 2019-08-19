@@ -1,0 +1,12 @@
+caption: 'Вид коробки передач'
+unit: ''
+description: ''
+key: transmission_type
+type: option
+required: false
+collection: true
+option:
+    - Автоматическая
+    - Вариатор
+    - Гидростатическая
+    - Механическая

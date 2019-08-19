@@ -1,0 +1,10 @@
+caption: 'Материал наполнителя'
+unit: ''
+description: ''
+key: filler_material
+type: option
+required: false
+collection: false
+option:
+    - Синтепон
+    - 'Стружка кедра'

@@ -1,0 +1,10 @@
+caption: 'Оригинальность расходника'
+unit: ''
+description: ''
+key: originality_of_consumables
+type: option
+required: false
+collection: false
+option:
+    - Оригинал
+    - Совместимый

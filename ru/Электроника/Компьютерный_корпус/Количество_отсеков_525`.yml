@@ -1,0 +1,11 @@
+caption: 'Количество отсеков 5.25"'
+unit: ''
+description: ''
+key: number_of_compartments_5_25
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'

@@ -1,0 +1,10 @@
+caption: 'Вид разъема акустики'
+unit: ''
+description: ''
+key: view_of_connector_of_acoustics
+type: option
+required: false
+collection: false
+option:
+    - Винтовой
+    - Пружинный

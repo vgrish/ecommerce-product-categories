@@ -1,0 +1,11 @@
+caption: 'Расположение морозильной камеры'
+unit: ''
+description: ''
+key: freezer_location
+type: option
+required: false
+collection: false
+option:
+    - 'Side by Side (сбоку)'
+    - Сверху
+    - Снизу

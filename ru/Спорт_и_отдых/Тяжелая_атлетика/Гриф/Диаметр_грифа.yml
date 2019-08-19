@@ -1,0 +1,8 @@
+caption: 'Диаметр грифа'
+unit: мм
+description: ''
+key: diameter_of_neck
+type: text
+required: false
+collection: false
+option: {  }

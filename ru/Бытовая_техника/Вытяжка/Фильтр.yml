@@ -1,0 +1,11 @@
+caption: Фильтр
+unit: ''
+description: 'Виды фильтров в вытяжке'
+key: filter
+type: option
+required: false
+collection: true
+option:
+    - Жировой
+    - Противопылевой
+    - Угольный

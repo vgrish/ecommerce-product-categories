@@ -1,0 +1,8 @@
+caption: Конфигурация
+unit: ''
+description: ''
+key: configuration
+type: text
+required: false
+collection: false
+option: {  }

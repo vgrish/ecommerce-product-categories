@@ -1,0 +1,10 @@
+caption: 'Вид компрессора'
+unit: ''
+description: ''
+key: kind_of_compressor
+type: option
+required: false
+collection: false
+option:
+    - Инверторный
+    - Классический

@@ -1,0 +1,8 @@
+caption: 'Ширина оттиска'
+unit: мм
+description: ''
+key: width_of_imprint
+type: text
+required: false
+collection: false
+option: {  }

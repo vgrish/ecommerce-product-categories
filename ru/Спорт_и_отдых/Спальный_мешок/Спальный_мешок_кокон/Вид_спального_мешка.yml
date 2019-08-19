@@ -1,0 +1,10 @@
+caption: 'Вид спального мешка'
+unit: ''
+description: ''
+key: view_sleeping_bag
+type: option
+required: false
+collection: false
+option:
+    - Кокон
+    - Одеяло

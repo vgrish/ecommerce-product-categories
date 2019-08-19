@@ -1,0 +1,8 @@
+caption: 'Гарантийный срок'
+unit: ''
+description: ''
+key: warranty_period
+type: text
+required: false
+collection: false
+option: {  }

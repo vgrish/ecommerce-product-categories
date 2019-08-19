@@ -1,0 +1,8 @@
+caption: 'Длина кабеля'
+unit: см
+description: 'Записывается только число'
+key: cable_length
+type: text
+required: false
+collection: false
+option: {  }

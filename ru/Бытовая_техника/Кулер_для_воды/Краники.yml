@@ -1,0 +1,11 @@
+caption: Краники
+unit: ''
+description: 'Вид краника для подачи воды'
+key: air_valves
+type: option
+required: false
+collection: false
+option:
+    - Клавиша
+    - Кнопка
+    - Краник

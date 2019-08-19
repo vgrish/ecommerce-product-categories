@@ -1,0 +1,10 @@
+caption: 'Вид заряжаемого аккумулятора'
+unit: ''
+description: ''
+key: view_rechargeable_battery
+type: option
+required: false
+collection: true
+option:
+    - AA
+    - 'AAA (LR03)'

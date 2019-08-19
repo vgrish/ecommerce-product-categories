@@ -1,0 +1,8 @@
+caption: 'Максимальная высота/длина монопода'
+unit: см
+description: 'Записывается только число'
+key: max_height_of_length_of_monopod
+type: text
+required: false
+collection: false
+option: {  }

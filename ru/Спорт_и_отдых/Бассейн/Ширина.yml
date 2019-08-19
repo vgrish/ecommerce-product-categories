@@ -1,0 +1,8 @@
+caption: Ширина
+unit: ''
+description: ''
+key: width
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Встроенные устройства'
+unit: ''
+description: ''
+key: built_in_devices
+type: option
+required: false
+collection: false
+option:
+    - 'MP3 плеер'
+    - Проектор
+    - 'Флеш-кард ридер'
+    - Часы-будильник

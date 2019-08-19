@@ -1,0 +1,13 @@
+caption: 'Вид гречки'
+unit: ''
+description: 'Укажите вид гречки'
+key: kind_of_buckwheat
+type: option
+required: false
+collection: false
+option:
+    - Зеленая
+    - Продел
+    - Сечка
+    - Хлопья
+    - Ядрица

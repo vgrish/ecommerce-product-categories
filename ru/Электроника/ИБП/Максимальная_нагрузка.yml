@@ -1,0 +1,8 @@
+caption: 'Максимальная нагрузка'
+unit: ''
+description: ''
+key: max_load
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Угол обзора по горизонтали'
+unit: °
+description: 'Записывается только число'
+key: viewing_angle_horizontal
+type: text
+required: false
+collection: false
+option: {  }

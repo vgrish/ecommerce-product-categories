@@ -1,0 +1,16 @@
+caption: Форм-фактор
+unit: ''
+description: 'Форм-фактор RAM'
+key: form_factor
+type: option
+required: false
+collection: false
+option:
+    - 'DIMM 168-pin'
+    - 'DIMM 184-pin'
+    - 'DIMM 240-pin'
+    - 'DIMM 288-pin'
+    - 'SO-DIMM 144 pin'
+    - 'SO-DIMM 200 pin'
+    - 'SO-DIMM 204 pin'
+    - 'SO-DIMM 260-pin'

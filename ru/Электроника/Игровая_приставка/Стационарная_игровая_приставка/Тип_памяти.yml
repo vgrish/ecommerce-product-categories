@@ -1,0 +1,20 @@
+caption: 'Тип памяти'
+unit: ''
+description: 'Выбирается тип RAM-памяти'
+key: memory_type
+type: option
+required: false
+collection: false
+option:
+    - DDR2
+    - DDR3
+    - DDR3L
+    - DDR4
+    - GDDR
+    - GDDR2
+    - GDDR3
+    - GDDR5
+    - GDDR5X
+    - GDDR6
+    - HBM2
+    - LPDDR3

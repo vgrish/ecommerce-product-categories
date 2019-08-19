@@ -1,0 +1,12 @@
+caption: 'Вид набора'
+unit: ''
+description: ''
+key: set_view
+type: option
+required: false
+collection: false
+option:
+    - 'Для руководителя'
+    - Офисный
+    - Письменный
+    - Школьный

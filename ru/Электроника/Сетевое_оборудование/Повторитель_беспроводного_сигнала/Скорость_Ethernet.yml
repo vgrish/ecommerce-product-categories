@@ -1,0 +1,10 @@
+caption: 'Скорость Ethernet'
+unit: ''
+description: ''
+key: speed_ethernet
+type: option
+required: false
+collection: false
+option:
+    - '10/100 Fast Ethernet'
+    - '10/100/1000 Gigabit Ethernet'

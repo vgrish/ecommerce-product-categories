@@ -1,0 +1,8 @@
+caption: 'Максимальный рост'
+unit: см
+description: ''
+key: max_growth
+type: text
+required: false
+collection: false
+option: {  }

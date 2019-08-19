@@ -1,0 +1,11 @@
+caption: 'Типоразмер аккумулятора'
+unit: ''
+description: ''
+key: size_of_battery
+type: option
+required: false
+collection: false
+option:
+    - Азиатский
+    - Американский
+    - Европейский

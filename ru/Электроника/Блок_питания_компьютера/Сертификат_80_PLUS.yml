@@ -1,0 +1,14 @@
+caption: 'Сертификат 80 PLUS'
+unit: ''
+description: 'Выбирается вид сертификата 80 PLUS'
+key: 80_plus_certification
+type: option
+required: false
+collection: false
+option:
+    - Bronze
+    - Gold
+    - Platinum
+    - Silver
+    - Titanium
+    - Простой

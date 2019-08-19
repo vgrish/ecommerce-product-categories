@@ -1,0 +1,15 @@
+caption: Цель
+unit: ''
+description: ''
+key: goal
+type: option
+required: false
+collection: true
+option:
+    - Восстановление
+    - Выносливость
+    - 'Красота и здоровье'
+    - 'Набор мышечной массы'
+    - Похудение/Сушка
+    - Профилактика
+    - Сила

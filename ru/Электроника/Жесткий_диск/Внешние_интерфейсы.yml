@@ -1,0 +1,34 @@
+caption: 'Внешние интерфейсы'
+unit: ''
+description: 'Интерфейсы, по которым диск подключается к другим устройствам'
+key: external_interfaces
+type: option
+required: false
+collection: true
+option:
+    - 'Apple Lightning'
+    - Coax
+    - 'FireWire 800'
+    - HDMI
+    - I2C
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - RJ-45
+    - SAS
+    - SATA
+    - 'SATA3 6.0 Гбит/с'
+    - UART
+    - 'USB 1.1'
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Type-C'
+    - 'USB Type-C'
+    - 'VGA (f)'
+    - eSATA
+    - 'microUSB 3.0'
+    - 'mini SAS'
+    - 'miniUSB 2.0'

@@ -1,0 +1,8 @@
+caption: КПД
+unit: '%'
+description: 'Записывается только число'
+key: efficiency
+type: text
+required: false
+collection: false
+option: {  }

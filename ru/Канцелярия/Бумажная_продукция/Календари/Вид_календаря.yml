@@ -1,0 +1,14 @@
+caption: 'Вид календаря'
+unit: ''
+description: ''
+key: calendar_view
+type: option
+required: false
+collection: false
+option:
+    - Квартальный
+    - Листовой
+    - Магнитный
+    - 'Настенный перекидной'
+    - Настольный
+    - Отрывной

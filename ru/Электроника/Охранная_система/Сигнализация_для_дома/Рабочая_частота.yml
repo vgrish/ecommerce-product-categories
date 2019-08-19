@@ -1,0 +1,8 @@
+caption: 'Рабочая частота'
+unit: МГц
+description: 'Записывается только число'
+key: operating_frequency
+type: text
+required: false
+collection: false
+option: {  }

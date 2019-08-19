@@ -1,0 +1,8 @@
+caption: 'Высота платформы'
+unit: ''
+description: 'Указывается в см'
+key: platform_height
+type: text
+required: false
+collection: false
+option: {  }

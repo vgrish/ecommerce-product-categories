@@ -1,0 +1,12 @@
+caption: 'Тип фаркопа'
+unit: ''
+description: ''
+key: type_of_tow_bar
+type: option
+required: false
+collection: false
+option:
+    - Быстросъемный
+    - Несъемный
+    - Отклоняющийся
+    - Фиксированный

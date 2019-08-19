@@ -1,0 +1,8 @@
+caption: 'Длина рейсмусного стола'
+unit: мм
+description: 'Записывается только число'
+key: length_raskosnov_table
+type: text
+required: false
+collection: false
+option: {  }

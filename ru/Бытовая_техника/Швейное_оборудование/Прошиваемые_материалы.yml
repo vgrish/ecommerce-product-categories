@@ -1,0 +1,11 @@
+caption: 'Прошиваемые материалы'
+unit: ''
+description: ''
+key: stitched_materials
+type: option
+required: false
+collection: false
+option:
+    - 'Для всех типов тканей'
+    - Сверхтяжелые
+    - Тяжелые

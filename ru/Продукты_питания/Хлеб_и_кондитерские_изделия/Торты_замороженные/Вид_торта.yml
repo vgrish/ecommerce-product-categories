@@ -1,0 +1,18 @@
+caption: 'Вид торта'
+unit: ''
+description: 'Выберите вид торта'
+key: kind_of_cake
+type: option
+required: false
+collection: false
+option:
+    - Бисквитно-песочный
+    - Бисквитный
+    - Блинный
+    - Вафельный
+    - Пай
+    - Песочный
+    - Слоеный
+    - Творожный
+    - Тирольский
+    - Чизкейк

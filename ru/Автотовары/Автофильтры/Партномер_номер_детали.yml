@@ -1,0 +1,8 @@
+caption: 'Партномер (номер детали)'
+unit: ''
+description: ''
+key: part_part_number
+type: text
+required: false
+collection: false
+option: {  }

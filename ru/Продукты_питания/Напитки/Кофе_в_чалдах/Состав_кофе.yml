@@ -1,0 +1,10 @@
+caption: 'Состав кофе'
+unit: ''
+description: 'Укажите состав кофе'
+key: composition_of_coffee
+type: option
+required: false
+collection: true
+option:
+    - Арабика
+    - Робуста

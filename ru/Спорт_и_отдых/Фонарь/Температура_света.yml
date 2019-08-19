@@ -1,0 +1,12 @@
+caption: 'Температура света'
+unit: ''
+description: ''
+key: temperature_of_light
+type: option
+required: false
+collection: false
+option:
+    - Дневной
+    - Нейтральный
+    - Теплый
+    - Холодный

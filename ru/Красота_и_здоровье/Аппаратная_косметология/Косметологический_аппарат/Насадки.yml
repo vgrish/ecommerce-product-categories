@@ -1,0 +1,8 @@
+caption: Насадки
+unit: ''
+description: ''
+key: nozzle
+type: text
+required: false
+collection: false
+option: {  }

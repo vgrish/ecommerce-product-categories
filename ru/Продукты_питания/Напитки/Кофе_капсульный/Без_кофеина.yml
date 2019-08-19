@@ -1,0 +1,10 @@
+caption: 'Без кофеина'
+unit: ''
+description: 'Если продукт не содержит кофеина - выберите "да", если содержит - оставьте поле пустым'
+key: without_caffeine
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

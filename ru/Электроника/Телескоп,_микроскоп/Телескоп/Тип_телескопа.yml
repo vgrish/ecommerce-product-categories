@@ -1,0 +1,17 @@
+caption: 'Тип телескопа'
+unit: ''
+description: ''
+key: type_of_telescope
+type: option
+required: false
+collection: false
+option:
+    - Бинокуляр
+    - Максутова-Кассегрена
+    - Монокуляр
+    - Ньютоновский
+    - 'Панкратический окуляр'
+    - Рефлектор
+    - Рефрактор
+    - Тринокуляр
+    - Цифровой

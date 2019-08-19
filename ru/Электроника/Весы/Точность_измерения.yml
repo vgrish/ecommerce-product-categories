@@ -1,0 +1,8 @@
+caption: 'Точность измерения'
+unit: г
+description: 'Записывается только число'
+key: accuracy_of_measurement
+type: text
+required: false
+collection: false
+option: {  }

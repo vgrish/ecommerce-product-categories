@@ -1,0 +1,8 @@
+caption: 'Макс. число датчиков'
+unit: ''
+description: ''
+key: max_number_of_sensors
+type: text
+required: false
+collection: false
+option: {  }

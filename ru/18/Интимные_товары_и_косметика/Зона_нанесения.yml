@@ -1,0 +1,15 @@
+caption: 'Зона нанесения'
+unit: ''
+description: ''
+key: application_area
+type: option
+required: false
+collection: true
+option:
+    - Анальная
+    - Клитор
+    - Оральная
+    - 'Половые губы'
+    - Соски
+    - Тело
+    - Член

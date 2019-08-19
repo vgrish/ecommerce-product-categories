@@ -1,0 +1,8 @@
+caption: 'Мощность подключения'
+unit: Вт
+description: 'Записывается только число'
+key: power_connection
+type: text
+required: false
+collection: false
+option: {  }

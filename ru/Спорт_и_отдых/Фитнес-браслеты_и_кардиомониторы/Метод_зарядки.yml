@@ -1,0 +1,19 @@
+caption: 'Метод зарядки'
+unit: ''
+description: ''
+key: charging_method
+type: option
+required: false
+collection: true
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - SAS
+    - 'USB 2.0'
+    - 'VGA (f)'
+    - 'microUSB 2.0'
+    - 'mini SAS'

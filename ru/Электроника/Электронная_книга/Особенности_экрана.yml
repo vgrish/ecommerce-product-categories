@@ -1,0 +1,10 @@
+caption: 'Особенности экрана'
+unit: ''
+description: 'Выбираются соответствующие устройству значения параметра'
+key: screen_features
+type: option
+required: false
+collection: true
+option:
+    - Подсветка
+    - 'Сенсорное управление'

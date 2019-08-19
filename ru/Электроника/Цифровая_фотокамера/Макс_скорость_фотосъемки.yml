@@ -1,0 +1,8 @@
+caption: 'Макс. скорость фотосъемки'
+unit: кадр/с
+description: 'Записывается только число'
+key: max_speed_photography
+type: text
+required: false
+collection: false
+option: {  }

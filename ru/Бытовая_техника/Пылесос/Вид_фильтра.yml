@@ -1,0 +1,10 @@
+caption: 'Вид фильтра'
+unit: ''
+description: ''
+key: filter
+type: option
+required: false
+collection: false
+option:
+    - 'HEPA фильтр'
+    - 'Стандартный фильтр'

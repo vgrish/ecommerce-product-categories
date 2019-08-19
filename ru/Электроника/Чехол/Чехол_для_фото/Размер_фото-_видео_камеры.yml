@@ -1,0 +1,12 @@
+caption: 'Размер фото- видео камеры'
+unit: ''
+description: ''
+key: size_of_photo_video_camera
+type: option
+required: false
+collection: false
+option:
+    - 'Зеркальная камера с объективом'
+    - 'Зеркальная камера с телеобъективом'
+    - 'Компактная видеокамера'
+    - 'Компактная фотокамера'

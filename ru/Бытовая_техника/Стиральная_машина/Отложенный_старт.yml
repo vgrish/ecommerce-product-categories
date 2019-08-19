@@ -1,0 +1,8 @@
+caption: 'Отложенный старт'
+unit: ч
+description: 'Записывается только число'
+key: delayed_start
+type: text
+required: false
+collection: false
+option: {  }

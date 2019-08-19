@@ -1,0 +1,8 @@
+caption: 'Число средних бигуди'
+unit: ''
+description: ''
+key: number_average_curler
+type: option
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: 'Климатический класс'
+unit: ''
+description: ''
+key: climate_class
+type: option
+required: false
+collection: false
+option:
+    - '4/CC2K4 (32°C)'
+    - 'N +16°C / +32°C'
+    - 'N-ST +16°C / +38°C'
+    - 'N-T +16°C / +43°C'
+    - 'SN +10°C / +32°C'
+    - 'SN-ST +10°C / +38°C'
+    - 'SN-T +10°C / +43°C'
+    - 'ST +18°C / +38°C'
+    - 'T +18°C / +43°C'

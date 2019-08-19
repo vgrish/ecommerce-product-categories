@@ -1,0 +1,11 @@
+caption: 'Датчик износа'
+unit: ''
+description: ''
+key: wear
+type: option
+required: false
+collection: false
+option:
+    - Механический
+    - Отсутствует
+    - Электронный

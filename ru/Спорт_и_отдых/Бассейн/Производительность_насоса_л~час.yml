@@ -1,0 +1,8 @@
+caption: 'Производительность насоса л/час'
+unit: ''
+description: ''
+key: pump_capacity
+type: text
+required: false
+collection: false
+option: {  }

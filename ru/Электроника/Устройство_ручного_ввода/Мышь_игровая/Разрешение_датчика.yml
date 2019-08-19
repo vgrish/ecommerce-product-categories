@@ -1,0 +1,8 @@
+caption: 'Разрешение датчика'
+unit: ''
+description: ''
+key: sensor_resolution
+type: text
+required: false
+collection: false
+option: {  }

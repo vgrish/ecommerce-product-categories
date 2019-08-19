@@ -1,0 +1,16 @@
+caption: Форма
+unit: ''
+description: ''
+key: form
+type: option
+required: false
+collection: false
+option:
+    - Бочка
+    - Восьмиугольник
+    - Квадрат
+    - Круг
+    - Овал
+    - Прямоугольник
+    - Треугольник
+    - Тубус

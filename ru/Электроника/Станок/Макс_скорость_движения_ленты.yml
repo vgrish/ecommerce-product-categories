@@ -1,0 +1,8 @@
+caption: 'Макс. скорость движения ленты'
+unit: м/мин
+description: 'Записывается только число'
+key: max_belt_speed
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. частота обновления'
+unit: Гц
+description: 'Записывается только число'
+key: max_update_rate
+type: text
+required: false
+collection: false
+option: {  }

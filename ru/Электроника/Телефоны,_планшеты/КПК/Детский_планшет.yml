@@ -1,0 +1,10 @@
+caption: 'Детский планшет'
+unit: ''
+description: 'Выбирайте "Да" ТОЛЬКО для плашетов для детей'
+key: kids_tablet
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

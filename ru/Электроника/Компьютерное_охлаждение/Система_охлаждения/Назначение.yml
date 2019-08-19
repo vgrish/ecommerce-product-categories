@@ -1,0 +1,14 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: false
+option:
+    - 'Для видеокарты'
+    - 'Для жесткого диска'
+    - 'Для корпуса'
+    - 'Для оперативной памяти'
+    - 'Для процессора'
+    - 'Для чипсета'

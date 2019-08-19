@@ -1,0 +1,35 @@
+caption: 'Интерфейс обмена данными'
+unit: ''
+description: ''
+key: interface_for_data_exchange
+type: option
+required: false
+collection: true
+option:
+    - 3G
+    - 4G
+    - DC-HSDPA
+    - DLNA
+    - EDGE
+    - 'GSM 850/1800/1900'
+    - 'GSM 850/900/1800/1900'
+    - 'GSM 900/1800'
+    - 'GSM 900/1800/1900'
+    - HSDPA
+    - HSPA+
+    - HSUPA
+    - LTE
+    - LTE-Advanced
+    - MST
+    - MiMo
+    - Miracast
+    - NFC
+    - USB
+    - WCDMA
+    - Wi-Fi
+    - 'Wi-Fi 802.11a/b/g/n'
+    - 'Wi-Fi 802.11ac'
+    - 'Wi-Fi 802.11b/g'
+    - 'Wi-Fi 802.11b/g/n'
+    - 'Wi-Fi Direct'
+    - ИК-порт

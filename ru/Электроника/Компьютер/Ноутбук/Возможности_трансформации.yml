@@ -1,0 +1,11 @@
+caption: 'Возможности трансформации'
+unit: ''
+description: ''
+key: possibility_of_transformation
+type: option
+required: false
+collection: false
+option:
+    - 'Отстегивающаяся клавиатура'
+    - 'Разворачивающийся на 300° экран'
+    - 'Разворачивающийся на 360° экран'

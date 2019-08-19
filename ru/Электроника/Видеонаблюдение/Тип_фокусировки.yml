@@ -1,0 +1,12 @@
+caption: 'Тип фокусировки'
+unit: ''
+description: ''
+key: focus_type
+type: option
+required: false
+collection: false
+option:
+    - Автоматическая
+    - Контрастная
+    - Ручная
+    - Фиксированная

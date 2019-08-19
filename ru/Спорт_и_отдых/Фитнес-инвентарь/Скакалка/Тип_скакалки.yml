@@ -1,0 +1,12 @@
+caption: 'Тип скакалки'
+unit: ''
+description: 'Для типа товара Скакалка выберите ее разновидность.'
+key: type_of_rope
+type: option
+required: false
+collection: false
+option:
+    - Гимнастическая
+    - 'Для фитнеса'
+    - Профессиональная
+    - Скоростная

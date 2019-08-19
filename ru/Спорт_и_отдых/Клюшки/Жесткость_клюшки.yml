@@ -1,0 +1,8 @@
+caption: 'Жесткость клюшки'
+unit: ''
+description: ''
+key: stiffness_of_stick
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество ядер CUDA'
+unit: ''
+description: ''
+key: number_of_cuda_cores
+type: text
+required: false
+collection: false
+option: {  }

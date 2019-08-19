@@ -1,0 +1,8 @@
+caption: 'Глубина реза/выборки'
+unit: мм
+description: 'Записывается только число'
+key: depth_of_cut_of_sample
+type: text
+required: false
+collection: false
+option: {  }

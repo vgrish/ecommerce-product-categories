@@ -1,0 +1,20 @@
+caption: Радио
+unit: ''
+description: 'Выбираются поддержываемые радиочастоты'
+key: radio
+type: option
+required: false
+collection: true
+option:
+    - AM
+    - DAB
+    - FM
+    - LPD
+    - LW
+    - MW
+    - PMR
+    - SW
+    - Авиа
+    - КВ
+    - УКВ
+    - 'расширенный FM'

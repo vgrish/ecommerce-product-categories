@@ -1,0 +1,11 @@
+caption: Пол
+unit: ''
+description: 'Укажите, для кого предназначен данный аксессуар. Если он предполагает участие пары, то выберите "Для двоих"'
+key: floor
+type: option
+required: false
+collection: true
+option:
+    - 'Для двоих'
+    - 'Для него'
+    - 'Для нее'

@@ -1,0 +1,10 @@
+caption: 'Вид радиоприемника'
+unit: ''
+description: 'Портативный (на аккумуляторах/батарейках), или стационарный'
+key: radio
+type: option
+required: false
+collection: false
+option:
+    - Портативный
+    - Стационарный

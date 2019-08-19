@@ -1,0 +1,15 @@
+caption: 'Вид двигателя'
+unit: ''
+description: ''
+key: motor
+type: option
+required: false
+collection: true
+option:
+    - Бензиновый
+    - 'Бензиновый 2-х тактный'
+    - 'Бензиновый 4-х тактный'
+    - Газовый
+    - Гибридный
+    - Дизельный
+    - Электрический

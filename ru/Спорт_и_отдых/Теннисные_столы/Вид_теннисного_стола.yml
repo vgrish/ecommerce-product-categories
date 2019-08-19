@@ -1,0 +1,11 @@
+caption: 'Вид теннисного стола'
+unit: ''
+description: ''
+key: tennis_table
+type: option
+required: false
+collection: false
+option:
+    - Детский
+    - Любительский
+    - Профессиональный

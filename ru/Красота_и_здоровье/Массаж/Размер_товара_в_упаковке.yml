@@ -1,0 +1,8 @@
+caption: 'Размер товара в упаковке'
+unit: см
+description: ''
+key: size_of_packaging
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Вид ингалятора'
+unit: ''
+description: ''
+key: view_of_inhaler
+type: option
+required: false
+collection: false
+option:
+    - 'Компрессорный (струйный)'
+    - Паровой
+    - Солевой
+    - Ультразвуковой

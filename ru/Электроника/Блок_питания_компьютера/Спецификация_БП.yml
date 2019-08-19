@@ -1,0 +1,14 @@
+caption: 'Спецификация БП'
+unit: ''
+description: ''
+key: specification_bp
+type: option
+required: false
+collection: false
+option:
+    - 'ATX 2.2'
+    - 'ATX 2.3'
+    - 'ATX 2.4'
+    - PS3/ATX
+    - SFX
+    - TFX

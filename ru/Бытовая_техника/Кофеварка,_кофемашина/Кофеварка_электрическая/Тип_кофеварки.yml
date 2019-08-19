@@ -1,0 +1,16 @@
+caption: 'Тип кофеварки'
+unit: ''
+description: ''
+key: coffee_maker_type
+type: option
+required: false
+collection: true
+option:
+    - Автоматическая
+    - Гейзерная
+    - 'Для кофе по-турецки'
+    - Капельная
+    - Капсульная
+    - Комбинированная
+    - Рожковая
+    - Чалдовая

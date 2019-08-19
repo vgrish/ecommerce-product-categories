@@ -1,0 +1,8 @@
+caption: 'Совместимые модели авто'
+unit: ''
+description: ''
+key: compatible_models_of_cars
+type: text
+required: false
+collection: false
+option: {  }

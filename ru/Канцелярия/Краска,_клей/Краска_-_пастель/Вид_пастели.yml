@@ -1,0 +1,11 @@
+caption: 'Вид пастели'
+unit: ''
+description: ''
+key: view_pastels
+type: option
+required: false
+collection: true
+option:
+    - Восковая
+    - Масляная
+    - Сухая

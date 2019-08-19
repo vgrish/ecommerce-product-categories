@@ -1,0 +1,15 @@
+caption: 'Передний тормоз'
+unit: ''
+description: ''
+key: front_brake
+type: option
+required: false
+collection: false
+option:
+    - 'Дисковый гидравлический'
+    - 'Дисковый механический'
+    - Ножной
+    - 'Ободной V-brake'
+    - 'Ободной кантилеверный'
+    - Отсутствует
+    - Роллерный

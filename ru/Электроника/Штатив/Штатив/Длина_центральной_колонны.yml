@@ -1,0 +1,8 @@
+caption: 'Длина центральной колонны'
+unit: см
+description: 'Записывается только число'
+key: length_of_central_column
+type: text
+required: false
+collection: false
+option: {  }

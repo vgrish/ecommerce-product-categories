@@ -1,0 +1,8 @@
+caption: 'Размер головки ракетки'
+unit: 'кв. дюймов'
+description: ''
+key: size_of_racket_head
+type: text
+required: false
+collection: false
+option: {  }

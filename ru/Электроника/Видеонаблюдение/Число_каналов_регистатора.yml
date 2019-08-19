@@ -1,0 +1,8 @@
+caption: 'Число каналов регистатора'
+unit: max
+description: 'Записывается только число'
+key: number_of_channels_of_registator
+type: text
+required: false
+collection: false
+option: {  }

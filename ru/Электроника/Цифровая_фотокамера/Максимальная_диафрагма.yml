@@ -1,0 +1,8 @@
+caption: 'Максимальная диафрагма'
+unit: ''
+description: ''
+key: max_aperture
+type: text
+required: false
+collection: false
+option: {  }

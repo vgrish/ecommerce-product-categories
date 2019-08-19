@@ -1,0 +1,17 @@
+caption: 'Эффект от использования'
+unit: ''
+description: ''
+key: effect_of_use
+type: option
+required: false
+collection: true
+option:
+    - 'Антивозрастной уход'
+    - Восстановление
+    - Защита
+    - Матирование
+    - Осветление
+    - Очищение
+    - Питание
+    - Тонизирование
+    - Увлажнение

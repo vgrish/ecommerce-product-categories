@@ -1,0 +1,10 @@
+caption: 'Сканирование тела'
+unit: ''
+description: ''
+key: body_scan
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

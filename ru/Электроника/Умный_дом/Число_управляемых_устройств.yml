@@ -1,0 +1,8 @@
+caption: 'Число управляемых устройств'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_managed_devices
+type: text
+required: false
+collection: false
+option: {  }

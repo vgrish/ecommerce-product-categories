@@ -1,0 +1,10 @@
+caption: 'Футляр в комплекте'
+unit: ''
+description: ''
+key: pouch_included
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

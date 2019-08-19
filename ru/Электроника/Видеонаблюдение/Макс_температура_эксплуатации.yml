@@ -1,0 +1,8 @@
+caption: 'Макс. температура эксплуатации'
+unit: °С
+description: 'Записывается только число'
+key: max_operating_temperature
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Предельная звёздная величина (разрешение)'
+unit: ''
+description: ''
+key: magnitude_limit_resolution
+type: text
+required: false
+collection: false
+option: {  }

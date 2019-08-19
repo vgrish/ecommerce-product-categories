@@ -1,0 +1,8 @@
+caption: 'Коллекция (год)'
+unit: ''
+description: ''
+key: collection_year
+type: text
+required: false
+collection: false
+option: {  }

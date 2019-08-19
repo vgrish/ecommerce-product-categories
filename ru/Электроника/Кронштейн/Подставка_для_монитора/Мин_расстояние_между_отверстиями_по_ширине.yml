@@ -1,0 +1,8 @@
+caption: 'Мин. расстояние между отверстиями по ширине'
+unit: мм
+description: 'Записывается только число'
+key: min_distance_between_holes_along_width
+type: text
+required: false
+collection: false
+option: {  }

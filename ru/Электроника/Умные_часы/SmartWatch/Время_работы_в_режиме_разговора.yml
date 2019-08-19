@@ -1,0 +1,8 @@
+caption: 'Время работы в режиме разговора'
+unit: ч
+description: 'Записывается только число'
+key: while_working_in_talk_mode
+type: text
+required: false
+collection: false
+option: {  }

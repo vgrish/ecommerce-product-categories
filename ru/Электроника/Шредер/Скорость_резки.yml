@@ -1,0 +1,8 @@
+caption: 'Скорость резки'
+unit: мм/с
+description: 'Записывается только число'
+key: cutting_speed
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Уровень шума'
+unit: дБ
+description: 'Записывается только число'
+key: noise
+type: text
+required: false
+collection: false
+option: {  }

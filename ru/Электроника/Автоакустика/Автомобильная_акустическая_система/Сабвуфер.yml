@@ -1,0 +1,8 @@
+caption: Сабвуфер
+unit: ''
+description: 'Записываются характеристики сабвуфера'
+key: subwoofer
+type: text
+required: false
+collection: false
+option: {  }

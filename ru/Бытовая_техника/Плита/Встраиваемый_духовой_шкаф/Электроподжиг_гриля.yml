@@ -1,0 +1,10 @@
+caption: 'Электроподжиг гриля'
+unit: ''
+description: ''
+key: electric_ignition_of_grill
+type: option
+required: false
+collection: false
+option:
+    - 'Автоматический(встроенный в ручку)'
+    - 'Ручной (кнопкой)'

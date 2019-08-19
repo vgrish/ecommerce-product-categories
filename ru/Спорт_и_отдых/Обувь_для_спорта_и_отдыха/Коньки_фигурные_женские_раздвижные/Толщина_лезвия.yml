@@ -1,0 +1,8 @@
+caption: 'Толщина лезвия'
+unit: мм
+description: ''
+key: blade_thickness
+type: text
+required: false
+collection: false
+option: {  }

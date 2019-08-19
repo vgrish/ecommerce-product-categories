@@ -1,0 +1,14 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: false
+option:
+    - 'Для лазерных принтеров'
+    - 'Для матричных принтеров'
+    - 'Для сканера'
+    - 'Для струйных принтеров'
+    - 'Для термосублимационных принтеров'
+    - 'Для факсов'

@@ -1,0 +1,13 @@
+caption: 'Тип освещения'
+unit: ''
+description: 'Тип лампы освещения в вытяжке'
+key: type_of_lighting
+type: option
+required: false
+collection: true
+option:
+    - 'Галогенная лампа'
+    - 'Лампа накаливания'
+    - 'Люминесцентная лампа'
+    - 'Неоновая лампа'
+    - 'Светодиодная лампа'

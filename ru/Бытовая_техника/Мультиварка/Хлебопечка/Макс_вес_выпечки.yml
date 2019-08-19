@@ -1,0 +1,8 @@
+caption: 'Макс. вес выпечки'
+unit: кг
+description: 'Записывается только число'
+key: max_weight_of_baking
+type: text
+required: false
+collection: false
+option: {  }

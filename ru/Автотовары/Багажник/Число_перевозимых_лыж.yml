@@ -1,0 +1,8 @@
+caption: 'Число перевозимых лыж'
+unit: ''
+description: 'Заполняйте только для багажников, которые предназначены для перевозки лыж'
+key: number_of_transported_skis
+type: text
+required: false
+collection: false
+option: {  }

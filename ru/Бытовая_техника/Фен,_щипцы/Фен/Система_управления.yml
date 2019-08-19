@@ -1,0 +1,10 @@
+caption: 'Система управления'
+unit: ''
+description: 'Зависит ли скорость обдува от температуры воздуха'
+key: control_system
+type: option
+required: false
+collection: false
+option:
+    - Зависимая
+    - Независимая

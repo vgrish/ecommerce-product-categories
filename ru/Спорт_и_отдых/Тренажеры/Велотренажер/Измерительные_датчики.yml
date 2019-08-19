@@ -1,0 +1,16 @@
+caption: 'Измерительные датчики'
+unit: ''
+description: ''
+key: measuring_sensors
+type: option
+required: false
+collection: true
+option:
+    - Время
+    - Дистанция
+    - 'Кол-во шагов в минуту'
+    - 'Общее кол-во шагов'
+    - Пульс
+    - 'Расход калорий'
+    - 'Сердечный ритм'
+    - Скорость

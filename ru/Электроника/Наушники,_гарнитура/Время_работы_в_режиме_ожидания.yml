@@ -1,0 +1,8 @@
+caption: 'Время работы в режиме ожидания'
+unit: часов
+description: 'Записывается только число'
+key: working_time_in_standby_mode
+type: text
+required: false
+collection: false
+option: {  }

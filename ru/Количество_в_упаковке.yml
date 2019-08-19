@@ -1,0 +1,8 @@
+caption: 'Количество в упаковке'
+unit: ''
+description: 'Необходимо заполнить, когда в упаковке несколько единиц одинакового товара. Если товар продаётся поштучно, то указывается "1".'
+key: package_quantity
+type: int
+required: false
+collection: false
+option: {  }

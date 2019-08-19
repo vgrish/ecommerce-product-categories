@@ -1,0 +1,8 @@
+caption: 'Количество поддерживаемых мониторов'
+unit: ''
+description: ''
+key: number_of_supported_monitors
+type: text
+required: false
+collection: false
+option: {  }

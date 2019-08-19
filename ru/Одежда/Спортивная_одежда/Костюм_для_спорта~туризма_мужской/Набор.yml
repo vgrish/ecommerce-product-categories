@@ -1,0 +1,10 @@
+caption: Набор
+unit: ''
+description: 'Если это набор из нескольких одинаковых товаров – поставьте «Да». Это может быть, например, набор маек или носков'
+key: set
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

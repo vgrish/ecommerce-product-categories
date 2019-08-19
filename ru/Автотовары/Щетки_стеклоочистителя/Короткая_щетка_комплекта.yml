@@ -1,0 +1,8 @@
+caption: 'Короткая щетка комплекта'
+unit: см
+description: 'ТОЛЬКО ДЛЯ КОМПЛЕКТА ИЗ 2 и БОЛЕЕ ЩЕТОК! Если в комплекте щетки одинаковой длины - все равно заполните этот атрибут'
+key: short_brush_kit
+type: text
+required: false
+collection: false
+option: {  }

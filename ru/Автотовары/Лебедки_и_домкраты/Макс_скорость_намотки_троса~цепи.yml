@@ -1,0 +1,8 @@
+caption: 'Макс. скорость намотки троса/цепи'
+unit: м/мин
+description: ''
+key: max_winding_speed_rope_chain
+type: text
+required: false
+collection: false
+option: {  }

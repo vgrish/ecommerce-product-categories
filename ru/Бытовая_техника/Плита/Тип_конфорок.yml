@@ -1,0 +1,20 @@
+caption: 'Тип конфорок'
+unit: ''
+description: ''
+key: type_of_burners
+type: option
+required: false
+collection: true
+option:
+    - HiLight
+    - Radiant
+    - Газовые
+    - Галогеновые
+    - Гриль
+    - 'Двойная корона'
+    - Двухконтурная
+    - Индукционные
+    - 'С овальной зоной нагрева'
+    - Трехконтурные
+    - 'Тройная корона'
+    - Электрические

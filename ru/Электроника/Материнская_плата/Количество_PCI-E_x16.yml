@@ -1,0 +1,8 @@
+caption: 'Количество PCI-E x16'
+unit: ''
+description: 'Записывается только число'
+key: number_of_pci_e_x16
+type: text
+required: false
+collection: false
+option: {  }

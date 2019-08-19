@@ -1,0 +1,12 @@
+caption: 'Форма чашки'
+unit: ''
+description: 'Для бюстгальтеров и купальных лифов'
+key: cup_shape
+type: option
+required: false
+collection: false
+option:
+    - Бандо
+    - Бра
+    - 'Пуш ап'
+    - Треугольник

@@ -1,0 +1,8 @@
+caption: 'Дополнительные отсеки'
+unit: ''
+description: 'Записываются дополнительные отсеки, не указанные ранее'
+key: additional_compartments
+type: text
+required: false
+collection: false
+option: {  }

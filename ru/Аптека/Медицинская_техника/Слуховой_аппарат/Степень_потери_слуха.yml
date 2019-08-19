@@ -1,0 +1,12 @@
+caption: 'Степень потери слуха'
+unit: ''
+description: ''
+key: degree_of_hearing_loss
+type: option
+required: false
+collection: true
+option:
+    - 'Глубокая (IV)'
+    - 'Легкая (I)'
+    - 'Средняя (II)'
+    - 'Тяжелая (III)'

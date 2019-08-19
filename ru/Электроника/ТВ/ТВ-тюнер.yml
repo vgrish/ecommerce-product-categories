@@ -1,0 +1,20 @@
+caption: ТВ-тюнер
+unit: ''
+description: 'Поддерживаемые системы телевизионного вещания, цифровые и аналоговые'
+key: tv_tuner
+type: option
+required: false
+collection: true
+option:
+    - DVB-C
+    - DVB-C2
+    - DVB-S
+    - DVB-S2
+    - DVB-T
+    - DVB-T2
+    - NICAM
+    - NTSC
+    - PAL
+    - PAL/NTSC
+    - PAL/SECAM/NTSC
+    - SECAM

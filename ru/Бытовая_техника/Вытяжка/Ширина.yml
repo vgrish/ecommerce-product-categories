@@ -1,0 +1,8 @@
+caption: Ширина
+unit: см
+description: 'Записывается только число'
+key: width
+type: text
+required: false
+collection: false
+option: {  }

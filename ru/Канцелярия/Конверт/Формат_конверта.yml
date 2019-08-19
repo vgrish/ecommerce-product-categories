@@ -1,0 +1,13 @@
+caption: 'Формат конверта'
+unit: ''
+description: ''
+key: format_of_envelope
+type: option
+required: false
+collection: true
+option:
+    - 'B4 (250 х 353 мм)'
+    - 'C4 (224 х 324 мм)'
+    - 'C5 (162 x 229 мм)'
+    - 'C6 (114 x 162 мм)'
+    - 'DL /E65(110 x 220 мм)'

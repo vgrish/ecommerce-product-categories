@@ -1,0 +1,12 @@
+caption: 'Материал линз'
+unit: ''
+description: ''
+key: lens_material
+type: option
+required: false
+collection: false
+option:
+    - 'Закаленное стекло'
+    - Пластик
+    - Поликарбонат
+    - Стекло

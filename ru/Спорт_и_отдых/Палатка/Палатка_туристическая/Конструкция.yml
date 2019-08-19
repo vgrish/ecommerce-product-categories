@@ -1,0 +1,13 @@
+caption: Конструкция
+unit: ''
+description: ''
+key: design
+type: option
+required: false
+collection: false
+option:
+    - 'Боковая стенка'
+    - Гибрид
+    - 'Кэп (Cap)'
+    - 'Сэндвич (Sidewall)'
+    - 'Торсионная коробка'

@@ -1,0 +1,8 @@
+caption: Темп
+unit: ''
+description: ''
+key: temp
+type: text
+required: false
+collection: false
+option: {  }

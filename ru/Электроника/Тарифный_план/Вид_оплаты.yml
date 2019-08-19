@@ -1,0 +1,10 @@
+caption: 'Вид оплаты'
+unit: ''
+description: ''
+key: type_of_payment
+type: option
+required: false
+collection: false
+option:
+    - Авансовый
+    - Постоплатный

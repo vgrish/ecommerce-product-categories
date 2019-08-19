@@ -1,0 +1,19 @@
+caption: Консистенция
+unit: ''
+description: ''
+key: consistency
+type: option
+required: false
+collection: false
+option:
+    - Аэрозоль
+    - Гелевая
+    - Густая
+    - Жидкая
+    - Кремовая
+    - Масляная
+    - 'На водной основе'
+    - Рассыпчатая
+    - Спрей
+    - Сухая
+    - Твердая

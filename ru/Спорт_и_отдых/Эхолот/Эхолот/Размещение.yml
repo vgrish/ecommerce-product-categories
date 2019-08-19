@@ -1,0 +1,12 @@
+caption: Размещение
+unit: ''
+description: ''
+key: accommodation
+type: option
+required: false
+collection: false
+option:
+    - 'На запястье'
+    - 'На удилище'
+    - Переносной
+    - Стационарный

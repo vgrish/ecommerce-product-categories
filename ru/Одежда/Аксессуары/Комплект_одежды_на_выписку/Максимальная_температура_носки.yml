@@ -1,0 +1,8 @@
+caption: 'Максимальная температура носки'
+unit: °C
+description: 'Укажите самую высокую температуру, при которой рекомендовано использовать изделие.'
+key: max_temperature_socks
+type: text
+required: false
+collection: false
+option: {  }

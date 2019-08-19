@@ -1,0 +1,8 @@
+caption: 'Мин. световой поток'
+unit: Люмен
+description: ''
+key: min_luminous_flux
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: 'Сорт помидоров'
+unit: ''
+description: 'Только для помидоров: укажите сорт помидоров'
+key: variety_of_tomato
+type: option
+required: false
+collection: true
+option:
+    - Бакинские
+    - Банч
+    - 'Бычье сердце'
+    - Грунтовые
+    - 'Дамские пальчики'
+    - Кумато
+    - Розовые
+    - Сливовидные
+    - Черри

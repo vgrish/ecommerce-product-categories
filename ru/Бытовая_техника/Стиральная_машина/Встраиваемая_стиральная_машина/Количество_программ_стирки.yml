@@ -1,0 +1,8 @@
+caption: 'Количество программ стирки'
+unit: ''
+description: ''
+key: number_of_washing_programs
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Суммарный объем всех дисков'
+unit: ГБ
+description: 'Записывается только число'
+key: total_volume_of_all_disks
+type: text
+required: false
+collection: false
+option: {  }

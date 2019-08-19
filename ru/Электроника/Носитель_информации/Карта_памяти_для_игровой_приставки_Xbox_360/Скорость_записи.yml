@@ -1,0 +1,8 @@
+caption: 'Скорость записи'
+unit: ''
+description: ''
+key: write_speed
+type: text
+required: false
+collection: false
+option: {  }

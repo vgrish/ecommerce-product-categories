@@ -1,0 +1,8 @@
+caption: 'Емкость аккумулятора'
+unit: мАч
+description: 'Записывается только число'
+key: battery_capacity
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,14 @@
+caption: 'Базовые функции'
+unit: ''
+description: ''
+key: basic_functions
+type: option
+required: false
+collection: true
+option:
+    - Будильник
+    - 'Изменение цвета подсветки'
+    - Подсветка
+    - 'Синхронизация с ПК'
+    - 'Технология Bluetooth Smart'
+    - Часы

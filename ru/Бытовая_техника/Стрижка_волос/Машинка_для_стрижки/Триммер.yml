@@ -1,0 +1,12 @@
+caption: Триммер
+unit: ''
+description: ''
+key: trimmer
+type: option
+required: false
+collection: false
+option:
+    - Выдвижной
+    - Интегрированный
+    - Откидной
+    - Плавающий

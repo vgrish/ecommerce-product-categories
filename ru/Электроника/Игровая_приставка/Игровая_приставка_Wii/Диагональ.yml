@@ -1,0 +1,17 @@
+caption: Диагональ
+unit: ''
+description: 'Выбирается диагональ экрана'
+key: diagonal
+type: option
+required: false
+collection: false
+option:
+    - '0.91"'
+    - '0.86"'
+    - '2.2"'
+    - '2.5"'
+    - '4.8"'
+    - '6.2"'
+    - '10.8"'
+    - '12.3"'
+    - '45"'

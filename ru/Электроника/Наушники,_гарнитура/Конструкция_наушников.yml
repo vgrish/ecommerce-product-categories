@@ -1,0 +1,15 @@
+caption: 'Конструкция наушников'
+unit: ''
+description: ''
+key: headphone_design
+type: option
+required: false
+collection: true
+option:
+    - Арматурные
+    - Гибридные
+    - Динамические
+    - Изодинамические
+    - Ортодинамические
+    - 'С микрофоном'
+    - Электростатические

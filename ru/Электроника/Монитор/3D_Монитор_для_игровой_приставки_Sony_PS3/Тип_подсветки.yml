@@ -1,0 +1,18 @@
+caption: 'Тип подсветки'
+unit: ''
+description: 'Технология подсветки экрана'
+key: type_of_lighting
+type: option
+required: false
+collection: true
+option:
+    - CCFL
+    - 'Direct LED'
+    - 'Edge LED'
+    - LED
+    - OLED
+    - QLED
+    - Галогеновая
+    - Есть
+    - 'Лампа накаливания'
+    - Светодиодная

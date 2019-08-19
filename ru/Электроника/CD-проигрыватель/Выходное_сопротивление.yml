@@ -1,0 +1,8 @@
+caption: 'Выходное сопротивление'
+unit: Ом
+description: 'Записывается только число'
+key: output_impedance
+type: text
+required: false
+collection: false
+option: {  }

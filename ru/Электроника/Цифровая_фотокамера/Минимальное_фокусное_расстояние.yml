@@ -1,0 +1,8 @@
+caption: 'Минимальное фокусное расстояние'
+unit: мм
+description: 'Записывается только число'
+key: min_focusing_distance
+type: text
+required: false
+collection: false
+option: {  }

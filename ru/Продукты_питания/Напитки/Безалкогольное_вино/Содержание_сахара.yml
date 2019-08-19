@@ -1,0 +1,13 @@
+caption: 'Содержание сахара'
+unit: ''
+description: 'Выберите содержание сахара в вине'
+key: sugar_content
+type: option
+required: false
+collection: false
+option:
+    - Ликёрное
+    - Полусладкое
+    - Полусухое
+    - Сладкое
+    - Сухое

@@ -1,0 +1,11 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - Влагостойкий
+    - Всепогодный
+    - 'Для помещений'

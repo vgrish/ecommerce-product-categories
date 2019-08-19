@@ -1,0 +1,8 @@
+caption: 'Количество ударов'
+unit: уд./мин
+description: 'Записывается только число'
+key: number_of_beats
+type: text
+required: false
+collection: false
+option: {  }

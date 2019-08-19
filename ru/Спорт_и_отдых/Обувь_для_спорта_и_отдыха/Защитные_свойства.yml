@@ -1,0 +1,11 @@
+caption: 'Защитные свойства'
+unit: ''
+description: ''
+key: protective_properties
+type: option
+required: false
+collection: true
+option:
+    - Влагозащищенные
+    - 'Усиленная носочная часть'
+    - Утепленные

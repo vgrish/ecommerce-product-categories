@@ -1,0 +1,8 @@
+caption: 'Разделение каналов'
+unit: дБ
+description: 'Записывается только число'
+key: channel_separation
+type: text
+required: false
+collection: false
+option: {  }

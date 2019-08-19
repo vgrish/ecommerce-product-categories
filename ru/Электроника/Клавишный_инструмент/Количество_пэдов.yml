@@ -1,0 +1,8 @@
+caption: 'Количество пэдов'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_pads
+type: text
+required: false
+collection: false
+option: {  }

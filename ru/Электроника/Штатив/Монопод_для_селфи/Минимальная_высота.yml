@@ -1,0 +1,8 @@
+caption: 'Минимальная высота'
+unit: см
+description: 'Записывается только число'
+key: min_height
+type: text
+required: false
+collection: false
+option: {  }

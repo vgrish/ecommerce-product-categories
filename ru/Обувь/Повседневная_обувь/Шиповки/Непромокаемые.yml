@@ -1,0 +1,8 @@
+caption: Непромокаемые
+unit: ''
+description: ''
+key: waterproof
+type: bool
+required: false
+collection: false
+option: {  }

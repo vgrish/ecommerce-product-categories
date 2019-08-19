@@ -1,0 +1,8 @@
+caption: 'Диаметр колес'
+unit: мм
+description: ''
+key: diameter_of_wheels
+type: text
+required: false
+collection: false
+option: {  }

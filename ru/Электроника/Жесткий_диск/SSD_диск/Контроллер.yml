@@ -1,0 +1,17 @@
+caption: Контроллер
+unit: ''
+description: 'Контроллер SSD'
+key: controller
+type: option
+required: false
+collection: false
+option:
+    - Indilinx
+    - Intel
+    - JMicron
+    - Marvell
+    - Phison
+    - Samsung
+    - SandForce
+    - 'Silicon Motion'
+    - Toshiba

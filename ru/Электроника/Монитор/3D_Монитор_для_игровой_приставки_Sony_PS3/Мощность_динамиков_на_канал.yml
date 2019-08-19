@@ -1,0 +1,8 @@
+caption: 'Мощность динамиков на канал'
+unit: Вт
+description: 'Записывается только число'
+key: speaker_output_power_per_channel
+type: text
+required: false
+collection: false
+option: {  }

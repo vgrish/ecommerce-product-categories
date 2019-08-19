@@ -1,0 +1,17 @@
+caption: Техпроцесс
+unit: ''
+description: ''
+key: process_technology
+type: option
+required: false
+collection: false
+option:
+    - '7 нм'
+    - '12 нм'
+    - '14 нм'
+    - '16 нм'
+    - '22 нм'
+    - '28 нм'
+    - '32 нм'
+    - '40 нм'
+    - '45 нм'

@@ -1,0 +1,11 @@
+caption: 'Жесткость клавиатуры'
+unit: ''
+description: ''
+key: rigidity_of_keyboard
+type: option
+required: false
+collection: false
+option:
+    - Взвешенная
+    - Невзвешенная
+    - Полувзвешенная

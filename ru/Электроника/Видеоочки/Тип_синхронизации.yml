@@ -1,0 +1,8 @@
+caption: 'Тип синхронизации'
+unit: ''
+description: ''
+key: synchronization_type
+type: text
+required: false
+collection: false
+option: {  }

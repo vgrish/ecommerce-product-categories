@@ -1,0 +1,8 @@
+caption: 'Характеристики двигателя'
+unit: ''
+description: 'В артибут записываются все характеристики двигателя: ведущее, передаточное числа, мощность и т.д.'
+key: engine_performance
+type: text
+required: false
+collection: false
+option: {  }

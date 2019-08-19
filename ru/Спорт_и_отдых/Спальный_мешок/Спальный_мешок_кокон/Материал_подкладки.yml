@@ -1,0 +1,20 @@
+caption: 'Материал подкладки'
+unit: ''
+description: ''
+key: lining_material
+type: option
+required: false
+collection: true
+option:
+    - 'Hollow Fiber'
+    - 'Taffeta 190T'
+    - Бязь
+    - Нейлон
+    - Поликоттон
+    - Полиэстер
+    - Ситец
+    - Текстиль
+    - Фланель
+    - Флис
+    - Хлопок
+    - Эпонж

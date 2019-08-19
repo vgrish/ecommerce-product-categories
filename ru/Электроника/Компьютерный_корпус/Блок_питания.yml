@@ -1,0 +1,10 @@
+caption: 'Блок питания'
+unit: ''
+description: ''
+key: power_supply
+type: option
+required: false
+collection: false
+option:
+    - Есть
+    - Отсутствует

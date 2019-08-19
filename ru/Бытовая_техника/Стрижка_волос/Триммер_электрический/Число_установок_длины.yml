@@ -1,0 +1,8 @@
+caption: 'Число установок длины'
+unit: ''
+description: 'Общее количество установок длины волос'
+key: number_of_length_settings
+type: text
+required: false
+collection: false
+option: {  }

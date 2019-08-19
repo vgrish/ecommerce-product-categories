@@ -1,0 +1,8 @@
+caption: 'Количество листов за один раз'
+unit: шт
+description: 'Записывается только число'
+key: number_of_sheets_at_one_time
+type: text
+required: false
+collection: false
+option: {  }

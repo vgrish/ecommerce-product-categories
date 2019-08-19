@@ -1,0 +1,8 @@
+caption: 'Мощность передатчика'
+unit: ''
+description: ''
+key: transmitter_power
+type: text
+required: false
+collection: false
+option: {  }

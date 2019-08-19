@@ -1,0 +1,9 @@
+caption: Подключение
+unit: ''
+description: ''
+key: connection
+type: option
+required: false
+collection: false
+option:
+    - ''

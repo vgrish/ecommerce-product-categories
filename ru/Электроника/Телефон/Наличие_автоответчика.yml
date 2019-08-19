@@ -1,0 +1,10 @@
+caption: 'Наличие автоответчика'
+unit: ''
+description: ''
+key: presence_of_an_answering_machine
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

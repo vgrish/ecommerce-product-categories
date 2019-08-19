@@ -1,0 +1,8 @@
+caption: 'Макс.уровень звукового давления'
+unit: дб
+description: 'Записывается только число'
+key: max_sound_pressure_level
+type: text
+required: false
+collection: false
+option: {  }

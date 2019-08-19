@@ -1,0 +1,8 @@
+caption: 'Длина кисти'
+unit: мм
+description: ''
+key: brush_length
+type: text
+required: false
+collection: false
+option: {  }

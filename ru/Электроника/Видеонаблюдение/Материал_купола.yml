@@ -1,0 +1,12 @@
+caption: 'Материал купола'
+unit: ''
+description: ''
+key: material_of_dome
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Металл
+    - Пластик
+    - Полимер

@@ -1,0 +1,13 @@
+caption: 'Назначение автоэлектрики'
+unit: ''
+description: ''
+key: purpose_electricians
+type: option
+required: false
+collection: false
+option:
+    - 'Для габаритных огней'
+    - 'Для доп. оборудования'
+    - 'Для освещения'
+    - 'Для прицепа'
+    - 'Для установки акустики'

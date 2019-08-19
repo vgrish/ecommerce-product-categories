@@ -1,0 +1,8 @@
+caption: 'Материал луз'
+unit: ''
+description: ''
+key: material_luz
+type: option
+required: false
+collection: true
+option: {  }

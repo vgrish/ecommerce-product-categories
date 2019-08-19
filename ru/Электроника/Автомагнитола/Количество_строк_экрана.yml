@@ -1,0 +1,8 @@
+caption: 'Количество строк экрана'
+unit: ''
+description: ''
+key: number_of_rows_of_screen
+type: text
+required: false
+collection: false
+option: {  }

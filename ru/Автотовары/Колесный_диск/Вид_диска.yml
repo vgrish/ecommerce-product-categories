@@ -1,0 +1,12 @@
+caption: 'Вид диска'
+unit: ''
+description: ''
+key: disc
+type: option
+required: false
+collection: false
+option:
+    - Кованый
+    - Литой
+    - Сборный
+    - Штампованный

@@ -1,0 +1,8 @@
+caption: 'Фокусное расстояние'
+unit: ''
+description: ''
+key: focal_length
+type: text
+required: false
+collection: false
+option: {  }

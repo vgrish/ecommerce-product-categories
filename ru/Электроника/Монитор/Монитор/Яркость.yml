@@ -1,0 +1,8 @@
+caption: Яркость
+unit: кд/м2
+description: 'Записывается только число'
+key: brightness
+type: text
+required: false
+collection: false
+option: {  }

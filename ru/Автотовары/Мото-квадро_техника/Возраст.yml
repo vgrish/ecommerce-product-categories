@@ -1,0 +1,12 @@
+caption: Возраст
+unit: ''
+description: ''
+key: age
+type: option
+required: false
+collection: true
+option:
+    - Взрослые
+    - Детские
+    - Подростковые
+    - Юниорские

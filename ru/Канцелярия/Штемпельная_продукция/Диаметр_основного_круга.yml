@@ -1,0 +1,11 @@
+caption: 'Диаметр основного круга'
+unit: мм
+description: ''
+key: diameter_of_basic_circle
+type: option
+required: false
+collection: false
+option:
+    - '40'
+    - '42'
+    - '45'

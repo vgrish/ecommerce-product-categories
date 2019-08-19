@@ -1,0 +1,8 @@
+caption: 'Объем бассейна'
+unit: л
+description: ''
+key: volume_of_pool
+type: text
+required: false
+collection: false
+option: {  }

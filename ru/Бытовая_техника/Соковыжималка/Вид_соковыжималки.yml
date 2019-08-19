@@ -1,0 +1,12 @@
+caption: 'Вид соковыжималки'
+unit: ''
+description: ''
+key: view_juicer
+type: option
+required: false
+collection: false
+option:
+    - 'Для цитрусовых'
+    - Комбинированная
+    - Центробежная
+    - Шнековая

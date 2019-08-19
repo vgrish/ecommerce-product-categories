@@ -1,0 +1,8 @@
+caption: 'Количество точек фокусировки'
+unit: шт
+description: 'Записывается только число'
+key: number_of_focus_points
+type: text
+required: false
+collection: false
+option: {  }

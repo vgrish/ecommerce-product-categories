@@ -1,0 +1,11 @@
+caption: 'Крепление грифа'
+unit: ''
+description: ''
+key: mount_vulture
+type: option
+required: false
+collection: false
+option:
+    - Вклеенный
+    - 'На болтах'
+    - Сквозной

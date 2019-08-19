@@ -1,0 +1,8 @@
+caption: Вес
+unit: кг
+description: 'Записывается только число'
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

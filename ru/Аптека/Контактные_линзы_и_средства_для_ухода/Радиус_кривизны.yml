@@ -1,0 +1,17 @@
+caption: 'Радиус кривизны'
+unit: ''
+description: ''
+key: radius_of_curvature
+type: option
+required: false
+collection: false
+option:
+    - '8.2'
+    - '8.3'
+    - '8.4'
+    - '8.5'
+    - '8.6'
+    - '8.7'
+    - '8.8'
+    - '8.9'
+    - '9'

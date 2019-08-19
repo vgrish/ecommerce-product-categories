@@ -1,0 +1,8 @@
+caption: 'Вес товара без упаковки'
+unit: кг
+description: ''
+key: item_weight_without_packaging
+type: text
+required: false
+collection: false
+option: {  }

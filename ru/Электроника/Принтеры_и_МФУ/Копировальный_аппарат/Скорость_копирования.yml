@@ -1,0 +1,8 @@
+caption: 'Скорость копирования'
+unit: ''
+description: ''
+key: copy_speed
+type: text
+required: false
+collection: false
+option: {  }

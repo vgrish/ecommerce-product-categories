@@ -1,0 +1,8 @@
+caption: 'Емкость для воды'
+unit: л
+description: 'Записывается только число'
+key: water_tank
+type: text
+required: false
+collection: false
+option: {  }

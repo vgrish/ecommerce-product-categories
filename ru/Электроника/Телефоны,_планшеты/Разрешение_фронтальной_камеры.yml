@@ -1,0 +1,8 @@
+caption: 'Разрешение фронтальной камеры'
+unit: Мпикс
+description: 'Записывается только число'
+key: front_camera_resolution
+type: text
+required: false
+collection: false
+option: {  }

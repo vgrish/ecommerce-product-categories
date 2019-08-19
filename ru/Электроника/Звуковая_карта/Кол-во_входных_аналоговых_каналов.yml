@@ -1,0 +1,8 @@
+caption: 'Кол-во входных аналоговых каналов'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_analog_input_channels
+type: text
+required: false
+collection: false
+option: {  }

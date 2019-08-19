@@ -1,0 +1,10 @@
+caption: 'Тип обработки сигнала'
+unit: ''
+description: ''
+key: type_of_signal_processing
+type: option
+required: false
+collection: false
+option:
+    - Аналоговый
+    - Цифровой

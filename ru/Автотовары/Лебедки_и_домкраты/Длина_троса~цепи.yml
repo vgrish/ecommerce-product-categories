@@ -1,0 +1,8 @@
+caption: 'Длина троса/цепи'
+unit: м
+description: ''
+key: length_of_cable_chain
+type: text
+required: false
+collection: false
+option: {  }

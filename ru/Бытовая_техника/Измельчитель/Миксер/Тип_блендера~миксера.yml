@@ -1,0 +1,11 @@
+caption: 'Тип блендера/миксера'
+unit: ''
+description: 'Погружной или стационарный'
+key: type_blender_mixer
+type: option
+required: false
+collection: false
+option:
+    - Планетарный
+    - 'Погружной (ручной)'
+    - Стационарный

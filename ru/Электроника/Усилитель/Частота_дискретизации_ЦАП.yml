@@ -1,0 +1,14 @@
+caption: 'Частота дискретизации ЦАП'
+unit: кГц
+description: 'Записывается в кГц, только число'
+key: sampling_frequency_of_dac
+type: option
+required: false
+collection: true
+option:
+    - '32'
+    - '44.1'
+    - '48'
+    - '96'
+    - '192'
+    - '384'

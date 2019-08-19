@@ -1,0 +1,8 @@
+caption: Емкость
+unit: А•ч
+description: 'Записывается только число'
+key: capacity
+type: text
+required: true
+collection: false
+option: {  }

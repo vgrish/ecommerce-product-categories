@@ -1,0 +1,11 @@
+caption: 'Поддерживаемые типы звукоснимателей'
+unit: ''
+description: ''
+key: supported_types_of_pickups
+type: option
+required: false
+collection: true
+option:
+    - MC
+    - MM
+    - VM

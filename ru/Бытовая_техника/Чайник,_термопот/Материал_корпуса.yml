@@ -1,0 +1,14 @@
+caption: 'Материал корпуса'
+unit: ''
+description: ''
+key: case_material
+type: option
+required: false
+collection: false
+option:
+    - Керамика
+    - Металл
+    - Металл/пластик
+    - Металл/стекло
+    - Пластик
+    - Пластик/стекло

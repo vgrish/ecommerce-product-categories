@@ -1,0 +1,8 @@
+caption: 'Тип ободов'
+unit: ''
+description: ''
+key: type_rims
+type: text
+required: false
+collection: false
+option: {  }

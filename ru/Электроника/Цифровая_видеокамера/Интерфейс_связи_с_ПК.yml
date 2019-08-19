@@ -1,0 +1,20 @@
+caption: 'Интерфейс связи с ПК'
+unit: ''
+description: ''
+key: communication_interface_with_pc
+type: option
+required: false
+collection: true
+option:
+    - NFC
+    - USB
+    - Wi-Fi
+    - Беспроводная
+    - 'Беспроводная 2.4ГГц'
+    - 'Беспроводная 27МГц'
+    - 'Беспроводная 5.8ГГц'
+    - 'Беспроводная Bluetooth'
+    - 'Беспроводная ИК'
+    - Проводная
+    - Радиосвязь
+    - 'Сотовая GSM'

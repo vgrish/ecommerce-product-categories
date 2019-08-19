@@ -1,0 +1,22 @@
+caption: 'Часть растения'
+unit: ''
+description: ''
+key: part_of_plant
+type: option
+required: false
+collection: true
+option:
+    - Бутоны
+    - Ветки
+    - Кора
+    - Корень
+    - Листья
+    - Плоды
+    - Почки
+    - Пыльца
+    - Рыльца
+    - Семена
+    - Стебель
+    - Трава
+    - Цветы
+    - Шишки

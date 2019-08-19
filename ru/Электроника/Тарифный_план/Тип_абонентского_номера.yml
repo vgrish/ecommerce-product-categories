@@ -1,0 +1,10 @@
+caption: 'Тип абонентского номера'
+unit: ''
+description: ''
+key: type_subscriber_number
+type: option
+required: false
+collection: false
+option:
+    - Городской
+    - Федеральный

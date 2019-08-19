@@ -1,0 +1,18 @@
+caption: 'Обхват под грудь'
+unit: см
+description: 'Значение с пришивного ярлыка с шагом в 5.'
+key: circumference_below_breast
+type: option
+required: false
+collection: false
+option:
+    - '70'
+    - '75'
+    - '80'
+    - '85'
+    - '90'
+    - '95'
+    - '100'
+    - '105'
+    - '110'
+    - '115'

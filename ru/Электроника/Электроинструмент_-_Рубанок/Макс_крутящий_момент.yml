@@ -1,0 +1,8 @@
+caption: 'Макс. крутящий момент'
+unit: Нм
+description: 'Записывается только число'
+key: max_torque
+type: text
+required: false
+collection: false
+option: {  }

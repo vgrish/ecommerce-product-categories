@@ -1,0 +1,15 @@
+caption: 'Форма гитары'
+unit: ''
+description: ''
+key: shape_of_a_guitar
+type: option
+required: false
+collection: false
+option:
+    - 'Les Paul'
+    - Stratocaster
+    - Telecaster
+    - Джамбо
+    - Дредноут
+    - Классическая
+    - Фолк

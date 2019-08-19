@@ -1,0 +1,10 @@
+caption: Кроссовер
+unit: ''
+description: ''
+key: crossover
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

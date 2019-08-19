@@ -1,0 +1,8 @@
+caption: 'Глубина строгания (рейсмус)'
+unit: мм
+description: 'Записывается только число'
+key: planing_depth_surface_gauge
+type: text
+required: false
+collection: false
+option: {  }

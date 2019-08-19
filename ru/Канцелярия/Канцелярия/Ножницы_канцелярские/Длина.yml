@@ -1,0 +1,8 @@
+caption: Длина
+unit: см
+description: ''
+key: length
+type: text
+required: false
+collection: false
+option: {  }

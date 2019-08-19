@@ -1,0 +1,8 @@
+caption: Высота
+unit: ''
+description: ''
+key: height
+type: text
+required: false
+collection: false
+option: {  }

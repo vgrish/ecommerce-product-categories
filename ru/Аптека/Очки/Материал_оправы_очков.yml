@@ -1,0 +1,13 @@
+caption: 'Материал оправы очков'
+unit: ''
+description: ''
+key: material_eyeglass_frames
+type: option
+required: false
+collection: false
+option:
+    - Дерево
+    - Комбинированный
+    - Металл
+    - Пластик
+    - Титан

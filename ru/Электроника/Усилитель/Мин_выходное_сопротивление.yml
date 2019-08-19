@@ -1,0 +1,8 @@
+caption: 'Мин. выходное сопротивление'
+unit: Ом
+description: 'Записывается только число'
+key: min_output_impedance
+type: text
+required: false
+collection: false
+option: {  }

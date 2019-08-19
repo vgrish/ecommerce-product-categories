@@ -1,0 +1,8 @@
+caption: 'Максимальное время работы'
+unit: ч
+description: 'Записывается только число'
+key: max_operating_time
+type: text
+required: false
+collection: false
+option: {  }

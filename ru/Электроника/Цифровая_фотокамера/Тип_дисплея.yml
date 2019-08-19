@@ -1,0 +1,16 @@
+caption: 'Тип дисплея'
+unit: ''
+description: 'Выбирается вид, расположение дисплея камеры'
+key: display_type
+type: option
+required: false
+collection: true
+option:
+    - AMOLED
+    - OLED
+    - TFT
+    - Антибликовый
+    - 'Дополнительный дисплей'
+    - 'Дополнительный на лицевой панели'
+    - Поворотный
+    - Сенсорный

@@ -1,0 +1,20 @@
+caption: 'Внутренние разъемы'
+unit: ''
+description: ''
+key: internal_connectors
+type: option
+required: false
+collection: true
+option:
+    - 'COM порт'
+    - IDE
+    - M.2
+    - 'SATA2 3.0 Гбит/с'
+    - 'SATA3 6.0 Гбит/с'
+    - Thunderbolt
+    - U.2
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1'
+    - eSATA
+    - 'Аудио на переднюю панель'

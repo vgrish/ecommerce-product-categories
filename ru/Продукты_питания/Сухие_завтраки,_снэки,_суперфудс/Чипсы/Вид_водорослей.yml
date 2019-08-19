@@ -1,0 +1,18 @@
+caption: 'Вид водорослей'
+unit: ''
+description: 'Укажите вид водорослей'
+key: type_of_algae
+type: option
+required: false
+collection: true
+option:
+    - Вакаме
+    - Келп
+    - Комбу
+    - Ламинария
+    - Нори
+    - Спирулина
+    - Тенгуса
+    - Фукус
+    - Хидзики
+    - Хлорелла

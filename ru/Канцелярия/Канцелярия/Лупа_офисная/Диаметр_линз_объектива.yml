@@ -1,0 +1,8 @@
+caption: 'Диаметр линз объектива'
+unit: мм
+description: 'Записывается только число'
+key: diameter_of_objective_lens
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Состав комплекта'
+unit: ''
+description: 'Записывается всё, что есть в комплекте'
+key: kit
+type: text
+required: false
+collection: false
+option: {  }

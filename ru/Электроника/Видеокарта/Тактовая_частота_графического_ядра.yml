@@ -1,0 +1,8 @@
+caption: 'Тактовая частота графического ядра'
+unit: ''
+description: ''
+key: clock_frequency_of_graphics_core
+type: text
+required: false
+collection: false
+option: {  }

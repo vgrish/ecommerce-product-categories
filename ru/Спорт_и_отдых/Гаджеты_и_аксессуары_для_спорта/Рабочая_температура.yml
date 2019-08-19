@@ -1,0 +1,8 @@
+caption: 'Рабочая температура'
+unit: ''
+description: ''
+key: operating_temperature
+type: text
+required: false
+collection: false
+option: {  }

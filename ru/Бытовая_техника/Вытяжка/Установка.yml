@@ -1,0 +1,12 @@
+caption: Установка
+unit: ''
+description: 'Место расположения и тип конструкции кухонной вытяжки'
+key: installation
+type: option
+required: false
+collection: false
+option:
+    - Встраиваемая
+    - Каминная
+    - 'Отдельно стоящая'
+    - Подвесная

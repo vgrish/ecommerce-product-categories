@@ -1,0 +1,8 @@
+caption: 'Диаметр окружности вращения'
+unit: ''
+description: ''
+key: diameter_of_circle_of_rotation
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Число знаков основного шрифта'
+unit: ''
+description: ''
+key: number_of_characters_of_basic_font
+type: text
+required: false
+collection: false
+option: {  }

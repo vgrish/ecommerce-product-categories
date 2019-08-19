@@ -1,0 +1,8 @@
+caption: 'Цифровой тюнер DVB-T2'
+unit: ''
+description: ''
+key: digital_tuner_dvb_t2
+type: bool
+required: false
+collection: false
+option: {  }

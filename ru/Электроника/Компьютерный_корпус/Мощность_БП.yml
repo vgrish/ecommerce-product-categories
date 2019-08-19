@@ -1,0 +1,8 @@
+caption: 'Мощность БП'
+unit: Вт
+description: 'Записывается только число'
+key: rpm
+type: text
+required: false
+collection: false
+option: {  }

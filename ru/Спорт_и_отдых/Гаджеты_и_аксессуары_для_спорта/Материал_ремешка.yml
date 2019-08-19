@@ -1,0 +1,13 @@
+caption: 'Материал ремешка'
+unit: ''
+description: ''
+key: band_material
+type: option
+required: false
+collection: true
+option:
+    - Пластик
+    - Полиуретан
+    - Силикон
+    - Текстиль
+    - Титан

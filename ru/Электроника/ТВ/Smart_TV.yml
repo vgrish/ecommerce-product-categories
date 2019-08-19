@@ -1,0 +1,8 @@
+caption: 'Smart TV'
+unit: ''
+description: ''
+key: smart_tv
+type: bool
+required: false
+collection: false
+option: {  }

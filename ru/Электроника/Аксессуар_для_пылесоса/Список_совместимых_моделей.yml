@@ -1,0 +1,8 @@
+caption: 'Список совместимых моделей'
+unit: ''
+description: ''
+key: list_of_compatible_models
+type: text
+required: false
+collection: false
+option: {  }

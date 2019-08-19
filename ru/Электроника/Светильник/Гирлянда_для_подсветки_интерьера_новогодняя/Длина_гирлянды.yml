@@ -1,0 +1,8 @@
+caption: 'Длина гирлянды'
+unit: м
+description: 'Записывается только число'
+key: length_of_garland
+type: text
+required: false
+collection: false
+option: {  }

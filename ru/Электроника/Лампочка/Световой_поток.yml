@@ -1,0 +1,8 @@
+caption: 'Световой поток'
+unit: Лм
+description: 'Записывается только число'
+key: luminous_flux
+type: text
+required: false
+collection: false
+option: {  }

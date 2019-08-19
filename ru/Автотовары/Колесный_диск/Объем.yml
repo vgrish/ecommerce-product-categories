@@ -1,0 +1,8 @@
+caption: Объем
+unit: м3
+description: ''
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

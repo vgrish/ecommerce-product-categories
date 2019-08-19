@@ -1,0 +1,10 @@
+caption: Шумоизоляция
+unit: ''
+description: ''
+key: insulation
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

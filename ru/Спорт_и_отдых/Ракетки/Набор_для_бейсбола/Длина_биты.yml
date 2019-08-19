@@ -1,0 +1,8 @@
+caption: 'Длина биты'
+unit: см
+description: ''
+key: length_bits
+type: text
+required: false
+collection: false
+option: {  }

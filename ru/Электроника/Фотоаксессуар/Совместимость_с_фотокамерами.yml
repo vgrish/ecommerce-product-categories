@@ -1,0 +1,21 @@
+caption: 'Совместимость с фотокамерами'
+unit: ''
+description: 'Выбираются бренды совместимых камер'
+key: compatible_with_cameras
+type: option
+required: false
+collection: true
+option:
+    - Canon
+    - Eken
+    - GoPro
+    - Isaw
+    - 'Konica Minolta'
+    - Nikon
+    - Olympus
+    - Panasonic
+    - Pentax
+    - Rollei
+    - Samsung
+    - Sony
+    - Xiaomi

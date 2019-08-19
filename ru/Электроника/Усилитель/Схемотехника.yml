@@ -1,0 +1,11 @@
+caption: Схемотехника
+unit: ''
+description: ''
+key: circuitry
+type: option
+required: false
+collection: false
+option:
+    - Гибридный
+    - Ламповый
+    - Транзисторный

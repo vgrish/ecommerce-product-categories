@@ -1,0 +1,18 @@
+caption: 'Вид отрубей'
+unit: ''
+description: 'Укажите вид отрубей'
+key: view_bran
+type: option
+required: false
+collection: true
+option:
+    - Амарантовые
+    - Горчичные
+    - Гречишные
+    - Льняные
+    - Овсяные
+    - Полбы
+    - Пшеничные
+    - Ржаные
+    - Рисовые
+    - Ячменные

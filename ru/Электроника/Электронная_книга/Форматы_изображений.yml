@@ -1,0 +1,22 @@
+caption: 'Форматы изображений'
+unit: ''
+description: 'Поддерживаемые файлы-изображения'
+key: image_formats
+type: option
+required: false
+collection: true
+option:
+    - BMP
+    - CBR
+    - DWF
+    - GIF
+    - JPEG
+    - MPO
+    - OPF
+    - PCX
+    - PNG
+    - PSD
+    - RAW
+    - TIFF
+    - WBMP
+    - XMP

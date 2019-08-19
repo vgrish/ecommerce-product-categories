@@ -1,0 +1,8 @@
+caption: 'Минимальная температура носки'
+unit: °C
+description: 'Укажите самую низкую температуру, при которой рекомендовано использовать изделие.'
+key: min_temperature_socks
+type: text
+required: false
+collection: false
+option: {  }

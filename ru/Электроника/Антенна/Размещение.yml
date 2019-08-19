@@ -1,0 +1,11 @@
+caption: Размещение
+unit: ''
+description: ''
+key: accommodation
+type: option
+required: false
+collection: false
+option:
+    - 'В помещениях'
+    - Домашняя
+    - Уличная

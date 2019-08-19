@@ -1,0 +1,8 @@
+caption: 'Макс температура воды'
+unit: °С
+description: 'Записывается только число'
+key: max_water_temperature
+type: text
+required: false
+collection: false
+option: {  }

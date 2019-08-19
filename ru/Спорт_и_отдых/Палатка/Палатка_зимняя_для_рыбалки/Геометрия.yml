@@ -1,0 +1,13 @@
+caption: Геометрия
+unit: ''
+description: ''
+key: geometry
+type: option
+required: false
+collection: false
+option:
+    - Двускатная
+    - Нестандартная
+    - Полубочка
+    - Полусфера
+    - Шатровая

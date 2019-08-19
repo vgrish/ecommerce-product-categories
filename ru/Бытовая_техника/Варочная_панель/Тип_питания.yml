@@ -1,0 +1,11 @@
+caption: 'Тип питания'
+unit: ''
+description: 'Выбирается вид питания варочной поверхности - электрическая или газовая'
+key: type_of_food
+type: option
+required: false
+collection: false
+option:
+    - Газовый
+    - Комбинированный
+    - Электрический

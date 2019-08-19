@@ -1,0 +1,14 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - 'Для досок'
+    - 'Для медицины'
+    - 'Для подчеркивания'
+    - 'Для рисования'
+    - 'Для творчества'
+    - Промышленный

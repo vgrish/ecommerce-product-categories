@@ -1,0 +1,16 @@
+caption: 'Макс. поддерживаемое разрешение'
+unit: ''
+description: ''
+key: max_supported_resolution
+type: option
+required: false
+collection: false
+option:
+    - 1560x720
+    - 1920x1200
+    - '1920x1080 Full HD'
+    - 2560x1600
+    - '3840x2160 4K UHD'
+    - 4096x2160
+    - 5120x2880
+    - 7680x4320

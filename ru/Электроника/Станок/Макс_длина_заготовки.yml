@@ -1,0 +1,8 @@
+caption: 'Макс. длина заготовки'
+unit: мм
+description: 'Записывается только число'
+key: max_workpiece_length
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. температура нагрева воды'
+unit: °С
+description: ''
+key: max_temperature_of_heating_water
+type: text
+required: false
+collection: false
+option: {  }

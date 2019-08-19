@@ -1,0 +1,8 @@
+caption: 'Максимальный воздушный поток'
+unit: куб.м/мин
+description: 'Записывается только число'
+key: max_air_flow
+type: text
+required: false
+collection: false
+option: {  }

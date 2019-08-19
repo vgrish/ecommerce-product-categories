@@ -1,0 +1,11 @@
+caption: 'Материал электрода'
+unit: ''
+description: ''
+key: electrode_material
+type: option
+required: false
+collection: true
+option:
+    - Иридий
+    - Никель
+    - Платина

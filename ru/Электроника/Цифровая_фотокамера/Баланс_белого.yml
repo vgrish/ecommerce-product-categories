@@ -1,0 +1,11 @@
+caption: 'Баланс белого'
+unit: ''
+description: ''
+key: white_balance
+type: option
+required: false
+collection: true
+option:
+    - Авто
+    - Предустановки
+    - Ручной

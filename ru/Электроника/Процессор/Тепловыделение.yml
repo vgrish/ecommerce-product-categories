@@ -1,0 +1,8 @@
+caption: Тепловыделение
+unit: Вт
+description: 'Записывается только число'
+key: heat
+type: text
+required: false
+collection: false
+option: {  }

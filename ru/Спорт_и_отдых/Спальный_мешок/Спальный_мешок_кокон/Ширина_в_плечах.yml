@@ -1,0 +1,8 @@
+caption: 'Ширина в плечах'
+unit: см
+description: ''
+key: width_at_shoulders
+type: text
+required: false
+collection: false
+option: {  }

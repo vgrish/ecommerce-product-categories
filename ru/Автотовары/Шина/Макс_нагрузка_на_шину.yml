@@ -1,0 +1,8 @@
+caption: 'Макс. нагрузка на шину'
+unit: кг
+description: ''
+key: max_tyre_load
+type: text
+required: false
+collection: false
+option: {  }

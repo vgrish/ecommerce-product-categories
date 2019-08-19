@@ -1,0 +1,14 @@
+caption: 'Поддержка RAID'
+unit: ''
+description: 'Поддерживаемые уровни RAID'
+key: raid_support
+type: option
+required: false
+collection: true
+option:
+    - 'RAID 0'
+    - 'RAID 1'
+    - 'RAID 10'
+    - 'RAID 4'
+    - 'RAID 5'
+    - 'RAID JBOD'

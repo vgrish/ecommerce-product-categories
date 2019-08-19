@@ -1,0 +1,15 @@
+caption: Форма
+unit: ''
+description: ''
+key: form
+type: option
+required: false
+collection: false
+option:
+    - Восьмерка
+    - Квадрат
+    - Круг
+    - Нестандартная
+    - Овал
+    - Прямоугольник
+    - Трапеция

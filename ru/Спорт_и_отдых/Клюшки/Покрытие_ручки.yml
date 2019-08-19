@@ -1,0 +1,10 @@
+caption: 'Покрытие ручки'
+unit: ''
+description: ''
+key: stick_coating
+type: option
+required: false
+collection: false
+option:
+    - Grip
+    - Стандартное

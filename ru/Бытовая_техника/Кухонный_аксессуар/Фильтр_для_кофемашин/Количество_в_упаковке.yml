@@ -1,0 +1,8 @@
+caption: 'Количество в упаковке'
+unit: шт.
+description: 'Записывается только число'
+key: package_quantity
+type: text
+required: false
+collection: false
+option: {  }

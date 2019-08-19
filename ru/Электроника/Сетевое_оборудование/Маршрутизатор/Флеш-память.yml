@@ -1,0 +1,8 @@
+caption: Флеш-память
+unit: МБ
+description: 'Записывается только число'
+key: flash_memory
+type: text
+required: false
+collection: false
+option: {  }

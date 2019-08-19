@@ -1,0 +1,14 @@
+caption: 'Форм-фактор ноутбука'
+unit: ''
+description: ''
+key: form_factor_notebook
+type: option
+required: false
+collection: false
+option:
+    - 'Защищенный ноутбук'
+    - Нетбук
+    - Ноутбук-планшет
+    - Ноутбук-трансформер
+    - 'Полноразмерный ноутбук'
+    - Ультрабук

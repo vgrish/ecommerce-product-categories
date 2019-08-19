@@ -1,0 +1,17 @@
+caption: 'Вид креплений для беговых лыж'
+unit: ''
+description: ''
+key: view_attachments_cross_country_skiing
+type: option
+required: false
+collection: false
+option:
+    - NIS
+    - NNN
+    - 'Nordic 75'
+    - SNS
+    - 'Крепления Clicker'
+    - 'Крепления Flow-in'
+    - 'Крепления Step-in'
+    - 'Крепления без базы'
+    - Ремешковые

@@ -1,0 +1,11 @@
+caption: 'Тип видеокарты'
+unit: ''
+description: 'Выбирается тип видеокарты ноутубка'
+key: type_of_graphics_card
+type: option
+required: false
+collection: false
+option:
+    - Встроенная
+    - Гибридная
+    - Дискретная

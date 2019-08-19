@@ -1,0 +1,8 @@
+caption: 'Совместимые модели'
+unit: ''
+description: ''
+key: compatible_models
+type: text
+required: false
+collection: false
+option: {  }

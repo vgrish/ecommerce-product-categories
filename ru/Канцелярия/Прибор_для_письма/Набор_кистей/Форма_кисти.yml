@@ -1,0 +1,14 @@
+caption: 'Форма кисти'
+unit: ''
+description: ''
+key: shape_of_brush
+type: option
+required: false
+collection: true
+option:
+    - Веерная
+    - Круглая
+    - Овальная
+    - Плоская
+    - Скошенная
+    - Фигурная

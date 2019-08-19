@@ -1,0 +1,8 @@
+caption: 'Мощность в режиме охлаждения'
+unit: Вт
+description: 'Записывается только число'
+key: capacity_in_cooling_mode
+type: text
+required: false
+collection: false
+option: {  }

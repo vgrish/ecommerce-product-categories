@@ -1,0 +1,13 @@
+caption: 'Расположение выключателя'
+unit: ''
+description: ''
+key: location_of_switch
+type: option
+required: false
+collection: false
+option:
+    - Выносной
+    - 'На безеле'
+    - 'На боку корпуса'
+    - 'На рукоятке'
+    - 'На торце'

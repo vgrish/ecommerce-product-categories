@@ -1,0 +1,8 @@
+caption: 'Состав набора'
+unit: ''
+description: ''
+key: composition_set
+type: text
+required: false
+collection: false
+option: {  }

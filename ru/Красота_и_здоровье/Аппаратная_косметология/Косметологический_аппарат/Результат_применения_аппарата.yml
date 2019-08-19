@@ -1,0 +1,15 @@
+caption: 'Результат применения аппарата'
+unit: ''
+description: ''
+key: result_of_application_of_apparatus
+type: option
+required: false
+collection: true
+option:
+    - Антицеллюлитный
+    - 'Лечение прыщей'
+    - Лимфодренаж
+    - Лифтинг
+    - Очищение
+    - 'Разглаживание морщин'
+    - Увлажнение

@@ -1,0 +1,11 @@
+caption: Талия
+unit: ''
+description: 'Посадка изделия, используется для фильтрации'
+key: waist
+type: option
+required: false
+collection: false
+option:
+    - Завышенная
+    - Заниженная
+    - Стандартная

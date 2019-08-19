@@ -1,0 +1,10 @@
+caption: Автомат
+unit: ''
+description: ''
+key: machine
+type: option
+required: false
+collection: false
+option:
+    - Автостоп
+    - Полный

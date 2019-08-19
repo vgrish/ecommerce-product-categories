@@ -1,0 +1,8 @@
+caption: 'Номинальный ток'
+unit: А
+description: 'Записывается только число'
+key: rated_current
+type: text
+required: false
+collection: false
+option: {  }

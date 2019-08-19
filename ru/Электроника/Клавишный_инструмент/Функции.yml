@@ -1,0 +1,15 @@
+caption: Функции
+unit: ''
+description: ''
+key: function
+type: option
+required: false
+collection: true
+option:
+    - Аккомпанемент
+    - Арпеджиатор
+    - 'Запись песен'
+    - Караоке
+    - Метроном
+    - Обучение
+    - Транспонирование

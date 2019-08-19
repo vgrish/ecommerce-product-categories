@@ -1,0 +1,13 @@
+caption: Применение
+unit: ''
+description: 'Места наклеивания пленки'
+key: application
+type: option
+required: false
+collection: true
+option:
+    - 'Крышка ноутбука'
+    - 'На экран'
+    - 'По бокам'
+    - Сзади
+    - Спереди

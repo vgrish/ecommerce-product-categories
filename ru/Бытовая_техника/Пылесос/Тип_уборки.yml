@@ -1,0 +1,11 @@
+caption: 'Тип уборки'
+unit: ''
+description: ''
+key: type_of_cleaning
+type: option
+required: false
+collection: false
+option:
+    - Влажная
+    - Сухая
+    - 'Сухая и влажная'

@@ -1,0 +1,8 @@
+caption: 'Паровой удар'
+unit: г/мин
+description: 'Записывается только число'
+key: steam_blow
+type: text
+required: false
+collection: false
+option: {  }

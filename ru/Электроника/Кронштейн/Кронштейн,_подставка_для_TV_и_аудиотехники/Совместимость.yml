@@ -1,0 +1,8 @@
+caption: Совместимость
+unit: ''
+description: 'Пишутся совместимые устройства'
+key: compatibility
+type: text
+required: false
+collection: false
+option: {  }

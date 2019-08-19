@@ -1,0 +1,11 @@
+caption: 'Вид машины'
+unit: ''
+description: ''
+key: kind_of_machine
+type: option
+required: false
+collection: false
+option:
+    - Ручная
+    - Электромеханическая
+    - Электронная

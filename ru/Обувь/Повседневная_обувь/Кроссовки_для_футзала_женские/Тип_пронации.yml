@@ -1,0 +1,11 @@
+caption: 'Тип пронации'
+unit: ''
+description: ''
+key: type_of_pronation
+type: option
+required: false
+collection: false
+option:
+    - Гиперпронация
+    - Гипопронация
+    - Нейтральная

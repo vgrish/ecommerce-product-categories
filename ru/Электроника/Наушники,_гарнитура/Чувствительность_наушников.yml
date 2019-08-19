@@ -1,0 +1,8 @@
+caption: 'Чувствительность наушников'
+unit: дБ
+description: 'Записывается только число'
+key: sensitivity_headphones
+type: text
+required: false
+collection: false
+option: {  }

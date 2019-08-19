@@ -1,0 +1,8 @@
+caption: 'Вес в собранном состоянии'
+unit: кг
+description: 'Впишите только число, без едениц измерений, например 25'
+key: weight_assembled
+type: text
+required: false
+collection: false
+option: {  }

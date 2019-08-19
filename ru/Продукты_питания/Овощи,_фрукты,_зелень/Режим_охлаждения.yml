@@ -1,0 +1,11 @@
+caption: 'Режим охлаждения'
+unit: ''
+description: 'Выберите режим охлаждения - актуально для замороженных товаров и продуктов фреш'
+key: cooling_mode
+type: option
+required: false
+collection: false
+option:
+    - Замороженное
+    - Охлажденное
+    - Свежее

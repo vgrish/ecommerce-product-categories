@@ -1,0 +1,8 @@
+caption: 'Макс. мощность СВЧ'
+unit: Вт
+description: 'Записывается только число'
+key: max_power_of_microwave
+type: text
+required: false
+collection: false
+option: {  }

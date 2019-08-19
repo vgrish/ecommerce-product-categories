@@ -1,0 +1,8 @@
+caption: 'Мин. диаметр патрона'
+unit: мм
+description: ''
+key: min_diameter_of_cartridge
+type: text
+required: false
+collection: false
+option: {  }

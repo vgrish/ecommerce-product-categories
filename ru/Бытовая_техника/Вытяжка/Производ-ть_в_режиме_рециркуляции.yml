@@ -1,0 +1,8 @@
+caption: 'Производ-ть в режиме рециркуляции'
+unit: куб.м/ч
+description: 'Записывается только число'
+key: n_th_recirculation_mode
+type: text
+required: false
+collection: false
+option: {  }

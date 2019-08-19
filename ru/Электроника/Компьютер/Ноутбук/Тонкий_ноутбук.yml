@@ -1,0 +1,10 @@
+caption: 'Тонкий ноутбук'
+unit: ''
+description: ''
+key: thin_laptop
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

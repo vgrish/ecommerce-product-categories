@@ -1,0 +1,8 @@
+caption: 'Длина шланга'
+unit: м
+description: 'Записывается только число'
+key: hose_length
+type: text
+required: false
+collection: false
+option: {  }

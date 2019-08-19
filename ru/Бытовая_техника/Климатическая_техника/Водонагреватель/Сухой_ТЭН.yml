@@ -1,0 +1,8 @@
+caption: 'Сухой ТЭН'
+unit: ''
+description: ''
+key: dry_ten
+type: bool
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,16 @@
+caption: 'Натуральная кожа'
+unit: ''
+description: ''
+key: genuine_leather
+type: option
+required: false
+collection: true
+option:
+    - Велюр
+    - Замша
+    - Кожа
+    - Лак
+    - Наплак
+    - Нубук
+    - Спилок
+    - Хром

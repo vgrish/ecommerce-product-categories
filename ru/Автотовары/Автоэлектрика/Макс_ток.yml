@@ -1,0 +1,8 @@
+caption: 'Макс. ток'
+unit: ''
+description: ''
+key: max_current
+type: text
+required: false
+collection: false
+option: {  }

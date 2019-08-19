@@ -1,0 +1,8 @@
+caption: 'Количество стоек для тарелок'
+unit: ''
+description: ''
+key: number_of_racks_for_plates
+type: text
+required: false
+collection: false
+option: {  }

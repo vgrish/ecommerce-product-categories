@@ -1,0 +1,10 @@
+caption: 'Форма выпуска попкорна'
+unit: ''
+description: 'Укажите форму выпуска попкорна'
+key: form_release_popcorn
+type: option
+required: false
+collection: false
+option:
+    - 'В зернах'
+    - Готовый

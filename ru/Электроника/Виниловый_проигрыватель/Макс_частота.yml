@@ -1,0 +1,8 @@
+caption: 'Макс. частота'
+unit: Гц
+description: 'Записывается только число'
+key: max_frequency
+type: text
+required: false
+collection: false
+option: {  }

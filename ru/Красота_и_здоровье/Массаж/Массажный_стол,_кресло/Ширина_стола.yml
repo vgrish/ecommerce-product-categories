@@ -1,0 +1,8 @@
+caption: 'Ширина стола'
+unit: см
+description: ''
+key: width_of_table
+type: text
+required: false
+collection: false
+option: {  }

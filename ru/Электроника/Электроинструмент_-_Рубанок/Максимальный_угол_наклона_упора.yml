@@ -1,0 +1,8 @@
+caption: 'Максимальный угол наклона упора'
+unit: °
+description: 'Записывается только число'
+key: max_angle_of_focus
+type: text
+required: false
+collection: false
+option: {  }

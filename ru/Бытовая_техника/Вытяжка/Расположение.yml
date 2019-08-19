@@ -1,0 +1,10 @@
+caption: Расположение.
+unit: ''
+description: ''
+key: location_
+type: option
+required: false
+collection: false
+option:
+    - Встраиваемый
+    - 'Отдельно стоящий'

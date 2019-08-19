@@ -1,0 +1,13 @@
+caption: 'Ширина обода'
+unit: ''
+description: ''
+key: width_of_rim
+type: option
+required: false
+collection: false
+option:
+    - '0.91"'
+    - '0.86"'
+    - '10.8"'
+    - '12.3"'
+    - '45"'

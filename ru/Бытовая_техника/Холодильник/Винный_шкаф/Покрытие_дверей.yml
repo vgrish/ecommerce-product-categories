@@ -1,0 +1,14 @@
+caption: 'Покрытие дверей'
+unit: ''
+description: ''
+key: covering_door
+type: option
+required: false
+collection: false
+option:
+    - Антибактериальное
+    - Глянцевое
+    - Зеркальное
+    - Мраморное
+    - 'Нержавеющая сталь'
+    - Эмалевое

@@ -1,0 +1,8 @@
+caption: 'Макс. мощность при заблокированном моторе'
+unit: Вт
+description: 'Записывается только число'
+key: max_power_at_blocked_motor
+type: text
+required: false
+collection: false
+option: {  }

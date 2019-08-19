@@ -1,0 +1,8 @@
+caption: 'Макс. вес готового изделия'
+unit: г
+description: 'Записывается только число'
+key: max_weight_of_finished_product
+type: text
+required: false
+collection: false
+option: {  }

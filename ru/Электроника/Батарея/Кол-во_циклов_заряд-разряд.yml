@@ -1,0 +1,8 @@
+caption: 'Кол-во циклов заряд-разряд'
+unit: ''
+description: ''
+key: number_of_cycles_of_charge_discharge
+type: text
+required: false
+collection: false
+option: {  }

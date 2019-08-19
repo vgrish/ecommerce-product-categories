@@ -1,0 +1,8 @@
+caption: 'Мощность всасывания'
+unit: Вт
+description: 'Записывается только число'
+key: suction_power
+type: text
+required: false
+collection: false
+option: {  }

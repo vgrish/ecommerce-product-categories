@@ -1,0 +1,14 @@
+caption: 'Вид смеси'
+unit: ''
+description: 'Выберите вид смеси'
+key: form_of_a_mixture
+type: option
+required: false
+collection: false
+option:
+    - 'Смесь водорослей'
+    - 'Смесь вяленых овощей'
+    - 'Смесь орехов'
+    - 'Смесь орехов и сухофруктов'
+    - 'Смесь сухофруктов'
+    - 'Смесь ягод'

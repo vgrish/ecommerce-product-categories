@@ -1,0 +1,8 @@
+caption: 'Длина одной щетки'
+unit: см
+description: 'ТОЛЬКО ЕСЛИ В КОМПЛЕКТЕ ОДНА ЩЕТКА- заполните длину в см (без единиц измерения. Например: 68'
+key: length_of_one_brush
+type: text
+required: false
+collection: false
+option: {  }

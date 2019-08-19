@@ -1,0 +1,11 @@
+caption: Заточка
+unit: ''
+description: ''
+key: sharpening
+type: option
+required: false
+collection: false
+option:
+    - Полусеррейторная
+    - Прямая
+    - Серрейторная

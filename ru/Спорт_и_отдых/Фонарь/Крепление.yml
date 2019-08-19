@@ -1,0 +1,18 @@
+caption: Крепление
+unit: ''
+description: ''
+key: mount
+type: option
+required: false
+collection: true
+option:
+    - Быстросъемное
+    - 'В стойку'
+    - 'На ствол'
+    - 'На шлем'
+    - Накладное
+    - Напольное
+    - Настенное
+    - Настольное
+    - Подвесное
+    - Прищепка

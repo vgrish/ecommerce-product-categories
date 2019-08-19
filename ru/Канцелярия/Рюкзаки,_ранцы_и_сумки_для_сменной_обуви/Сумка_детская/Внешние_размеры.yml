@@ -1,0 +1,8 @@
+caption: 'Внешние размеры'
+unit: мм
+description: 'Записывается только число'
+key: external_dimensions
+type: text
+required: false
+collection: false
+option: {  }

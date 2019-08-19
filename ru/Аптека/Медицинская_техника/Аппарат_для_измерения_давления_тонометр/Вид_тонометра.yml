@@ -1,0 +1,11 @@
+caption: 'Вид тонометра'
+unit: ''
+description: ''
+key: type_of_tonometer
+type: option
+required: false
+collection: false
+option:
+    - Автоматический
+    - Механический
+    - Полуавтоматический

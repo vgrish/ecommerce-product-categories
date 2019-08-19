@@ -1,0 +1,8 @@
+caption: 'Выходное напряжение'
+unit: В
+description: 'Записывается только число'
+key: output_voltage
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: 'Тип принтера'
+unit: ''
+description: ''
+key: type_of_printer
+type: option
+required: false
+collection: false
+option:
+    - 3D-принтер
+    - 'Для наклеек'
+    - Лазерный
+    - Матричный
+    - 'На твердых чернилах'
+    - 'Светодиодный монохромный'
+    - 'Светодиодный цветной'
+    - Струйный
+    - 'Струйный фото'

@@ -1,0 +1,26 @@
+caption: 'Конфигурация динамиков'
+unit: ''
+description: ''
+key: speaker_configuration
+type: option
+required: false
+collection: false
+option:
+    - '2.0'
+    - '2.1'
+    - '2.2'
+    - '3.1'
+    - '3.0'
+    - '4.1'
+    - '4.0'
+    - '5.0'
+    - '5.1'
+    - 5.1.2
+    - 5.1.4
+    - '6.1'
+    - '7.1'
+    - 7.1.4
+    - 7.1.2
+    - '8.1'
+    - '9.1'
+    - моно

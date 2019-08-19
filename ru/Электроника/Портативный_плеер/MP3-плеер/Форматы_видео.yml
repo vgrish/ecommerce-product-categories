@@ -1,0 +1,65 @@
+caption: 'Форматы видео'
+unit: ''
+description: 'Поддерживаемые форматы файлов видео'
+key: video_formats
+type: option
+required: false
+collection: true
+option:
+    - 3G2
+    - 3GP
+    - AMV
+    - ASF
+    - AVI
+    - BD3D
+    - DAT
+    - DIV
+    - FLC
+    - FLV
+    - H264
+    - IFO
+    - M1A
+    - M1V
+    - M2A
+    - M2P
+    - M2T
+    - M2TS
+    - M2V
+    - M4V
+    - MJPEG
+    - MKV
+    - MOD
+    - MOV
+    - MP4
+    - MPA
+    - MPE
+    - MPEG-4
+    - MPEG-TS
+    - MPG
+    - MPV
+    - MTS
+    - MTV
+    - MWV
+    - MXF
+    - OGM
+    - PEG
+    - PMP
+    - PS
+    - QT
+    - RIFF
+    - RM
+    - RMVB
+    - RealMedia
+    - SMV
+    - SVCD
+    - SWF
+    - TP
+    - TRP
+    - TS
+    - VCD
+    - VOB
+    - VRO
+    - WMV
+    - 'WMV 9'
+    - 'WMV HD'
+    - WebM

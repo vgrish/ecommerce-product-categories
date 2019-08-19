@@ -1,0 +1,8 @@
+caption: 'Разрешение дополнительной тыловой камеры'
+unit: Мпикс
+description: 'Записывается только число'
+key: resolution_of_secondary_rear_camera
+type: text
+required: false
+collection: false
+option: {  }

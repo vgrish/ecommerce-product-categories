@@ -1,0 +1,14 @@
+caption: 'Тип головки'
+unit: ''
+description: 'Вид штативной головки'
+key: head_type
+type: option
+required: false
+collection: false
+option:
+    - 2D
+    - 3D
+    - Видео
+    - Низкопрофильная
+    - Панорамная
+    - Шаровая

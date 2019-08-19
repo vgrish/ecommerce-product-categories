@@ -1,0 +1,11 @@
+caption: 'Материал грифа'
+unit: ''
+description: ''
+key: fingerboard_material
+type: option
+required: false
+collection: true
+option:
+    - Клен
+    - Липа
+    - Махагони

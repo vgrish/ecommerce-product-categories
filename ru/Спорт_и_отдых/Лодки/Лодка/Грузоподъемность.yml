@@ -1,0 +1,8 @@
+caption: Грузоподъемность
+unit: кг
+description: ''
+key: capacity
+type: text
+required: false
+collection: false
+option: {  }

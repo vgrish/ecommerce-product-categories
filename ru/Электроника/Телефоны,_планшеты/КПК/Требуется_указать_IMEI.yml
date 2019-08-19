@@ -1,0 +1,10 @@
+caption: 'Требуется указать IMEI'
+unit: ''
+description: 'Для смартфонов, мобильных телефонов и планшетов с сотовым модулем нужно выбрать "Да"'
+key: you_need_to_specify_imei
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

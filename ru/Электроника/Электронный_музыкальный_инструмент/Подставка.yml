@@ -1,0 +1,8 @@
+caption: Подставка
+unit: ''
+description: ''
+key: stand
+type: text
+required: false
+collection: false
+option: {  }

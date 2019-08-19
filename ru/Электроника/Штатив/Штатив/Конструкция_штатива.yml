@@ -1,0 +1,11 @@
+caption: 'Конструкция штатива'
+unit: ''
+description: ''
+key: design_of_tripod
+type: option
+required: false
+collection: false
+option:
+    - Монопод
+    - Струбцина
+    - Трипод

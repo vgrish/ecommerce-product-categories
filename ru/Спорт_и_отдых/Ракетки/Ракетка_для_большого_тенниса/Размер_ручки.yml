@@ -1,0 +1,12 @@
+caption: 'Размер ручки'
+unit: 'N'
+description: ''
+key: handle_size
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'

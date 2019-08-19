@@ -1,0 +1,8 @@
+caption: 'Установочная глубина'
+unit: мм
+description: 'Записывается только число'
+key: mounting_depth
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Время автономной работы'
+unit: ч
+description: 'Время работы от аккумулятора в часах,  записывается только число'
+key: battery_life
+type: text
+required: false
+collection: false
+option: {  }

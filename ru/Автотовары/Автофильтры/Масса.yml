@@ -1,0 +1,8 @@
+caption: Масса
+unit: кг
+description: ''
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Встроенные динамики'
+unit: ''
+description: ''
+key: built_in_speakers
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

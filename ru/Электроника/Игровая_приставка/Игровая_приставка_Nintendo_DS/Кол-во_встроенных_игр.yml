@@ -1,0 +1,8 @@
+caption: 'Кол-во встроенных игр'
+unit: ''
+description: ''
+key: number_of_built_in_games
+type: text
+required: false
+collection: false
+option: {  }

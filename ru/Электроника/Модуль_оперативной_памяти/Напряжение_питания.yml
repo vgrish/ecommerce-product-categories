@@ -1,0 +1,14 @@
+caption: 'Напряжение питания'
+unit: ''
+description: ''
+key: voltage
+type: option
+required: false
+collection: false
+option:
+    - '1.2 В'
+    - '1.35 В'
+    - '1.5 В'
+    - '1.6 В'
+    - '1.65 В'
+    - '1.8 В'

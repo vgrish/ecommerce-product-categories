@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр отверстия в стали'
+unit: мм
+description: 'Записывается только число'
+key: max_hole_diameter_in_steel
+type: text
+required: false
+collection: false
+option: {  }

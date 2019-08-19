@@ -1,0 +1,11 @@
+caption: 'Вид батареи звонка'
+unit: ''
+description: ''
+key: kind_of_battery_call
+type: option
+required: false
+collection: false
+option:
+    - AA
+    - 'AAA (LR03)'
+    - 'MN21 (A23, K23A, LRV08, LRV8)'

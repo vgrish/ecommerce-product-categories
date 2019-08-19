@@ -1,0 +1,16 @@
+caption: Резина
+unit: ''
+description: ''
+key: rubber
+type: option
+required: false
+collection: true
+option:
+    - ПВХ
+    - Полимер
+    - Полиуретан
+    - Силикон
+    - 'Синтетический каучук'
+    - 'ТПУ (термополиуретан)'
+    - 'Термопластичная резина'
+    - ЭВА

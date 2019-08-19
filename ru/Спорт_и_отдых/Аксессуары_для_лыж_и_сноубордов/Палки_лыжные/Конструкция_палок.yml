@@ -1,0 +1,10 @@
+caption: 'Конструкция палок'
+unit: ''
+description: ''
+key: design_of_sticks
+type: option
+required: false
+collection: false
+option:
+    - Изогнутые
+    - Прямые

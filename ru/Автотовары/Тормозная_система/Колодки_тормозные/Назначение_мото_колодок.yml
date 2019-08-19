@@ -1,0 +1,13 @@
+caption: 'Назначение мото колодок'
+unit: ''
+description: ''
+key: purpose_motorcycle_brake_pads
+type: option
+required: false
+collection: true
+option:
+    - Город
+    - Грунт
+    - Спорт
+    - Триал
+    - Туризм

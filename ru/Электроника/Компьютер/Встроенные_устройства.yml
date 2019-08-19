@@ -1,0 +1,15 @@
+caption: 'Встроенные устройства'
+unit: ''
+description: ''
+key: built_in_devices
+type: option
+required: false
+collection: true
+option:
+    - Web-камера
+    - Акселерометр
+    - Гироскоп
+    - 'Датчик освещения'
+    - Микрофон
+    - 'Сканер отпечатков пальцев'
+    - 'Электронный компас'

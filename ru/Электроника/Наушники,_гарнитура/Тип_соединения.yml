@@ -1,0 +1,11 @@
+caption: 'Тип соединения'
+unit: ''
+description: ''
+key: connection_type
+type: option
+required: false
+collection: true
+option:
+    - ''
+    - Беспроводное
+    - Проводное

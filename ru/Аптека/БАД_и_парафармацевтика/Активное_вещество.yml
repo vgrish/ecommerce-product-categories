@@ -1,0 +1,8 @@
+caption: 'Активное вещество'
+unit: ''
+description: ''
+key: active_substance
+type: text
+required: false
+collection: false
+option: {  }

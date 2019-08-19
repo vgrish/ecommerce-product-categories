@@ -1,0 +1,8 @@
+caption: 'Громкость звонка'
+unit: дБ
+description: 'Записывается только число'
+key: ringer_volume
+type: text
+required: false
+collection: false
+option: {  }

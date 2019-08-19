@@ -1,0 +1,8 @@
+caption: 'Потребляемая мощность при охлаждении'
+unit: Вт
+description: 'Записывается только число'
+key: power_consumption_when_cooling
+type: text
+required: false
+collection: false
+option: {  }

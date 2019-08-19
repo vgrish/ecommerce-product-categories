@@ -1,0 +1,11 @@
+caption: 'Тип запуска'
+unit: ''
+description: ''
+key: startup_type
+type: option
+required: false
+collection: true
+option:
+    - Автоматический
+    - Ручной
+    - Электрический

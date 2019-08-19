@@ -1,0 +1,15 @@
+caption: 'Тип подшипника'
+unit: ''
+description: ''
+key: type_of_bearing
+type: option
+required: false
+collection: true
+option:
+    - 'C магнитным центрированием'
+    - NCB
+    - 'Гидродинамический подшипник'
+    - Игольчатый
+    - 'Керамический подшипник'
+    - 'Подшипник качения'
+    - 'Подшипник скольжения'

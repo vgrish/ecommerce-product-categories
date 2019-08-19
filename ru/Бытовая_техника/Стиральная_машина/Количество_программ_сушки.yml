@@ -1,0 +1,8 @@
+caption: 'Количество программ сушки'
+unit: ''
+description: ''
+key: number_of_drying_programs_of
+type: text
+required: false
+collection: false
+option: {  }

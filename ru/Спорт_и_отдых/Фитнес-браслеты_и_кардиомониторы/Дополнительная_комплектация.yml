@@ -1,0 +1,10 @@
+caption: 'Дополнительная комплектация'
+unit: ''
+description: ''
+key: optional_extra
+type: option
+required: false
+collection: false
+option:
+    - '2 ремешка'
+    - Ремешок

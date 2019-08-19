@@ -1,0 +1,10 @@
+caption: Конструкция
+unit: ''
+description: 'Вид корпуса консоли'
+key: design
+type: option
+required: false
+collection: false
+option:
+    - Slim
+    - Стандартная

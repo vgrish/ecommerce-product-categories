@@ -1,0 +1,8 @@
+caption: ЦАП
+unit: ''
+description: 'Записывается модель, характеристики ЦАПа'
+key: dac
+type: text
+required: false
+collection: false
+option: {  }

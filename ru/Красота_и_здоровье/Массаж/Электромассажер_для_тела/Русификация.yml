@@ -1,0 +1,10 @@
+caption: Русификация
+unit: ''
+description: ''
+key: russification
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

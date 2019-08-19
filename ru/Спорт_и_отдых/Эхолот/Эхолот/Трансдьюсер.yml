@@ -1,0 +1,10 @@
+caption: Трансдьюсер
+unit: ''
+description: ''
+key: transducer
+type: option
+required: false
+collection: false
+option:
+    - 'В комплекте'
+    - 'Приобретается отдельно'

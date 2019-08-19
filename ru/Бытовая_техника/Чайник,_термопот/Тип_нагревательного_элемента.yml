@@ -1,0 +1,14 @@
+caption: 'Тип нагревательного элемента'
+unit: ''
+description: ''
+key: heating_element_type
+type: option
+required: false
+collection: true
+option:
+    - 'Галогенный нагреватель'
+    - 'Дисковый нагреватель'
+    - 'Закрытая спираль'
+    - Индукционный
+    - 'Открытая спираль'
+    - ТЭН

@@ -1,0 +1,8 @@
+caption: 'Поддерживаемые процессоры'
+unit: ''
+description: ''
+key: supported_processors
+type: text
+required: false
+collection: false
+option: {  }

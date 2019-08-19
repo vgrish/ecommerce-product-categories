@@ -1,0 +1,8 @@
+caption: 'Макс. выходная мощность'
+unit: Вт
+description: 'Записывается только число'
+key: max_output_power
+type: text
+required: false
+collection: false
+option: {  }

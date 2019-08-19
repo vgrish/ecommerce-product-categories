@@ -1,0 +1,8 @@
+caption: 'Время работы лампы'
+unit: ''
+description: ''
+key: while_working_lamp
+type: text
+required: false
+collection: false
+option: {  }

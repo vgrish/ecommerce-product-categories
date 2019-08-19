@@ -1,0 +1,8 @@
+caption: 'Масса водоблока'
+unit: г
+description: 'Записывается только число'
+key: weight_of_waterblock
+type: text
+required: false
+collection: false
+option: {  }

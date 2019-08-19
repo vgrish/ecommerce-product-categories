@@ -1,0 +1,8 @@
+caption: 'Диапазон показателей влажности'
+unit: ''
+description: ''
+key: range_of_humidity_indicators
+type: text
+required: false
+collection: false
+option: {  }

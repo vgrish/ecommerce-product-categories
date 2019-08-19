@@ -1,0 +1,10 @@
+caption: 'Наличие дисплея'
+unit: ''
+description: 'Продуктовая линейка диска (серия)'
+key: display
+type: option
+required: false
+collection: false
+option:
+    - 'Без дисплея'
+    - 'С дисплеем'

@@ -1,0 +1,8 @@
+caption: 'Прочие материалы'
+unit: ''
+description: ''
+key: other_materials
+type: text
+required: false
+collection: false
+option: {  }

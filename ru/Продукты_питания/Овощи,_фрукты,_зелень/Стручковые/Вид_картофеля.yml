@@ -1,0 +1,10 @@
+caption: 'Вид картофеля'
+unit: ''
+description: 'Только для картофеля: укажите разновидность картофеля'
+key: kind_of_potatoes
+type: option
+required: false
+collection: true
+option:
+    - Белый
+    - Красный

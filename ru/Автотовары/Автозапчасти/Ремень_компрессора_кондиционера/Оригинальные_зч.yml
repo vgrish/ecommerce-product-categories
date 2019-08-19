@@ -1,0 +1,10 @@
+caption: 'Оригинальные зч'
+unit: ''
+description: ''
+key: original_cc
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

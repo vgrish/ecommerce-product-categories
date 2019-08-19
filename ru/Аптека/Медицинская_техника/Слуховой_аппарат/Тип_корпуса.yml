@@ -1,0 +1,13 @@
+caption: 'Тип корпуса'
+unit: ''
+description: 'Выберите тип слухового аппарата из списка'
+key: housing_type
+type: option
+required: false
+collection: false
+option:
+    - 'В виде оголовья'
+    - 'В очковой оправе'
+    - Внутриушной
+    - Заушный
+    - Карманный

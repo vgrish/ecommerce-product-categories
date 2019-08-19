@@ -1,0 +1,8 @@
+caption: 'Глубина строгания'
+unit: мм
+description: 'Записывается только число'
+key: depth_of_planing
+type: text
+required: false
+collection: false
+option: {  }

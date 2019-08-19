@@ -1,0 +1,13 @@
+caption: 'Материал рамы'
+unit: ''
+description: ''
+key: frame_material
+type: option
+required: false
+collection: false
+option:
+    - Алюминий
+    - Пластик
+    - Полипропилен
+    - Полиуретан
+    - Полиэтилен

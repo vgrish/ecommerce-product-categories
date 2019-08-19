@@ -1,0 +1,8 @@
+caption: Рост
+unit: см
+description: ''
+key: growth
+type: text
+required: false
+collection: false
+option: {  }

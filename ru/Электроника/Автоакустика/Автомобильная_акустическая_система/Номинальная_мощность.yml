@@ -1,0 +1,8 @@
+caption: 'Номинальная мощность'
+unit: Вт
+description: 'Записывается только число'
+key: rated_power
+type: text
+required: false
+collection: false
+option: {  }

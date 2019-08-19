@@ -1,0 +1,23 @@
+caption: 'Доп. комплектация'
+unit: ''
+description: ''
+key: additional_equipment
+type: option
+required: false
+collection: true
+option:
+    - '1 игра в комплекте'
+    - '2 игры в комплекте'
+    - '3 игры в комплекте'
+    - '4 игры в комплекте'
+    - '5 игр в комплекте'
+    - 'PS Plus (90 дней)'
+    - 'Xbox Live (14 дней)'
+    - 'Xbox Live (30 дней)'
+    - 'Xbox Live (90 дней)'
+    - Геймпад
+    - 'Докстанция для геймпада'
+    - 'Камера PlayStation Eye'
+    - 'Карта памяти'
+    - 'Контроллер Kinect'
+    - 'Контроллер PS Move'

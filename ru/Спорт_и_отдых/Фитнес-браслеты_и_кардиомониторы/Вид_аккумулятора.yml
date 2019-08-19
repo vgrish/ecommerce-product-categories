@@ -1,0 +1,23 @@
+caption: 'Вид аккумулятора'
+unit: ''
+description: ''
+key: type_of_battery
+type: option
+required: false
+collection: false
+option:
+    - AGM
+    - Li-ion
+    - Li-pol
+    - LiFePo4
+    - NiCd
+    - NiMH
+    - Гелевый
+    - Гибридный
+    - Кальциевый
+    - Литиевый
+    - Малосурьмянистый
+    - Свинцово-кислотный
+    - Солевой
+    - Сурьмянистый
+    - Щелочной

@@ -1,0 +1,12 @@
+caption: 'Запись звука'
+unit: ''
+description: 'Вид записывающего микрофона'
+key: sound_recording
+type: option
+required: false
+collection: false
+option:
+    - '5.1'
+    - 'всенаправленный микрофон'
+    - 'моно микрофон'
+    - 'стерео микрофон'

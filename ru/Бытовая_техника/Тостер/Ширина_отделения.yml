@@ -1,0 +1,8 @@
+caption: 'Ширина отделения'
+unit: см
+description: 'Записывается только число'
+key: width_of_separation
+type: text
+required: false
+collection: false
+option: {  }

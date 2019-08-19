@@ -1,0 +1,8 @@
+caption: 'Длина ствола'
+unit: ''
+description: ''
+key: length_of_barrel
+type: text
+required: false
+collection: false
+option: {  }

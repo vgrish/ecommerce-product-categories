@@ -1,0 +1,8 @@
+caption: 'Коэффициент усиления антенны'
+unit: dBi
+description: 'Записывается только число'
+key: antenna_gain
+type: text
+required: false
+collection: false
+option: {  }

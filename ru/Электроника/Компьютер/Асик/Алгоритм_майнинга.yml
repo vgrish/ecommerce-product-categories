@@ -1,0 +1,8 @@
+caption: 'Алгоритм майнинга'
+unit: ''
+description: 'Записываются алгоритмы майнинга'
+key: algorithm_of_mining
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: 'Материал полок'
+unit: ''
+description: ''
+key: shelves_material
+type: option
+required: false
+collection: false
+option:
+    - Дерево
+    - Дуб
+    - 'Закаленное стекло'
+    - Металл
+    - 'Нержавеющая сталь'
+    - 'Пищевой пластик'
+    - Пластик
+    - Стекло
+    - Хром

@@ -1,0 +1,11 @@
+caption: Насос
+unit: ''
+description: ''
+key: pump
+type: option
+required: false
+collection: false
+option:
+    - 'Приобретается отдельно'
+    - Ручной
+    - 'Электрический (220В)'

@@ -1,0 +1,8 @@
+caption: 'Длина тонарма'
+unit: мм
+description: 'Записывается только число'
+key: length_of_tonearm
+type: text
+required: false
+collection: false
+option: {  }

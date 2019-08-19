@@ -1,0 +1,8 @@
+caption: 'Характеристики записи звука'
+unit: ''
+description: 'Записываются характеристики характеристики записываемого звука звука'
+key: features_audio_recording
+type: text
+required: false
+collection: false
+option: {  }

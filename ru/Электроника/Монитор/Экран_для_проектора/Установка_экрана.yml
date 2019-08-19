@@ -1,0 +1,15 @@
+caption: 'Установка экрана'
+unit: ''
+description: 'Выбирается место установки экрана'
+key: screen_installation
+type: option
+required: false
+collection: false
+option:
+    - 'На поддон'
+    - 'На растяжке'
+    - Напольный
+    - Настенный
+    - Настольный
+    - Подвесной
+    - Пристенный

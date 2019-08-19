@@ -1,0 +1,8 @@
+caption: 'Рабочая частота'
+unit: ''
+description: ''
+key: operating_frequency
+type: text
+required: false
+collection: false
+option: {  }

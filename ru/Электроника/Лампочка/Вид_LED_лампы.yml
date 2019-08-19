@@ -1,0 +1,11 @@
+caption: 'Вид LED лампы'
+unit: ''
+description: ''
+key: kind_of_led_lamp
+type: option
+required: false
+collection: true
+option:
+    - COB
+    - MCOB
+    - SMD

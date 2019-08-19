@@ -1,0 +1,15 @@
+caption: 'Сорт овощей'
+unit: ''
+description: 'Выберите сорт овощей, если овощи составляют значимую часть продукта'
+key: variety_of_vegetables
+type: option
+required: false
+collection: true
+option:
+    - 'Белая фасоль'
+    - Гордаль
+    - 'Желтый перец'
+    - 'Зеленый перец'
+    - 'Красная фасоль'
+    - 'Красный перец'
+    - Черри

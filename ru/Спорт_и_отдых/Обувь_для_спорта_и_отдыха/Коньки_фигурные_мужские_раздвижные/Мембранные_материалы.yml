@@ -1,0 +1,13 @@
+caption: 'Мембранные материалы'
+unit: ''
+description: ''
+key: membrane_materials
+type: option
+required: false
+collection: false
+option:
+    - Гортекс
+    - 'Мембранные материалы'
+    - Полимер
+    - Полиуретан
+    - Полиэстер

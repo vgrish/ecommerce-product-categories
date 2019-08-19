@@ -1,0 +1,8 @@
+caption: 'Макс. скорость чтения'
+unit: Мб/с
+description: 'Записывается только число'
+key: max_read_speed
+type: text
+required: false
+collection: false
+option: {  }

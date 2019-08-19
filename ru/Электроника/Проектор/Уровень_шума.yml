@@ -1,0 +1,8 @@
+caption: 'Уровень шума'
+unit: ''
+description: 'Записываются уровни шума при различных нагрузках'
+key: noise
+type: text
+required: false
+collection: false
+option: {  }

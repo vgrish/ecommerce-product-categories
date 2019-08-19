@@ -1,0 +1,8 @@
+caption: 'Ежемесячная плата'
+unit: руб/мес
+description: 'Записывается только число'
+key: monthly_fee
+type: text
+required: false
+collection: false
+option: {  }

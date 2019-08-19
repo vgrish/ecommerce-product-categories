@@ -1,0 +1,8 @@
+caption: 'Стартовый баланс'
+unit: руб
+description: 'Записывается только число'
+key: starting_balance
+type: text
+required: false
+collection: false
+option: {  }

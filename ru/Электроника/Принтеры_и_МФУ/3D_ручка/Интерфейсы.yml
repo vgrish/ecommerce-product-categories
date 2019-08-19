@@ -1,0 +1,81 @@
+caption: Интерфейсы
+unit: ''
+description: 'Выбираются интерфейсы устройства'
+key: interfaces
+type: option
+required: false
+collection: true
+option:
+    - '2.5 мм'
+    - '3.5 мм'
+    - '3.5 мм (4-х пиновый)'
+    - '6.3 мм'
+    - 'Apple 30-pin'
+    - 'Apple Lightning'
+    - BNC
+    - 'COM порт'
+    - Coax
+    - DVI
+    - DVI-D
+    - DisplayPort
+    - FME
+    - HDMI
+    - 'HDMI (MHL)'
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - LNB
+    - 'LPT (IEEE1284)'
+    - 'Molex 8981'
+    - PCIe
+    - PS/2
+    - RCA
+    - RF
+    - RJ-11
+    - RJ-14
+    - RJ-45
+    - RS-232
+    - S-Video
+    - SAS
+    - SATA
+    - 'SATA2 3.0 Гбит/с'
+    - 'SATA3 6.0 Гбит/с'
+    - SCART
+    - 'Samsung 30-pin'
+    - TRS
+    - Thunderbolt
+    - 'USB 1.1'
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Gen 2 (SuperSpeed+)'
+    - 'USB 3.1 Type-C'
+    - 'USB 3.1 Type-C/DisplayPort'
+    - 'USB 3.1 Type-C/Thunderbolt 3'
+    - 'USB 3.2'
+    - 'USB Type-C'
+    - 'VGA (D-Sub)'
+    - 'VGA (f)'
+    - XLR
+    - microHDMI
+    - 'microUSB 2.0'
+    - 'microUSB 3.0'
+    - 'mini SAS'
+    - miniDisplayPort
+    - miniHDMI
+    - 'miniUSB 2.0'
+    - 'Аудио/видео разъем (AV)'
+    - 'Комбинированный 3.5 мм (выход на наушники/микрофонный вход)'
+    - 'Композитный видео'
+    - 'Компонентный видео'
+    - 'Линейный вход 3.5 мм / AUX'
+    - 'Линейный выход 3.5 мм'
+    - 'Микрофонный вход 3.5 мм'
+    - Нет
+    - 'Оптический аудио (Toslink)'
+    - 'Разъем для антенны'
+    - 'Разъем для наушников'
+    - 'Стерео аудио (RCA)'
+    - 'Считыватель смарт-карт'
+    - 'Цифровой аудио (S/PDIF)'

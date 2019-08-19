@@ -1,0 +1,8 @@
+caption: 'Горячий старт'
+unit: с
+description: 'Записывается только число'
+key: hot_start
+type: text
+required: false
+collection: false
+option: {  }

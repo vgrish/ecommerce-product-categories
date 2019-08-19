@@ -1,0 +1,8 @@
+caption: 'Объем чаши'
+unit: л
+description: 'Записывается только число'
+key: bowl_volume
+type: text
+required: false
+collection: false
+option: {  }

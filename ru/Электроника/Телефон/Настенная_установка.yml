@@ -1,0 +1,10 @@
+caption: 'Настенная установка'
+unit: ''
+description: ''
+key: wall_installation
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

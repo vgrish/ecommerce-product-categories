@@ -1,0 +1,8 @@
+caption: 'Диапазон показателей атмосферного давления'
+unit: ''
+description: ''
+key: range_of_barometric_pressure
+type: text
+required: false
+collection: false
+option: {  }

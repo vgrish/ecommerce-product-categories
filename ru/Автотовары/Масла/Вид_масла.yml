@@ -1,0 +1,12 @@
+caption: 'Вид масла'
+unit: ''
+description: ''
+key: oil
+type: option
+required: false
+collection: false
+option:
+    - Минеральное
+    - НС-синтетическое
+    - Полусинтетическое
+    - Синтетическое

@@ -1,0 +1,8 @@
+caption: 'Резервуар для сока'
+unit: л
+description: 'Записывается только число'
+key: juice_container
+type: text
+required: false
+collection: false
+option: {  }

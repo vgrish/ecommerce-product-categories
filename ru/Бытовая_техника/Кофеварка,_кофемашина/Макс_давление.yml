@@ -1,0 +1,8 @@
+caption: 'Макс. давление'
+unit: бар
+description: 'Записывается только число, максимальное давление пара в кофеварке эспрессо'
+key: max_pressure
+type: text
+required: false
+collection: false
+option: {  }

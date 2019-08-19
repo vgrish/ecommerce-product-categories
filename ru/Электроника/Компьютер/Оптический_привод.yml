@@ -1,0 +1,12 @@
+caption: 'Оптический привод'
+unit: ''
+description: 'Выбирается тип оптического дисковода'
+key: optical_drive
+type: option
+required: false
+collection: false
+option:
+    - 'Blu-Ray Combo'
+    - 'Blu-Ray R/RE + DVD SuperMulti с поддержкой DualLayer'
+    - 'DVD-RW SuperMulti с поддержкой DualLayer'
+    - Отсутствует

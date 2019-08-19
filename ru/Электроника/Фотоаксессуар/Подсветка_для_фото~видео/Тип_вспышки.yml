@@ -1,0 +1,11 @@
+caption: 'Тип вспышки'
+unit: ''
+description: ''
+key: flash_type
+type: option
+required: false
+collection: false
+option:
+    - Двухламповая
+    - Кольцевая
+    - Обычная

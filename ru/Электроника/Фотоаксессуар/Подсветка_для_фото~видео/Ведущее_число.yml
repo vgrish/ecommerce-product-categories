@@ -1,0 +1,8 @@
+caption: 'Ведущее число'
+unit: м
+description: 'Записывается только число'
+key: guide_number
+type: text
+required: false
+collection: false
+option: {  }

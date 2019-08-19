@@ -1,0 +1,15 @@
+caption: Хладагент
+unit: ''
+description: 'Марка хладагента'
+key: refrigerant
+type: option
+required: false
+collection: false
+option:
+    - 'R 134a'
+    - 'R 404'
+    - 'R 407'
+    - 'R 410 A'
+    - 'R 410 C'
+    - 'R 600 A'
+    - R32

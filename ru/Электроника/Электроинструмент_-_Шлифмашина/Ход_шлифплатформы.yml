@@ -1,0 +1,8 @@
+caption: 'Ход шлифплатформы'
+unit: мм
+description: 'Записывается только число'
+key: course_of_selfperform
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: Трубка
+unit: ''
+description: ''
+key: tube
+type: option
+required: false
+collection: true
+option:
+    - Металлическая
+    - Пластиковая
+    - Составная
+    - Телескопическая
+    - Цельная

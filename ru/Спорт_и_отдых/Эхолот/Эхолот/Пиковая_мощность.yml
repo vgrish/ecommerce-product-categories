@@ -1,0 +1,8 @@
+caption: 'Пиковая мощность'
+unit: Вт
+description: ''
+key: peak_power
+type: text
+required: false
+collection: false
+option: {  }

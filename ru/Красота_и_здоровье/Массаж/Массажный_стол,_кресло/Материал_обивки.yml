@@ -1,0 +1,8 @@
+caption: 'Материал обивки'
+unit: ''
+description: ''
+key: upholstery_material
+type: text
+required: false
+collection: false
+option: {  }

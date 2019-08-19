@@ -1,0 +1,12 @@
+caption: 'Стиль оправы'
+unit: ''
+description: ''
+key: style_of_rim
+type: option
+required: false
+collection: false
+option:
+    - 'Офисный (бизнес)'
+    - Повседневный
+    - Ретро
+    - Спортивный

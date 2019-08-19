@@ -1,0 +1,8 @@
+caption: 'Дополнительные кнопки'
+unit: ''
+description: ''
+key: additional_buttons
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Способ бритья'
+unit: ''
+description: ''
+key: method_shaving
+type: option
+required: false
+collection: false
+option:
+    - 'Влажное бритье'
+    - 'Сухое бритье'

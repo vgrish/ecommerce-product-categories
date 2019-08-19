@@ -1,0 +1,27 @@
+caption: 'Размер инструмента'
+unit: ''
+description: ''
+key: size_of_instrument
+type: option
+required: false
+collection: false
+option:
+    - 1/8
+    - 1/2
+    - 1/4
+    - 1/10
+    - 1/16
+    - 2/4
+    - 3/4
+    - 3/5
+    - 3/6
+    - 4/4
+    - 7/8
+    - '21"'
+    - '23"'
+    - '26"'
+    - '30"'
+    - '38"'
+    - '39"'
+    - '40"'
+    - '41"'

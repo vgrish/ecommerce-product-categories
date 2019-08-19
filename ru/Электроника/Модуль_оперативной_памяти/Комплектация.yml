@@ -1,0 +1,11 @@
+caption: Комплектация
+unit: ''
+description: ''
+key: equipment
+type: option
+required: false
+collection: false
+option:
+    - BOX
+    - OEM
+    - Retail

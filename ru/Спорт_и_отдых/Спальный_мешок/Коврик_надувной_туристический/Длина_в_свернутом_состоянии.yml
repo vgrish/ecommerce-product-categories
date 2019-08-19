@@ -1,0 +1,8 @@
+caption: 'Длина в свернутом состоянии'
+unit: см
+description: ''
+key: length_in_collapsed_state
+type: text
+required: false
+collection: false
+option: {  }

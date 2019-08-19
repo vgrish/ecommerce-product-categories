@@ -1,0 +1,8 @@
+caption: 'Диаметр струны'
+unit: мм
+description: ''
+key: diameter_of_strings
+type: text
+required: false
+collection: false
+option: {  }

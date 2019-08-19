@@ -1,0 +1,27 @@
+caption: 'Время отклика GTG'
+unit: ''
+description: ''
+key: response_time_gtg
+type: option
+required: false
+collection: false
+option:
+    - '1 мс'
+    - '2 мс'
+    - '3 мс'
+    - '4 мс'
+    - '5 мс'
+    - '6,5 мс'
+    - '6 мс'
+    - '7 мс'
+    - '8,5 мс'
+    - '8 мс'
+    - '9 мс'
+    - '10 мс'
+    - '11 мс'
+    - '12 мс'
+    - '14 мс'
+    - '15 мс'
+    - '16 мс'
+    - '20 мс'
+    - '25 мс'

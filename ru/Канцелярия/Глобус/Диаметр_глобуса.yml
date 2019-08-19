@@ -1,0 +1,8 @@
+caption: 'Диаметр глобуса'
+unit: см
+description: ''
+key: diameter_of_globe
+type: float
+required: false
+collection: false
+option: {  }

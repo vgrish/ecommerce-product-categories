@@ -1,0 +1,10 @@
+caption: 'Датчик сканера'
+unit: ''
+description: ''
+key: sensor_of_scanner
+type: option
+required: false
+collection: false
+option:
+    - CCD
+    - CIS

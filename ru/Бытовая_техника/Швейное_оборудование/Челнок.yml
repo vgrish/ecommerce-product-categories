@@ -1,0 +1,12 @@
+caption: Челнок
+unit: ''
+description: ''
+key: shuttle
+type: option
+required: false
+collection: false
+option:
+    - Bernina
+    - Качающийся
+    - 'Ротационный вертикальный'
+    - 'Ротационный горизонтальный'

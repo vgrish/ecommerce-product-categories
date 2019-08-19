@@ -1,0 +1,10 @@
+caption: 'Вид лузы'
+unit: ''
+description: ''
+key: view_luzy
+type: option
+required: false
+collection: false
+option:
+    - Сетка
+    - 'Со скатом'

@@ -1,0 +1,12 @@
+caption: 'Степень фиксации'
+unit: ''
+description: 'Укажите степень фиксации средства для волос. Можно выбрать только один вариант.'
+key: degree_of_fixation
+type: option
+required: false
+collection: false
+option:
+    - Легкая
+    - Сверхсильная
+    - Сильная
+    - Средняя

@@ -1,0 +1,12 @@
+caption: Особенности
+unit: ''
+description: 'Особенности устройства'
+key: features
+type: option
+required: false
+collection: true
+option:
+    - 'Подавление обратной связи'
+    - 'Регулятор громкости'
+    - 'Управление со смартфона'
+    - Шумоподавление

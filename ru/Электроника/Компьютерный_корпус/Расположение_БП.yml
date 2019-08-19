@@ -1,0 +1,12 @@
+caption: 'Расположение БП'
+unit: ''
+description: ''
+key: location_bp
+type: option
+required: false
+collection: false
+option:
+    - Сверху
+    - Слева
+    - Снизу
+    - Справа

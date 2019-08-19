@@ -1,0 +1,8 @@
+caption: 'Встроенная память'
+unit: ГБ
+description: 'Записывается только число'
+key: built_in_memory
+type: text
+required: false
+collection: false
+option: {  }

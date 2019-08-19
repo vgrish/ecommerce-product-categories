@@ -1,0 +1,8 @@
+caption: 'Вместимость папки'
+unit: листов
+description: ''
+key: capacity_folders
+type: text
+required: false
+collection: false
+option: {  }

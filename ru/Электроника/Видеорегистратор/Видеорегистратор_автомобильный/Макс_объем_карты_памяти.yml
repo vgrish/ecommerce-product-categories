@@ -1,0 +1,8 @@
+caption: 'Макс. объем карты памяти'
+unit: ГБ
+description: 'Записывается только число - максимально поддерживаемый устройством объем карты памяти'
+key: max_memory_card_capacity
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Конструктивные особенности'
+unit: ''
+description: ''
+key: design_features
+type: option
+required: false
+collection: true
+option:
+    - 'Антивандальная конструкция'
+    - 'Влагозащищенная кнопка'
+    - 'Возможность замены панелей'
+    - 'Монтаж в нишу'
+    - 'Сенсорный экран'

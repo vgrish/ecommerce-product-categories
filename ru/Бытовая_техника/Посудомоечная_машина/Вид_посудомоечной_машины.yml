@@ -1,0 +1,11 @@
+caption: 'Вид посудомоечной машины'
+unit: ''
+description: ''
+key: view_dishwasher
+type: option
+required: false
+collection: false
+option:
+    - Компактная
+    - 'Полноразмерная (60см)'
+    - 'Узкая (45 см)'

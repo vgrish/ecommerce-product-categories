@@ -1,0 +1,11 @@
+caption: 'Уровень подготовки'
+unit: ''
+description: ''
+key: level_of_training
+type: option
+required: false
+collection: false
+option:
+    - 'Для начинающих'
+    - 'Для прогрессирующих'
+    - 'Для профессионалов'

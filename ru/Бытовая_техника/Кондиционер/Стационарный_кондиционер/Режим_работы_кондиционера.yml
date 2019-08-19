@@ -1,0 +1,11 @@
+caption: 'Режим работы кондиционера'
+unit: ''
+description: ''
+key: operation_mode_of_air_conditioner
+type: option
+required: false
+collection: true
+option:
+    - Обогрев
+    - Осушение
+    - Охлаждение

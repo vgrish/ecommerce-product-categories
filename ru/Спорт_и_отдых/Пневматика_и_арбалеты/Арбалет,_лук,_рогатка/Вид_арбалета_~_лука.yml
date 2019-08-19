@@ -1,0 +1,13 @@
+caption: 'Вид арбалета / лука'
+unit: ''
+description: ''
+key: view_crossbow_bow
+type: option
+required: false
+collection: false
+option:
+    - Албалет-пистолет
+    - Блочный
+    - Классический
+    - Рекурсивный
+    - Традиционный

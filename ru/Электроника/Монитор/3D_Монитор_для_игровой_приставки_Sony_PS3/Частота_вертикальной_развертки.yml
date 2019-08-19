@@ -1,0 +1,8 @@
+caption: 'Частота вертикальной развертки'
+unit: Гц
+description: 'Записывается только число'
+key: vertical_scanning_frequency
+type: text
+required: false
+collection: false
+option: {  }

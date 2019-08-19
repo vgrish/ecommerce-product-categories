@@ -1,0 +1,20 @@
+caption: 'Диапазоны радио'
+unit: ''
+description: ''
+key: radio_bands
+type: option
+required: false
+collection: true
+option:
+    - AM
+    - DAB
+    - FM
+    - LPD
+    - LW
+    - MW
+    - PMR
+    - SW
+    - Авиа
+    - КВ
+    - УКВ
+    - 'расширенный FM'

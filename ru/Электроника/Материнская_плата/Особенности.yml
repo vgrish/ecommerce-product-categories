@@ -1,0 +1,20 @@
+caption: Особенности
+unit: ''
+description: 'Выбираются особенности устройства'
+key: features
+type: option
+required: false
+collection: true
+option:
+    - HyperTransport
+    - 'Intel vPro'
+    - 'QuickPath Interconnect'
+    - 'Двухканальный режим памяти'
+    - 'Поддержка AMD Crossfire'
+    - 'Поддержка EFI'
+    - 'Поддержка Hyper-Threading'
+    - 'Поддержка NVIDIA SLI'
+    - 'Поддержка буферизованной (RDIMM) памяти'
+    - 'Поддержка профилей Intel XMP'
+    - 'Трехканальный режим памяти'
+    - 'Четырехканальный режим памяти'

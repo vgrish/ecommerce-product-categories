@@ -1,0 +1,8 @@
+caption: 'Время работы от батарей'
+unit: ''
+description: ''
+key: time_battery_life
+type: text
+required: false
+collection: false
+option: {  }

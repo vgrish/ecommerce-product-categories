@@ -1,0 +1,8 @@
+caption: 'Длина шнура питания'
+unit: м
+description: 'Записывается только число'
+key: length_of_power_cord
+type: text
+required: false
+collection: false
+option: {  }

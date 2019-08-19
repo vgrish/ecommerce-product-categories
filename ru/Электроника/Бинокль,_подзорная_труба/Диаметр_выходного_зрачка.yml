@@ -1,0 +1,8 @@
+caption: 'Диаметр выходного зрачка'
+unit: мм
+description: 'Записывается только число'
+key: exit_pupil_diameter
+type: text
+required: false
+collection: false
+option: {  }

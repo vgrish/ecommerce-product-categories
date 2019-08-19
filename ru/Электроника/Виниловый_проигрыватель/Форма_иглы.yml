@@ -1,0 +1,12 @@
+caption: 'Форма иглы'
+unit: ''
+description: ''
+key: needle_shape
+type: option
+required: false
+collection: false
+option:
+    - Shibata
+    - Коническая
+    - Сферическая
+    - Эллиптическая

@@ -1,0 +1,10 @@
+caption: 'Вид кофе'
+unit: ''
+description: 'Укажите вид кофе'
+key: coffee
+type: option
+required: false
+collection: false
+option:
+    - Зеленый
+    - Черный

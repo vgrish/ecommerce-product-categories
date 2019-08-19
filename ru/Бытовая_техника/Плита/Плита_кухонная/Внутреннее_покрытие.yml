@@ -1,0 +1,15 @@
+caption: 'Внутреннее покрытие'
+unit: ''
+description: ''
+key: internal_coating
+type: option
+required: false
+collection: true
+option:
+    - 'Анодированная поверхность'
+    - Металл
+    - 'Нержавеющая сталь'
+    - Сталь
+    - Стекло
+    - 'Эмалированная сталь'
+    - Эмаль

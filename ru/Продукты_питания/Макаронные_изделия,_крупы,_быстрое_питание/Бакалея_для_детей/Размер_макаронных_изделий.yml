@@ -1,0 +1,14 @@
+caption: 'Размер макаронных изделий'
+unit: ''
+description: 'Укажите размер макаронных изделий'
+key: size_pasta
+type: option
+required: false
+collection: true
+option:
+    - Длинные
+    - Короткие
+    - Крупные
+    - Мелкие
+    - Средние
+    - Тонкие

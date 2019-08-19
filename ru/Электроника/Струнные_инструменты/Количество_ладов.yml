@@ -1,0 +1,8 @@
+caption: 'Количество ладов'
+unit: шт.
+description: 'Записывается только число'
+key: number_of_frets
+type: text
+required: false
+collection: false
+option: {  }

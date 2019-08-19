@@ -1,0 +1,8 @@
+caption: 'Время автономной работы'
+unit: мин
+description: 'Записывается только число'
+key: battery_life
+type: text
+required: false
+collection: false
+option: {  }

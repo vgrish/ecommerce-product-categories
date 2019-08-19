@@ -1,0 +1,8 @@
+caption: 'Операционная система'
+unit: ''
+description: 'Записывается операционная система устройства'
+key: operating_system
+type: text
+required: false
+collection: false
+option: {  }

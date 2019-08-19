@@ -1,0 +1,8 @@
+caption: 'Высота каблука'
+unit: ''
+description: 'Указывается в см'
+key: heel_height
+type: text
+required: false
+collection: false
+option: {  }

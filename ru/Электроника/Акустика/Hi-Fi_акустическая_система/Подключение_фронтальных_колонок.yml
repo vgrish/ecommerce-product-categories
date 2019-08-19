@@ -1,0 +1,11 @@
+caption: 'Подключение фронтальных колонок'
+unit: ''
+description: 'Вид подключения колонок. Если не указано что-то специфичное, то выбирается значения "Стандартное"'
+key: connection_of_front_speakers
+type: option
+required: false
+collection: false
+option:
+    - Bi-Wiring
+    - Tri-Wiring
+    - Стандартное

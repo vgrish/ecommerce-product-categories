@@ -1,0 +1,14 @@
+caption: Насадки
+unit: ''
+description: 'Выбираются коннекторы, входящие в комплект с устройством'
+key: nozzle
+type: option
+required: false
+collection: true
+option:
+    - 'Переходник на Apple 30-pin'
+    - 'Переходник на Apple Lightning 8-pin'
+    - 'Переходник на Apple MagSafe'
+    - 'Переходник на micro-USB'
+    - 'Переходник на mini-USB'
+    - 'Переходник на разъем Nokia'

@@ -1,0 +1,8 @@
+caption: 'Динамическая контрастность'
+unit: ''
+description: ''
+key: dynamic_contrast_ratio
+type: text
+required: false
+collection: false
+option: {  }

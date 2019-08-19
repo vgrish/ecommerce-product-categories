@@ -1,0 +1,13 @@
+caption: 'Модуль связи WiFi'
+unit: ''
+description: 'Технология WiFi подключения'
+key: communication_module_wi_fi
+type: option
+required: false
+collection: true
+option:
+    - 802.11a/b/g/n
+    - 802.11ac
+    - 802.11b/g
+    - 802.11b/g/n
+    - 'AirPort Extreme (WiFi 802.11b/g/n)'

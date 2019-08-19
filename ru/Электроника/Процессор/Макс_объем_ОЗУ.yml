@@ -1,0 +1,21 @@
+caption: 'Макс. объем ОЗУ'
+unit: ''
+description: ''
+key: max_ram
+type: option
+required: false
+collection: false
+option:
+    - '1 ТБ'
+    - '1,8 ТБ'
+    - '1,2 ТБ'
+    - '1,92 ТБ'
+    - '11 МБ'
+    - '14 ТБ'
+    - '16,5 МБ'
+    - '19,25 МБ'
+    - '22 МБ'
+    - '256 ГБ'
+    - '450 ГБ'
+    - '600 ГБ'
+    - '900 ГБ'

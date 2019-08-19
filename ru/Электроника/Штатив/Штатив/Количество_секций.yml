@@ -1,0 +1,8 @@
+caption: 'Количество секций'
+unit: шт
+description: 'Записывается только число'
+key: number_of_sections
+type: text
+required: false
+collection: false
+option: {  }

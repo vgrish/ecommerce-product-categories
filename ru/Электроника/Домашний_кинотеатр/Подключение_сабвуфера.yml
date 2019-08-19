@@ -1,0 +1,9 @@
+caption: 'Подключение сабвуфера'
+unit: ''
+description: ''
+key: connecting_subwoofer
+type: option
+required: false
+collection: false
+option:
+    - ''

@@ -1,0 +1,8 @@
+caption: 'Размеры ниши для встраивания'
+unit: мм
+description: 'Записывается только число'
+key: size_niches_for_embedding
+type: text
+required: false
+collection: false
+option: {  }

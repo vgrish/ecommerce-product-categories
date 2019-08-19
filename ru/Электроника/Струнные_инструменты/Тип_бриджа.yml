@@ -1,0 +1,10 @@
+caption: 'Тип бриджа'
+unit: ''
+description: ''
+key: type_of_bridge
+type: option
+required: false
+collection: false
+option:
+    - Тремоло
+    - Фиксированный

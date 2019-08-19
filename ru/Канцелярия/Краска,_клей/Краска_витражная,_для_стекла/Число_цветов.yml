@@ -1,0 +1,8 @@
+caption: 'Число цветов'
+unit: шт
+description: ''
+key: number_of_colors
+type: text
+required: false
+collection: false
+option: {  }

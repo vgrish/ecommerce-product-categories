@@ -1,0 +1,8 @@
+caption: 'Количество кнопок'
+unit: ''
+description: ''
+key: number_of_buttons
+type: text
+required: false
+collection: false
+option: {  }

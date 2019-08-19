@@ -1,0 +1,8 @@
+caption: 'Параметры модели'
+unit: ''
+description: "ДЛЯ ОДЕЖДЫ: параметры фотомодели (обхват груди, талии, бедер/рост/размер одежды);\nДЛЯ ОБУВИ: размер обуви, используемый для фото."
+key: parameters_of_model
+type: text
+required: false
+collection: false
+option: {  }

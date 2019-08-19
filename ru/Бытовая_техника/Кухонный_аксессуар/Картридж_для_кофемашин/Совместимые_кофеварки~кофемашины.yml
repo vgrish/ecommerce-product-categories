@@ -1,0 +1,11 @@
+caption: 'Совместимые кофеварки/кофемашины'
+unit: ''
+description: ''
+key: compatible_coffee_makers
+type: option
+required: false
+collection: true
+option:
+    - 'Krups EA8808'
+    - 'Krups EA9010'
+    - 'Krups KP110110'

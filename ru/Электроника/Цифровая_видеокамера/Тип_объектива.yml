@@ -1,0 +1,8 @@
+caption: 'Тип объектива'
+unit: ''
+description: ''
+key: type_of_lens
+type: text
+required: false
+collection: false
+option: {  }

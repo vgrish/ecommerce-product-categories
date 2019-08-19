@@ -1,0 +1,8 @@
+caption: 'Макс. количество порций'
+unit: ''
+description: 'Максимальное количество приготавливаемых порций за одну программу'
+key: max_servings
+type: text
+required: false
+collection: false
+option: {  }

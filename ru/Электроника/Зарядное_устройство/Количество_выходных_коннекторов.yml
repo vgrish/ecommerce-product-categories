@@ -1,0 +1,8 @@
+caption: 'Количество выходных коннекторов'
+unit: ''
+description: ''
+key: number_of_output_connectors
+type: text
+required: false
+collection: false
+option: {  }

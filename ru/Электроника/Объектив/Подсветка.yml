@@ -1,0 +1,8 @@
+caption: Подсветка
+unit: ''
+description: ''
+key: backlight
+type: text
+required: false
+collection: false
+option: {  }

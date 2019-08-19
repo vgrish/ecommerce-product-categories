@@ -1,0 +1,12 @@
+caption: 'Тип SIM-карты'
+unit: ''
+description: 'Размер SIM'
+key: type_of_sim_card
+type: option
+required: false
+collection: true
+option:
+    - 'Apple SIM'
+    - Micro-SIM
+    - Mini-SIM
+    - Nano-SIM

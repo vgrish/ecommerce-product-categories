@@ -1,0 +1,10 @@
+caption: 'Проводная сеть'
+unit: ''
+description: ''
+key: wired_network
+type: option
+required: false
+collection: false
+option:
+    - '10/100 Fast Ethernet'
+    - '10/100/1000 Gigabit Ethernet'

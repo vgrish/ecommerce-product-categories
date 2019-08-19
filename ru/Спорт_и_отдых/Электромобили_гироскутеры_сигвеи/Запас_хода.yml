@@ -1,0 +1,8 @@
+caption: 'Запас хода'
+unit: км
+description: ''
+key: reserve
+type: text
+required: false
+collection: false
+option: {  }

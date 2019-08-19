@@ -1,0 +1,12 @@
+caption: 'Тип противоугонного устройства'
+unit: ''
+description: ''
+key: type_anti_theft_device
+type: option
+required: false
+collection: true
+option:
+    - Автосигнализация
+    - Иммобилайзер
+    - 'Механический блокиратор'
+    - 'Противоугонный комплекс'

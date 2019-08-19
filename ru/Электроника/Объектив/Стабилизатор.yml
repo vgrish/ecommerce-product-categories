@@ -1,0 +1,8 @@
+caption: Стабилизатор
+unit: ''
+description: ''
+key: stabilizer
+type: text
+required: false
+collection: false
+option: {  }

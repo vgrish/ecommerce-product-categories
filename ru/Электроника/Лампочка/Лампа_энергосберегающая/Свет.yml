@@ -1,0 +1,12 @@
+caption: Свет
+unit: ''
+description: ''
+key: light
+type: option
+required: false
+collection: false
+option:
+    - Дневной
+    - Нейтральный
+    - Теплый
+    - Холодный

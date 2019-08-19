@@ -1,0 +1,11 @@
+caption: 'Форма выпуска хлеба'
+unit: ''
+description: 'Выберите форму выпуска хлеба'
+key: release_form_of_bread
+type: option
+required: false
+collection: false
+option:
+    - Багет
+    - Батон
+    - Нарезка

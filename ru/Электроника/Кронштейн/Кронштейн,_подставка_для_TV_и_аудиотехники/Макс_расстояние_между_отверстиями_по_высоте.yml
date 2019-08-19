@@ -1,0 +1,8 @@
+caption: 'Макс. расстояние между отверстиями по высоте'
+unit: мм
+description: 'Записывается только число'
+key: max_distance_between_holes_height
+type: text
+required: false
+collection: false
+option: {  }

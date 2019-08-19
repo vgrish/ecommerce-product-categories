@@ -1,0 +1,8 @@
+caption: 'Прочие особенности'
+unit: ''
+description: ''
+key: other_features
+type: text
+required: false
+collection: false
+option: {  }

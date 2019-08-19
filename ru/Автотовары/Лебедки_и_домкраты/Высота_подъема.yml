@@ -1,0 +1,8 @@
+caption: 'Высота подъема'
+unit: см
+description: ''
+key: lifting_height
+type: text
+required: false
+collection: false
+option: {  }

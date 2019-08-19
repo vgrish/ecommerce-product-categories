@@ -1,0 +1,8 @@
+caption: 'Размер производителя'
+unit: ''
+description: 'Укажите Размер производителя в любом формате. ВНИМАНИЕ: данный размер является дополнительным, основным является Российский размер'
+key: size_manufacturer
+type: text
+required: false
+collection: false
+option: {  }

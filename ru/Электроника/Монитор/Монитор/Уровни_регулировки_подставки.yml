@@ -1,0 +1,8 @@
+caption: 'Уровни регулировки подставки'
+unit: ''
+description: ''
+key: adjustable_stand
+type: text
+required: false
+collection: false
+option: {  }

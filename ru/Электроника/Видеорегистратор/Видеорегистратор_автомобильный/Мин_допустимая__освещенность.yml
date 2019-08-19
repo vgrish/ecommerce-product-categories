@@ -1,0 +1,8 @@
+caption: 'Мин. допустимая  освещенность'
+unit: лк
+description: 'Записывается только число'
+key: min_allowable_illumination
+type: text
+required: false
+collection: false
+option: {  }

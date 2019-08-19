@@ -1,0 +1,12 @@
+caption: 'Тип сушки'
+unit: ''
+description: ''
+key: type_of_drying
+type: option
+required: false
+collection: false
+option:
+    - Вентиляционная
+    - 'Интенсивная сушка с теплообменником'
+    - Конденсационная
+    - Турбосушка

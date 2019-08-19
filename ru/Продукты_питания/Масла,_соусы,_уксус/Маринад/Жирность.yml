@@ -1,0 +1,8 @@
+caption: Жирность
+unit: '%'
+description: 'Укажите жирность продукта в процентах (только число!)'
+key: fat
+type: text
+required: false
+collection: false
+option: {  }

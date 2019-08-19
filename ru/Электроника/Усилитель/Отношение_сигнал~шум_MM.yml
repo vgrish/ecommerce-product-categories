@@ -1,0 +1,8 @@
+caption: 'Отношение сигнал/шум (MM)'
+unit: дБ
+description: 'Записывается только число'
+key: signal_to_noise_ratio
+type: text
+required: false
+collection: false
+option: {  }

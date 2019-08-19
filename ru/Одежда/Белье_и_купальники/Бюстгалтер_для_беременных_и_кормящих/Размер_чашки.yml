@@ -1,0 +1,20 @@
+caption: 'Размер чашки'
+unit: ''
+description: 'Буквенный размер чашки – для бюстгальтеров и купальных лифов'
+key: cup_size
+type: option
+required: false
+collection: false
+option:
+    - A
+    - B
+    - C
+    - D
+    - DD
+    - E
+    - F
+    - G
+    - H
+    - I
+    - J
+    - K

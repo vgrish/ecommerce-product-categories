@@ -1,0 +1,8 @@
+caption: 'Максимальное разрешение печати'
+unit: ''
+description: ''
+key: max_print_resolution
+type: text
+required: false
+collection: false
+option: {  }

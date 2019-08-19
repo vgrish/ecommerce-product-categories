@@ -1,0 +1,8 @@
+caption: 'Ход амортизатора'
+unit: мм
+description: ''
+key: stroke_of_shock_absorber
+type: text
+required: false
+collection: false
+option: {  }

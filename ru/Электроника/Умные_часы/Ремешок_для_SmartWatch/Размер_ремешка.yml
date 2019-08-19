@@ -1,0 +1,8 @@
+caption: 'Размер ремешка'
+unit: ''
+description: ''
+key: size_of_strap
+type: text
+required: false
+collection: false
+option: {  }

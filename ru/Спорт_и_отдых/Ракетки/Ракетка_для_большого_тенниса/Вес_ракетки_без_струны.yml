@@ -1,0 +1,8 @@
+caption: 'Вес ракетки без струны'
+unit: г
+description: 'Впишите только число, без едениц измерений, например 25'
+key: weight_of_racket_without_strings
+type: text
+required: false
+collection: false
+option: {  }

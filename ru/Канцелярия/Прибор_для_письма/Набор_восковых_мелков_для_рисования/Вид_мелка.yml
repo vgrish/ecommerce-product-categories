@@ -1,0 +1,15 @@
+caption: 'Вид мелка'
+unit: ''
+description: ''
+key: view_chalk
+type: option
+required: false
+collection: true
+option:
+    - Восковой
+    - Гелевый
+    - 'Для асфальта'
+    - 'Для ванной'
+    - 'Для лица и тела'
+    - Жидкий
+    - Пастельный

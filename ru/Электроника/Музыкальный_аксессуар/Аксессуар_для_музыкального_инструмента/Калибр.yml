@@ -1,0 +1,12 @@
+caption: Калибр
+unit: ''
+description: 'Толщина струны'
+key: caliber
+type: option
+required: false
+collection: true
+option:
+    - '09'
+    - '10'
+    - '11'
+    - 12/13

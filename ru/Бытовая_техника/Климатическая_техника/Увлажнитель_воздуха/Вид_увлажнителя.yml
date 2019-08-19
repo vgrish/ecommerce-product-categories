@@ -1,0 +1,11 @@
+caption: 'Вид увлажнителя'
+unit: ''
+description: ''
+key: view_of_humidifier
+type: option
+required: false
+collection: false
+option:
+    - Паровой
+    - Традиционный
+    - Ультразвуковой

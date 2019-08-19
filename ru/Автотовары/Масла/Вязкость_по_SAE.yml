@@ -1,0 +1,54 @@
+caption: 'Вязкость по SAE'
+unit: ''
+description: ''
+key: sae_viscosity_grade
+type: option
+required: false
+collection: false
+option:
+    - 0W-20
+    - 0W-30
+    - 0W-40
+    - 0W-15
+    - 2.5W
+    - 5W-30
+    - 5W-40
+    - 5W-20
+    - 5W
+    - 5W-50
+    - 10W-60
+    - 10W-50
+    - 10W-30
+    - 10-30
+    - 10W-40
+    - 10W
+    - 15W-40
+    - 15W-50
+    - 15W
+    - 20W-50
+    - 20W-20
+    - 20W
+    - 20W-40
+    - 20W-60
+    - 25W-40
+    - 30W
+    - 70W-80
+    - 75W90
+    - 75W
+    - 75W140
+    - 75W-140
+    - 75W80
+    - 75W85
+    - 75W-85
+    - 75W-90
+    - 80W
+    - 80W85
+    - 80W90
+    - 80W-90
+    - 85W140
+    - 85W90
+    - '42510'
+    - 'SAE 20'
+    - 'SAE 30'
+    - 'SAE 40'
+    - 'SAE 75W'

@@ -1,0 +1,8 @@
+caption: 'Рабочее напряжение'
+unit: В
+description: 'Записывается только число'
+key: working_voltage
+type: text
+required: false
+collection: false
+option: {  }

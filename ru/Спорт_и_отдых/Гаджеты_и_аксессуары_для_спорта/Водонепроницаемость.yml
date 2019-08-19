@@ -1,0 +1,8 @@
+caption: Водонепроницаемость
+unit: м
+description: ''
+key: water_resistant
+type: text
+required: false
+collection: false
+option: {  }

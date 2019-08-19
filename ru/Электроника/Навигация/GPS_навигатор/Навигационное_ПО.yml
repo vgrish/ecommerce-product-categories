@@ -1,0 +1,17 @@
+caption: 'Навигационное ПО'
+unit: ''
+description: ''
+key: navigation_software
+type: option
+required: false
+collection: false
+option:
+    - Garmin
+    - IGO
+    - Navteq
+    - 'PocketGPS Pro'
+    - TomTom
+    - Автоспутник
+    - Навител
+    - ПРОГОРОД
+    - СитиГИД

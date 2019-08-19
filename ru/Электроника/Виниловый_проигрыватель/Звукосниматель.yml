@@ -1,0 +1,11 @@
+caption: Звукосниматель
+unit: ''
+description: 'Выбирается вид головки звукоснимателя'
+key: pickup
+type: option
+required: false
+collection: false
+option:
+    - MC
+    - MM
+    - VM

@@ -1,0 +1,14 @@
+caption: 'Единицы измерения'
+unit: ''
+description: 'Выбираются поддерживаемые весами единицы измерения'
+key: units
+type: option
+required: false
+collection: true
+option:
+    - Кг
+    - г
+    - мл
+    - стоун
+    - унция
+    - фунт

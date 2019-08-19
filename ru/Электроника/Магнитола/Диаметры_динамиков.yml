@@ -1,0 +1,8 @@
+caption: 'Диаметры динамиков'
+unit: ''
+description: 'Перечисляются диаметры'
+key: diameters_of_speakers
+type: text
+required: false
+collection: false
+option: {  }

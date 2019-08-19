@@ -1,0 +1,13 @@
+caption: 'Вид оверлока'
+unit: ''
+description: ''
+key: kind_of_serger
+type: option
+required: false
+collection: true
+option:
+    - '2х ниточный'
+    - '3х ниточный'
+    - '4х ниточный'
+    - '5ти ниточный'
+    - '8ми ниточный'

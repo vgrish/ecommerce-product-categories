@@ -1,0 +1,8 @@
+caption: 'Коэффициент нелинейных искажений'
+unit: '%'
+description: 'Записывается только число'
+key: total_harmonic_distortion
+type: text
+required: false
+collection: false
+option: {  }

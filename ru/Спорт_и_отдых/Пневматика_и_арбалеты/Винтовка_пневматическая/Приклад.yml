@@ -1,0 +1,12 @@
+caption: Приклад
+unit: ''
+description: ''
+key: butt
+type: option
+required: false
+collection: false
+option:
+    - Нет
+    - Постоянный
+    - Раздвижной
+    - Складной

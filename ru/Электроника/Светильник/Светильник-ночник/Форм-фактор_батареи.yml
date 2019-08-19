@@ -1,0 +1,10 @@
+caption: 'Форм-фактор батареи'
+unit: ''
+description: ''
+key: form_factor_battery
+type: option
+required: false
+collection: true
+option:
+    - AA
+    - 'AAA (LR03)'

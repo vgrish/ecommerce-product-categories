@@ -1,0 +1,12 @@
+caption: Индикация
+unit: ''
+description: ''
+key: indication
+type: option
+required: false
+collection: true
+option:
+    - 'Наличия ополаскивателя'
+    - 'Наличия соли'
+    - Неисправности
+    - 'Хода программ'

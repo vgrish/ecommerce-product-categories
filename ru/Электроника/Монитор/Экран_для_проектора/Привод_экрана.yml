@@ -1,0 +1,10 @@
+caption: 'Привод экрана'
+unit: ''
+description: 'Выбирается вид привода механизма выдвигания экрана '
+key: screen_drive
+type: option
+required: false
+collection: false
+option:
+    - Ручной
+    - Электрический

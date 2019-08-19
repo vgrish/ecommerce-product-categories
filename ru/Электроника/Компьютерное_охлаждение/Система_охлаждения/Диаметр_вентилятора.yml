@@ -1,0 +1,8 @@
+caption: 'Диаметр вентилятора'
+unit: мм
+description: 'Записывается только число'
+key: diameter_of_fan
+type: text
+required: false
+collection: false
+option: {  }

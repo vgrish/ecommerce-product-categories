@@ -1,0 +1,39 @@
+caption: 'Разъемы на задней панели'
+unit: ''
+description: ''
+key: connectors_on_rear_panel
+type: option
+required: false
+collection: true
+option:
+    - '3.5 мм'
+    - Coax
+    - DVI
+    - DVI-D
+    - DisplayPort
+    - HDMI
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - PS/2
+    - RJ-45
+    - SAS
+    - 'USB 2.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Gen 2 (SuperSpeed+)'
+    - 'USB 3.1 Type-C'
+    - 'USB Type-C'
+    - 'VGA (D-Sub)'
+    - 'VGA (f)'
+    - 'mini SAS'
+    - 'Аудиовыход 5.1'
+    - 'Аудиовыход 7.1'
+    - 'Выход на сабвуфер'
+    - 'Линейный вход 3.5 мм / AUX'
+    - 'Линейный выход 3.5 мм'
+    - 'Микрофонный вход 3.5 мм'
+    - 'Оптический аудио (Toslink)'
+    - 'Цифровой аудио (S/PDIF)'
+    - 'Цифровой аудио 3.5 мм (коаксиальный)'

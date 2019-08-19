@@ -1,0 +1,8 @@
+caption: 'Количество операций'
+unit: ''
+description: ''
+key: number_of_operations
+type: text
+required: false
+collection: false
+option: {  }

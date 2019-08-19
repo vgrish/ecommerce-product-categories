@@ -1,0 +1,17 @@
+caption: 'Вид декора для выпечки'
+unit: ''
+description: 'Выберите вид декора для выпечки'
+key: form_of_decoration_for_baking
+type: option
+required: false
+collection: true
+option:
+    - Глазурь
+    - Жемчужины
+    - Капли
+    - Крем
+    - Лепестки
+    - Посыпка
+    - 'Сахарный карандаш'
+    - Сердечки
+    - Цветы

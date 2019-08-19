@@ -1,0 +1,12 @@
+caption: 'Острота соуса'
+unit: ''
+description: 'Укажите степень остроты соуса'
+key: sharpness_of_sauce
+type: option
+required: false
+collection: false
+option:
+    - Неострый
+    - Острый
+    - 'Умеренно острый'
+    - 'Экстра острый'

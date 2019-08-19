@@ -1,0 +1,8 @@
+caption: 'Макс. высота процессорного кулера'
+unit: мм
+description: 'Записывается только число'
+key: max_height_cpu_cooler
+type: text
+required: false
+collection: false
+option: {  }

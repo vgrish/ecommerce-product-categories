@@ -1,0 +1,8 @@
+caption: 'Инструкция по уходу'
+unit: ''
+description: 'Инструкция по уходу с пришивного ярлыка на русском языке'
+key: care_instructions
+type: text
+required: false
+collection: false
+option: {  }

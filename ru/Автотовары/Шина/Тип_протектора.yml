@@ -1,0 +1,12 @@
+caption: 'Тип протектора'
+unit: ''
+description: ''
+key: protector_type
+type: option
+required: false
+collection: false
+option:
+    - Внедорожный
+    - Вседорожный
+    - Дорожный
+    - Слики

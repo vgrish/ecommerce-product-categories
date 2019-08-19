@@ -1,0 +1,10 @@
+caption: 'На колесиках'
+unit: ''
+description: ''
+key: on_wheels
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

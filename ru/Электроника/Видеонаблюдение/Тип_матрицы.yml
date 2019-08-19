@@ -1,0 +1,44 @@
+caption: 'Тип матрицы'
+unit: ''
+description: ''
+key: type_of_matrix
+type: option
+required: false
+collection: false
+option:
+    - CCD
+    - 'CCD 1/3"'
+    - 'CCD 1/4"'
+    - 'CCD 1/6"'
+    - 'CCD 1/8"'
+    - 'CCD APS-C'
+    - 'CCD с задней подсветкой'
+    - CMOS
+    - 'CMOS 1/2.3"'
+    - 'CMOS 1/2.5"'
+    - 'CMOS 1/2.6"'
+    - 'CMOS 1/2.7"'
+    - 'CMOS 1/2.8"'
+    - 'CMOS 1/2.9"'
+    - 'CMOS 1/3"'
+    - 'CMOS 1/4"'
+    - 'CMOS 1/5.5"'
+    - 'CMOS 1/5.8"'
+    - 'CMOS 1/6"'
+    - 'CMOS APS-C'
+    - 'CMOS CX'
+    - 'CMOS DX'
+    - 'CMOS Exmor'
+    - 'CMOS Exmor APS HD'
+    - 'CMOS с задней подсветкой'
+    - 'EXR CMOS'
+    - 'HDIS 1/3"'
+    - MOS
+    - 'MOS 1/2.3"'
+    - 'MOS 1/4.1"'
+    - 'MOS 1/5.8"'
+    - 'MOS 3x 1/2.3"'
+    - 'MOS 3x 1/4.1"'
+    - 'Super CCD'
+    - 'Super HAD CCD'
+    - 'X-Trans CMOS II'

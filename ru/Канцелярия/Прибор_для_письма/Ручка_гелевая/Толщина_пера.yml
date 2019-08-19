@@ -1,0 +1,16 @@
+caption: 'Толщина пера'
+unit: ''
+description: ''
+key: thickness_of_pen
+type: option
+required: false
+collection: true
+option:
+    - 'A (Начинающим)'
+    - 'B (Широкое)'
+    - 'EB (Экстраширокое)'
+    - 'EEB (Экстра-экстраширокое)'
+    - 'EF (Экстратонкое)'
+    - 'F (Тонкое)'
+    - 'M (Среднее)'
+    - 'UF (Ультратонкое)'

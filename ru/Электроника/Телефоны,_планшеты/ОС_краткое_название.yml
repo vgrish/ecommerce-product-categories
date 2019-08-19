@@ -1,0 +1,39 @@
+caption: 'ОС (краткое название)'
+unit: ''
+description: 'Выбирается установленная на устройстве операционная система. Атрибут для фильтрации'
+key: os_short_title
+type: option
+required: false
+collection: true
+option:
+    - Android
+    - 'Chrome OS'
+    - DOS
+    - FreeDOS
+    - 'Intel MeeGo'
+    - Linux
+    - 'Mac OS Mojave'
+    - 'MacOS High Sierra'
+    - 'MacOS X'
+    - 'MacOS X El Capitan'
+    - 'MacOS X Sierra'
+    - Ubuntu
+    - Windows
+    - 'Windows 10 Education'
+    - 'Windows 10 Enterprise'
+    - 'Windows 10 Home'
+    - 'Windows 10 Pro'
+    - 'Windows 7 Home Basic'
+    - 'Windows 7 Home Premium'
+    - 'Windows 7 Professional'
+    - 'Windows 7 Starter'
+    - 'Windows 7 Ultimate'
+    - 'Windows 8'
+    - 'Windows 8 Pro'
+    - 'Windows 8.1'
+    - 'Windows 8.1 Pro'
+    - 'Windows RT'
+    - 'Windows Vista'
+    - 'Windows XP'
+    - iOS
+    - 'Без системы'

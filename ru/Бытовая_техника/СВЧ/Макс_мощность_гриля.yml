@@ -1,0 +1,8 @@
+caption: 'Макс. мощность гриля'
+unit: Вт
+description: 'Записывается только число'
+key: max_grill_power
+type: text
+required: false
+collection: false
+option: {  }

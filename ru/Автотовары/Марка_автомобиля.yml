@@ -1,0 +1,118 @@
+caption: 'Марка автомобиля'
+unit: ''
+description: 'Укажите марку авто, только в случае если товар имеет принадлежность марке(бренду) или разработан конкретно для нее. Если товар подходит ко всему- оставьте пустым'
+key: car_brand
+type: option
+required: false
+collection: true
+option:
+    - Acura
+    - 'Alfa Romeo'
+    - Alpina
+    - 'Aston Martin'
+    - Audi
+    - Avia
+    - BAW
+    - BMW
+    - BYD
+    - Bentley
+    - Brilliance
+    - Buick
+    - Cadillac
+    - Changan
+    - Chery
+    - Chevrolet
+    - ChinaAuto
+    - Chrysler
+    - Citroen
+    - DAF
+    - Dacia
+    - Dadi
+    - Daewoo
+    - Daihatsu
+    - Datsun
+    - Dodge
+    - Dongfeng
+    - FAW
+    - Ferrari
+    - Fiat
+    - Ford
+    - Foton
+    - GMC
+    - Geely
+    - 'Great Wall'
+    - Hafei
+    - Haima
+    - Haval
+    - Hawtai
+    - Hino
+    - Honda
+    - Hummer
+    - Hyundai
+    - Infiniti
+    - 'Iran Khodro'
+    - Isuzu
+    - Iveco
+    - JAC
+    - Jaguar
+    - Jeep
+    - Kia
+    - LDV
+    - Lada
+    - Lamborghini
+    - Lancia
+    - 'Land Rover'
+    - Lexus
+    - Lifan
+    - Lincoln
+    - Lotus
+    - Luxgen
+    - MAN
+    - MG
+    - Maserati
+    - Maybach
+    - Mazda
+    - Mercedes-Benz
+    - Mercury
+    - Mini
+    - Mitsubishi
+    - Nissan
+    - Opel
+    - Peugeot
+    - Pontiac
+    - Porsche
+    - Proton
+    - Ravon
+    - Renault
+    - 'Rolls Royce'
+    - Rover
+    - SAAB
+    - SEAT
+    - SMA
+    - Saturn
+    - Scania
+    - Scion
+    - Skoda
+    - Smart
+    - Sokon
+    - SsangYong
+    - Subaru
+    - Suzuki
+    - TATA
+    - TaGAZ
+    - Tesla
+    - Tianye
+    - Toyota
+    - Volkswagen
+    - Volvo
+    - Vortex
+    - 'Xin Kai'
+    - ZAZ
+    - Zotye
+    - ВАЗ
+    - ГАЗ
+    - ЗАЗ
+    - КамАЗ
+    - МАЗ
+    - ТагАЗ
+    - УАЗ

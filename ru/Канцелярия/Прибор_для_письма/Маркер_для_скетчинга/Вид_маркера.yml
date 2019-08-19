@@ -1,0 +1,16 @@
+caption: 'Вид маркера'
+unit: ''
+description: ''
+key: form_of_a_token
+type: option
+required: false
+collection: true
+option:
+    - Акварельный
+    - Водойстойкий
+    - Лаковый
+    - Меловой
+    - Перманентный
+    - Пигментный
+    - Смываемый
+    - Стираемый

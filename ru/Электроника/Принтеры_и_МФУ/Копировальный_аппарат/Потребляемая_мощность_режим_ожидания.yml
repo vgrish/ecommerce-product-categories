@@ -1,0 +1,8 @@
+caption: 'Потребляемая мощность (режим ожидания)'
+unit: Вт
+description: 'Записывается только число'
+key: power_consumption_standby
+type: text
+required: false
+collection: false
+option: {  }

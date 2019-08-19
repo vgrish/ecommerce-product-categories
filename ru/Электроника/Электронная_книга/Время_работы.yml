@@ -1,0 +1,8 @@
+caption: 'Время работы'
+unit: 'число страниц'
+description: 'Записывается только число'
+key: while_working
+type: text
+required: false
+collection: false
+option: {  }

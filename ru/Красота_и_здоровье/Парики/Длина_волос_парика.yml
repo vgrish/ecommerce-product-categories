@@ -1,0 +1,11 @@
+caption: 'Длина волос парика'
+unit: ''
+description: ''
+key: hair_length_of_wig
+type: option
+required: false
+collection: false
+option:
+    - Длинные
+    - Короткие
+    - Средние

@@ -1,0 +1,8 @@
+caption: 'Высота рабочей области'
+unit: см
+description: 'Записывается высота области экрана, на которую ведется проекция, в см, только цифры'
+key: height_of_workspace
+type: text
+required: false
+collection: false
+option: {  }

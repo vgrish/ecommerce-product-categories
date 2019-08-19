@@ -1,0 +1,13 @@
+caption: 'Особенности теннисных столов'
+unit: ''
+description: ''
+key: features_tennis_tables
+type: option
+required: false
+collection: true
+option:
+    - 'Встроенная сетка'
+    - 'Горизонтальная юстировка'
+    - 'Отделение для хранения мячей'
+    - 'Отделение для хранения ракеток'
+    - 'Регулировка по высоте'

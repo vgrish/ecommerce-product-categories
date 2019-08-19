@@ -1,0 +1,18 @@
+caption: Стиль
+unit: ''
+description: ''
+key: style
+type: option
+required: false
+collection: true
+option:
+    - Афро
+    - Боб
+    - Исторический
+    - Каре
+    - Карнавальный
+    - Каскад
+    - Коса
+    - Косплей
+    - Локоны
+    - Хвост

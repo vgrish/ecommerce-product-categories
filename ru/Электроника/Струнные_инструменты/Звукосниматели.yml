@@ -1,0 +1,8 @@
+caption: Звукосниматели
+unit: ''
+description: ''
+key: pickups
+type: text
+required: false
+collection: false
+option: {  }

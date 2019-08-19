@@ -1,0 +1,8 @@
+caption: 'Объем голенища'
+unit: ''
+description: 'Указывается в см'
+key: volume_of_bootleg
+type: text
+required: false
+collection: false
+option: {  }

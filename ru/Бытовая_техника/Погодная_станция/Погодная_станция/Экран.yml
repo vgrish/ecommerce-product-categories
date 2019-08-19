@@ -1,0 +1,8 @@
+caption: Экран
+unit: ''
+description: 'Записываются характеристики дисплея устройства, если он есть'
+key: screen
+type: text
+required: false
+collection: false
+option: {  }

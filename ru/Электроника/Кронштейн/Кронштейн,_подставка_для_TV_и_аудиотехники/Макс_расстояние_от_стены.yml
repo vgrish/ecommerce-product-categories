@@ -1,0 +1,8 @@
+caption: 'Макс. расстояние от стены'
+unit: мм
+description: 'Записывается только число'
+key: max_distance_from_wall
+type: text
+required: false
+collection: false
+option: {  }

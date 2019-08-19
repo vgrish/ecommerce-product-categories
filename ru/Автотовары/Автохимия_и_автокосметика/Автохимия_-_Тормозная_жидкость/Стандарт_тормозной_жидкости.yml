@@ -1,0 +1,13 @@
+caption: 'Стандарт тормозной жидкости'
+unit: ''
+description: ''
+key: standard_brake_fluid
+type: option
+required: false
+collection: false
+option:
+    - 'DOT 3'
+    - 'DOT 4'
+    - 'DOT 5'
+    - 'DOT 5.1'
+    - 'DOT 5.2'

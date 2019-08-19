@@ -1,0 +1,16 @@
+caption: Комплектация
+unit: ''
+description: ''
+key: equipment
+type: option
+required: false
+collection: true
+option:
+    - Бокс
+    - Датер
+    - 'Демпферный слой'
+    - 'Касса букв, цифр, символов'
+    - Крышка
+    - Оснастка
+    - Пинцет
+    - 'Сменная подушка'

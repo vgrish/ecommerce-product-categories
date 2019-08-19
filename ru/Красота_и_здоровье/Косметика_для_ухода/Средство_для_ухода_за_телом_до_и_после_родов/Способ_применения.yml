@@ -1,0 +1,8 @@
+caption: 'Способ применения'
+unit: ''
+description: 'Подробно опишите способ применения. Если он указан на упаковке/этикетке, то в данном поле информация должна либо дублировать, либо содержать больше данных.'
+key: method_of_application
+type: text
+required: false
+collection: false
+option: {  }

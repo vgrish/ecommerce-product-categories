@@ -1,0 +1,13 @@
+caption: 'Размер игрового поля'
+unit: ''
+description: ''
+key: size_of_playing_field
+type: option
+required: false
+collection: false
+option:
+    - '125 x 75 см'
+    - '136 x 76 см'
+    - '181 x 102,5 см'
+    - '181 х 105 см'
+    - '274 х 152,5 см'

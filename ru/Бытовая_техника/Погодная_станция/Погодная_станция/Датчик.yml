@@ -1,0 +1,12 @@
+caption: Датчик
+unit: ''
+description: 'Выбирается вид метеодатчика'
+key: sensor
+type: option
+required: false
+collection: true
+option:
+    - 'Внешний беспроводной'
+    - 'Внешний проводной'
+    - 'Внутренний беспроводной'
+    - 'Внутренний проводной'

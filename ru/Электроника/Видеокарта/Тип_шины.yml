@@ -1,0 +1,28 @@
+caption: 'Тип шины'
+unit: ''
+description: ''
+key: bus_type
+type: option
+required: false
+collection: false
+option:
+    - PCI
+    - 'PCI 2.0'
+    - 'PCI 2.1'
+    - 'PCI 2.2'
+    - 'PCI 2.3'
+    - 'PCI 3.0'
+    - 'PCI Express 2.0'
+    - 'PCI Express 2.0/2.1 x1'
+    - 'PCI Express 2.0/2.1 x16'
+    - 'PCI Express 2.1'
+    - 'PCI Express 3.0'
+    - 'PCI Express 3.0/2.0 x1'
+    - 'PCI Express 3.0/2.0 x16'
+    - 'PCI Express 3.0/2.0 x4'
+    - 'PCI Express 3.0/3.1'
+    - 'PCI Express 3.0/3.1 x1'
+    - 'PCI Express 3.0/3.1 x16'
+    - 'PCI Express 3.0/3.1 x4'
+    - 'PCI Express 4.0'
+    - 'PCI-E x1'

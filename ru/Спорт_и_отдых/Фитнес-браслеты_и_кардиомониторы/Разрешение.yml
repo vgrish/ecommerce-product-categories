@@ -1,0 +1,8 @@
+caption: Разрешение
+unit: ''
+description: ''
+key: resolution
+type: text
+required: false
+collection: false
+option: {  }

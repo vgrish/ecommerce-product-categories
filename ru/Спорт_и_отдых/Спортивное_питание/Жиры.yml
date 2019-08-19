@@ -1,0 +1,8 @@
+caption: Жиры
+unit: 'грамм в 1 порции'
+description: ''
+key: fats
+type: text
+required: false
+collection: false
+option: {  }

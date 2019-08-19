@@ -1,0 +1,8 @@
+caption: Цанга
+unit: мм
+description: 'Записывается только число'
+key: collet
+type: text
+required: false
+collection: false
+option: {  }

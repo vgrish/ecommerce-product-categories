@@ -1,0 +1,8 @@
+caption: 'Размеры панели'
+unit: мм
+description: 'Записывается только число'
+key: panel_sizes
+type: text
+required: false
+collection: false
+option: {  }

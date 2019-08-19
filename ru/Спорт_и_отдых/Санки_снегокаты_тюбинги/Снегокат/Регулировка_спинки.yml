@@ -1,0 +1,11 @@
+caption: 'Регулировка спинки'
+unit: ''
+description: ''
+key: adjusting_backrest
+type: option
+required: false
+collection: false
+option:
+    - Лежа
+    - Полулежа
+    - Сидя

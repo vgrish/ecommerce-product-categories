@@ -1,0 +1,8 @@
+caption: 'Крутящий момент'
+unit: Нм
+description: 'Записывается только число'
+key: torque
+type: text
+required: false
+collection: false
+option: {  }

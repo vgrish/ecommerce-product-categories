@@ -1,0 +1,8 @@
+caption: 'Количество опорных ножек'
+unit: ''
+description: ''
+key: number_of_support_legs
+type: option
+required: false
+collection: false
+option: {  }

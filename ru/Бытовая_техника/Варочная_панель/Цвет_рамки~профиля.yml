@@ -1,0 +1,8 @@
+caption: 'Цвет рамки/профиля'
+unit: ''
+description: ''
+key: color_of_frame_profile
+type: text
+required: false
+collection: false
+option: {  }

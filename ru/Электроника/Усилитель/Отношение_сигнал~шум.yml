@@ -1,0 +1,8 @@
+caption: 'Отношение сигнал/шум'
+unit: дБ
+description: 'Записывается только число'
+key: signal_to_noise
+type: text
+required: false
+collection: false
+option: {  }

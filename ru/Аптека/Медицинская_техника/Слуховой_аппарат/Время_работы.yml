@@ -1,0 +1,8 @@
+caption: 'Время работы'
+unit: ч
+description: 'Указывается только число'
+key: while_working
+type: int
+required: false
+collection: false
+option: {  }

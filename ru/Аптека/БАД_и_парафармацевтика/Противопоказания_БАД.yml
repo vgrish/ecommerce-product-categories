@@ -1,0 +1,9 @@
+caption: 'Противопоказания БАД'
+unit: ''
+description: ''
+key: contraindications_bad
+type: option
+required: false
+collection: false
+option:
+    - 'БАД. НЕ ЯВЛЯЕТСЯ ЛЕКАРСТВЕННЫМ СРЕДСТВОМ'

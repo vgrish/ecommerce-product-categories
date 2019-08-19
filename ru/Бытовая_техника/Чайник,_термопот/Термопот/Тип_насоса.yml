@@ -1,0 +1,10 @@
+caption: 'Тип насоса'
+unit: ''
+description: 'Ручной или электрический'
+key: pump_type
+type: option
+required: false
+collection: true
+option:
+    - 'Ручная помпа'
+    - 'Электрическая помпа'

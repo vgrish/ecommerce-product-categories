@@ -1,0 +1,8 @@
+caption: 'Номинальная выходная мощность на канал'
+unit: Вт
+description: 'Записывается только число'
+key: nominal_output_power_per_channel
+type: text
+required: false
+collection: false
+option: {  }

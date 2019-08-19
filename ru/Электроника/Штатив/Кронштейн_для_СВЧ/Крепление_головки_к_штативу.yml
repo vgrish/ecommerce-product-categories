@@ -1,0 +1,17 @@
+caption: 'Крепление головки к штативу'
+unit: ''
+description: ''
+key: mount_head_to_tripod
+type: option
+required: false
+collection: true
+option:
+    - '1 1/2"'
+    - '1 1/4"'
+    - '1"'
+    - '1/2"'
+    - '1/4"'
+    - '2"'
+    - '3/4"'
+    - '3/8"'
+    - '5/8"'

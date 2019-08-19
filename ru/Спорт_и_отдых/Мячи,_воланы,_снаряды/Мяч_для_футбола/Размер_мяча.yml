@@ -1,0 +1,16 @@
+caption: 'Размер мяча'
+unit: ''
+description: ''
+key: size_of_ball
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'

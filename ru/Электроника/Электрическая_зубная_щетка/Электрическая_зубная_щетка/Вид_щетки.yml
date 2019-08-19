@@ -1,0 +1,11 @@
+caption: 'Вид щетки'
+unit: ''
+description: ''
+key: form_of_a_brush
+type: option
+required: false
+collection: false
+option:
+    - Звуковая
+    - Механическая
+    - Ультразвуковая

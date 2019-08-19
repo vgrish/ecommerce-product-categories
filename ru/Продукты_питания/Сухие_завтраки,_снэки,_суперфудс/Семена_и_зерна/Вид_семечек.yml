@@ -1,0 +1,14 @@
+caption: 'Вид семечек'
+unit: ''
+description: 'Выберите вид семечек'
+key: kinds_of_seeds
+type: option
+required: false
+collection: true
+option:
+    - Белые
+    - Жареные
+    - 'С морской солью'
+    - Соленые
+    - Сырые
+    - Черные

@@ -1,0 +1,8 @@
+caption: 'Макс. скорость записи'
+unit: Мб/с
+description: 'Записывается только число'
+key: max_write_speed
+type: text
+required: false
+collection: false
+option: {  }

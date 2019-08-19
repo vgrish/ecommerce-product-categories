@@ -1,0 +1,8 @@
+caption: 'Объем гидромотора'
+unit: куб.см
+description: ''
+key: volume_of_hydraulic_motor
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Макс. температура воды на входе'
+unit: °C
+description: ''
+key: max_temperature_of_inlet_water
+type: text
+required: false
+collection: false
+option: {  }

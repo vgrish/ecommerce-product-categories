@@ -1,0 +1,13 @@
+caption: 'Тип студийного оборудования'
+unit: ''
+description: ''
+key: type_studio_equipment
+type: option
+required: false
+collection: true
+option:
+    - 'Вспомогательное оборудование'
+    - 'Световой бокс'
+    - Светоотражатель
+    - 'Стол для съемки'
+    - 'Съемочный короб'

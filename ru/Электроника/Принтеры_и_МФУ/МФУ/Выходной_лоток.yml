@@ -1,0 +1,8 @@
+caption: 'Выходной лоток'
+unit: листов
+description: 'Записывается только число'
+key: output_tray
+type: text
+required: false
+collection: false
+option: {  }

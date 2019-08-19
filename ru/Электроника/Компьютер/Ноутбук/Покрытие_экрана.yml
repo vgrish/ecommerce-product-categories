@@ -1,0 +1,12 @@
+caption: 'Покрытие экрана'
+unit: ''
+description: ''
+key: screen_coating
+type: option
+required: false
+collection: true
+option:
+    - Антибликовое
+    - Глянцевое
+    - Защитное
+    - Матовое

@@ -1,0 +1,17 @@
+caption: 'Вид микроскопа'
+unit: ''
+description: ''
+key: kind_of_microscope
+type: option
+required: false
+collection: false
+option:
+    - Бинокуляр
+    - Максутова-Кассегрена
+    - Монокуляр
+    - Ньютоновский
+    - 'Панкратический окуляр'
+    - Рефлектор
+    - Рефрактор
+    - Тринокуляр
+    - Цифровой

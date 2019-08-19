@@ -1,0 +1,8 @@
+caption: 'Высота голенища'
+unit: ''
+description: 'Указывается в см'
+key: shaft_height
+type: text
+required: false
+collection: false
+option: {  }

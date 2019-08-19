@@ -1,0 +1,8 @@
+caption: 'Макс. размер державки резца'
+unit: мм
+description: 'Записывается только число'
+key: max_size_of_cutter_holders
+type: text
+required: false
+collection: false
+option: {  }

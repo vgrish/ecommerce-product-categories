@@ -1,0 +1,17 @@
+caption: 'Соотношение сторон'
+unit: ''
+description: ''
+key: aspect_ratio
+type: option
+required: false
+collection: false
+option:
+    - '1:1'
+    - '4:3'
+    - '5:4'
+    - '15:9'
+    - '15:10'
+    - '16:9'
+    - '16:10'
+    - '21:9'
+    - '32:9'

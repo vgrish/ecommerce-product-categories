@@ -1,0 +1,10 @@
+caption: 'Обратная связь'
+unit: ''
+description: ''
+key: feedback
+type: option
+required: false
+collection: false
+option:
+    - Вибрация
+    - 'Обратное усилие'

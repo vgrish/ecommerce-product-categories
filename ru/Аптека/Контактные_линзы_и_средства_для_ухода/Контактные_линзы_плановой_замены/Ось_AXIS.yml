@@ -1,0 +1,26 @@
+caption: 'Ось (AXIS)'
+unit: ''
+description: ''
+key: axis_axis
+type: option
+required: false
+collection: false
+option:
+    - '10'
+    - '20'
+    - '30'
+    - '40'
+    - '50'
+    - '60'
+    - '70'
+    - '80'
+    - '90'
+    - '100'
+    - '110'
+    - '120'
+    - '130'
+    - '140'
+    - '150'
+    - '160'
+    - '170'
+    - '180'

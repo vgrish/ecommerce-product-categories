@@ -1,0 +1,9 @@
+caption: 'Масштабирование до разрешения'
+unit: пикселей
+description: ''
+key: scaling_up_to_resolution
+type: option
+required: false
+collection: false
+option:
+    - 1560x720

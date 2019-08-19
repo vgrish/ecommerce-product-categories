@@ -1,0 +1,15 @@
+caption: 'Обрабатываемый материал'
+unit: ''
+description: ''
+key: processed_material
+type: option
+required: false
+collection: true
+option:
+    - Алюминий
+    - Дерево
+    - Керамика
+    - МДФ
+    - Металл
+    - Пластик
+    - Сталь

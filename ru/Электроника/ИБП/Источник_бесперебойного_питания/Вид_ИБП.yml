@@ -1,0 +1,11 @@
+caption: 'Вид ИБП'
+unit: ''
+description: ''
+key: look_ups
+type: option
+required: false
+collection: false
+option:
+    - Линейно-интерактивный
+    - Резервный
+    - 'С Двойным преобразованием'

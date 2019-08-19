@@ -1,0 +1,12 @@
+caption: 'Вид питания'
+unit: ''
+description: 'Как осуществляется электропитание устройства'
+key: meal
+type: option
+required: false
+collection: false
+option:
+    - 'Батареи D'
+    - 'От сети 220В'
+    - 'От сети 220В и аккумулятора'
+    - 'От сети 220В и батарей'

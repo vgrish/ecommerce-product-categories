@@ -1,0 +1,8 @@
+caption: 'Уровень усиления (MM)'
+unit: дБ
+description: 'Записывается только число'
+key: gain_level
+type: text
+required: false
+collection: false
+option: {  }

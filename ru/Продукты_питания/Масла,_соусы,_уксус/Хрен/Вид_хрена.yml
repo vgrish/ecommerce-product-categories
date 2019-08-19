@@ -1,0 +1,12 @@
+caption: 'Вид хрена'
+unit: ''
+description: 'Укажите вид хрена'
+key: kind_of_hell
+type: option
+required: false
+collection: false
+option:
+    - Острый
+    - Свекольный
+    - Сливочный
+    - Столовый

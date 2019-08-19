@@ -1,0 +1,8 @@
+caption: 'Количество точек экрана'
+unit: шт
+description: 'Записывается только число'
+key: number_of_points_of_screen
+type: text
+required: false
+collection: false
+option: {  }

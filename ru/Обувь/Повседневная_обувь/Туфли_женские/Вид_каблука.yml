@@ -1,0 +1,12 @@
+caption: 'Вид каблука'
+unit: ''
+description: ''
+key: heel
+type: option
+required: false
+collection: false
+option:
+    - 'Без каблука'
+    - Каблук
+    - Танкетка/платформа
+    - Шпилька

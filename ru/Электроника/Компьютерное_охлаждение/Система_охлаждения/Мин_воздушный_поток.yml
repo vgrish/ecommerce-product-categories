@@ -1,0 +1,8 @@
+caption: 'Мин. воздушный поток'
+unit: CFM
+description: 'Записывается только число'
+key: min_air_flow
+type: text
+required: false
+collection: false
+option: {  }

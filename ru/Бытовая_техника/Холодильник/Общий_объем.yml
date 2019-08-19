@@ -1,0 +1,8 @@
+caption: 'Общий объем'
+unit: л
+description: 'Записывается только число'
+key: total_amount
+type: text
+required: false
+collection: false
+option: {  }

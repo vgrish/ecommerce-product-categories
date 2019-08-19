@@ -1,0 +1,8 @@
+caption: 'Транспортная длина'
+unit: см
+description: ''
+key: transport_length
+type: text
+required: false
+collection: false
+option: {  }

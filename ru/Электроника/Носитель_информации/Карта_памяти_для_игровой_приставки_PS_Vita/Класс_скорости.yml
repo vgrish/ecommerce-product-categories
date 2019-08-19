@@ -1,0 +1,16 @@
+caption: 'Класс скорости'
+unit: ''
+description: ''
+key: speed_class
+type: option
+required: false
+collection: true
+option:
+    - 'Class 10'
+    - 'Class 2'
+    - 'Class 4'
+    - 'Class 6'
+    - 'UHS-I Class 1'
+    - 'UHS-I Class 3'
+    - 'UHS-II Class 1'
+    - 'UHS-II Class 3'

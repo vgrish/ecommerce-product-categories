@@ -1,0 +1,13 @@
+caption: Брэкетинг
+unit: ''
+description: ''
+key: bracketing
+type: option
+required: false
+collection: true
+option:
+    - 'Активного D-Lighting'
+    - 'Баланса белого'
+    - Вспышки
+    - Чувствительности
+    - Экспозиции

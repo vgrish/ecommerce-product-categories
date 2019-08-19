@@ -1,0 +1,10 @@
+caption: Пастеризация
+unit: ''
+description: 'Укажите пастеризованный продукт или непастеризованный'
+key: pasteurization
+type: option
+required: false
+collection: false
+option:
+    - Непастеризованное
+    - Пастеризованное

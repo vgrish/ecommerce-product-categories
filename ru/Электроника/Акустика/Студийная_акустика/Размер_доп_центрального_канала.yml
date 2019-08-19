@@ -1,0 +1,8 @@
+caption: 'Размер доп. центрального канала'
+unit: см
+description: 'Записывается только число'
+key: size_dop_of_central_channel
+type: text
+required: false
+collection: false
+option: {  }

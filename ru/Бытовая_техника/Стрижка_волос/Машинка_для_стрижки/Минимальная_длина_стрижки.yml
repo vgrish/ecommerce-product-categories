@@ -1,0 +1,8 @@
+caption: 'Минимальная длина стрижки'
+unit: мм
+description: 'Записывается только число'
+key: min_length_haircut
+type: text
+required: false
+collection: false
+option: {  }

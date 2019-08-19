@@ -1,0 +1,13 @@
+caption: Привод
+unit: ''
+description: ''
+key: drive
+type: option
+required: false
+collection: false
+option:
+    - 'Бензиновый мотор'
+    - Гидравлический
+    - 'Дизельный мотор'
+    - Ручной
+    - Электродвигатель

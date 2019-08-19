@@ -1,0 +1,8 @@
+caption: 'Толщина игрового поля'
+unit: мм
+description: ''
+key: thickness_of_playing_field
+type: text
+required: false
+collection: false
+option: {  }

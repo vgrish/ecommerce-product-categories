@@ -1,0 +1,8 @@
+caption: 'Ширина паза'
+unit: мм
+description: 'Записывается только число'
+key: width_of_groove
+type: text
+required: false
+collection: false
+option: {  }

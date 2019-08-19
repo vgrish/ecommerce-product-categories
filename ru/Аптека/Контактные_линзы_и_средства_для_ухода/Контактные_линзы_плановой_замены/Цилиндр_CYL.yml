@@ -1,0 +1,13 @@
+caption: 'Цилиндр (CYL)'
+unit: ''
+description: ''
+key: cylinder_cyl
+type: option
+required: false
+collection: false
+option:
+    - '-0.75'
+    - '-1.25'
+    - '-1.75'
+    - '-2.25'
+    - '-2.75'

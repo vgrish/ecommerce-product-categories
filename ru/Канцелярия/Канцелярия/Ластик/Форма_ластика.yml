@@ -1,0 +1,16 @@
+caption: 'Форма ластика'
+unit: ''
+description: ''
+key: shape_of_eraser
+type: option
+required: false
+collection: true
+option:
+    - Бочка
+    - Восьмиугольник
+    - Квадрат
+    - Круг
+    - Овал
+    - Прямоугольник
+    - Треугольник
+    - Тубус

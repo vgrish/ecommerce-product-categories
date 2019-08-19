@@ -1,0 +1,8 @@
+caption: Усиление
+unit: мощность
+description: ''
+key: strengthening
+type: text
+required: false
+collection: false
+option: {  }

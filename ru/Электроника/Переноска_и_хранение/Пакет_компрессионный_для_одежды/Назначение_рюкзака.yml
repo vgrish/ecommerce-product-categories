@@ -1,0 +1,13 @@
+caption: 'Назначение рюкзака'
+unit: ''
+description: ''
+key: purpose_of_backpack
+type: option
+required: false
+collection: true
+option:
+    - 'Для ноутбука'
+    - 'На каждый день'
+    - Охота
+    - Рыбалка
+    - Спорт

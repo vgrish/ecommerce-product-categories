@@ -1,0 +1,8 @@
+caption: 'Телефонная книга'
+unit: ''
+description: 'Количество записей телефонной книги'
+key: phone_book
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Число степеней обжаривания'
+unit: ''
+description: ''
+key: number_of_degrees_of_roasting
+type: text
+required: false
+collection: false
+option: {  }

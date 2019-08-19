@@ -1,0 +1,8 @@
+caption: 'Длина ласты'
+unit: см
+description: ''
+key: length_of_fins
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Вид датера/штампа'
+unit: ''
+description: ''
+key: kind_of_dater_stamp
+type: option
+required: false
+collection: false
+option:
+    - Самонаборный
+    - Стандартный

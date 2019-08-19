@@ -1,0 +1,10 @@
+caption: 'Управление со смартфона'
+unit: ''
+description: 'Есть ли возможность управлять устройством с помощью смартфона (мобильного приложения)'
+key: control_from_your_smartphone
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

@@ -1,0 +1,11 @@
+caption: Мониторинг
+unit: ''
+description: ''
+key: monitoring
+type: option
+required: false
+collection: true
+option:
+    - Калорий
+    - Сна
+    - 'Физической активности'

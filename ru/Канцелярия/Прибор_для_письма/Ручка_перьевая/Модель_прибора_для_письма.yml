@@ -1,0 +1,25 @@
+caption: 'Модель прибора для письма'
+unit: ''
+description: ''
+key: model_of_device_for_writing
+type: option
+required: false
+collection: true
+option:
+    - 'Parker Duofold Mini'
+    - 'Parker Ingenuity'
+    - 'Parker перьевые'
+    - 'Parker роллеры'
+    - 'Parker шариковые'
+    - 'Pilot Acroball'
+    - 'Pilot BPS-GP'
+    - 'Pilot Frixion Ball'
+    - 'Pilot Frixion Point'
+    - 'Pilot G1'
+    - 'Pilot G2'
+    - 'Pilot G3'
+    - 'Pilot Hi-Tecpoint V5'
+    - 'Pilot Rexgrip'
+    - 'Pilot Super Grip'
+    - 'Pilot Super Grip G'
+    - 'Pilot V Ball'

@@ -1,0 +1,8 @@
+caption: 'Количество LAN портов'
+unit: ''
+description: ''
+key: number_of_lan_ports
+type: text
+required: false
+collection: false
+option: {  }

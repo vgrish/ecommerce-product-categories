@@ -1,0 +1,59 @@
+caption: 'Интерфейсы и разъемы'
+unit: ''
+description: 'Выбираются интерфейсы'
+key: interfaces_and_connectors
+type: option
+required: false
+collection: true
+option:
+    - '3.5 мм'
+    - '6.3 мм'
+    - 'Apple Lightning'
+    - 'COM порт'
+    - Coax
+    - D-Sub
+    - DVI
+    - DVI-D
+    - DisplayPort
+    - HDMI
+    - 'HDMI (MHL)'
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - PS/2
+    - RJ-45
+    - SAS
+    - Thunderbolt
+    - 'Thunderbolt 2'
+    - 'Thunderbolt 3'
+    - 'USB 2.0'
+    - 'USB 3.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB 3.1 Gen 2 (SuperSpeed+)'
+    - 'USB 3.1 Type-C'
+    - 'USB 3.1 Type-C/DisplayPort'
+    - 'USB 3.1 Type-C/Thunderbolt 3'
+    - 'USB Type-C'
+    - 'VGA (D-Sub)'
+    - 'VGA (f)'
+    - XLR
+    - microHDMI
+    - 'microUSB 2.0'
+    - 'microUSB 3.0'
+    - 'mini SAS'
+    - miniDisplayPort
+    - miniHDMI
+    - 'Выход на сабвуфер'
+    - 'Комбинированный 3.5 мм (выход на наушники/микрофонный вход)'
+    - 'Линейный вход 3.5 мм / AUX'
+    - 'Линейный выход 3.5 мм'
+    - 'Микрофонный вход 2.5 мм'
+    - 'Микрофонный вход 3.5 мм'
+    - 'Микрофонный вход 6.3 мм'
+    - 'Оптический аудио (Toslink)'
+    - 'Разъем для док-станции'
+    - 'Разъем для наушников'
+    - 'Считыватель смарт-карт'
+    - 'Цифровой аудио (S/PDIF)'

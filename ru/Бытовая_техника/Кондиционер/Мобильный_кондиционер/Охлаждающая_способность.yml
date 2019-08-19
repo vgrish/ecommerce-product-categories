@@ -1,0 +1,8 @@
+caption: 'Охлаждающая способность'
+unit: BTU
+description: 'Записывается только число'
+key: cooling_capacity
+type: text
+required: false
+collection: false
+option: {  }

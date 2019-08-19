@@ -1,0 +1,33 @@
+caption: 'Поддерживаемые карты памяти'
+unit: ''
+description: 'Из списка выбираются поддерживаемые карты памяти'
+key: supported_memory_cards
+type: option
+required: false
+collection: true
+option:
+    - 'CompactFlash (Type I)'
+    - 'CompactFlash (Type II)'
+    - EyeFi
+    - 'HC MMC Plus'
+    - MMC
+    - 'Memory Stick'
+    - 'Memory Stick Duo'
+    - 'Memory Stick Micro'
+    - 'Memory Stick PRO Duo'
+    - 'Memory Stick PRO HG Duo'
+    - 'Memory Stick Pro'
+    - 'Memory Stick ROM'
+    - 'Memory Stick XC-HG Duo'
+    - RS-MMC
+    - SD
+    - SDHC
+    - SDXC
+    - 'Trans Flash'
+    - XQD
+    - microMMC
+    - microSD
+    - microSDHC
+    - microSDXC
+    - miniSD
+    - 'xD-Picture Card'

@@ -1,0 +1,8 @@
+caption: 'Длина стопы'
+unit: см
+description: ''
+key: foot_length
+type: text
+required: false
+collection: false
+option: {  }

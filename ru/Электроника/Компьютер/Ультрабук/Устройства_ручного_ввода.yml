@@ -1,0 +1,15 @@
+caption: 'Устройства ручного ввода'
+unit: ''
+description: 'Из списка выбираются устройства ввода информации ноутбука'
+key: manual_input
+type: option
+required: false
+collection: true
+option:
+    - Touchbar
+    - Touchpad
+    - Trackpad
+    - Клавиатура
+    - Мышь
+    - 'Сенсорный экран'
+    - Стилус

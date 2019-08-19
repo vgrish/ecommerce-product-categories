@@ -1,0 +1,14 @@
+caption: 'Вид пряников'
+unit: ''
+description: 'Выберите вид пряников'
+key: view_gingerbread
+type: option
+required: false
+collection: true
+option:
+    - Ванильные
+    - Имбирные
+    - Классические
+    - Мятные
+    - Тульский
+    - Шоколадные

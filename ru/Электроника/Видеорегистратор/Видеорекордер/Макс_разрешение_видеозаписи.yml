@@ -1,0 +1,21 @@
+caption: 'Макс. разрешение видеозаписи'
+unit: ''
+description: ''
+key: max_video_resolution
+type: option
+required: false
+collection: false
+option:
+    - '640x480 VGA'
+    - 720x480
+    - 1280x720
+    - 1280x960
+    - 1440x1080
+    - 1560x720
+    - '1920x1080 Full HD'
+    - 1920x720
+    - 2048x1536
+    - 2048х1080
+    - 2304x1296
+    - 2560x1080
+    - '3840x2160 4K UHD'

@@ -1,0 +1,12 @@
+caption: 'Автоматическая запись'
+unit: ''
+description: 'По каким событиям запускается автоматическая запись'
+key: automatic_recording
+type: option
+required: false
+collection: true
+option:
+    - 'По расписанию'
+    - 'По событию'
+    - 'По таймеру'
+    - 'По тревоге'

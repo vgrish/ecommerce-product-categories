@@ -1,0 +1,8 @@
+caption: 'Крепление вспышки'
+unit: ''
+description: ''
+key: mount_flash
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,14 @@
+caption: 'Степень обжарки'
+unit: ''
+description: 'Укажите степень обжарки'
+key: degree_of_roast
+type: option
+required: false
+collection: true
+option:
+    - Легкая
+    - Светлая
+    - Сильная
+    - Слабая
+    - Средняя
+    - Темная

@@ -1,0 +1,8 @@
+caption: Тембры
+unit: ''
+description: ''
+key: voices
+type: text
+required: false
+collection: false
+option: {  }

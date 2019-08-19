@@ -1,0 +1,14 @@
+caption: Функции
+unit: ''
+description: ''
+key: function
+type: option
+required: false
+collection: true
+option:
+    - Альтиметр
+    - Барометр
+    - 'Воспроизведение видео/аудио'
+    - Диктофон
+    - Компас
+    - Термометр

@@ -1,0 +1,8 @@
+caption: 'Состав комплекта'
+unit: ''
+description: 'В какой комплектации покупатель получит свой товар?'
+key: kit
+type: text
+required: false
+collection: false
+option: {  }

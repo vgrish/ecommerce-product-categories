@@ -1,0 +1,8 @@
+caption: 'Наибольшее усиление звука'
+unit: дБ
+description: 'Указывается только число'
+key: most_sound_enhancement
+type: int
+required: false
+collection: false
+option: {  }

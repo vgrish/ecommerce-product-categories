@@ -1,0 +1,8 @@
+caption: 'Экстремальная температура'
+unit: °C
+description: ''
+key: extreme_temperatures
+type: text
+required: false
+collection: false
+option: {  }

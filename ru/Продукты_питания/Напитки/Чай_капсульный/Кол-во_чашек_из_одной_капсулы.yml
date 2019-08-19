@@ -1,0 +1,8 @@
+caption: 'Кол-во чашек из одной капсулы'
+unit: ''
+description: 'Укажите на какое количество чашек хватит одной капсулы'
+key: number_of_cups_from_one_capsule
+type: text
+required: false
+collection: false
+option: {  }

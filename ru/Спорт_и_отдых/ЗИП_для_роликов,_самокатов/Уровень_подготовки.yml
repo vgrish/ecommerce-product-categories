@@ -1,0 +1,14 @@
+caption: 'Уровень подготовки'
+unit: ''
+description: ''
+key: level_of_training
+type: option
+required: false
+collection: true
+option:
+    - Любительский
+    - Начинающий
+    - Полупрофессиональный
+    - Прогрессирующий
+    - Профессиональный
+    - Тренировочный

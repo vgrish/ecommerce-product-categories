@@ -1,0 +1,8 @@
+caption: Состав
+unit: ''
+description: 'Укажите состав продукта как на упаковке'
+key: composition
+type: text
+required: true
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: 'Класс мойки'
+unit: ''
+description: ''
+key: washing_class
+type: option
+required: false
+collection: false
+option:
+    - A
+    - A+
+    - A++
+    - A+++
+    - B
+    - C
+    - D
+    - E
+    - G

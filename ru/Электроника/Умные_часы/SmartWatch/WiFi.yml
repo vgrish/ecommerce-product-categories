@@ -1,0 +1,13 @@
+caption: WiFi
+unit: ''
+description: ''
+key: wifi
+type: option
+required: false
+collection: false
+option:
+    - 802.11a/b/g/n
+    - 802.11ac
+    - 802.11b/g
+    - 802.11b/g/n
+    - 'AirPort Extreme (WiFi 802.11b/g/n)'

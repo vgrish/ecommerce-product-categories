@@ -1,0 +1,8 @@
+caption: 'Потреблямый ток'
+unit: мА
+description: 'Записывается только число'
+key: potreblenii_current
+type: text
+required: false
+collection: false
+option: {  }

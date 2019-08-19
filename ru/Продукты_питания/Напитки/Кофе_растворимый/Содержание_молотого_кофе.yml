@@ -1,0 +1,8 @@
+caption: 'Содержание молотого кофе'
+unit: '%'
+description: 'Укажите процент содержания молотого кофе'
+key: content_of_ground_coffee
+type: text
+required: false
+collection: false
+option: {  }

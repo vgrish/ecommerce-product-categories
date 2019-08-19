@@ -1,0 +1,8 @@
+caption: 'Тип покрытия кадлов'
+unit: ''
+description: ''
+key: type_cover_kudlow
+type: text
+required: false
+collection: false
+option: {  }

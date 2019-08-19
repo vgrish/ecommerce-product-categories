@@ -1,0 +1,21 @@
+caption: 'Интерфейс подключения'
+unit: ''
+description: ''
+key: interface_connection
+type: option
+required: false
+collection: false
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - PCIe
+    - SAS
+    - 'USB 2.0'
+    - 'USB 3.1 Gen 1 (SuperSpeed)'
+    - 'USB Type-C'
+    - 'VGA (f)'
+    - 'mini SAS'

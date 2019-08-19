@@ -1,0 +1,14 @@
+caption: 'Количество конфорок'
+unit: ''
+description: ''
+key: number_of_burners
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'

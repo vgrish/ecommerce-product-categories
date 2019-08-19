@@ -1,0 +1,11 @@
+caption: 'Технология производства'
+unit: ''
+description: 'Укажите технологию производства напитка'
+key: production_technology
+type: option
+required: false
+collection: false
+option:
+    - Гранулированный
+    - Порошковый
+    - Сублимированный

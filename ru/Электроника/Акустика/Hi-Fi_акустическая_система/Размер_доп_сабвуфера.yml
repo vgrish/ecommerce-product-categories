@@ -1,0 +1,8 @@
+caption: 'Размер доп. сабвуфера'
+unit: см
+description: 'Записывается только число'
+key: size_extra_subwoofer
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,15 @@
+caption: 'Форма выпуска'
+unit: ''
+description: 'Укажите форму выпуска овощей/фруктов/ягод'
+key: release_form
+type: option
+required: false
+collection: true
+option:
+    - 'В горшочке'
+    - Мытые
+    - 'На ветке'
+    - Отварные
+    - Резаные
+    - Целые
+    - Чищеные

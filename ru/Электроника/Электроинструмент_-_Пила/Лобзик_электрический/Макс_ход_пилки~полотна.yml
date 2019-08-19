@@ -1,0 +1,8 @@
+caption: 'Макс. ход пилки/полотна'
+unit: мм
+description: 'Записывается только число'
+key: max_move_blade_leaf
+type: text
+required: false
+collection: false
+option: {  }

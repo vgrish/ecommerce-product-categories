@@ -1,0 +1,17 @@
+caption: 'Тип памяти'
+unit: ''
+description: ''
+key: memory_type
+type: option
+required: false
+collection: false
+option:
+    - '3D V-NAND'
+    - '3D TLC'
+    - '3D NAND'
+    - '3D XPoint'
+    - '3D MLC'
+    - MLC
+    - QLC
+    - SLC
+    - TLC

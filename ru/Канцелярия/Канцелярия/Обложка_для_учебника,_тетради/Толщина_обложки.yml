@@ -1,0 +1,8 @@
+caption: 'Толщина обложки'
+unit: мм
+description: ''
+key: thickness_of_cover
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество слоев'
+unit: ''
+description: 'Укажите количество слоев, из которых состоит изделие.'
+key: number_of_layers
+type: text
+required: false
+collection: false
+option: {  }

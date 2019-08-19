@@ -1,0 +1,13 @@
+caption: 'Число секций'
+unit: ''
+description: ''
+key: number_of_partitions
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'

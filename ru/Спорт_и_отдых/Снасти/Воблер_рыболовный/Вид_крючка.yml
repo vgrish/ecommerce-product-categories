@@ -1,0 +1,12 @@
+caption: 'Вид крючка'
+unit: ''
+description: ''
+key: form_of_a_hook
+type: option
+required: false
+collection: false
+option:
+    - Двойной
+    - Одинарный
+    - Офсетный
+    - Тройной

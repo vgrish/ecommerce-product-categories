@@ -1,0 +1,8 @@
+caption: 'Ширина насадки'
+unit: см
+description: 'Записывается только число'
+key: nozzle_width
+type: text
+required: false
+collection: false
+option: {  }

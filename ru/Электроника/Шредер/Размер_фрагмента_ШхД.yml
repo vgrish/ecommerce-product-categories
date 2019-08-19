@@ -1,0 +1,8 @@
+caption: 'Размер фрагмента (ШхД)'
+unit: мм
+description: 'Записывается только число'
+key: fragment_size
+type: text
+required: false
+collection: false
+option: {  }

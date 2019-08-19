@@ -1,0 +1,8 @@
+caption: Длина
+unit: см
+description: 'Здесь необходимо указать ОБЩУЮ длину изделия.'
+key: length
+type: text
+required: false
+collection: false
+option: {  }

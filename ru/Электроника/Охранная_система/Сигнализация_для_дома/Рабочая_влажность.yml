@@ -1,0 +1,8 @@
+caption: 'Рабочая влажность'
+unit: ''
+description: ''
+key: operating_humidity
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Встроенная графика'
+unit: ''
+description: ''
+key: integrated_graphics
+type: option
+required: false
+collection: true
+option:
+    - 'Графический чипсет'
+    - 'Поддержка процессорной графики'

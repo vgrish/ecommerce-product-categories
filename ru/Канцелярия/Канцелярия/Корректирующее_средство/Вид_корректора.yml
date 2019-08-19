@@ -1,0 +1,11 @@
+caption: 'Вид корректора'
+unit: ''
+description: ''
+key: view_corrector
+type: option
+required: false
+collection: true
+option:
+    - Жидкость
+    - Лента-роллер
+    - Ручка-карандаш

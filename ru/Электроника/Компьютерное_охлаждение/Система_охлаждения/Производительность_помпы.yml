@@ -1,0 +1,8 @@
+caption: 'Производительность помпы'
+unit: л/ч
+description: 'Записывается только число'
+key: performance_of_pump
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество микрофонов'
+unit: ''
+description: 'Записывается только число'
+key: number_of_microphones
+type: int
+required: false
+collection: false
+option: {  }

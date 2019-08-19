@@ -1,0 +1,15 @@
+caption: Расположение
+unit: ''
+description: ''
+key: location
+type: option
+required: false
+collection: false
+option:
+    - 'На поддон'
+    - 'На растяжке'
+    - Напольный
+    - Настенный
+    - Настольный
+    - Подвесной
+    - Пристенный

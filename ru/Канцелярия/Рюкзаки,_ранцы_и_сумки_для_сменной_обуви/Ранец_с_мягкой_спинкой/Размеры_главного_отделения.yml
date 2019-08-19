@@ -1,0 +1,8 @@
+caption: 'Размеры главного отделения'
+unit: мм
+description: 'Записывается только число'
+key: dimensions_of_main_compartment
+type: text
+required: false
+collection: false
+option: {  }

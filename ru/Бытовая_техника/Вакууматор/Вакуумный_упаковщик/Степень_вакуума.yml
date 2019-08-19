@@ -1,0 +1,8 @@
+caption: 'Степень вакуума'
+unit: бар
+description: 'Записывается только число'
+key: degree_of_vacuum
+type: text
+required: false
+collection: false
+option: {  }

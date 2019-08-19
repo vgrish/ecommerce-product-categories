@@ -1,0 +1,8 @@
+caption: 'Эффективное количество пикселей'
+unit: 'млн. пикселей'
+description: 'Записывается только число'
+key: effective_number_of_pixels
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Высота стола'
+unit: см
+description: ''
+key: table_height
+type: text
+required: false
+collection: false
+option: {  }

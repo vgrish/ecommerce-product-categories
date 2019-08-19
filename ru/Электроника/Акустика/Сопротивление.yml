@@ -1,0 +1,8 @@
+caption: Сопротивление
+unit: Ом
+description: 'Записывается только число'
+key: resistance
+type: text
+required: false
+collection: false
+option: {  }

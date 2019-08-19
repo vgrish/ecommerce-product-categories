@@ -1,0 +1,8 @@
+caption: 'Макс. площадь помещения'
+unit: кв.м
+description: 'Площадь помещения, воздух в котором прибор может эффективно очищать/увлажнять/обогревать и т.д., записывается только число.'
+key: max_floor_area
+type: text
+required: false
+collection: false
+option: {  }

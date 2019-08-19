@@ -1,0 +1,8 @@
+caption: 'Длина пояса'
+unit: см
+description: ''
+key: length_of_belt
+type: text
+required: false
+collection: false
+option: {  }

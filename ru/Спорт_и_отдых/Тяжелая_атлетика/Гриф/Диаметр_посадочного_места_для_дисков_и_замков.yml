@@ -1,0 +1,8 @@
+caption: 'Диаметр посадочного места для дисков и замков'
+unit: мм
+description: ''
+key: diameter_of_seats_for_disk_drives_and_locks
+type: text
+required: false
+collection: false
+option: {  }

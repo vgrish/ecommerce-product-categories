@@ -1,0 +1,10 @@
+caption: 'Управление со смартфона'
+unit: ''
+description: ''
+key: control_from_your_smartphone
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

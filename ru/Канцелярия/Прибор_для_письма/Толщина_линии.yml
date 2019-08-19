@@ -1,0 +1,8 @@
+caption: 'Толщина линии'
+unit: мм
+description: ''
+key: thickness_of_line
+type: text
+required: false
+collection: false
+option: {  }

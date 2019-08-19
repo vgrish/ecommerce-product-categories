@@ -1,0 +1,8 @@
+caption: 'Диаметр динамика'
+unit: мм
+description: 'Записывается только число'
+key: speaker_diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Вид ростков'
+unit: ''
+description: 'Выберите вид ростков'
+key: spires
+type: option
+required: false
+collection: false
+option:
+    - 'Ростки пшеницы'
+    - 'Ростки сои'
+    - 'Ростки ячменя'

@@ -1,0 +1,14 @@
+caption: 'Уничтожаемые материалы'
+unit: ''
+description: ''
+key: destroy_materials
+type: option
+required: false
+collection: true
+option:
+    - Бумага
+    - Дискеты
+    - Компакт-диски
+    - 'Пластиковые карты'
+    - Скрепки
+    - 'Степлерные скобы'

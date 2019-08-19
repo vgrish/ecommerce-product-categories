@@ -1,0 +1,8 @@
+caption: 'Макс. рассеиваемая мощность'
+unit: Вт
+description: 'Записывается только число'
+key: max_power_dissipation
+type: text
+required: false
+collection: false
+option: {  }

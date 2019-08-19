@@ -1,0 +1,8 @@
+caption: 'Дезодорирующий фильтр'
+unit: ''
+description: ''
+key: deodorizing_filter
+type: bool
+required: false
+collection: false
+option: {  }

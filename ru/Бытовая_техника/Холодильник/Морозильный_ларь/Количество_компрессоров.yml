@@ -1,0 +1,10 @@
+caption: 'Количество компрессоров'
+unit: ''
+description: ''
+key: number_of_compressors
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'

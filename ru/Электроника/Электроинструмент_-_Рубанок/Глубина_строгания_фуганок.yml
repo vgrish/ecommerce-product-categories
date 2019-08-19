@@ -1,0 +1,8 @@
+caption: 'Глубина строгания (фуганок)'
+unit: мм
+description: 'Записывается только число'
+key: depth_of_planing_jointer
+type: text
+required: false
+collection: false
+option: {  }

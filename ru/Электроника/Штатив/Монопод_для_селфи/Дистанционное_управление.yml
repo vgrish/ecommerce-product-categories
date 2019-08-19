@@ -1,0 +1,11 @@
+caption: 'Дистанционное управление'
+unit: ''
+description: ''
+key: remote_control
+type: option
+required: false
+collection: false
+option:
+    - 'Кнопка на рукоятке (Bluetooth)'
+    - 'Кнопка на рукоятке (разъем для гарнитуры)'
+    - 'Пульт (Bluetooth)'

@@ -1,0 +1,30 @@
+caption: 'Интерфейсы камеры'
+unit: ''
+description: ''
+key: interfaces_camera
+type: option
+required: false
+collection: true
+option:
+    - '3.5 мм'
+    - BNC
+    - Coax
+    - HDMI
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - RCA
+    - RJ-45
+    - RS-232
+    - RS-485
+    - SAS
+    - 'USB 2.0'
+    - 'VGA (f)'
+    - 'microUSB 2.0'
+    - 'mini SAS'
+    - 'Линейный вход 3.5 мм / AUX'
+    - 'Линейный выход 3.5 мм'
+    - 'Микрофонный вход 3.5 мм'
+    - 'Разъем для антенны'

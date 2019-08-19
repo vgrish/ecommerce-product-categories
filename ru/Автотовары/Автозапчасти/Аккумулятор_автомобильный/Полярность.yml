@@ -1,0 +1,11 @@
+caption: Полярность
+unit: ''
+description: ''
+key: polarity
+type: option
+required: false
+collection: true
+option:
+    - 'Обратная (-/+)'
+    - 'Прямая (+/-)'
+    - Универсальная

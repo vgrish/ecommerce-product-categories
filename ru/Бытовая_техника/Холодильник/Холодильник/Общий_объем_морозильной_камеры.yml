@@ -1,0 +1,8 @@
+caption: 'Общий объем морозильной камеры'
+unit: л
+description: 'Записывается только число'
+key: total_volume_of_freezer
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Число полос фронтальных колонок'
+unit: ''
+description: 'Записывается только число'
+key: number_of_bands_front_speakers
+type: text
+required: false
+collection: false
+option: {  }

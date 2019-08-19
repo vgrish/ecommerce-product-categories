@@ -1,0 +1,11 @@
+caption: Редуктор
+unit: ''
+description: ''
+key: reducer
+type: option
+required: false
+collection: false
+option:
+    - Двухступенчатый
+    - Одноступенчатый
+    - Трехступенчатый

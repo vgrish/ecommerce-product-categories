@@ -1,0 +1,8 @@
+caption: 'Кэш L3'
+unit: МБ
+description: 'Записывается только число'
+key: l3_cache
+type: text
+required: false
+collection: false
+option: {  }

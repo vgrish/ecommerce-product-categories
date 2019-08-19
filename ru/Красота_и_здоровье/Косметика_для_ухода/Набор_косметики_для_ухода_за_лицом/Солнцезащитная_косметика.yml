@@ -1,0 +1,10 @@
+caption: 'Солнцезащитная косметика'
+unit: ''
+description: 'В этом средстве содержатся элементы, защищающие от солнца?'
+key: cosmetics
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

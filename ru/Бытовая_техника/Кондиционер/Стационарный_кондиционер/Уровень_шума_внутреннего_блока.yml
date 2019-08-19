@@ -1,0 +1,8 @@
+caption: 'Уровень шума внутреннего блока'
+unit: дБ
+description: 'Записывается только число'
+key: noise_level_of_indoor_unit
+type: text
+required: false
+collection: false
+option: {  }

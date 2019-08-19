@@ -1,0 +1,10 @@
+caption: Рецепт
+unit: ''
+description: ''
+key: recipe
+type: option
+required: false
+collection: false
+option:
+    - 'Без рецепта'
+    - 'По рецепту'

@@ -1,0 +1,8 @@
+caption: 'Ширина строгания'
+unit: мм
+description: 'Записывается только число'
+key: planing_width
+type: text
+required: false
+collection: false
+option: {  }

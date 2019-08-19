@@ -1,0 +1,8 @@
+caption: 'Время непрерывной работы'
+unit: мин
+description: 'Записывается только число'
+key: time_of_continuous_operation
+type: text
+required: false
+collection: false
+option: {  }

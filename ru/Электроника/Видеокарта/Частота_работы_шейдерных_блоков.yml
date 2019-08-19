@@ -1,0 +1,8 @@
+caption: 'Частота работы шейдерных блоков'
+unit: ''
+description: ''
+key: frequency_of_shader_units
+type: text
+required: false
+collection: false
+option: {  }

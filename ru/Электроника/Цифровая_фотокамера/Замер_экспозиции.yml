@@ -1,0 +1,16 @@
+caption: 'Замер экспозиции'
+unit: ''
+description: 'Выбирается соответствующее значение'
+key: metering
+type: option
+required: false
+collection: true
+option:
+    - '3D цветовой матричный'
+    - ESP
+    - TTL
+    - Матричный
+    - Мультизонный
+    - Общий
+    - Точечный
+    - Центровзвешенный

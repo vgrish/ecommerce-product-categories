@@ -1,0 +1,8 @@
+caption: Сукно
+unit: ''
+description: ''
+key: cloth
+type: text
+required: false
+collection: false
+option: {  }

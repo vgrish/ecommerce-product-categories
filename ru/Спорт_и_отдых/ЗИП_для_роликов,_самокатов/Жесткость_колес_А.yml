@@ -1,0 +1,8 @@
+caption: 'Жесткость колес (А)'
+unit: ''
+description: ''
+key: stiffness_of_wheel_s
+type: text
+required: false
+collection: false
+option: {  }

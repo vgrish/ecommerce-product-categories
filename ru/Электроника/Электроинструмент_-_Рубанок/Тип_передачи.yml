@@ -1,0 +1,11 @@
+caption: 'Тип передачи'
+unit: ''
+description: ''
+key: transmission_type
+type: option
+required: false
+collection: false
+option:
+    - Прямая
+    - Ременная
+    - Шестерня

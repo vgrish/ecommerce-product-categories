@@ -1,0 +1,8 @@
+caption: 'Вид загиба'
+unit: ''
+description: ''
+key: view_bend
+type: text
+required: false
+collection: false
+option: {  }

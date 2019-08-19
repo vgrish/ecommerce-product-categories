@@ -1,0 +1,14 @@
+caption: Положение
+unit: ''
+description: ''
+key: position
+type: option
+required: false
+collection: true
+option:
+    - Вертикальное
+    - Встраиваемое
+    - Горизонтальное
+    - Напольное
+    - Переносное
+    - Подвесное

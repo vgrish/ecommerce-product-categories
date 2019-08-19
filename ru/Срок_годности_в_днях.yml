@@ -1,0 +1,8 @@
+caption: 'Срок годности в днях'
+unit: ''
+description: 'Срок годности, установленный производителем.'
+key: shelf_life_in_days
+type: text
+required: true
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Глубина пропила в стали'
+unit: мм
+description: 'Записывается только число'
+key: cutting_depth_in_steel
+type: text
+required: false
+collection: false
+option: {  }

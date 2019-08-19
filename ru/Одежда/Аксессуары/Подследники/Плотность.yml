@@ -1,0 +1,22 @@
+caption: Плотность
+unit: DEN
+description: 'Указывается в количестве Den'
+key: density
+type: option
+required: false
+collection: false
+option:
+    - '8 den'
+    - '10 den'
+    - '11 den'
+    - '12 den'
+    - '15 den'
+    - '20 den'
+    - '30 den'
+    - '40 den'
+    - '50 den'
+    - '60 den'
+    - '70 den'
+    - '80 den'
+    - '90 den'
+    - '100 den и выше'

@@ -1,0 +1,19 @@
+caption: 'Мин. диагональ'
+unit: ''
+description: 'Минимальный поддерживаемый размер экрана'
+key: min_diagonal
+type: option
+required: false
+collection: false
+option:
+    - '0.91"'
+    - '0.86"'
+    - '3"'
+    - '3.2"'
+    - '4.0"'
+    - '4.5"'
+    - '5.5"'
+    - '10.8"'
+    - '12.3"'
+    - '40"'
+    - '45"'

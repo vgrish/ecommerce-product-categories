@@ -1,0 +1,12 @@
+caption: 'Вид гриля'
+unit: ''
+description: ''
+key: view_grill
+type: option
+required: false
+collection: true
+option:
+    - Закрытый
+    - Открытый
+    - Раклетница
+    - Шашлычница

@@ -1,0 +1,10 @@
+caption: Фильтрация
+unit: ''
+description: 'Укажите степень фильтрации'
+key: filtering
+type: option
+required: false
+collection: false
+option:
+    - Нефильтрованное
+    - Фильтрованное

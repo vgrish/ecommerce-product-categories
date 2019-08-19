@@ -1,0 +1,8 @@
+caption: 'Макс. ширина распила'
+unit: мм
+description: 'Записывается только число'
+key: max_width_of_cutting
+type: text
+required: false
+collection: false
+option: {  }

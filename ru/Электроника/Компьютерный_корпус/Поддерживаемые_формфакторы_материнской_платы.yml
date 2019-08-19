@@ -1,0 +1,19 @@
+caption: 'Поддерживаемые формфакторы материнской платы'
+unit: ''
+description: ''
+key: supported_motherboard_form_factors
+type: option
+required: false
+collection: true
+option:
+    - '1 DIN'
+    - '2 DIN'
+    - ATX
+    - BTX
+    - Mini-ITX
+    - Pico-ITX
+    - XL-ATX
+    - eATX
+    - mATX
+    - mBTX
+    - 'Штатное место'

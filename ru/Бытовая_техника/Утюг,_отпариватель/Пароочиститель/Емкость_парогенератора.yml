@@ -1,0 +1,8 @@
+caption: 'Емкость парогенератора'
+unit: мл
+description: 'Записывается только число'
+key: capacity_of_steam_generator
+type: text
+required: false
+collection: false
+option: {  }

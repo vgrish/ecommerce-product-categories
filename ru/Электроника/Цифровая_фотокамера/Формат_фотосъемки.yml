@@ -1,0 +1,13 @@
+caption: 'Формат фотосъемки'
+unit: ''
+description: 'Поддерживаемые форматы файлов-изображений'
+key: format_photography
+type: option
+required: false
+collection: false
+option:
+    - 3x2
+    - 4x3
+    - 16x9
+    - 16x10
+    - 21x9

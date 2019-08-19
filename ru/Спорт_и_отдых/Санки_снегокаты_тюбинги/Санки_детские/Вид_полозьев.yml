@@ -1,0 +1,10 @@
+caption: 'Вид полозьев'
+unit: ''
+description: ''
+key: view_of_runners
+type: option
+required: false
+collection: false
+option:
+    - Плоские
+    - Трубчатые

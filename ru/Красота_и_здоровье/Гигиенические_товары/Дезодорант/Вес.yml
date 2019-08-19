@@ -1,0 +1,8 @@
+caption: Вес
+unit: г
+description: ''
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

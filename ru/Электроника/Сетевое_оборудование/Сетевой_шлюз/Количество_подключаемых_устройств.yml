@@ -1,0 +1,8 @@
+caption: 'Количество подключаемых устройств'
+unit: ''
+description: ''
+key: number_of_connected_devices
+type: text
+required: false
+collection: false
+option: {  }

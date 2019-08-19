@@ -1,0 +1,8 @@
+caption: Характеристики
+unit: ''
+description: 'Записываются прочие характеристики устройства'
+key: features
+type: text
+required: false
+collection: false
+option: {  }

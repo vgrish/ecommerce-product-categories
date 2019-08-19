@@ -1,0 +1,25 @@
+caption: 'Разъем для процессора'
+unit: ''
+description: ''
+key: connector_for_cpu
+type: option
+required: false
+collection: false
+option:
+    - AM2+
+    - AM3
+    - AM3+
+    - AM4
+    - FM1
+    - FM2
+    - FM2+
+    - 'LGA 1150'
+    - 'LGA 1151'
+    - 'LGA 1151 v2'
+    - 'LGA 1155'
+    - 'LGA 1156'
+    - 'LGA 1366'
+    - 'LGA 2011'
+    - 'LGA 2066'
+    - 'LGA 775'
+    - TR4

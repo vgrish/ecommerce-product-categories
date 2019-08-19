@@ -1,0 +1,15 @@
+caption: 'Тип снаряда'
+unit: ''
+description: ''
+key: type_of_projectile
+type: option
+required: false
+collection: false
+option:
+    - '(4,5 мм) пули'
+    - '(4,5 мм) шарики'
+    - '(6 мм) шарики'
+    - '(8 мм) шарики'
+    - Дротики
+    - Стрелы
+    - Шарики

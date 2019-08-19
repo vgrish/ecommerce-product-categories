@@ -1,0 +1,8 @@
+caption: Количество
+unit: шт
+description: 'Укажите, если предметов одежды несколько'
+key: number
+type: text
+required: false
+collection: false
+option: {  }

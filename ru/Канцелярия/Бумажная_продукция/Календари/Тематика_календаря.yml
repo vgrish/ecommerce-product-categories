@@ -1,0 +1,19 @@
+caption: 'Тематика календаря'
+unit: ''
+description: ''
+key: theme_calendar
+type: option
+required: false
+collection: true
+option:
+    - Астрология
+    - 'Города и страны'
+    - Детский
+    - Животные
+    - Знаменитости
+    - Искусство
+    - Персонажи
+    - Природа
+    - Религия
+    - Садовый
+    - 'Символ года'

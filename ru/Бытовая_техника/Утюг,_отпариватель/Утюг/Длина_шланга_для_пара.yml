@@ -1,0 +1,8 @@
+caption: 'Длина шланга для пара'
+unit: м
+description: 'Длина шланга, соединяющего парогенератор с утюгом, записывается только число.'
+key: length_of_hose_for_steam
+type: text
+required: false
+collection: false
+option: {  }

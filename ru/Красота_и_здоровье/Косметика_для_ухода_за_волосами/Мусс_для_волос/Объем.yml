@@ -1,0 +1,8 @@
+caption: Объем
+unit: мл
+description: 'Укажите объем средства. Информация не должна отличаться от того, что указано на этикетке/упаковке.'
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

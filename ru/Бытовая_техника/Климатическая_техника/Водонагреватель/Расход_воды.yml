@@ -1,0 +1,8 @@
+caption: 'Расход воды'
+unit: л/ч
+description: 'Записывается только число'
+key: water_consumption
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Конструкция гантель'
+unit: ''
+description: ''
+key: design_dumbbell
+type: option
+required: false
+collection: false
+option:
+    - Неразборные
+    - Разборные
+    - Регулируемые

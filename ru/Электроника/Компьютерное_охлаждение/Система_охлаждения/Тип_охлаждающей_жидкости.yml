@@ -1,0 +1,8 @@
+caption: 'Тип охлаждающей жидкости'
+unit: ''
+description: ''
+key: type_of_coolant
+type: text
+required: false
+collection: false
+option: {  }

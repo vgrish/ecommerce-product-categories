@@ -1,0 +1,12 @@
+caption: Стабилизатор
+unit: ''
+description: 'Выбирается вид стабилизатора'
+key: stabilizer
+type: option
+required: false
+collection: false
+option:
+    - Гибридный
+    - Оптический
+    - 'Оптический с гиродатчиком'
+    - Цифровой

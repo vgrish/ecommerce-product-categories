@@ -1,0 +1,11 @@
+caption: 'Вид пылесборника'
+unit: ''
+description: ''
+key: kind_of_dust_collector
+type: option
+required: false
+collection: true
+option:
+    - Аквафильтр
+    - Безмешковый
+    - Мешок-пылесборник

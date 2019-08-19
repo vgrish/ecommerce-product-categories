@@ -1,0 +1,11 @@
+caption: 'Вид дрожжей'
+unit: ''
+description: 'Выберите вид дрожжей'
+key: kind_of_yeast
+type: option
+required: false
+collection: false
+option:
+    - 'Мгновенного действия'
+    - Сухие
+    - Хлебопекарные

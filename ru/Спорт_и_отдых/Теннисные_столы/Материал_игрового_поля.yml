@@ -1,0 +1,8 @@
+caption: 'Материал игрового поля'
+unit: ''
+description: ''
+key: material_of_playing_field
+type: option
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Регулировка роликов по ширине'
+unit: ''
+description: ''
+key: adjustment_of_rollers_across_width
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

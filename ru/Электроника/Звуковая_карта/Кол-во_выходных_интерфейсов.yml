@@ -1,0 +1,8 @@
+caption: 'Кол-во выходных интерфейсов'
+unit: ''
+description: ''
+key: number_of_output_interfaces
+type: text
+required: false
+collection: false
+option: {  }

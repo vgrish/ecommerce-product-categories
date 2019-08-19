@@ -1,0 +1,8 @@
+caption: 'Кол-во выходов Display Port'
+unit: ''
+description: ''
+key: number_of_display_port_outputs
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Дополнительные функции'
+unit: ''
+description: ''
+key: additional_features
+type: option
+required: false
+collection: true
+option:
+    - 'Звонки с помощью телефона'
+    - 'Кнопка экстренного вызова'
+    - 'Слот для SIM'
+    - 'Установка сторонних приложений'

@@ -1,0 +1,10 @@
+caption: 'Вид камеры'
+unit: ''
+description: ''
+key: camera_view
+type: option
+required: false
+collection: true
+option:
+    - 'IP камера'
+    - Аналоговая
