@@ -1,0 +1,13 @@
+caption: Назначение
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - Выростной
+    - Декоративный
+    - Инкубатор
+    - Карантинно-лечебный
+    - Нерестовый

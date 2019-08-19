@@ -1,0 +1,8 @@
+caption: 'Длина ошейника минимальная'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: collar_length_min
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Срок годности'
+unit: мес
+description: "Необходимо указать значение без единицы измерения.\nСрок годности, установленный производителем."
+key: shelf_life
+type: int
+required: true
+collection: false
+option: {  }

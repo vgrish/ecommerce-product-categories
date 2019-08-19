@@ -1,0 +1,11 @@
+caption: 'Размер животного'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: size_of_animal
+type: option
+required: false
+collection: true
+option:
+    - Крупный
+    - Малый
+    - Средний

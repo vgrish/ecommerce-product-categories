@@ -1,0 +1,16 @@
+caption: 'Способ крепления'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: mounting_method
+type: option
+required: false
+collection: true
+option:
+    - Карабин
+    - 'На завязках'
+    - 'На клепках'
+    - 'На липучках'
+    - 'На молнии'
+    - 'На подоконник'
+    - 'На радиатор'
+    - Напольное

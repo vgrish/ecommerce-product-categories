@@ -1,0 +1,8 @@
+caption: 'Совместимые автокормушки'
+unit: поилки
+description: 'Необходимо выбрать значение из списка.'
+key: compatible_auto_feeders
+type: option
+required: false
+collection: true
+option: {  }

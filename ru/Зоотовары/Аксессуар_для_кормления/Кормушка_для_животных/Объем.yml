@@ -1,0 +1,8 @@
+caption: Объем
+unit: мл
+description: 'Необходимо указать значение без единицы измерения.'
+key: volume
+type: float
+required: false
+collection: false
+option: {  }

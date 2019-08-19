@@ -1,0 +1,8 @@
+caption: 'Ширина лапы'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: width_feet
+type: float
+required: false
+collection: false
+option: {  }

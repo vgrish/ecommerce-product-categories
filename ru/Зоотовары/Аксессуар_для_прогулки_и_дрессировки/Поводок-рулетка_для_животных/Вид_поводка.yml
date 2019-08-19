@@ -1,0 +1,14 @@
+caption: 'Вид поводка'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: kind_of_leash
+type: option
+required: false
+collection: true
+option:
+    - Водилка
+    - Обычный
+    - Перестежка
+    - Рулетка
+    - Сворка
+    - Цепь

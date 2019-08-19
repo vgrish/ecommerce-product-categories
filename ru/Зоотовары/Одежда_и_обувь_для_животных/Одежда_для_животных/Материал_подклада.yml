@@ -1,0 +1,13 @@
+caption: 'Материал подклада'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: material_padding
+type: option
+required: false
+collection: true
+option:
+    - Вискоза
+    - 'Искусственный мех'
+    - Полиэстер
+    - Синтепон
+    - Флис

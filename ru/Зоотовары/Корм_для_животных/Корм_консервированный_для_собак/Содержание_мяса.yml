@@ -1,0 +1,8 @@
+caption: 'Содержание мяса'
+unit: '%'
+description: 'Необходимо указать значение без единицы измерения.'
+key: meat_content
+type: float
+required: false
+collection: false
+option: {  }

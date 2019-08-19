@@ -1,0 +1,10 @@
+caption: 'Диетический корм'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: diet_food
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

@@ -1,0 +1,8 @@
+caption: 'Ширина ошейника'
+unit: мм
+description: 'Необходимо указать значение без единицы измерения.'
+key: width_of_collar
+type: float
+required: false
+collection: false
+option: {  }

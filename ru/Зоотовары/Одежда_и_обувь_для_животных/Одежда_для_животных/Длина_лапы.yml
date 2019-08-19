@@ -1,0 +1,8 @@
+caption: 'Длина лапы'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: length_of_paw
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Товары для дрессировки'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: products_for_dog_training
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

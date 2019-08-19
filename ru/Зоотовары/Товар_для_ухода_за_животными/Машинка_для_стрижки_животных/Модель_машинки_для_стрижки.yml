@@ -1,0 +1,8 @@
+caption: 'Модель машинки для стрижки'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: model_clippers
+type: option
+required: false
+collection: true
+option: {  }

@@ -1,0 +1,15 @@
+caption: 'Вид ошейника'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: type_of_collar
+type: option
+required: false
+collection: true
+option:
+    - Выставочный
+    - Декоративный
+    - Повседневный
+    - Радио-ошейник
+    - Строгий
+    - Удавка
+    - Цепь

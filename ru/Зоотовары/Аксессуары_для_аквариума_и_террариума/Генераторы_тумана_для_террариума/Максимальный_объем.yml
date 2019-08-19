@@ -1,0 +1,8 @@
+caption: 'Максимальный объем'
+unit: м3
+description: 'Необходимо указать значение без единицы измерения.'
+key: max_amount
+type: float
+required: false
+collection: false
+option: {  }

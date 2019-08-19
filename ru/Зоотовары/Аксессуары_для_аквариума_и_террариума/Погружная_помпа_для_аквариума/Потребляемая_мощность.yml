@@ -1,0 +1,8 @@
+caption: 'Потребляемая мощность'
+unit: Вт
+description: 'Необходимо указать значение без единицы измерения.'
+key: power_consumption
+type: float
+required: false
+collection: false
+option: {  }

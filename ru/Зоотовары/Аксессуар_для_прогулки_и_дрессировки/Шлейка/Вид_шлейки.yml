@@ -1,0 +1,14 @@
+caption: 'Вид шлейки'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: view_harnesses
+type: option
+required: false
+collection: true
+option:
+    - 'Для дрессировки'
+    - 'Для собак-поводырей'
+    - 'Для спасательных работ'
+    - Ездовая-тяговая
+    - Прогулочная
+    - Спортивная

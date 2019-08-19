@@ -1,0 +1,8 @@
+caption: 'Длина поводка'
+unit: м
+description: 'Необходимо указать значение без единицы измерения.'
+key: length_of_leash
+type: float
+required: false
+collection: false
+option: {  }

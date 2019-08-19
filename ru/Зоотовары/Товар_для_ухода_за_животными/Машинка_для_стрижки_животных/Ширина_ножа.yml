@@ -1,0 +1,8 @@
+caption: 'Ширина ножа'
+unit: мм
+description: 'Необходимо указать значение без единицы измерения.'
+key: width_of_knife
+type: float
+required: false
+collection: false
+option: {  }

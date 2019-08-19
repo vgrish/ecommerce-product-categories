@@ -1,0 +1,8 @@
+caption: 'Длина спины'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: back_length
+type: float
+required: false
+collection: false
+option: {  }

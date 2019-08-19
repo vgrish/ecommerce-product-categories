@@ -1,0 +1,10 @@
+caption: 'Сменный нож'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: replacement_blade
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

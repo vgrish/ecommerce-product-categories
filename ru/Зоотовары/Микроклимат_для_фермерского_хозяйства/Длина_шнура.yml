@@ -1,0 +1,8 @@
+caption: 'Длина шнура'
+unit: м
+description: 'Необходимо указать значение без единицы измерения.'
+key: cord_length
+type: float
+required: false
+collection: false
+option: {  }

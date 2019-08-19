@@ -1,0 +1,13 @@
+caption: Вид
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: view
+type: option
+required: false
+collection: true
+option:
+    - Биотопный
+    - Видовой
+    - Географический
+    - Голландский
+    - 'Общий (смешанный)'

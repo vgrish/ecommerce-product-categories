@@ -1,0 +1,13 @@
+caption: 'Вид миски'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: view_bowls
+type: option
+required: false
+collection: true
+option:
+    - Двойная
+    - Дорожная
+    - Интерактивная
+    - 'На подставке'
+    - Непроливайка

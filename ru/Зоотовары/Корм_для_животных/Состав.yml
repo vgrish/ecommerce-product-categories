@@ -1,0 +1,8 @@
+caption: Состав
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: composition
+type: option
+required: false
+collection: true
+option: {  }

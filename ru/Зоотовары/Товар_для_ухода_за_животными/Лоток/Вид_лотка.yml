@@ -1,0 +1,11 @@
+caption: 'Вид лотка'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: tray
+type: option
+required: false
+collection: false
+option:
+    - 'Высокий с бортиком'
+    - Лоток-домик
+    - 'С решеткой'

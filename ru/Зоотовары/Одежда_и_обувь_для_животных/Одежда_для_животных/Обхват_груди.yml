@@ -1,0 +1,8 @@
+caption: 'Обхват груди'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: bust
+type: float
+required: false
+collection: false
+option: {  }

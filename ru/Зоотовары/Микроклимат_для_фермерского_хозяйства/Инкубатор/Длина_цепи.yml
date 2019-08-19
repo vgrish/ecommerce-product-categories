@@ -1,0 +1,8 @@
+caption: 'Длина цепи'
+unit: м
+description: 'Необходимо указать значение без единицы измерения.'
+key: chain_length
+type: float
+required: false
+collection: false
+option: {  }

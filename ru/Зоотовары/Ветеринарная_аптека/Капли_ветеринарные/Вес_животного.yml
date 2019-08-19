@@ -1,0 +1,8 @@
+caption: 'Вес животного'
+unit: кг
+description: 'Необходимо указать значение без единицы измерения.'
+key: weight_of_animal
+type: float
+required: false
+collection: false
+option: {  }

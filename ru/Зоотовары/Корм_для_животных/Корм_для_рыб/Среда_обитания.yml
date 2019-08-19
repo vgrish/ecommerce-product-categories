@@ -1,0 +1,11 @@
+caption: 'Среда обитания'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: habitat
+type: option
+required: false
+collection: true
+option:
+    - Морская
+    - Пресноводная
+    - Солоновато-водная

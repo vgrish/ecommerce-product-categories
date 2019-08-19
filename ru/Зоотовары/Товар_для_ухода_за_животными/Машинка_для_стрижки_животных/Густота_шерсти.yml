@@ -1,0 +1,11 @@
+caption: 'Густота шерсти'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: density_of_wool
+type: option
+required: false
+collection: true
+option:
+    - 'Для длинношерстных пород'
+    - 'Для короткошерстных пород'
+    - 'Для среднешерстных пород'

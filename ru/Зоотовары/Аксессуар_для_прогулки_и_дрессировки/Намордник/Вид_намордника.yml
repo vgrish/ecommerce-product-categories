@@ -1,0 +1,14 @@
+caption: 'Вид намордника'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: shape_of_muzzle
+type: option
+required: false
+collection: true
+option:
+    - Ветеринарный
+    - Зимний
+    - Прогулочный
+    - Рабочий
+    - Ударный
+    - Уздечка

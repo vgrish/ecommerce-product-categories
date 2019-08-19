@@ -1,0 +1,8 @@
+caption: 'Температура света'
+unit: К
+description: 'Записывается только число'
+key: temperature_of_light
+type: text
+required: true
+collection: false
+option: {  }

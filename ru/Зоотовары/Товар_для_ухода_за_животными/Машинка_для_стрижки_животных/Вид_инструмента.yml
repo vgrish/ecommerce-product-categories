@@ -1,0 +1,10 @@
+caption: 'Вид инструмента'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: kind_of_tool
+type: option
+required: false
+collection: true
+option:
+    - Повседневный
+    - Профессиональный

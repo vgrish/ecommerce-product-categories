@@ -1,0 +1,8 @@
+caption: 'Длина ошейника максимальная'
+unit: cм
+description: 'Необходимо указать значение без единицы измерения.'
+key: collar_length_max
+type: float
+required: false
+collection: false
+option: {  }

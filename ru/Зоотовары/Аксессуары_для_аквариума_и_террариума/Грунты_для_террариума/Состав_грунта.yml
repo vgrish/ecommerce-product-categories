@@ -1,0 +1,17 @@
+caption: 'Состав грунта'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: composition_of_soil
+type: option
+required: false
+collection: true
+option:
+    - Галька
+    - Гравий
+    - Кварц
+    - Кварцит
+    - 'Кокосовое волокно'
+    - Мрамор
+    - 'Натуральный камень'
+    - Песок
+    - Шунгит

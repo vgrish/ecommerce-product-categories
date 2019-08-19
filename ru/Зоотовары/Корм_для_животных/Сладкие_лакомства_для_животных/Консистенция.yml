@@ -1,0 +1,19 @@
+caption: Консистенция
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: consistency
+type: option
+required: false
+collection: false
+option:
+    - Волокна
+    - Желе
+    - Крем-суп
+    - Кусочки
+    - 'Кусочки в соусе'
+    - Лакомство
+    - Патэ
+    - Паштет
+    - Рагу
+    - Суфле
+    - Сухой
