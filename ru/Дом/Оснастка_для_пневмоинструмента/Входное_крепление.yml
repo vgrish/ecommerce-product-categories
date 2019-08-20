@@ -1,0 +1,12 @@
+caption: 'Входное крепление'
+unit: ''
+description: 'Выбрать из списка значений'
+key: input_mount
+type: option
+required: false
+collection: false
+option:
+    - 'Байонетное крепление'
+    - 'Внешняя резьба/папа'
+    - 'Внутренняя резьба/мама'
+    - 'Елочка/крепление под хомут'

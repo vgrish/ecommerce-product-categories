@@ -1,0 +1,13 @@
+caption: 'Материал дверей'
+unit: ''
+description: 'Выбрать из списка значений'
+key: door_material
+type: option
+required: false
+collection: true
+option:
+    - 'Металлический сплав'
+    - 'ПВХ (поливинилхлорид)'
+    - 'ПВХ, пенопласт, пластик'
+    - Пластик
+    - Полиэстер

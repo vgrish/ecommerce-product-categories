@@ -1,0 +1,16 @@
+caption: Хвоя
+unit: ''
+description: 'Выберите вид хвои искусственной ели'
+key: needles
+type: option
+required: false
+collection: false
+option:
+    - Двухслойная
+    - 'Из ПВХ'
+    - 'Из лески'
+    - Литая
+    - Литая+ПВХ
+    - Литая+леска
+    - Литая+леска+ПВХ
+    - Трехслойная

@@ -1,0 +1,10 @@
+caption: Регулировки
+unit: ''
+description: ''
+key: adjustment
+type: option
+required: false
+collection: true
+option:
+    - Высота
+    - 'Наклон спинки'

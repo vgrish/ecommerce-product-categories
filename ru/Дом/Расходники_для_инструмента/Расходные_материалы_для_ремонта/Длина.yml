@@ -1,0 +1,8 @@
+caption: Длина
+unit: мм
+description: "Укажите длину в миллиметрах.\nТолько цифры!"
+key: length
+type: text
+required: false
+collection: false
+option: {  }

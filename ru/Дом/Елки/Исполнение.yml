@@ -1,0 +1,13 @@
+caption: Исполнение
+unit: ''
+description: 'Выберите вид исполнения ёлки - в виде Ели, Сосны, Кедра и т.п.'
+key: performance
+type: option
+required: false
+collection: false
+option:
+    - Ель
+    - 'Ель - Сосна'
+    - Кедр
+    - Пихта
+    - Сосна

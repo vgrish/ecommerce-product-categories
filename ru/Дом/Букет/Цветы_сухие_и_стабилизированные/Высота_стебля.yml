@@ -1,0 +1,8 @@
+caption: 'Высота стебля'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height_of_stem
+type: text
+required: false
+collection: false
+option: {  }

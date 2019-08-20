@@ -1,0 +1,11 @@
+caption: 'Вид техники военной'
+unit: ''
+description: ''
+key: view_military_equipment
+type: option
+required: false
+collection: true
+option:
+    - Автомобиль
+    - Бронетехника
+    - Танк

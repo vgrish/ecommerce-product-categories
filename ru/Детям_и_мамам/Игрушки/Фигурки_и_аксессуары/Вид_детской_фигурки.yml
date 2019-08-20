@@ -1,0 +1,11 @@
+caption: 'Вид детской фигурки'
+unit: ''
+description: ''
+key: kind_of_childrens_action_figures
+type: option
+required: false
+collection: false
+option:
+    - Сборная
+    - Статичная
+    - Функциональная

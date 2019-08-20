@@ -1,0 +1,8 @@
+caption: Площадь
+unit: кв.м
+description: "Укажите площадь в квадратных метрах.\nТолько цифры!"
+key: area
+type: text
+required: false
+collection: false
+option: {  }

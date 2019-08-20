@@ -1,0 +1,8 @@
+caption: 'Длина спального места в разложенном виде'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length_of_a_berth_in_unfolded_form
+type: text
+required: false
+collection: false
+option: {  }

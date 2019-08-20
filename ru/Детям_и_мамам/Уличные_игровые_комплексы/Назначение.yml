@@ -1,0 +1,12 @@
+caption: Назначение
+unit: ''
+description: ''
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - 'Для дома'
+    - 'Для зала'
+    - 'Для общественных мест'
+    - 'Для улицы'

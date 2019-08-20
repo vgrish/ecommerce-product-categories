@@ -1,0 +1,10 @@
+caption: 'Вид спиц'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: form_of_spokes
+type: option
+required: false
+collection: false
+option:
+    - Круговые
+    - Прямые

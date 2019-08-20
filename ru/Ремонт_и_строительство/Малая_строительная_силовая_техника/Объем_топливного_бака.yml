@@ -1,0 +1,8 @@
+caption: 'Объем топливного бака'
+unit: л
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: fuel_tank_capacity
+type: text
+required: false
+collection: false
+option: {  }

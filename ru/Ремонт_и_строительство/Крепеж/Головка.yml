@@ -1,0 +1,14 @@
+caption: Головка
+unit: ''
+description: 'Выбрать из списка значений'
+key: head
+type: option
+required: false
+collection: false
+option:
+    - Круглая
+    - Полукруглая
+    - Полупотайная
+    - Потайная
+    - 'Усеченный конус'
+    - Шестигранная

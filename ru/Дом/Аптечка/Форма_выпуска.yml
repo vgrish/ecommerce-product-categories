@@ -1,0 +1,14 @@
+caption: 'Форма выпуска'
+unit: ''
+description: 'Выбрать из списка значений'
+key: release_form
+type: option
+required: false
+collection: false
+option:
+    - 'Металлический шкаф'
+    - 'Мягкий футляр'
+    - 'Пластиковый чемоданчик'
+    - 'Пластиковый шкаф'
+    - 'Поясная сумка'
+    - Саквояж

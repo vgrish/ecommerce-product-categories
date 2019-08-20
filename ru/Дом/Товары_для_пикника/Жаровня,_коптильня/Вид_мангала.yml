@@ -1,0 +1,11 @@
+caption: 'Вид мангала'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_grill
+type: option
+required: false
+collection: false
+option:
+    - Разборный
+    - Складной
+    - Стационарный

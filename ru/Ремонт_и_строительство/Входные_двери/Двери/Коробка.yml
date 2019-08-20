@@ -1,0 +1,8 @@
+caption: Коробка
+unit: ''
+description: ''
+key: box
+type: text
+required: false
+collection: false
+option: {  }

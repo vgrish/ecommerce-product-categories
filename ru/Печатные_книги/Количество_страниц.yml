@@ -1,0 +1,8 @@
+caption: 'Количество страниц'
+unit: ''
+description: 'Укажите числом количество страниц в книге (например, 548)'
+key: number_of_pages
+type: text
+required: false
+collection: false
+option: {  }

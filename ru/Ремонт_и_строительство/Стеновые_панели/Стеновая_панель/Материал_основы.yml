@@ -1,0 +1,8 @@
+caption: 'Материал основы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: base_material
+type: option
+required: false
+collection: true
+option: {  }

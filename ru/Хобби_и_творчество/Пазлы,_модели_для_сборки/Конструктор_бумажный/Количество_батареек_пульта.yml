@@ -1,0 +1,15 @@
+caption: 'Количество батареек пульта'
+unit: ''
+description: 'Сколько батареек необходимо для эксплуатации пульта.'
+key: number_of_batteries_in_remote_control
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '6'
+    - '8'
+    - '22'

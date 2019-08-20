@@ -1,0 +1,8 @@
+caption: Год
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: year
+type: text
+required: false
+collection: false
+option: {  }

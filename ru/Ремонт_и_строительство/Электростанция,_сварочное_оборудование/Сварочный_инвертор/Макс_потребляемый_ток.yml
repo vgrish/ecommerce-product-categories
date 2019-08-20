@@ -1,0 +1,8 @@
+caption: 'Макс. потребляемый ток'
+unit: А
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_current_consumption
+type: text
+required: false
+collection: false
+option: {  }

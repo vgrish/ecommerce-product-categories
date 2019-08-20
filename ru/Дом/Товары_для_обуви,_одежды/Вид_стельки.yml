@@ -1,0 +1,11 @@
+caption: 'Вид стельки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_insoles
+type: option
+required: false
+collection: false
+option:
+    - Анатомическая
+    - 'Анатомическая с перфорацией'
+    - Обычная

@@ -1,0 +1,14 @@
+caption: Размерность
+unit: ''
+description: 'Выберите из списка стандартный размер'
+key: dimension
+type: option
+required: false
+collection: false
+option:
+    - Двуспальный
+    - Детский
+    - Евро
+    - Односпальный
+    - Полутораспальный
+    - Семейный

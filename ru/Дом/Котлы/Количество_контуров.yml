@@ -1,0 +1,10 @@
+caption: 'Количество контуров'
+unit: ''
+description: 'Выбрать из списка значений'
+key: number_of_circuits
+type: option
+required: false
+collection: false
+option:
+    - Двухконтурный
+    - Одноконтурный

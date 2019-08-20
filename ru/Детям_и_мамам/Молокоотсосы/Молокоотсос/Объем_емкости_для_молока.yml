@@ -1,0 +1,8 @@
+caption: 'Объем емкости для молока'
+unit: мл
+description: ''
+key: volume_of_containers_for_milk
+type: text
+required: false
+collection: false
+option: {  }

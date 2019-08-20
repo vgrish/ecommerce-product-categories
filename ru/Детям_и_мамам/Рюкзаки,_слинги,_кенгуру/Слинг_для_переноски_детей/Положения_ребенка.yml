@@ -1,0 +1,14 @@
+caption: 'Положения ребенка'
+unit: ''
+description: 'В собранном состоянии и в реальном сценарии использования.'
+key: position_of_child
+type: option
+required: false
+collection: true
+option:
+    - 'Два положения "за спиной"'
+    - 'За спиной'
+    - Лежа
+    - 'Лицом к себе'
+    - 'Лицом от себя'
+    - Полулежа

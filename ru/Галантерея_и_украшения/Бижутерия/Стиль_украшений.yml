@@ -1,0 +1,19 @@
+caption: 'Стиль украшений'
+unit: ''
+description: ''
+key: style_jewelry
+type: option
+required: false
+collection: true
+option:
+    - Casual
+    - Classic
+    - Cocktail-party
+    - 'Design style'
+    - Ethnic
+    - Extravagance
+    - Glamour
+    - Gothic
+    - Holidays
+    - Romantic
+    - Steampunk

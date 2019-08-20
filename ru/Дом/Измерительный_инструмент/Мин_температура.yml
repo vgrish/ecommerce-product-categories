@@ -1,0 +1,8 @@
+caption: 'Мин. температура'
+unit: °С
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_temperature
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: 'Вид молокоотсоса'
+unit: ''
+description: ''
+key: kind_of_breast_pump
+type: option
+required: false
+collection: false
+option:
+    - Ручной
+    - Электронный

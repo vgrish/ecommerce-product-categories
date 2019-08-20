@@ -1,0 +1,15 @@
+caption: Оснастка
+unit: ''
+description: ''
+key: snap
+type: option
+required: false
+collection: true
+option:
+    - Газонокосилка
+    - Плуг
+    - Прицеп
+    - Рыхлитель
+    - Снегоотбрасыватель
+    - Снегоотвал
+    - 'Фреза для почвы'

@@ -1,0 +1,15 @@
+caption: 'Вид краски'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_paint
+type: option
+required: false
+collection: true
+option:
+    - Акриловая
+    - 'Алкидная эмаль'
+    - Водно-дисперсионная
+    - Декоративная
+    - Латексная
+    - Масляная
+    - Силиконовая

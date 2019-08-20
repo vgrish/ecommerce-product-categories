@@ -1,0 +1,8 @@
+caption: 'Ширина сиденья'
+unit: см
+description: "Укажите ширину сиденья. В сантиметрах.\nТолько цифры!"
+key: seat_width
+type: text
+required: false
+collection: false
+option: {  }

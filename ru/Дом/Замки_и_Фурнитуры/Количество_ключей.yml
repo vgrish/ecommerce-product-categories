@@ -1,0 +1,8 @@
+caption: 'Количество ключей'
+unit: шт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_keys
+type: text
+required: false
+collection: false
+option: {  }

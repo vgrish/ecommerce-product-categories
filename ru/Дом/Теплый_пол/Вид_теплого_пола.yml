@@ -1,0 +1,12 @@
+caption: 'Вид теплого пола'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_floor_heating
+type: option
+required: false
+collection: false
+option:
+    - Водяной
+    - Кабельный
+    - Пленочный
+    - Стержневой

@@ -1,0 +1,8 @@
+caption: 'Высота держателя'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height_of_holder
+type: text
+required: false
+collection: false
+option: {  }

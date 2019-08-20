@@ -1,0 +1,8 @@
+caption: 'Ширина тюля'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: width_of_tulle
+type: text
+required: false
+collection: false
+option: {  }

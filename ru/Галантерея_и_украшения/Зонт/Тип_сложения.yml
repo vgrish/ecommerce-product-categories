@@ -1,0 +1,13 @@
+caption: 'Тип сложения'
+unit: ''
+description: ''
+key: type_of_addition
+type: option
+required: false
+collection: false
+option:
+    - '2 сложения'
+    - '3 сложения'
+    - '4 сложения'
+    - '5 сложений'
+    - Трость

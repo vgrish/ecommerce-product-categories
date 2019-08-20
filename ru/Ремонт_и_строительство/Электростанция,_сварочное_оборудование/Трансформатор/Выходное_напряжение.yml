@@ -1,0 +1,11 @@
+caption: 'Выходное напряжение'
+unit: ''
+description: 'Выбрать из списка значений'
+key: output_voltage
+type: option
+required: false
+collection: true
+option:
+    - '12В постоянное'
+    - '220В переменное'
+    - '380В переменное'

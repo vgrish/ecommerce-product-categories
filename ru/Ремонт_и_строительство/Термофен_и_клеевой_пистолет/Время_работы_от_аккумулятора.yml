@@ -1,0 +1,8 @@
+caption: 'Время работы от аккумулятора'
+unit: мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: time_battery_life
+type: text
+required: false
+collection: false
+option: {  }

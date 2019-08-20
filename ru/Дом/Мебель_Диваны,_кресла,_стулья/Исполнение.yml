@@ -1,0 +1,13 @@
+caption: Исполнение
+unit: ''
+description: 'Выберите варианты исполнения мебели - плетеная, деревянная, пластиковая и т.п.'
+key: performance
+type: option
+required: false
+collection: false
+option:
+    - Деревянное
+    - Каменное
+    - Кованое
+    - Пластиковое
+    - Плетеное

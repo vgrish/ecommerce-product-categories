@@ -1,0 +1,12 @@
+caption: Регулировка
+unit: ''
+description: ''
+key: adjustment
+type: option
+required: false
+collection: true
+option:
+    - 'Времени нагрева'
+    - 'Выбор исходной температуры'
+    - 'Выбор объема бутылочки'
+    - 'Выбор типа продукта'

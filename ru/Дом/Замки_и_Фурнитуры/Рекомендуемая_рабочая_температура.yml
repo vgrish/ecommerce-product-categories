@@ -1,0 +1,8 @@
+caption: 'Рекомендуемая рабочая температура'
+unit: °C
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: recommended_operating_temperature
+type: text
+required: false
+collection: false
+option: {  }

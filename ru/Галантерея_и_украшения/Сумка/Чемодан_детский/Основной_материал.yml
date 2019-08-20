@@ -1,0 +1,14 @@
+caption: 'Основной материал'
+unit: ''
+description: ''
+key: main_material
+type: option
+required: false
+collection: false
+option:
+    - Curv
+    - Алюминий
+    - 'Искусственная кожа'
+    - 'Натуральная кожа'
+    - Пластик
+    - Ткань

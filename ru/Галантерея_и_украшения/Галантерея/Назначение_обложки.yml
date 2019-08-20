@@ -1,0 +1,14 @@
+caption: 'Назначение обложки'
+unit: ''
+description: ''
+key: purpose_of_cover
+type: option
+required: false
+collection: false
+option:
+    - 'Для автодокументов'
+    - 'Для документов'
+    - 'Для зачетной книжки'
+    - 'Для паспорта'
+    - 'Для студенческого билета'
+    - 'Для ученического билета'

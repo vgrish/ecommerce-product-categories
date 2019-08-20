@@ -1,0 +1,8 @@
+caption: 'Объем травосборника'
+unit: л
+description: 'Записывается только число'
+key: volume_of_collector
+type: text
+required: false
+collection: false
+option: {  }

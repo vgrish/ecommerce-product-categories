@@ -1,0 +1,10 @@
+caption: Наконечник
+unit: ''
+description: 'Выбрать из списка значений'
+key: tip
+type: option
+required: false
+collection: false
+option:
+    - Острый
+    - Сверловой

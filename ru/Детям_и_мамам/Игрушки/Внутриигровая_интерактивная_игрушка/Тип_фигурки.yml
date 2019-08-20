@@ -1,0 +1,10 @@
+caption: 'Тип фигурки'
+unit: ''
+description: ''
+key: type_figures
+type: option
+required: false
+collection: false
+option:
+    - Внутриигровая
+    - Сувенирная

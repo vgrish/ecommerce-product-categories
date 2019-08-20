@@ -1,0 +1,13 @@
+caption: 'Вид герметика'
+unit: ''
+description: 'Выбрать из списка значений'
+key: kind_of_sealant
+type: option
+required: false
+collection: false
+option:
+    - Акриловый
+    - Битумный
+    - Полиуретановый
+    - Силиконовый
+    - Тиоколовый

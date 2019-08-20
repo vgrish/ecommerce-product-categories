@@ -1,0 +1,8 @@
+caption: 'Диаметр клеевого стержня'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: diameter_of_adhesive_rod
+type: text
+required: false
+collection: false
+option: {  }

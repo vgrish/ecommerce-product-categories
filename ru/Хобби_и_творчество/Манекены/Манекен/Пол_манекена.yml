@@ -1,0 +1,15 @@
+caption: 'Пол манекена'
+unit: ''
+description: 'Выбрать из списка значений'
+key: gender_dummy
+type: option
+required: false
+collection: false
+option:
+    - 'Для девочек'
+    - 'Для мальчиков'
+    - Жен.
+    - Муж.
+    - Унисекс
+    - 'Унисекс взр.'
+    - 'Унисекс детск.'

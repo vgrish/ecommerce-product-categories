@@ -1,0 +1,11 @@
+caption: Освещение
+unit: ''
+description: 'Выбрать из списка значений'
+key: lighting
+type: option
+required: false
+collection: false
+option:
+    - Полутень
+    - Тень
+    - 'Яркий рассеянный свет'

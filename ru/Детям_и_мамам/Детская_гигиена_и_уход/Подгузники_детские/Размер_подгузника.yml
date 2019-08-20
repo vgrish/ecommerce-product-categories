@@ -1,0 +1,22 @@
+caption: 'Размер подгузника'
+unit: ''
+description: ''
+key: size_of_diaper
+type: option
+required: false
+collection: false
+option:
+    - 0/NB
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - L
+    - M
+    - S
+    - XL
+    - XXL

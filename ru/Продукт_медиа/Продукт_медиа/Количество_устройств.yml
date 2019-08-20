@@ -1,0 +1,8 @@
+caption: 'Количество устройств'
+unit: ''
+description: ''
+key: number_of_devices
+type: option
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: Серия
+unit: ''
+description: 'Укажите название серии, в которую входит товар. Если серий несколько - указывается только основная'
+key: series
+type: text
+required: false
+collection: false
+option: {  }

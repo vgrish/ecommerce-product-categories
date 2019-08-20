@@ -1,0 +1,71 @@
+caption: 'Марка автомобиля'
+unit: ''
+description: 'В случае, если машинка является моделью реального автомобиля, указываем марку.'
+key: car_brand
+type: option
+required: false
+collection: true
+option:
+    - 'Alfa Romeo'
+    - 'Aston Martin'
+    - Audi
+    - BMW
+    - Bentley
+    - Bugatti
+    - Buik
+    - Cadillac
+    - Chevrolet
+    - Citroen
+    - Dodge
+    - Ducati
+    - Ferrari
+    - Fiat
+    - Ford
+    - 'Formula 1'
+    - Freightliner
+    - GMC
+    - Honda
+    - Hummer
+    - Infinity
+    - Jaguar
+    - Kawasaki
+    - Kia
+    - LKW
+    - Lada
+    - Lamborghini
+    - 'Land Rover'
+    - Lexus
+    - Lotus
+    - Maserati
+    - Mazda
+    - McLaren
+    - Merсedes-Benz
+    - 'Mini Cooper'
+    - Mitsubishi
+    - 'Morgan Aero'
+    - Mustang
+    - Neoplan
+    - Nissan
+    - Pagani
+    - Peterbil
+    - Peugeot
+    - Porsche
+    - ProStar
+    - 'Range Rover'
+    - Renault
+    - Shelby
+    - Silvia
+    - Subaru
+    - Toyota
+    - Trabant
+    - Volkswagen
+    - Volvo
+    - Wrangler
+    - Yamaha
+    - ВАЗ
+    - ГАЗ
+    - ЗИЛ
+    - ЗИС
+    - КаМАЗ
+    - 'Персонажи мультфильмов'
+    - УАЗ

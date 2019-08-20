@@ -1,0 +1,13 @@
+caption: 'Вид вязания'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: view_knitting
+type: option
+required: false
+collection: true
+option:
+    - Ажурное
+    - Крючком
+    - 'На вилке'
+    - 'На спицах'
+    - Филейное

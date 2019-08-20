@@ -1,0 +1,13 @@
+caption: Грунт
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: ground
+type: option
+required: false
+collection: true
+option:
+    - Акрил
+    - 'Без грунтовки'
+    - Клеевой
+    - Масло
+    - Эмульсионный

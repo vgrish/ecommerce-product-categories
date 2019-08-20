@@ -1,0 +1,11 @@
+caption: 'Тип электрического котла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_electric_boiler
+type: option
+required: false
+collection: false
+option:
+    - Индукционный
+    - ТЭН
+    - Электродный

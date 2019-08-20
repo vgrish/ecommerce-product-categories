@@ -1,0 +1,8 @@
+caption: 'Размер готовой картины'
+unit: см
+description: ''
+key: size_of_finished_painting
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Ширина рамы'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: frame_width
+type: text
+required: false
+collection: false
+option: {  }

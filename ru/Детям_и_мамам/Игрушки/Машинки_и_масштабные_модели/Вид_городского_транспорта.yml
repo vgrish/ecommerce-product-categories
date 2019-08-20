@@ -1,0 +1,14 @@
+caption: 'Вид городского транспорта'
+unit: ''
+description: ''
+key: public_transport
+type: option
+required: false
+collection: false
+option:
+    - Автобус
+    - 'Маршрутное такси'
+    - Метро
+    - Такси
+    - Трамвай
+    - Троллейбус

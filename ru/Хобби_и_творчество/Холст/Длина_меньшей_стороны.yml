@@ -1,0 +1,8 @@
+caption: 'Длина меньшей стороны'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: length_of_smaller_side
+type: float
+required: false
+collection: false
+option: {  }

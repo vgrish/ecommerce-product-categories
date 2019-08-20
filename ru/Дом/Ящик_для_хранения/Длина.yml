@@ -1,0 +1,8 @@
+caption: Длина
+unit: cм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length
+type: text
+required: false
+collection: false
+option: {  }

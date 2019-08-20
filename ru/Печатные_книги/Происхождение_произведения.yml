@@ -1,0 +1,10 @@
+caption: 'Происхождение произведения'
+unit: ''
+description: 'Укажите, является произведение русским или зарубежным'
+key: provenance
+type: option
+required: false
+collection: false
+option:
+    - 'Зарубежная литература'
+    - 'Русская литература'

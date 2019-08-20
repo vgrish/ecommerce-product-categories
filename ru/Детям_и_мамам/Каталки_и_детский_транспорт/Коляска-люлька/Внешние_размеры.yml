@@ -1,0 +1,8 @@
+caption: 'Внешние размеры'
+unit: см
+description: "Размеры в полном сборе и разложенном состоянии. Коляска в режиме эксплуатации.\nЗаполняем в формате Длина*Ширина*Высота см"
+key: external_dimensions
+type: text
+required: false
+collection: false
+option: {  }

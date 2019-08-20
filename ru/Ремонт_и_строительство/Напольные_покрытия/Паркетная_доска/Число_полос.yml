@@ -1,0 +1,12 @@
+caption: 'Число полос'
+unit: ''
+description: 'Выбрать из списка значений'
+key: number_of_bands
+type: option
+required: false
+collection: false
+option:
+    - Две
+    - Многополосный
+    - Одна
+    - Три

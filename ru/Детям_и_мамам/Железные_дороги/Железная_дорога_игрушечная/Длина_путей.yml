@@ -1,0 +1,8 @@
+caption: 'Длина путей'
+unit: см
+description: 'Суммарная длина железной дороги в сантиметрах. Указываем только число. '
+key: length_of_paths
+type: text
+required: false
+collection: false
+option: {  }

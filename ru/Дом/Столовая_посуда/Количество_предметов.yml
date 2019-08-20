@@ -1,0 +1,8 @@
+caption: 'Количество предметов'
+unit: ''
+description: "Укажите число предметов в наборе, комплекте или сервизе. \nУкажите только цифры!"
+key: number_of_items
+type: text
+required: false
+collection: false
+option: {  }

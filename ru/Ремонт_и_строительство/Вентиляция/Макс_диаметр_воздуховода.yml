@@ -1,0 +1,8 @@
+caption: 'Макс. диаметр воздуховода'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_diameter_of_duct
+type: text
+required: false
+collection: false
+option: {  }

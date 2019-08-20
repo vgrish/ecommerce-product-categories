@@ -1,0 +1,10 @@
+caption: Развивающие
+unit: ''
+description: ''
+key: educational
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

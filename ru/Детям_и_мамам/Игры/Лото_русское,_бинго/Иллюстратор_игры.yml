@@ -1,0 +1,8 @@
+caption: 'Иллюстратор игры'
+unit: ''
+description: ''
+key: illustrator_game
+type: text
+required: false
+collection: false
+option: {  }

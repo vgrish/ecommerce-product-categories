@@ -1,0 +1,10 @@
+caption: Раскрашиваемые
+unit: ''
+description: ''
+key: coloring
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

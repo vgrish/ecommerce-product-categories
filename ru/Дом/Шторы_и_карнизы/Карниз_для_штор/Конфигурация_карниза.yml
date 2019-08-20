@@ -1,0 +1,14 @@
+caption: 'Конфигурация карниза'
+unit: ''
+description: 'Выбрать из списка значений'
+key: configuration_of_cornice
+type: option
+required: false
+collection: false
+option:
+    - Асимметричный
+    - Гибкий
+    - Дуга
+    - Прямой
+    - Телескопический
+    - Угловой

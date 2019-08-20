@@ -1,0 +1,8 @@
+caption: 'В коробке'
+unit: шт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: in_box
+type: text
+required: false
+collection: false
+option: {  }

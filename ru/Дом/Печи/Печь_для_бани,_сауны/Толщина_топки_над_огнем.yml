@@ -1,0 +1,8 @@
+caption: 'Толщина топки над огнем'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: thickness_of_furnace_over_fire
+type: text
+required: false
+collection: false
+option: {  }

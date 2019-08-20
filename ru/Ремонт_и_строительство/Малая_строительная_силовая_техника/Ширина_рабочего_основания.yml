@@ -1,0 +1,8 @@
+caption: 'Ширина рабочего основания'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: width_of_working_base
+type: text
+required: false
+collection: false
+option: {  }

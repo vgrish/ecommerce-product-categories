@@ -1,0 +1,8 @@
+caption: КПД
+unit: '%'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: efficiency
+type: text
+required: false
+collection: false
+option: {  }

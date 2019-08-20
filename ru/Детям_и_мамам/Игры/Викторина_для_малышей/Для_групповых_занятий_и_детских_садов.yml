@@ -1,0 +1,10 @@
+caption: 'Для групповых занятий и детских садов'
+unit: ''
+description: ''
+key: for_group_classes_and_kindergartens
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

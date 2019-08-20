@@ -1,0 +1,10 @@
+caption: Таймер
+unit: ''
+description: ''
+key: timer
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

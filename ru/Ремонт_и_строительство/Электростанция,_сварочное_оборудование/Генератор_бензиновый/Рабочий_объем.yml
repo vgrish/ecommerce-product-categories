@@ -1,0 +1,8 @@
+caption: 'Рабочий объем'
+unit: см3
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: working_volume
+type: text
+required: false
+collection: false
+option: {  }

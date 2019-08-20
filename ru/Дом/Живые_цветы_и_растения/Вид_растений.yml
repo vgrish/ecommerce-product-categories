@@ -1,0 +1,18 @@
+caption: 'Вид растений'
+unit: ''
+description: 'Выбрать из списка значений'
+key: species_of_plants
+type: option
+required: false
+collection: false
+option:
+    - Бонсаи
+    - Вьющиеся
+    - Деревья
+    - 'Кактусы и суккуленты'
+    - Лиственные
+    - Насекомоядные
+    - Пальмы
+    - Плодоносящие
+    - Хвойные
+    - Цветущие

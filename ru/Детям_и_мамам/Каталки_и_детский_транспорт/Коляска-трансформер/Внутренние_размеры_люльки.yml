@@ -1,0 +1,8 @@
+caption: 'Внутренние размеры люльки'
+unit: см
+description: ''
+key: internal_dimensions_of_carrycot
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Дальность измерения'
+unit: м
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: measuring_range
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество монтажных отверстий'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_mounting_holes
+type: text
+required: false
+collection: false
+option: {  }

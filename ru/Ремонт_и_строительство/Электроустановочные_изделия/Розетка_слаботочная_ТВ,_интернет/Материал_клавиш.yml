@@ -1,0 +1,13 @@
+caption: 'Материал клавиш'
+unit: ''
+description: 'Выбрать из списка значений'
+key: material_keys
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Пластик
+    - Поликарбонат
+    - Полистирол
+    - 'Термопластик (TPU)'

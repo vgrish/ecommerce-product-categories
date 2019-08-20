@@ -1,0 +1,9 @@
+caption: 'Материал раковины'
+unit: ''
+description: 'Выбрать из списка значений'
+key: shell_material
+type: option
+required: false
+collection: true
+option:
+    - 'PLA пластик'

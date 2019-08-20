@@ -1,0 +1,15 @@
+caption: Жесткость
+unit: ''
+description: 'Выберите из списка жесткость'
+key: stiffness
+type: option
+required: false
+collection: true
+option:
+    - Жесткий
+    - Мягкий
+    - 'Очень жесткий'
+    - Переменный
+    - Полу-мягкий
+    - Средне-жесткий
+    - Средний

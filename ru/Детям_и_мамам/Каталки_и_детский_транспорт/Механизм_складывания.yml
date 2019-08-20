@@ -1,0 +1,12 @@
+caption: 'Механизм складывания'
+unit: ''
+description: ''
+key: folding_mechanism
+type: option
+required: false
+collection: false
+option:
+    - 'Зонтичная система'
+    - Книжка
+    - 'Раздвижной в стороны'
+    - Трость

@@ -1,0 +1,11 @@
+caption: 'Материал обивки'
+unit: ''
+description: ''
+key: upholstery_material
+type: option
+required: false
+collection: false
+option:
+    - Текстиль
+    - Текстиль/Эко-кожа
+    - Эко-кожа

@@ -1,0 +1,17 @@
+caption: 'Маркировка прочности'
+unit: ''
+description: 'Выбрать из списка значений'
+key: marking_strength
+type: option
+required: false
+collection: true
+option:
+    - М100
+    - М150
+    - М150/175
+    - М175
+    - М200
+    - М250
+    - М300
+    - М500
+    - М75/100

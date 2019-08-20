@@ -1,0 +1,16 @@
+caption: 'Материал линзы'
+unit: ''
+description: ''
+key: lens_material
+type: option
+required: false
+collection: true
+option:
+    - 'ABS пластик'
+    - Акрил
+    - 'Гипоаллергенный пластик'
+    - Пластик
+    - Поликарбонат
+    - Полимер
+    - Полистирол
+    - Стекло

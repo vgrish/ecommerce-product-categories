@@ -1,0 +1,8 @@
+caption: 'Макс. ширина ТВ'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_width_of_tv
+type: text
+required: false
+collection: false
+option: {  }

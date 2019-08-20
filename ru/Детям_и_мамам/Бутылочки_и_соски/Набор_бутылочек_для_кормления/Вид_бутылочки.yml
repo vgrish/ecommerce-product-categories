@@ -1,0 +1,12 @@
+caption: 'Вид бутылочки'
+unit: ''
+description: ''
+key: look_of_bottle
+type: option
+required: false
+collection: false
+option:
+    - 'Для воды'
+    - 'Для лекарств'
+    - 'Для молока'
+    - 'Для пюре и жидких каш'

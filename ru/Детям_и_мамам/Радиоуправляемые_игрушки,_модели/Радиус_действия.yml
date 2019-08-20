@@ -1,0 +1,8 @@
+caption: 'Радиус действия'
+unit: м
+description: 'Максимальный радиус действия в условиях открытого пространства в метрах'
+key: radius
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Коэффициент термоусадки'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: coefficient_of_heat_shrinkage
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Вид игральных карт'
+unit: ''
+description: ''
+key: form_of_playing_cards
+type: option
+required: false
+collection: true
+option:
+    - Игральные
+    - Коллекционные
+    - Набор
+    - Пасьянс
+    - Фокусы

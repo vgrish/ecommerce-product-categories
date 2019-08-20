@@ -1,0 +1,8 @@
+caption: 'Мин. сварочный ток'
+unit: А
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_welding_current
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,17 @@
+caption: Установка
+unit: ''
+description: 'Выбрать из списка значений'
+key: installation
+type: option
+required: false
+collection: true
+option:
+    - Вертикальный
+    - Встраиваемый
+    - Горизонтальный
+    - 'На бортик ванны'
+    - 'На потолок'
+    - 'На раковину'
+    - Напольный
+    - Наружный
+    - Настенный

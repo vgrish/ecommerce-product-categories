@@ -1,0 +1,11 @@
+caption: 'Вид кабеля'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_cable
+type: option
+required: false
+collection: false
+option:
+    - 'Двужильный экранированный'
+    - 'Нагревательная лента'
+    - 'Одножильный экранированный'

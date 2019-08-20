@@ -1,0 +1,8 @@
+caption: 'Толщина ленты'
+unit: мкм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: thickness_of_strip
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Размеры камеры сгорания (ГxШxВ)'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: size_of_combustion_chamber_ghsiv
+type: text
+required: false
+collection: false
+option: {  }

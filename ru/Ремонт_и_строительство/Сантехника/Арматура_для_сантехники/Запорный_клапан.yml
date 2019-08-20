@@ -1,0 +1,12 @@
+caption: 'Запорный клапан'
+unit: ''
+description: 'Выбрать из списка значений'
+key: shut_off_valve
+type: option
+required: false
+collection: false
+option:
+    - Металлокерамический
+    - 'С резиновой прокладкой'
+    - Шаровой
+    - Электромагнитный

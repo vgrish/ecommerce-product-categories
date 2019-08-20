@@ -1,0 +1,11 @@
+caption: Особенности
+unit: ''
+description: 'Присутствую ли какие-нибудь особенности в конструкции?'
+key: features
+type: option
+required: false
+collection: true
+option:
+    - 'Зажимы для фото'
+    - 'Поворотное основание'
+    - 'Электромагнитный подвес'

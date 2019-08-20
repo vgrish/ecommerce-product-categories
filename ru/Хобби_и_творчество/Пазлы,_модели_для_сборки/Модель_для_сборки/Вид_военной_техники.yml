@@ -1,0 +1,13 @@
+caption: 'Вид военной техники'
+unit: ''
+description: ''
+key: type_of_military_equipment
+type: option
+required: false
+collection: true
+option:
+    - 'Автомобили и бронетехника'
+    - Миниатюра
+    - 'Орудия и пулеметы'
+    - Солдаты
+    - 'Танки и ПТ САУ'

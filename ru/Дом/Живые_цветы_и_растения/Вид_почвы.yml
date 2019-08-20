@@ -1,0 +1,15 @@
+caption: 'Вид почвы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_soil
+type: option
+required: false
+collection: true
+option:
+    - 'Бурая лесная'
+    - Горная
+    - Каштановая
+    - Мерзлотная
+    - 'Серая лесная'
+    - Тундрово-глеевая
+    - Чернозем

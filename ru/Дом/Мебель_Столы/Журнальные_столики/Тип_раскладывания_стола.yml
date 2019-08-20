@@ -1,0 +1,12 @@
+caption: 'Тип раскладывания стола'
+unit: ''
+description: 'Выберите вид раскладывания'
+key: type_of_folding_table
+type: option
+required: false
+collection: true
+option:
+    - 'Зонтичная система'
+    - Книжка
+    - 'Раздвижной в стороны'
+    - Трость

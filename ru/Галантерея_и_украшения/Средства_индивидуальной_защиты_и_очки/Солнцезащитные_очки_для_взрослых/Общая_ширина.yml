@@ -1,0 +1,8 @@
+caption: 'Общая ширина'
+unit: мм
+description: ''
+key: overall_width
+type: text
+required: false
+collection: false
+option: {  }

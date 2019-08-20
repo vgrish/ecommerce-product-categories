@@ -1,0 +1,8 @@
+caption: 'Цвет фурнитуры'
+unit: ''
+description: ''
+key: hardware_color
+type: text
+required: false
+collection: false
+option: {  }

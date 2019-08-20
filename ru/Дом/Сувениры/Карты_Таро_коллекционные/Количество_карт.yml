@@ -1,0 +1,8 @@
+caption: 'Количество карт'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_cards
+type: text
+required: false
+collection: false
+option: {  }

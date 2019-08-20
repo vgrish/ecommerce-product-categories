@@ -1,0 +1,15 @@
+caption: 'Тип механизма'
+unit: ''
+description: 'Выбрать из списка значений'
+key: movement_type
+type: option
+required: false
+collection: true
+option:
+    - Дисковый
+    - Кодовый
+    - Магнитный
+    - Сувальдный
+    - Цилиндровый
+    - Электромеханический
+    - Электронный

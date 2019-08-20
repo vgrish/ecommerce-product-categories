@@ -1,0 +1,8 @@
+caption: 'Высота игрушки'
+unit: см
+description: 'Высота игрушки в ее естественном положении. Единица измерения -  сантиметры.'
+key: height_of_toys
+type: text
+required: false
+collection: false
+option: {  }

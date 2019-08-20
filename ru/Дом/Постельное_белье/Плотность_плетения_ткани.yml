@@ -1,0 +1,14 @@
+caption: 'Плотность плетения ткани'
+unit: ''
+description: 'Выберите из вариантов плотности плетения, качество ткани'
+key: density_of_weave_of_fabric
+type: option
+required: false
+collection: false
+option:
+    - Высокая
+    - 'Выше среднего'
+    - 'Ниже среднего'
+    - Низкая
+    - 'Очень высокая'
+    - Средняя

@@ -1,0 +1,17 @@
+caption: 'Модель ремня'
+unit: ''
+description: ''
+key: model_belt
+type: option
+required: false
+collection: true
+option:
+    - 'Двойной ремень'
+    - Оби
+    - 'Плетеный ремень'
+    - Пояс-корсет
+    - Пояс-цепочка
+    - Ремень-фолк
+    - 'Тройной ремень'
+    - 'Узкий ремень'
+    - 'Широкий ремень'

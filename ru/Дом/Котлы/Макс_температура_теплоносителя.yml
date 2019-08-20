@@ -1,0 +1,8 @@
+caption: 'Макс. температура теплоносителя'
+unit: °C
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_coolant_temperature
+type: text
+required: false
+collection: false
+option: {  }

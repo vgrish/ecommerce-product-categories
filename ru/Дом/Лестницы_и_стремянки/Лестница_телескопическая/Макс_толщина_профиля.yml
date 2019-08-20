@@ -1,0 +1,8 @@
+caption: 'Макс. толщина профиля'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_thickness_of_profile
+type: text
+required: false
+collection: false
+option: {  }

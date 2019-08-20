@@ -1,0 +1,11 @@
+caption: 'Принцип работы'
+unit: ''
+description: ''
+key: principle_of_operation
+type: option
+required: false
+collection: false
+option:
+    - Двухфазный
+    - Однофазный
+    - Четырехфазный

@@ -1,0 +1,8 @@
+caption: 'Расход газа'
+unit: г/час
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: gas_consumption
+type: text
+required: false
+collection: false
+option: {  }

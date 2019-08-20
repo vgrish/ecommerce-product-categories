@@ -1,0 +1,11 @@
+caption: 'Конструкция решетки'
+unit: ''
+description: ''
+key: grid_design
+type: option
+required: false
+collection: false
+option:
+    - Глухая
+    - Раздвижная
+    - Распашная

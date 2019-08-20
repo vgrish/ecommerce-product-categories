@@ -1,0 +1,8 @@
+caption: 'Сила сцепления'
+unit: кг
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: adhesive_force
+type: text
+required: false
+collection: false
+option: {  }

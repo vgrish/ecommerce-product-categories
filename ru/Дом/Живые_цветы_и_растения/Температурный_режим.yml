@@ -1,0 +1,12 @@
+caption: 'Температурный режим'
+unit: ''
+description: 'Выбрать из списка значений'
+key: temperature_mode
+type: option
+required: false
+collection: false
+option:
+    - 'Адаптировано к жаре'
+    - 'Комнатная температура'
+    - Морозоустойчиво
+    - 'Необходимо утепление'

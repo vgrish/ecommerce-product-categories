@@ -1,0 +1,8 @@
+caption: 'Тепловая мощность'
+unit: кВт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: thermal_power
+type: text
+required: false
+collection: false
+option: {  }

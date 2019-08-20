@@ -1,0 +1,15 @@
+caption: 'Вместимость бутылочек'
+unit: шт
+description: ''
+key: capacity_of_bottles
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '9'

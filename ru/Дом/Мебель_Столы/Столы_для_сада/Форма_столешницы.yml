@@ -1,0 +1,18 @@
+caption: 'Форма столешницы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: shape_of_countertop
+type: option
+required: false
+collection: false
+option:
+    - Дорожка
+    - Квадрат
+    - Круг
+    - Нестандартная
+    - Овал
+    - Полукруг
+    - Прямоугольник
+    - Сердечко
+    - Треугольник
+    - 'Четверть круга'

@@ -1,0 +1,8 @@
+caption: Глубина
+unit: см
+description: "Укажите глубину в сантиметрах.\nТолько цифры!"
+key: depth
+type: text
+required: false
+collection: false
+option: {  }

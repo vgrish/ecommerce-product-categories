@@ -1,0 +1,13 @@
+caption: Зернистость
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: grit
+type: option
+required: false
+collection: false
+option:
+    - Живописный
+    - Крупнозернистый
+    - Мелкозернистый
+    - Репинский
+    - Среднезернистый

@@ -1,0 +1,8 @@
+caption: Адгезия
+unit: МПа
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: adhesion
+type: text
+required: false
+collection: false
+option: {  }

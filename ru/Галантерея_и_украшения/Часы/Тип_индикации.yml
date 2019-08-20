@@ -1,0 +1,13 @@
+caption: 'Тип индикации'
+unit: ''
+description: ''
+key: type_of_display
+type: option
+required: false
+collection: false
+option:
+    - 'Арабские цифры'
+    - 'Без отметок'
+    - Отметки
+    - 'Римские цифры'
+    - 'Цифры + отметки'

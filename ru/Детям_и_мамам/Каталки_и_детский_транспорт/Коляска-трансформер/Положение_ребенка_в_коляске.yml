@@ -1,0 +1,11 @@
+caption: 'Положение ребенка в коляске'
+unit: ''
+description: 'Горизонтальное, вертикальное или регулируемое.'
+key: position_of_baby_in_stroller
+type: option
+required: false
+collection: true
+option:
+    - Лежачее
+    - Регулируемое
+    - Сидячее

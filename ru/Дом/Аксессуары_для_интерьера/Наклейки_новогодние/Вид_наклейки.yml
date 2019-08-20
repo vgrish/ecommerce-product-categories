@@ -1,0 +1,13 @@
+caption: 'Вид наклейки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: sticker
+type: option
+required: false
+collection: false
+option:
+    - Декоративная
+    - Игра
+    - Развивающая
+    - Раскраска
+    - Ростомер

@@ -1,0 +1,14 @@
+caption: 'Вид стекла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_glass
+type: option
+required: false
+collection: true
+option:
+    - Витраж
+    - Матовое
+    - Прозрачное
+    - Рифленое
+    - Тонированное
+    - Узорчатое

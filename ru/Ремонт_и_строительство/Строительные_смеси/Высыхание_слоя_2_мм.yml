@@ -1,0 +1,8 @@
+caption: 'Высыхание слоя 2 мм'
+unit: ч
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: drying_of_layer_2_mm
+type: text
+required: false
+collection: false
+option: {  }

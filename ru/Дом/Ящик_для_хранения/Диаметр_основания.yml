@@ -1,0 +1,8 @@
+caption: 'Диаметр основания'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: base_diameter
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Режимы укачивания'
+unit: ''
+description: ''
+key: modes_of_motion_sickness
+type: option
+required: false
+collection: true
+option:
+    - Вверх/вниз
+    - Вибрация
+    - 'Из стороны в сторону'
+    - Классический
+    - Комбинированный

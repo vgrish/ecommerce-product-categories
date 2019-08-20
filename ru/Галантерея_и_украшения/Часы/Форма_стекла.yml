@@ -1,0 +1,10 @@
+caption: 'Форма стекла'
+unit: ''
+description: ''
+key: shape_of_glass
+type: option
+required: false
+collection: false
+option:
+    - Плоское
+    - Сферическое

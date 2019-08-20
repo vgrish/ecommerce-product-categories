@@ -1,0 +1,8 @@
+caption: 'Макс. нагрузка на один снаряд'
+unit: кг
+description: "Атрибут заполняется только для спортивных комплексов.\nУказываем нагрузку на снаряд с минимальной разрешенной массой."
+key: max_load_one_shell
+type: text
+required: false
+collection: false
+option: {  }

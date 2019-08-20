@@ -1,0 +1,8 @@
+caption: 'Радиус действия на открытом пространстве'
+unit: м
+description: ''
+key: range_in_open_space
+type: text
+required: false
+collection: false
+option: {  }

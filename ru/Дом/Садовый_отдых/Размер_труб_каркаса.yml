@@ -1,0 +1,8 @@
+caption: 'Размер труб каркаса'
+unit: мм
+description: "Укажите размер труб каркаса или основания в миллиметрах.\nТолько цифры!"
+key: size_of_frame_tubes
+type: text
+required: false
+collection: false
+option: {  }

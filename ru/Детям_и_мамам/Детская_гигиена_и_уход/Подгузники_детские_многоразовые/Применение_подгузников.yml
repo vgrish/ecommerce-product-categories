@@ -1,0 +1,11 @@
+caption: 'Применение подгузников'
+unit: ''
+description: ''
+key: use_of_diapers
+type: option
+required: false
+collection: true
+option:
+    - 'Для плавания'
+    - 'Для чувствительной кожи'
+    - Ночные

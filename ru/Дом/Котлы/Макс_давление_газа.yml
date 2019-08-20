@@ -1,0 +1,8 @@
+caption: 'Макс. давление газа'
+unit: Па
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_gas_pressure
+type: text
+required: false
+collection: false
+option: {  }

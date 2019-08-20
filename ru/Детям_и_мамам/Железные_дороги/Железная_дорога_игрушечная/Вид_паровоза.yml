@@ -1,0 +1,11 @@
+caption: 'Вид паровоза'
+unit: ''
+description: 'С помощью какой силы движется паровозик, - электричество, инерция или его можно просто катать. '
+key: view_of_engine
+type: option
+required: false
+collection: false
+option:
+    - 'Без мотора'
+    - Инерционный
+    - Электрический

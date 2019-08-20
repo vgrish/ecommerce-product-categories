@@ -1,0 +1,14 @@
+caption: 'Вес ребенка нормированный'
+unit: ''
+description: "Диапазоны весов, которым соответствует конкретный артикул.\nИспользуется в фильтрации на сайте."
+key: childs_weight_is_normalized
+type: option
+required: false
+collection: true
+option:
+    - '0-5 кг'
+    - '6-10 кг'
+    - '11-15 кг'
+    - '13-17 кг'
+    - '16-20 кг'
+    - '21-30 кг'

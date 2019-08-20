@@ -1,0 +1,13 @@
+caption: 'Режим стирки'
+unit: ''
+description: 'Выберите из списка режим стирки, подходящий для вещи'
+key: washing_mode
+type: option
+required: false
+collection: false
+option:
+    - 'Деликатная стирка'
+    - 'При 30 градусах'
+    - 'При 40 градусах'
+    - 'При 60 градусах'
+    - 'Ручная стирка'

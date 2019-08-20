@@ -1,0 +1,8 @@
+caption: Толщина
+unit: мм
+description: 'Необходимо указать значение без единицы измерения.'
+key: thickness
+type: float
+required: false
+collection: false
+option: {  }

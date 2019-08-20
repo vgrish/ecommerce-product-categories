@@ -1,0 +1,18 @@
+caption: 'Стиль часов'
+unit: ''
+description: ''
+key: clock_style
+type: option
+required: false
+collection: true
+option:
+    - Hi-Tech
+    - Ампир
+    - Барокко
+    - Дизельпанк
+    - Кантри
+    - Модерн
+    - Ретро
+    - Рококо
+    - Техно
+    - Футуризм

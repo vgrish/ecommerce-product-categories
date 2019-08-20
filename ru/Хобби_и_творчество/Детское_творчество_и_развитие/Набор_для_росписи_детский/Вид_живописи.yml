@@ -1,0 +1,16 @@
+caption: 'Вид живописи'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: look_of_a_painting
+type: option
+required: false
+collection: true
+option:
+    - Акварель
+    - Витраж
+    - Графика
+    - Граффити
+    - Живопись
+    - Золочение
+    - Каллиграфия
+    - Пастель

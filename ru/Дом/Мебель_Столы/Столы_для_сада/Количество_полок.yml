@@ -1,0 +1,8 @@
+caption: 'Количество полок'
+unit: ''
+description: 'Укажите число открытых полок. Если полок нет - не заполняйте, не ставьте "0", не пишите "нет"'
+key: number_of_shelves
+type: text
+required: false
+collection: false
+option: {  }

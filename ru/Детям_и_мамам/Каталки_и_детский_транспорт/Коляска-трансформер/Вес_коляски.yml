@@ -1,0 +1,8 @@
+caption: 'Вес коляски'
+unit: кг
+description: "Вес коляски с установленным модулем и сумкой, в случае ее наличия, без ребенка. Коляска в режиме эксплуатации. \nТолько число без единиц измерения"
+key: weight_stroller
+type: text
+required: false
+collection: false
+option: {  }

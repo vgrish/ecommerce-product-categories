@@ -1,0 +1,11 @@
+caption: 'Вид подставки'
+unit: ''
+description: 'Выберите вид подставки'
+key: view_stand
+type: option
+required: false
+collection: false
+option:
+    - Крестовина
+    - Мешочек
+    - Тренога

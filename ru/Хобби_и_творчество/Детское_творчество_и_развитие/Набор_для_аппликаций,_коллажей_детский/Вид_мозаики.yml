@@ -1,0 +1,10 @@
+caption: 'Вид мозаики'
+unit: ''
+description: ''
+key: form_of_a_mosaic
+type: option
+required: false
+collection: true
+option:
+    - Классическая
+    - 'По номерам'

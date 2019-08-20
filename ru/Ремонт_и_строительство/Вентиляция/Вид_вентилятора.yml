@@ -1,0 +1,10 @@
+caption: 'Вид вентилятора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: kind_of_fan
+type: option
+required: false
+collection: false
+option:
+    - Вытяжной
+    - Нагнетающий

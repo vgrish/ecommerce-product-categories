@@ -1,0 +1,16 @@
+caption: 'Вид спецтехники'
+unit: ''
+description: ''
+key: type_of_machinery
+type: option
+required: false
+collection: true
+option:
+    - Автовышка
+    - Грузовик
+    - Комбайн
+    - Кран
+    - Прицеп
+    - Трактор
+    - Тягач
+    - Экскаватор

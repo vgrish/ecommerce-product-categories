@@ -1,0 +1,13 @@
+caption: 'Назначение стелек'
+unit: ''
+description: ''
+key: purpose_insoles
+type: option
+required: false
+collection: false
+option:
+    - 'Для бега'
+    - Классические
+    - Лыжи
+    - Ортопедические
+    - Туризм

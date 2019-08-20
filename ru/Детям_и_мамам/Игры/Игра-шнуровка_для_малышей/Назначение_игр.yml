@@ -1,0 +1,14 @@
+caption: 'Назначение игр'
+unit: ''
+description: ''
+key: purpose_of_games
+type: option
+required: false
+collection: true
+option:
+    - 'В дорогу'
+    - 'В подарок'
+    - 'Для всей семьи'
+    - 'Для двоих'
+    - 'Для компании'
+    - 'Для фокусов'

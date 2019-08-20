@@ -1,0 +1,14 @@
+caption: 'Вид распылителя'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_atomizer
+type: option
+required: false
+collection: false
+option:
+    - Вращающийся
+    - Дождеватель
+    - Импульсный
+    - Осцилирующий
+    - Спринклерный
+    - Стационарный

@@ -1,0 +1,8 @@
+caption: Плотность
+unit: кг/м3
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: density
+type: text
+required: false
+collection: false
+option: {  }

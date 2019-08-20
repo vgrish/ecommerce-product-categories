@@ -1,0 +1,8 @@
+caption: 'Высота спинки'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: backrest_height
+type: text
+required: false
+collection: false
+option: {  }

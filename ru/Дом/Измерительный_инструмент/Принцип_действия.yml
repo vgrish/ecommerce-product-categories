@@ -1,0 +1,12 @@
+caption: 'Принцип действия'
+unit: ''
+description: 'Выбрать из списка значений'
+key: principle_of_operation
+type: option
+required: false
+collection: false
+option:
+    - Диэлькометрический
+    - Лазерный
+    - Оптический
+    - Ультразвуковой

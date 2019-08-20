@@ -1,0 +1,11 @@
+caption: Прихотливость
+unit: ''
+description: 'Выбрать из списка значений'
+key: whimsical
+type: option
+required: false
+collection: false
+option:
+    - 'Легкий уход'
+    - Прихотливый
+    - 'Средний уход'

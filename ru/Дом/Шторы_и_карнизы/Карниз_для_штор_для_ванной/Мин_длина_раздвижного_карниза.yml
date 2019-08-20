@@ -1,0 +1,8 @@
+caption: 'Мин. длина раздвижного карниза'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_length_sliding_ledge
+type: text
+required: false
+collection: false
+option: {  }

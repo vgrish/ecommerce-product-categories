@@ -1,0 +1,11 @@
+caption: Управление
+unit: ''
+description: ''
+key: management
+type: option
+required: false
+collection: false
+option:
+    - 'Без пульта'
+    - 'Пульт ДУ(проводной)'
+    - 'Пульт ДУ(радио)'

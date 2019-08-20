@@ -1,0 +1,11 @@
+caption: Крыло
+unit: ''
+description: 'Выбрать из списка значений'
+key: wing
+type: option
+required: false
+collection: true
+option:
+    - Левое
+    - Оборачиваемое
+    - Правое

@@ -1,0 +1,8 @@
+caption: 'Высота сиденья'
+unit: см
+description: "Укажите максимальную или стандартную высоту (если не регулируется по высоте) сиденья. В сантиметрах.\nУкажите только цифры!"
+key: seat_height
+type: text
+required: false
+collection: false
+option: {  }

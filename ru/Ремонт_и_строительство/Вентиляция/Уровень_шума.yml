@@ -1,0 +1,8 @@
+caption: 'Уровень шума'
+unit: 'дБ (А)'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: noise
+type: text
+required: false
+collection: false
+option: {  }

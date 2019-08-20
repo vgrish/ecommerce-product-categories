@@ -1,0 +1,15 @@
+caption: 'Тип крепления'
+unit: ''
+description: 'Способ фиксации автокресла'
+key: mounting_type
+type: option
+required: false
+collection: true
+option:
+    - Isofix
+    - 'Isofix с базой'
+    - Latch
+    - 'К базе (опционально)'
+    - 'Упор в пол'
+    - 'Штатный ремень автомобиля'
+    - Якорь

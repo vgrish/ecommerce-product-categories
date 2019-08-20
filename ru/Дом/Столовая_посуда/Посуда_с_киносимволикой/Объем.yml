@@ -1,0 +1,8 @@
+caption: Объем
+unit: мл
+description: "Укажите объем в миллилитрах.\nТолько цифры!"
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Максимальный рост ребенка'
+unit: см
+description: 'Для какого максимально допустимого роста ребенка рекомендован. Единица измерения - сантиметры.'
+key: max_height_of_child
+type: text
+required: false
+collection: false
+option: {  }

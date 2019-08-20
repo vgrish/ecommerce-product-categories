@@ -1,0 +1,10 @@
+caption: 'Вид добора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_transoms
+type: option
+required: false
+collection: true
+option:
+    - Стандартный
+    - Телескопический

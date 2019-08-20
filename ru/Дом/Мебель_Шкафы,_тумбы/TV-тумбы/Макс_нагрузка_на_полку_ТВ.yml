@@ -1,0 +1,8 @@
+caption: 'Макс. нагрузка на полку ТВ'
+unit: кг
+description: "Укажите максимальную расчетную нагрузку.\nТолько цифры!"
+key: max_load__shelf_tv
+type: text
+required: false
+collection: false
+option: {  }

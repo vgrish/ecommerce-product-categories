@@ -1,0 +1,8 @@
+caption: 'Толщина стенок'
+unit: мм
+description: 'Укажите толщину стенок изделия в миллиметрах'
+key: thickness_of_walls
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: ВозрастДетей
+unit: ''
+description: ''
+key: vozrastala
+type: option
+required: false
+collection: false
+option:
+    - '1.5-5 лет'
+    - '1-6 мес.'
+    - '6-18 мес.'

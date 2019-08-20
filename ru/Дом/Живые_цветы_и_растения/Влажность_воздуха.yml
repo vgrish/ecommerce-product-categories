@@ -1,0 +1,11 @@
+caption: 'Влажность воздуха'
+unit: ''
+description: 'Выбрать из списка значений'
+key: humidity
+type: option
+required: false
+collection: false
+option:
+    - Высокая
+    - Низкая
+    - Умеренная

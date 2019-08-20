@@ -1,0 +1,8 @@
+caption: Покрытие
+unit: ''
+description: 'Нужно указать какое покрытие у товара. Например: Хром'
+key: coating
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Объем бутылочки'
+unit: мл
+description: ''
+key: amount_of_bottles
+type: text
+required: false
+collection: false
+option: {  }

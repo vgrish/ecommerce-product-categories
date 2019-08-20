@@ -1,0 +1,8 @@
+caption: 'Макс. вес на спальное место'
+unit: кг
+description: "Укажите весовое ограничение. \nТолько цифры!"
+key: max_weight_on_bed
+type: text
+required: false
+collection: false
+option: {  }

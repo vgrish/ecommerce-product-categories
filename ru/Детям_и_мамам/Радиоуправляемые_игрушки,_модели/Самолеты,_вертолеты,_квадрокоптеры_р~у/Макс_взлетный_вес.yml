@@ -1,0 +1,8 @@
+caption: 'Макс. взлетный вес'
+unit: г
+description: ''
+key: max_takeoff_weight
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: Теплоноситель
+unit: ''
+description: ''
+key: coolant
+type: option
+required: false
+collection: false
+option:
+    - Вода
+    - Глицерин
+    - Пропиленгликоль
+    - Этиленгликоль

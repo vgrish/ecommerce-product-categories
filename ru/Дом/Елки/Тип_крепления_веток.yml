@@ -1,0 +1,11 @@
+caption: 'Тип крепления веток'
+unit: ''
+description: 'Выберите вид крепления веток искусственной ёлки'
+key: mounting_type_branches
+type: option
+required: false
+collection: true
+option:
+    - 'Крепление в пазы'
+    - 'На шарнирах'
+    - 'Прикреплены к стволу'

@@ -1,0 +1,8 @@
+caption: 'Макс. толщина слоя'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_layer_thickness
+type: text
+required: false
+collection: false
+option: {  }

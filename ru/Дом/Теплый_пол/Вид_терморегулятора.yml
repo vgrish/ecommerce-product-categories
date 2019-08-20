@@ -1,0 +1,15 @@
+caption: 'Вид терморегулятора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_thermostat
+type: option
+required: false
+collection: false
+option:
+    - 'Датчик движения'
+    - 'Датчик звуков'
+    - 'Датчик освещения'
+    - Механический
+    - Сенсорный
+    - Фотоэлектрический
+    - Электронный

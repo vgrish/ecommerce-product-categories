@@ -1,0 +1,8 @@
+caption: 'Размер модуля'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: module_size
+type: text
+required: false
+collection: false
+option: {  }

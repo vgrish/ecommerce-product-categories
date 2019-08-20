@@ -1,0 +1,8 @@
+caption: 'Мин. температура в контуре ГВС'
+unit: °C
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_temperature_in_dhw_circuit
+type: text
+required: false
+collection: false
+option: {  }

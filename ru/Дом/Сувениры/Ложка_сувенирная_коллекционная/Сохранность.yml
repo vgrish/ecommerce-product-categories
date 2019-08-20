@@ -1,0 +1,17 @@
+caption: Сохранность
+unit: ''
+description: 'Выберите из списка степень сохранности'
+key: safety
+type: option
+required: false
+collection: false
+option:
+    - 'Almost/About Uncirculated (AU) / Почти превосходная'
+    - 'Extremely Fine (XF) / Отличная'
+    - 'Fine (F) / Хорошая'
+    - 'Good (G) / неудовлетворительная'
+    - 'Proof (PF) / Полированная'
+    - 'Proof-like (PL) / Некоторые элементы с зеркальным блеском'
+    - 'Uncirculated (UNC) / Превосходная'
+    - 'Very Fine (VF) / Очень хорошая'
+    - 'Very Good (VG) / Удовлетворительная'

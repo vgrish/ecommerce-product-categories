@@ -1,0 +1,8 @@
+caption: Размер
+unit: см
+description: ''
+key: size
+type: text
+required: false
+collection: false
+option: {  }

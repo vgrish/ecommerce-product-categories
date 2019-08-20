@@ -1,0 +1,10 @@
+caption: 'Наличие подставки под утюг'
+unit: ''
+description: 'Выбрать из списка значений'
+key: presence_of_supports_for_iron
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

@@ -1,0 +1,14 @@
+caption: 'Покрытие фасада'
+unit: ''
+description: 'Выбрать из списка значений'
+key: coating_of_facade
+type: option
+required: false
+collection: true
+option:
+    - Антибактериальное
+    - Зеркальное
+    - Лакированное
+    - Ламинированное
+    - Матовое
+    - Эмалевое

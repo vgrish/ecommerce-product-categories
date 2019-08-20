@@ -1,0 +1,10 @@
+caption: 'Цвет ниток'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: color_of_thread
+type: option
+required: false
+collection: false
+option:
+    - Многоцветный
+    - Однотонный

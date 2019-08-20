@@ -1,0 +1,12 @@
+caption: 'Скорость потока'
+unit: ''
+description: ''
+key: flow_rate
+type: option
+required: false
+collection: false
+option:
+    - Быстрая
+    - Медленная
+    - Переменная
+    - Средняя

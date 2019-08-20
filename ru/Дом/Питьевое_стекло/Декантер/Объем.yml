@@ -1,0 +1,8 @@
+caption: Объем
+unit: ''
+description: 'Объем. Укажите только цифры!'
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

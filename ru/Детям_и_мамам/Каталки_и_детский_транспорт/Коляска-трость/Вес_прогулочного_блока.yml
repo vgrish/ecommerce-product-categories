@@ -1,0 +1,8 @@
+caption: 'Вес прогулочного блока'
+unit: кг
+description: 'Только число без единиц измерения'
+key: weight_seat_unit
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Толщина внутреннего листа стали'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: thickness_of_interior_sheet_steel
+type: text
+required: false
+collection: false
+option: {  }

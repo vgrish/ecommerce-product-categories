@@ -1,0 +1,12 @@
+caption: Регулировки
+unit: ''
+description: 'Если есть настройка тона, темпа, тембра или громкости.'
+key: adjustment
+type: option
+required: false
+collection: true
+option:
+    - Громкость
+    - Ритм
+    - Тембр
+    - Темп

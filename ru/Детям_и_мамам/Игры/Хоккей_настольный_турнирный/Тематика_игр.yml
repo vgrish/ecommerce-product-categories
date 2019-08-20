@@ -1,0 +1,12 @@
+caption: 'Тематика игр'
+unit: ''
+description: ''
+key: theme_of_games
+type: option
+required: false
+collection: true
+option:
+    - Бизнес
+    - Детективы
+    - Мультфильмы
+    - Советские

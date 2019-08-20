@@ -1,0 +1,10 @@
+caption: 'Вид камеры сгорания'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_combustion_chamber
+type: option
+required: false
+collection: false
+option:
+    - Закрытая
+    - Открытая

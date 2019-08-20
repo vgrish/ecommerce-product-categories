@@ -1,0 +1,14 @@
+caption: 'Типоразмер батареек пульта'
+unit: ''
+description: 'Формфактор батарей или аккумуляторов для питания пульта.'
+key: size_of_batteries_in_remote_control
+type: option
+required: false
+collection: false
+option:
+    - '"Крона" (6LR61)'
+    - AA
+    - 'AAA (LR03)'
+    - CR2032
+    - 'LR44 (V13GA, AG13, LR1154)'
+    - Оригинальный

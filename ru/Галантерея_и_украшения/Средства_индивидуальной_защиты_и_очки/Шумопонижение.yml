@@ -1,0 +1,8 @@
+caption: Шумопонижение
+unit: ''
+description: ''
+key: noise_reduction
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Год издания'
+unit: ''
+description: 'Укажите год издания диска (не самого музыкального произведения!)'
+key: year
+type: text
+required: false
+collection: false
+option: {  }

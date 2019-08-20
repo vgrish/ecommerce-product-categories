@@ -1,0 +1,8 @@
+caption: 'Обхват талии'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: waist
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: Основа
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: basis
+type: option
+required: false
+collection: false
+option:
+    - 'Без основы'
+    - Картон
+    - МДФ
+    - Подрамник

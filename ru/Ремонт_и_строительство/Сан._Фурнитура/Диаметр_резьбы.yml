@@ -1,0 +1,8 @@
+caption: 'Диаметр резьбы'
+unit: ''
+description: 'Нужно указать диаметр резьбы, например: 1 1\2"'
+key: thread_diameter
+type: text
+required: false
+collection: false
+option: {  }

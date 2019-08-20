@@ -1,0 +1,8 @@
+caption: 'Мин. высота сиденья'
+unit: см
+description: "Укажите минимальную (если  регулируется по высоте) сиденья. В сантиметрах.\nУкажите только цифры!"
+key: min_seat_height
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Ширина горлышка'
+unit: ''
+description: ''
+key: width_of_neck
+type: option
+required: false
+collection: false
+option:
+    - Стандартное
+    - Узкое
+    - Широкое

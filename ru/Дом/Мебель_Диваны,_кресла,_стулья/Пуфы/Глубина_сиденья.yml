@@ -1,0 +1,8 @@
+caption: 'Глубина сиденья'
+unit: см
+description: "Укажите глубину сиденья. В сантиметрах.\nТолько цифры!"
+key: seat_depth
+type: text
+required: false
+collection: false
+option: {  }

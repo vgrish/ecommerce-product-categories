@@ -1,0 +1,25 @@
+caption: 'Количество элементов'
+unit: шт
+description: ''
+key: number_of_elements
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - '9'
+    - '10'
+    - '12'
+    - '14'
+    - '15'
+    - '17'
+    - '24'
+    - '35'
+    - '36'

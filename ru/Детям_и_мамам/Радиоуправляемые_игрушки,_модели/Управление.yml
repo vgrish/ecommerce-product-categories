@@ -1,0 +1,13 @@
+caption: Управление
+unit: ''
+description: 'Возможности управления игрушкой.'
+key: management
+type: option
+required: false
+collection: true
+option:
+    - 'Пульт Д/У'
+    - 'Устройство Android'
+    - 'Устройство Android/iOS'
+    - 'Устройство Android/iOS/Windows Phone'
+    - 'Устройство iOS'

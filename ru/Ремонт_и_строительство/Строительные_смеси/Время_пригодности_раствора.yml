@@ -1,0 +1,8 @@
+caption: 'Время пригодности раствора'
+unit: ч
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: time_suitability_of_solution
+type: text
+required: false
+collection: false
+option: {  }

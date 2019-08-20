@@ -1,0 +1,10 @@
+caption: 'Тип ригелей'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_crossbars
+type: option
+required: false
+collection: true
+option:
+    - Круглый
+    - Прямоугольный

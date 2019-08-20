@@ -1,0 +1,8 @@
+caption: 'Толщина внешнего листа стали'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: thickness_of_outer_steel_sheet
+type: text
+required: false
+collection: false
+option: {  }

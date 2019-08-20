@@ -1,0 +1,8 @@
+caption: 'Ширина траншеи'
+unit: мм
+description: 'Записывается только число'
+key: width_of_trench
+type: text
+required: false
+collection: false
+option: {  }

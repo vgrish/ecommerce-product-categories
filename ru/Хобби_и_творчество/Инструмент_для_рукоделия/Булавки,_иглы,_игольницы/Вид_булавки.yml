@@ -1,0 +1,13 @@
+caption: 'Вид булавки'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: form_of_pins
+type: option
+required: false
+collection: true
+option:
+    - Английская
+    - Декоративная
+    - Петлесъемная
+    - Портновская
+    - Пришивная

@@ -1,0 +1,8 @@
+caption: Производительность
+unit: г/мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: performance
+type: text
+required: false
+collection: false
+option: {  }

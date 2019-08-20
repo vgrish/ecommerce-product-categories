@@ -1,0 +1,17 @@
+caption: 'Подключение газопровода'
+unit: ''
+description: 'Выбрать из списка значений'
+key: connection_of_gas_pipeline
+type: option
+required: false
+collection: true
+option:
+    - '1 1/2"'
+    - '1 1/4"'
+    - '1"'
+    - '1/2"'
+    - '1/4"'
+    - '2"'
+    - '3/4"'
+    - '3/8"'
+    - '5/8"'

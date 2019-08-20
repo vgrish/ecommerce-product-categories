@@ -1,0 +1,12 @@
+caption: 'Вид подогревателя'
+unit: ''
+description: ''
+key: kind_of_heater
+type: option
+required: false
+collection: false
+option:
+    - Автомобильный
+    - Термоконтейнер
+    - Термос
+    - Электрический

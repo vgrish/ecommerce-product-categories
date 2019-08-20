@@ -1,0 +1,8 @@
+caption: 'Высота первой шторы'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height_of_first_curtain
+type: text
+required: false
+collection: false
+option: {  }

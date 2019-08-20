@@ -1,0 +1,13 @@
+caption: 'Вид кукольного театра'
+unit: ''
+description: ''
+key: kind_of_puppet_theater
+type: option
+required: false
+collection: true
+option:
+    - Марионетки
+    - 'На магнитах'
+    - 'На руку'
+    - Настольные
+    - Пальчиковые

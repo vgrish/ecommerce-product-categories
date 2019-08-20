@@ -1,0 +1,8 @@
+caption: 'Прочность на сжатие'
+unit: МПа
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: compressive_strength
+type: text
+required: false
+collection: false
+option: {  }

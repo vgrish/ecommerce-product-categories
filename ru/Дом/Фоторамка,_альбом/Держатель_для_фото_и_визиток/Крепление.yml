@@ -1,0 +1,15 @@
+caption: Крепление
+unit: ''
+description: 'Выберите из списка способ крепления'
+key: mount
+type: option
+required: false
+collection: false
+option:
+    - Заклепки
+    - Защелки
+    - Клеевой
+    - Кольца
+    - Скрепки
+    - 'Спираль и гребень'
+    - Сшитый

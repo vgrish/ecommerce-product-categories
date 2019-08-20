@@ -1,0 +1,13 @@
+caption: Водонепроницаемость
+unit: ''
+description: ''
+key: water_resistant
+type: option
+required: false
+collection: false
+option:
+    - '3 Bar'
+    - '5 Bar'
+    - '10 Bar'
+    - '20 Bar'
+    - '100 Bar'

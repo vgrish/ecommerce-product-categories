@@ -1,0 +1,12 @@
+caption: 'Вид авиамодели'
+unit: ''
+description: ''
+key: view_model_aircraft
+type: option
+required: false
+collection: true
+option:
+    - Вертолет
+    - Дирижабль
+    - Планер
+    - Самолет

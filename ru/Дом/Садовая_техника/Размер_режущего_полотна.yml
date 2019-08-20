@@ -1,0 +1,8 @@
+caption: 'Размер режущего полотна'
+unit: см
+description: 'Записывается только число'
+key: size_of_blades
+type: text
+required: false
+collection: false
+option: {  }

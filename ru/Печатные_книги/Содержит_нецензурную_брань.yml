@@ -1,0 +1,8 @@
+caption: 'Содержит нецензурную брань'
+unit: ''
+description: 'Заполняется в обязательном порядке для книг, музыки и фильмов, в тексте которых есть нецензурная брань'
+key: contains_swearing
+type: bool
+required: false
+collection: false
+option: {  }

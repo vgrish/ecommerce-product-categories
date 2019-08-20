@@ -1,0 +1,8 @@
+caption: 'Тип замка'
+unit: ''
+description: ''
+key: lock_type
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Напряжение холостого хода'
+unit: В
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: open_circuit_voltage
+type: text
+required: false
+collection: false
+option: {  }

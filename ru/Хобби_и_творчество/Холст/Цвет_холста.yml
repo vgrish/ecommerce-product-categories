@@ -1,0 +1,14 @@
+caption: 'Цвет холста'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: color_of_canvas
+type: option
+required: false
+collection: false
+option:
+    - Белый
+    - Охра
+    - Светло-серый
+    - Серый
+    - Умбра
+    - Черный

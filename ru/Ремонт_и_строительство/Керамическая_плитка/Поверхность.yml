@@ -1,0 +1,14 @@
+caption: Поверхность
+unit: ''
+description: 'Выбрать из списка значений'
+key: surface
+type: option
+required: false
+collection: true
+option:
+    - Глянцевая
+    - Лапатированная
+    - Матовая
+    - Неполированная
+    - Полированная
+    - Структурированная

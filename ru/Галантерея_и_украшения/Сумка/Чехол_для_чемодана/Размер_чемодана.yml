@@ -1,0 +1,11 @@
+caption: 'Размер чемодана'
+unit: ''
+description: ''
+key: size_of_suitcase
+type: option
+required: false
+collection: false
+option:
+    - 'L (70-100 см)'
+    - 'M (55-70 см)'
+    - 'S (до 55 см)'

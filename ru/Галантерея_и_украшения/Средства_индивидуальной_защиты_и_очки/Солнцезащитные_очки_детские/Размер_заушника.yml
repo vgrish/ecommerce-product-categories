@@ -1,0 +1,8 @@
+caption: 'Размер заушника'
+unit: мм
+description: ''
+key: size_of_earhook
+type: text
+required: false
+collection: false
+option: {  }

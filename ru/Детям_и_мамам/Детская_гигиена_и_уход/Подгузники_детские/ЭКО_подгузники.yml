@@ -1,0 +1,10 @@
+caption: 'ЭКО подгузники'
+unit: ''
+description: 'Если подгузник выполнено без применения вредных химических веществ и есть соответствующие сертификаты, заполняем ДА.'
+key: eco_nappies
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

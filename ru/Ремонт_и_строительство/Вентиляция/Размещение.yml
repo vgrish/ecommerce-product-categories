@@ -1,0 +1,8 @@
+caption: Размещение
+unit: ''
+description: 'Выбрать из списка значений'
+key: accommodation
+type: option
+required: false
+collection: false
+option: {  }

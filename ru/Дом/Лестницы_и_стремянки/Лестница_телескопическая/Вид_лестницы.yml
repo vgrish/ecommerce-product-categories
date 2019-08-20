@@ -1,0 +1,12 @@
+caption: 'Вид лестницы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_stairs
+type: option
+required: false
+collection: true
+option:
+    - Выдвижная
+    - Приставная
+    - Складная
+    - Телескопическая

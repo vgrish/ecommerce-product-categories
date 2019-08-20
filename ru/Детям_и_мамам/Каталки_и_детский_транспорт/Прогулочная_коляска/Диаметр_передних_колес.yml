@@ -1,0 +1,8 @@
+caption: 'Диаметр передних колес'
+unit: см
+description: 'Только число без единиц измерения.'
+key: diameter_of_front_wheels
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,34 @@
+caption: 'Тип батареи'
+unit: ''
+description: ''
+key: battery_type
+type: option
+required: false
+collection: false
+option:
+    - '"Крона" (6LR61)'
+    - AA
+    - 'AAA (LR03)'
+    - 'C (LR14)'
+    - CR1216
+    - CR1220
+    - CR1226
+    - CR1616
+    - CR2016
+    - CR2025
+    - CR2032
+    - CTL1616
+    - CTL920
+    - LR1
+    - 'LR41 (LR736)'
+    - 'LR44 (V13GA, AG13, LR1154)'
+    - 'LR59 (AG2, SR726W)'
+    - 'LR66 (AG4, LR626)'
+    - 'LR69 (AG6, SR920W)'
+    - R14
+    - SR516SW
+    - SR626SW
+    - 'SR66 (V377, D377, SR626SW)'
+    - SR920SW
+    - 'SR920W + CR1616'
+    - SR927W

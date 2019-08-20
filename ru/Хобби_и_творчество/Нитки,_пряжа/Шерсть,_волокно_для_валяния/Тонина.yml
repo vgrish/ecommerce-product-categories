@@ -1,0 +1,13 @@
+caption: Тонина
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: tonin
+type: option
+required: false
+collection: true
+option:
+    - Грубая
+    - Полутонкая
+    - 'Супер тонкая'
+    - Тонкая
+    - 'Экстра тонкая'

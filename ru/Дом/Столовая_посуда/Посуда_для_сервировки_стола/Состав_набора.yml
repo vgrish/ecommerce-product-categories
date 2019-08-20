@@ -1,0 +1,8 @@
+caption: 'Состав набора'
+unit: ''
+description: 'Перечислите что входит в набор, сервиз, комплект'
+key: composition_set
+type: text
+required: false
+collection: false
+option: {  }

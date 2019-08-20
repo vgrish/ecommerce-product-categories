@@ -1,0 +1,8 @@
+caption: 'Число лент'
+unit: шт
+description: 'Укажите число лент стойки ограждения. Обычно они бывают с одной лентой, но есть и модели с двумя'
+key: number_of_tapes
+type: int
+required: false
+collection: false
+option: {  }

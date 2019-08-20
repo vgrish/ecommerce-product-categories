@@ -1,0 +1,8 @@
+caption: 'Вес шасси'
+unit: кг
+description: 'Только число без единиц измерения.'
+key: weight_chassis
+type: text
+required: false
+collection: false
+option: {  }

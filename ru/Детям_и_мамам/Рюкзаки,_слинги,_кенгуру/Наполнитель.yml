@@ -1,0 +1,13 @@
+caption: Наполнитель
+unit: ''
+description: 'Указываем только в случае, если наполнитель используется.'
+key: filler
+type: option
+required: false
+collection: true
+option:
+    - Пенополиуретан
+    - Полиуретан
+    - Синтепон
+    - 'Стружка кедра'
+    - Холлофайбер

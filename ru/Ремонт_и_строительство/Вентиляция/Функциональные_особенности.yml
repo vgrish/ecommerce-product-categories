@@ -1,0 +1,12 @@
+caption: 'Функциональные особенности'
+unit: ''
+description: 'Выбрать из списка значений'
+key: functional_features
+type: option
+required: false
+collection: false
+option:
+    - 'Выдвижной козырек'
+    - 'Два двигателя'
+    - 'Подсветка кнопок'
+    - Рейлинг

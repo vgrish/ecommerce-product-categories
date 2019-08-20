@@ -1,0 +1,8 @@
+caption: 'Максимальный объем парильни'
+unit: 'куб. м'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_amount_of_vapor
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,13 @@
+caption: 'Вид елки'
+unit: ''
+description: 'Выберите вид елки: напольная, настольная и т.п.'
+key: view_firs
+type: option
+required: false
+collection: false
+option:
+    - Напольная
+    - Настольная
+    - Подвесная
+    - Пристенная
+    - Уличная

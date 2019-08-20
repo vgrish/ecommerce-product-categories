@@ -1,0 +1,8 @@
+caption: Ток
+unit: А
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: current
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Радиус действия внутри помещений'
+unit: м
+description: ''
+key: radius_of_action_indoors
+type: text
+required: false
+collection: false
+option: {  }

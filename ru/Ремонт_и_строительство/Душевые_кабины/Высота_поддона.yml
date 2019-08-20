@@ -1,0 +1,11 @@
+caption: 'Высота поддона'
+unit: ''
+description: 'Выбрать из списка значений'
+key: height_of_pallet
+type: option
+required: false
+collection: false
+option:
+    - Высокий
+    - Низкий
+    - Средний

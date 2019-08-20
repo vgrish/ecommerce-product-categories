@@ -1,0 +1,8 @@
+caption: 'Материал задней стенки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: material_of_rear_wall
+type: option
+required: false
+collection: false
+option: {  }

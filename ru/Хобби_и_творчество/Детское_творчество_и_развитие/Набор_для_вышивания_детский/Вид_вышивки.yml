@@ -1,0 +1,12 @@
+caption: 'Вид вышивки'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: form_of_embroidery
+type: option
+required: false
+collection: true
+option:
+    - Бисером
+    - Лентами
+    - Нитками
+    - Стразами

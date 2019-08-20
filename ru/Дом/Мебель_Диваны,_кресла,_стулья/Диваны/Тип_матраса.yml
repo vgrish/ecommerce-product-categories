@@ -1,0 +1,13 @@
+caption: 'Тип матраса'
+unit: ''
+description: 'Выберите тип/конструкцию матраса'
+key: type_of_mattress
+type: option
+required: false
+collection: false
+option:
+    - Беспружинный
+    - 'Зависимые пружины'
+    - Комбинированный
+    - 'Независимые пружины'
+    - 'С зональным пружинным блоком'

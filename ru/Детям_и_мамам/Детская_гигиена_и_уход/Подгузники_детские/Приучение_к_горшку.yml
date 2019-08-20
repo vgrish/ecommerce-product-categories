@@ -1,0 +1,10 @@
+caption: 'Приучение к горшку'
+unit: ''
+description: ''
+key: potty_training
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

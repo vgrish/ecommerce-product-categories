@@ -1,0 +1,11 @@
+caption: 'Разрешение камеры'
+unit: ''
+description: ''
+key: camera_resolution
+type: option
+required: false
+collection: false
+option:
+    - '0.3 Мпикс'
+    - '2.0 Мпикс'
+    - '12.7 Мпикс'

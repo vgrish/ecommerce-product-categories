@@ -1,0 +1,11 @@
+caption: 'Ориентация установки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: mounting_orientation
+type: option
+required: false
+collection: false
+option:
+    - Левосторонняя
+    - Правосторонняя
+    - Универсальная

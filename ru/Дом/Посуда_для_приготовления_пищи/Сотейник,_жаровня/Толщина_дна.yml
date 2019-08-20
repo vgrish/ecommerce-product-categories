@@ -1,0 +1,8 @@
+caption: 'Толщина дна'
+unit: мм
+description: "Толщина дна посуды в миллиметрах.\nУказывайте только цифры!"
+key: thickness_of_bottom
+type: text
+required: false
+collection: false
+option: {  }

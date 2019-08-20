@@ -1,0 +1,8 @@
+caption: Вес
+unit: г
+description: 'Только число без единиц измерения'
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

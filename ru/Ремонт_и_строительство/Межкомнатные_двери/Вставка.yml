@@ -1,0 +1,12 @@
+caption: Вставка
+unit: ''
+description: 'Выбрать из списка значений'
+key: insert
+type: option
+required: false
+collection: true
+option:
+    - Зеркало
+    - 'Матовое стекло'
+    - Стекло
+    - 'Тонированное стекло'

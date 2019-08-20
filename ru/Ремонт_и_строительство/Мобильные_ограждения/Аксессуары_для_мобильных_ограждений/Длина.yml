@@ -1,0 +1,8 @@
+caption: Длина
+unit: м
+description: 'Укажите длину заградительного каната, цепи в метрах'
+key: length
+type: float
+required: false
+collection: false
+option: {  }

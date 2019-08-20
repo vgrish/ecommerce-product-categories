@@ -1,0 +1,8 @@
+caption: 'Диаметры коаксиального дымохода'
+unit: мм/мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: diameters_of_coaxial_chimney
+type: text
+required: false
+collection: false
+option: {  }

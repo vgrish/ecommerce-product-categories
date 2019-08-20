@@ -1,0 +1,10 @@
+caption: Конструкция
+unit: ''
+description: 'Выбрать из списка значений'
+key: design
+type: option
+required: false
+collection: false
+option:
+    - Конусная
+    - Ствольная

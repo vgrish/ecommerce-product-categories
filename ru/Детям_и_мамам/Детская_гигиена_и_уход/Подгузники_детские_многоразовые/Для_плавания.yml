@@ -1,0 +1,10 @@
+caption: 'Для плавания'
+unit: ''
+description: ''
+key: for_swimming
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

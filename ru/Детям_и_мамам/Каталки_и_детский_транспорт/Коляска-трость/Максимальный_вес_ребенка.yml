@@ -1,0 +1,8 @@
+caption: 'Максимальный вес ребенка'
+unit: кг
+description: 'Максимально допустимая нагрузка для безопасной эксплуатации'
+key: max_weight_of_child
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Напряжение дуги'
+unit: В
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: arc_voltage
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Ширина спального места в сложенном виде'
+unit: см
+description: "Укажите значение в сантиметрах.\nТолько цифры!"
+key: width_of_bed_when_folded
+type: text
+required: false
+collection: false
+option: {  }

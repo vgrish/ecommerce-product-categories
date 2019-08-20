@@ -1,0 +1,8 @@
+caption: Производительность
+unit: ''
+description: 'Укажите значение.'
+key: performance
+type: text
+required: false
+collection: false
+option: {  }

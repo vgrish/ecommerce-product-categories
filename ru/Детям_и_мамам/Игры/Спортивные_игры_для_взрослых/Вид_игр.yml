@@ -1,0 +1,16 @@
+caption: 'Вид игр'
+unit: ''
+description: ''
+key: kind_of_games
+type: option
+required: false
+collection: true
+option:
+    - Азартные
+    - 'Аксессуар для игр'
+    - Алко-игры
+    - 'Для взрослых'
+    - Классические
+    - Настольные
+    - Спортивные
+    - Фокусы

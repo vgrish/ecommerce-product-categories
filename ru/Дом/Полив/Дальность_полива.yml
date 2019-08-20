@@ -1,0 +1,8 @@
+caption: 'Дальность полива'
+unit: м
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: range_of_irrigation
+type: text
+required: false
+collection: false
+option: {  }

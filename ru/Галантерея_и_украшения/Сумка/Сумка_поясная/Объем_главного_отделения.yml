@@ -1,0 +1,8 @@
+caption: 'Объем главного отделения'
+unit: л
+description: ''
+key: volume_of_main_compartment
+type: text
+required: false
+collection: false
+option: {  }

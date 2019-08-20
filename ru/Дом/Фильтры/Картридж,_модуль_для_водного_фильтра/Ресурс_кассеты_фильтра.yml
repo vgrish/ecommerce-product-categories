@@ -1,0 +1,8 @@
+caption: 'Ресурс кассеты фильтра'
+unit: л
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: resource_magazine_filter
+type: text
+required: false
+collection: false
+option: {  }

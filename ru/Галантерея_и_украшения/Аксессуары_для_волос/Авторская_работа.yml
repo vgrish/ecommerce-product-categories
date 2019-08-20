@@ -1,0 +1,10 @@
+caption: 'Авторская работа'
+unit: ''
+description: ''
+key: authors_work
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

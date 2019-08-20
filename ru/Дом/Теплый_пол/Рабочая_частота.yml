@@ -1,0 +1,8 @@
+caption: 'Рабочая частота'
+unit: Гц
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: operating_frequency
+type: text
+required: false
+collection: false
+option: {  }

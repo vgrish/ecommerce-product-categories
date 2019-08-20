@@ -1,0 +1,8 @@
+caption: 'Макс. давление воды в контуре отопления'
+unit: бар
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_water_pressure_in_heating_circuit
+type: text
+required: false
+collection: false
+option: {  }

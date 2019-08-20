@@ -1,0 +1,8 @@
+caption: 'Макс. температура нагрева'
+unit: °C
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_heat_temperature
+type: text
+required: false
+collection: false
+option: {  }

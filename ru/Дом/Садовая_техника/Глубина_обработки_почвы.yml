@@ -1,0 +1,8 @@
+caption: 'Глубина обработки почвы'
+unit: см
+description: 'Записывается только число'
+key: depth_of_tillage
+type: text
+required: false
+collection: false
+option: {  }

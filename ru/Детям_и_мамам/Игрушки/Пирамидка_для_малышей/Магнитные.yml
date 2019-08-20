@@ -1,0 +1,10 @@
+caption: Магнитные
+unit: ''
+description: ''
+key: magnetic
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

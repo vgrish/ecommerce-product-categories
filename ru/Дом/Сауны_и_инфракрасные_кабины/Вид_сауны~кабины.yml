@@ -1,0 +1,10 @@
+caption: 'Вид сауны/кабины'
+unit: ''
+description: 'Выбрать из списка значений'
+key: look_sauna_cabin
+type: option
+required: false
+collection: false
+option:
+    - Стандартная
+    - Угловая

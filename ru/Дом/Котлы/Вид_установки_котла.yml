@@ -1,0 +1,15 @@
+caption: 'Вид установки котла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_installation_of_boiler
+type: option
+required: false
+collection: true
+option:
+    - 'На поддон'
+    - 'На растяжке'
+    - Напольный
+    - Настенный
+    - Настольный
+    - Подвесной
+    - Пристенный

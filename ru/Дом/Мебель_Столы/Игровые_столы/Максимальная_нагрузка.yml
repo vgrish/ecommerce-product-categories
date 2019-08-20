@@ -1,0 +1,8 @@
+caption: 'Максимальная нагрузка'
+unit: кг
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_load
+type: text
+required: false
+collection: false
+option: {  }

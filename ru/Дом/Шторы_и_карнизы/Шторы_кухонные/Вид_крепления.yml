@@ -1,0 +1,14 @@
+caption: 'Вид крепления'
+unit: ''
+description: 'Выбрать из списка значений вариант крепления к карнизу'
+key: view_attachment
+type: option
+required: false
+collection: false
+option:
+    - Завязки
+    - Зажимы
+    - Кулиска
+    - Лента
+    - Люверсы
+    - Петли

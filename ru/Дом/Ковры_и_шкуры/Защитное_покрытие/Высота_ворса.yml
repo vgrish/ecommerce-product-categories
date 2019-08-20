@@ -1,0 +1,8 @@
+caption: 'Высота ворса'
+unit: мм
+description: "Укажите высоту ворса в миллиметрах.\nТолько цифры!"
+key: pile_height
+type: text
+required: false
+collection: false
+option: {  }

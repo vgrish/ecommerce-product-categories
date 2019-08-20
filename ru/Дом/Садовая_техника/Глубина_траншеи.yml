@@ -1,0 +1,8 @@
+caption: 'Глубина траншеи'
+unit: мм
+description: 'Записывается только число'
+key: depth_of_trench
+type: text
+required: false
+collection: false
+option: {  }

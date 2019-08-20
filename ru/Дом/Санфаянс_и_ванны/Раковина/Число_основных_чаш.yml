@@ -1,0 +1,8 @@
+caption: 'Число основных чаш'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: among_major_bowls
+type: text
+required: false
+collection: false
+option: {  }

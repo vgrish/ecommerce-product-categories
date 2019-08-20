@@ -1,0 +1,14 @@
+caption: Частота
+unit: КГц
+description: 'Укажите частоту звука музыки'
+key: frequency
+type: option
+required: false
+collection: false
+option:
+    - '32'
+    - '44.1'
+    - '48'
+    - '96'
+    - '192'
+    - '384'

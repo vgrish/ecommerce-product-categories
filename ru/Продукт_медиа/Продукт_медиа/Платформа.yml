@@ -1,0 +1,46 @@
+caption: Платформа
+unit: ''
+description: ''
+key: platform
+type: option
+required: false
+collection: false
+option:
+    - 3DS
+    - Android
+    - DOS
+    - DS
+    - Dendy
+    - Dsi
+    - 'Game Boy Advance'
+    - GameCube
+    - IBM
+    - LINUX/FreeBSD
+    - MAC
+    - 'Nintendo Classic Mini'
+    - 'Nintendo Switch'
+    - 'Nintendo Wii'
+    - 'Nintendo Wii U'
+    - PC
+    - PGP
+    - 'PS Vita'
+    - PSP
+    - 'Palm OS'
+    - PlayStation
+    - 'PlayStation 2'
+    - 'PlayStation 3'
+    - 'PlayStation 4'
+    - 'PlayStation 4 VR'
+    - Sega
+    - WIN
+    - 'WIN DOS'
+    - 'WIN LINUX'
+    - 'WIN LINUX MAC SOLARIS UNIX'
+    - 'WIN LINUX NetWare FreeBSD'
+    - 'WIN MAC'
+    - 'WIN MAC LINUX'
+    - WinCE
+    - XBox360
+    - 'Xbox One'
+    - iOS
+    - Мультиплатформа

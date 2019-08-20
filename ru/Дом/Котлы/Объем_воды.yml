@@ -1,0 +1,8 @@
+caption: 'Объем воды'
+unit: л
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: volume_of_water
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,14 @@
+caption: 'Срок действия лицензии'
+unit: ''
+description: ''
+key: term_of_license
+type: option
+required: false
+collection: false
+option:
+    - '1 год'
+    - '2 года'
+    - '3 месяца'
+    - '3 года'
+    - '6 месяцев'
+    - '8 месяцев'

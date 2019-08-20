@@ -1,0 +1,13 @@
+caption: 'Назначение покрытия'
+unit: ''
+description: 'Выбрать из списка значений'
+key: purpose_of_coating
+type: option
+required: false
+collection: true
+option:
+    - Запрещающее
+    - Информационное
+    - Предупреждающее
+    - Сигнальное
+    - Универсальное

@@ -1,0 +1,8 @@
+caption: 'Кол-во кв.метров в коробке'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_square_meters_in_a_box
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Количество ящиков'
+unit: ''
+description: 'Укажите число выдвижных и открывающихся ящиков. Если ящиков нет - не заполняйте, не ставьте "0", не пишите "нет"'
+key: number_of_boxes
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,11 @@
+caption: 'Принцип действия'
+unit: ''
+description: 'Состав двигается самостоятельно или ребенок его катает по рельсам. '
+key: principle_of_operation
+type: option
+required: false
+collection: false
+option:
+    - Механическая
+    - Электрическая
+    - Электромеханическая

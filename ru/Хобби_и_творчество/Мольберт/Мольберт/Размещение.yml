@@ -1,0 +1,11 @@
+caption: Размещение
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: accommodation
+type: option
+required: false
+collection: true
+option:
+    - Напольный
+    - Настольный
+    - Полевой

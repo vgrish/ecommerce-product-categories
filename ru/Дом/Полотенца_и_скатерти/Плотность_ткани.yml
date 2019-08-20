@@ -1,0 +1,8 @@
+caption: 'Плотность ткани'
+unit: г/кв.м
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: density_of_fabric
+type: text
+required: false
+collection: false
+option: {  }

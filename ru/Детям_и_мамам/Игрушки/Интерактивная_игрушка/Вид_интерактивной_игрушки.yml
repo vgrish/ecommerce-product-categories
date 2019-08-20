@@ -1,0 +1,17 @@
+caption: 'Вид интерактивной игрушки'
+unit: ''
+description: 'Что лежит в основе- робот, компьютер животное или птица'
+key: view_interactive_toy
+type: option
+required: false
+collection: true
+option:
+    - 'Furby (Ферби)'
+    - Животные
+    - Маски
+    - 'Обучающие компьютеры'
+    - Птицы
+    - Роботы
+    - 'Рыбки и русалки'
+    - 'Техника и игры'
+    - Тир

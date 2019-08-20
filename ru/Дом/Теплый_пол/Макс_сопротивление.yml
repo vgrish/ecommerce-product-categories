@@ -1,0 +1,8 @@
+caption: 'Макс. сопротивление'
+unit: Ом
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_resistance
+type: text
+required: false
+collection: false
+option: {  }

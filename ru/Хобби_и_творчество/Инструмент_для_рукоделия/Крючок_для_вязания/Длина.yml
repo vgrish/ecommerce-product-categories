@@ -1,0 +1,8 @@
+caption: Длина
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: length
+type: float
+required: false
+collection: false
+option: {  }

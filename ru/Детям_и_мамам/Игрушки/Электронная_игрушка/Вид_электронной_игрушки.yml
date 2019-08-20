@@ -1,0 +1,15 @@
+caption: 'Вид электронной игрушки'
+unit: ''
+description: 'На какой реальный товар/прототип похожа игрушка.'
+key: kind_of_electronic_toys
+type: option
+required: false
+collection: true
+option:
+    - Коврик
+    - Мини-игра
+    - 'Обучающий компьютер'
+    - Планшет
+    - Синтезатор
+    - Смартфон
+    - Телефон

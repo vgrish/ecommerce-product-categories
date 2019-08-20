@@ -1,0 +1,10 @@
+caption: Коллекционные
+unit: ''
+description: 'Редкие игрушки, выпущенные ограниченным тиражом, не путать с игрушками, имеющими реальные прототипы в настоящей жизни.'
+key: collectible
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

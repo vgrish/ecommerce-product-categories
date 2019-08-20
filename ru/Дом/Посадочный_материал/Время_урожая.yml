@@ -1,0 +1,20 @@
+caption: 'Время урожая'
+unit: ''
+description: 'Выбрать из списка значений'
+key: harvest_time
+type: option
+required: false
+collection: true
+option:
+    - Август
+    - Апрель
+    - Декабрь
+    - Июль
+    - Июнь
+    - Май
+    - Март
+    - Ноябрь
+    - Октябрь
+    - Сентябрь
+    - Февраль
+    - Январь

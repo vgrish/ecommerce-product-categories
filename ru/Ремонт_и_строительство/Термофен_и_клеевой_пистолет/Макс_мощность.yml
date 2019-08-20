@@ -1,0 +1,8 @@
+caption: 'Макс. мощность'
+unit: Вт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_power
+type: text
+required: false
+collection: false
+option: {  }

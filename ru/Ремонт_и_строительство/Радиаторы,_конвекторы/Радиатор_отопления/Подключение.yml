@@ -1,0 +1,11 @@
+caption: Подключение
+unit: ''
+description: 'Выбрать из списка значений'
+key: connection
+type: option
+required: false
+collection: true
+option:
+    - Боковое
+    - Верхнее
+    - Нижнее

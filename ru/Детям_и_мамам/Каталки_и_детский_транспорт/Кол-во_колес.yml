@@ -1,0 +1,8 @@
+caption: 'Кол-во колес'
+unit: ''
+description: "Число колес. Сдвоенные колеса просьба считать одним колесом. \nЗаполняем только число без единиц измерения."
+key: number_of_wheels
+type: text
+required: false
+collection: false
+option: {  }

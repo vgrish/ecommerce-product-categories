@@ -1,0 +1,8 @@
+caption: 'Максимальная высота'
+unit: см
+description: "Укажите максимальную высоту в сантиметрах. Если нет регулировки по высоте - заполняйте эти поля.\nТолько цифры!"
+key: max_height
+type: text
+required: false
+collection: false
+option: {  }

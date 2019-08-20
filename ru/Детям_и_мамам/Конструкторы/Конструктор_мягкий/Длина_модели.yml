@@ -1,0 +1,8 @@
+caption: 'Длина модели'
+unit: см
+description: 'Длина самой крупной конструкции. Для понимания клиентом размера готовой модели.'
+key: length_of_model
+type: text
+required: false
+collection: false
+option: {  }

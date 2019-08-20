@@ -1,0 +1,11 @@
+caption: 'Материал путей'
+unit: ''
+description: 'Из какого материала сделаны пути. В случае если их несколько - выбираем основной. '
+key: material_ways
+type: option
+required: false
+collection: false
+option:
+    - Дерево
+    - Металл
+    - Пластик

@@ -1,0 +1,18 @@
+caption: Битрейт
+unit: Кбит/с
+description: 'Укажите битрейт звука'
+key: bitrate
+type: option
+required: false
+collection: false
+option:
+    - '24'
+    - '96'
+    - '128'
+    - '160'
+    - '192'
+    - '200'
+    - '224'
+    - '256'
+    - '320'
+    - 'Variable Bitrate'

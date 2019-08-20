@@ -1,0 +1,8 @@
+caption: 'Аксессуары в наборе'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: accessories_in_set
+type: text
+required: false
+collection: true
+option: {  }

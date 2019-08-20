@@ -1,0 +1,11 @@
+caption: 'Вид пола'
+unit: ''
+description: 'Укажите тип соединения'
+key: view_floor
+type: option
+required: false
+collection: false
+option:
+    - Замковый
+    - Клеевой
+    - Свободнолежащий

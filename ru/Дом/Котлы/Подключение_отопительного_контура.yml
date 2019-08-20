@@ -1,0 +1,17 @@
+caption: 'Подключение отопительного контура'
+unit: ''
+description: 'Выбрать из списка значений'
+key: connecting_heating_circuit
+type: option
+required: false
+collection: false
+option:
+    - '1 1/2"'
+    - '1 1/4"'
+    - '1"'
+    - '1/2"'
+    - '1/4"'
+    - '2"'
+    - '3/4"'
+    - '3/8"'
+    - '5/8"'

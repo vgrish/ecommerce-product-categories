@@ -1,0 +1,8 @@
+caption: 'Удаление ключевого отверстия'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: delete_key_holes
+type: text
+required: false
+collection: false
+option: {  }

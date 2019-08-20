@@ -1,0 +1,10 @@
+caption: 'Вид тормоза'
+unit: ''
+description: ''
+key: kind_of_brakes
+type: option
+required: false
+collection: false
+option:
+    - Ножной
+    - Ручной

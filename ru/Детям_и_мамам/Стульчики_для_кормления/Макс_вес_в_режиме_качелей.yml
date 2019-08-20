@@ -1,0 +1,8 @@
+caption: 'Макс. вес в режиме качелей'
+unit: кг
+description: "В случае если у стульчика есть режим \"Качели\", указываем максимально допустимую нагрузку в килограммах. \nТолько число без единиц измерения"
+key: max_weight_mode_swing
+type: text
+required: false
+collection: false
+option: {  }

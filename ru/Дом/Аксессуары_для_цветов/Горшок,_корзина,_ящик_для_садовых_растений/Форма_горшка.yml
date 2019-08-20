@@ -1,0 +1,16 @@
+caption: 'Форма горшка'
+unit: ''
+description: 'Выберите форму горшка'
+key: shape_of_pot
+type: option
+required: false
+collection: false
+option:
+    - Бочка
+    - Восьмиугольник
+    - Квадрат
+    - Круг
+    - Овал
+    - Прямоугольник
+    - Треугольник
+    - Тубус

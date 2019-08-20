@@ -1,0 +1,12 @@
+caption: 'Коробка передач'
+unit: ''
+description: ''
+key: transmission
+type: option
+required: false
+collection: false
+option:
+    - Автоматическая
+    - Вариатор
+    - Гидростатическая
+    - Механическая

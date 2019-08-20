@@ -1,0 +1,8 @@
+caption: 'Внутренний диаметр'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: inner_diameter
+type: text
+required: false
+collection: false
+option: {  }

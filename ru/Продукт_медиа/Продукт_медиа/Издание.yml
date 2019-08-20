@@ -1,0 +1,18 @@
+caption: Издание
+unit: ''
+description: ''
+key: edition
+type: option
+required: false
+collection: false
+option:
+    - Импортное
+    - Импортное
+    - Коллекционное
+    - Коллекционное
+    - Подарочное
+    - Подарочное
+    - Расширенное
+    - Российское
+    - Специальное
+    - Упрощенное

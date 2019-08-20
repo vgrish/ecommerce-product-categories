@@ -1,0 +1,8 @@
+caption: 'Объем бака для сливной воды'
+unit: л
+description: ''
+key: volume_of_tank_for_drain_water
+type: text
+required: false
+collection: false
+option: {  }

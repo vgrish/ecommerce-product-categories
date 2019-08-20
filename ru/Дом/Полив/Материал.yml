@@ -1,0 +1,13 @@
+caption: Материал
+unit: ''
+description: 'Выбрать из списка значений'
+key: material
+type: option
+required: false
+collection: false
+option:
+    - Металл
+    - 'ПВХ (поливинилхлорид)'
+    - Пластик
+    - 'Пластик и сталь'
+    - Полимер

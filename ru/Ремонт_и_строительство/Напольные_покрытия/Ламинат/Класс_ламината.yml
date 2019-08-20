@@ -1,0 +1,8 @@
+caption: 'Класс ламината'
+unit: ''
+description: 'Укажите только цифры. Например: 33'
+key: class_laminate
+type: text
+required: false
+collection: false
+option: {  }

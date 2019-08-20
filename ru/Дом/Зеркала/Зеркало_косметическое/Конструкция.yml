@@ -1,0 +1,10 @@
+caption: Конструкция
+unit: ''
+description: 'Выберите - одностороннее или двустороннее зеркало'
+key: design
+type: option
+required: false
+collection: false
+option:
+    - Двухстроннее
+    - Одностороннее

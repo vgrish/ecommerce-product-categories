@@ -1,0 +1,10 @@
+caption: 'С дозатором'
+unit: ''
+description: 'Укажите наличие дозатора'
+key: with_dispenser
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

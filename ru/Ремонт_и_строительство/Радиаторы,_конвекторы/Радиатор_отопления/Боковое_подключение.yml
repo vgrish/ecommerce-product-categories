@@ -1,0 +1,11 @@
+caption: 'Боковое подключение'
+unit: ''
+description: 'Выбрать из списка значений'
+key: side_connection
+type: option
+required: false
+collection: true
+option:
+    - Левое
+    - Оборачиваемое
+    - Правое

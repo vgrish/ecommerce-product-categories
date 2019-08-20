@@ -1,0 +1,15 @@
+caption: 'Вид основы'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: view_basis
+type: option
+required: false
+collection: true
+option:
+    - 'Бальзам для губ'
+    - 'Бомбочка для ванны'
+    - Кондиционер
+    - Мыло
+    - Свеча
+    - Скраб
+    - Шампунь

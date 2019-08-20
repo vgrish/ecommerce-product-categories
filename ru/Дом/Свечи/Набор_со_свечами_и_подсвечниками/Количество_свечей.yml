@@ -1,0 +1,8 @@
+caption: 'Количество свечей'
+unit: ''
+description: "Укажите количество свечей в упаковке.\nТолько цифры!"
+key: number_of_candles
+type: text
+required: false
+collection: false
+option: {  }

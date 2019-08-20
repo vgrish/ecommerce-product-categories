@@ -1,0 +1,8 @@
+caption: Ширина
+unit: см
+description: "Укажите ширину в сантиметрах.\nТолько цифры!"
+key: width
+type: text
+required: false
+collection: false
+option: {  }

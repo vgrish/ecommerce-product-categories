@@ -1,0 +1,12 @@
+caption: 'Основа картины'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: basis_of_painting
+type: option
+required: false
+collection: false
+option:
+    - Картон
+    - 'Картон цветной'
+    - Холст
+    - 'Холст цветной'

@@ -1,0 +1,17 @@
+caption: 'Тип скоб'
+unit: ''
+description: ''
+key: type_staples
+type: option
+required: false
+collection: false
+option:
+    - 'Тип 13'
+    - 'Тип 140'
+    - 'Тип 28'
+    - 'Тип 300'
+    - 'Тип 36'
+    - 'Тип 48'
+    - 'Тип 500'
+    - 'Тип 53'
+    - 'Тип 57'

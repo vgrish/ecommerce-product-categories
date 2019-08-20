@@ -1,0 +1,8 @@
+caption: 'Скорость вращения'
+unit: об/мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: speed_of_rotation
+type: text
+required: false
+collection: false
+option: {  }

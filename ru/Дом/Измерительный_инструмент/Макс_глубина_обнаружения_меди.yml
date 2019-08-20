@@ -1,0 +1,8 @@
+caption: 'Макс. глубина обнаружения меди'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_detection_depth_of_copper
+type: text
+required: false
+collection: false
+option: {  }

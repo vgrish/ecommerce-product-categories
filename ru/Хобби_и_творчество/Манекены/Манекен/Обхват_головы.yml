@@ -1,0 +1,8 @@
+caption: 'Обхват головы'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: circumference_of_your_head
+type: text
+required: false
+collection: false
+option: {  }

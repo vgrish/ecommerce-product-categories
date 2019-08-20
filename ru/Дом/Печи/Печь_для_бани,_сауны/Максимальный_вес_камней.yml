@@ -1,0 +1,8 @@
+caption: 'Максимальный вес камней'
+unit: кг
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_weight_of_stones
+type: text
+required: false
+collection: false
+option: {  }

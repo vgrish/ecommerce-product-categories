@@ -1,0 +1,12 @@
+caption: 'Кол-во детей'
+unit: ''
+description: 'Указываем на какое количество детей рассчитана коляска.'
+key: number_of_children
+type: option
+required: false
+collection: false
+option:
+    - 'Для двойни'
+    - 'Для погодок'
+    - 'Для тройни'
+    - 'На одного ребенка'

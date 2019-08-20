@@ -1,0 +1,8 @@
+caption: 'Максимальное число игроков'
+unit: ''
+description: ''
+key: max_number_of_players
+type: int
+required: false
+collection: false
+option: {  }

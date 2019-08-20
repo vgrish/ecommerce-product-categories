@@ -1,0 +1,11 @@
+caption: 'Электроустановочные особенности'
+unit: ''
+description: 'Выбрать из списка значений'
+key: wiring_features
+type: option
+required: false
+collection: true
+option:
+    - 'Защитные шторки'
+    - Крышка
+    - Подсветка

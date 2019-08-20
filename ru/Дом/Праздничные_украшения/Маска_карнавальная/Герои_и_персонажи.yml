@@ -1,0 +1,46 @@
+caption: 'Герои и персонажи'
+unit: ''
+description: 'Выберите героев и персонажей изображенных на товаре'
+key: characters
+type: option
+required: false
+collection: true
+option:
+    - 'Angry Birds'
+    - Barbie
+    - Chuggington
+    - 'Ever After High'
+    - 'Hello Kitty'
+    - 'Hot Wheels'
+    - 'Littlest Pet Shop'
+    - 'Me to You'
+    - 'Monster High'
+    - 'My Little Pony'
+    - 'Peppa Pig'
+    - 'Plants vs Zombies'
+    - 'Star Wars'
+    - 'Винни Пух и друзья'
+    - 'Губка Боб/ Спанч Боб'
+    - 'Даша путешественница'
+    - 'Джейк и Пираты Нетландии'
+    - 'Маша и Медведь'
+    - 'Микки Маус'
+    - 'Минни Маус'
+    - Миньоны
+    - Мстители
+    - 'Парк Юрского периода'
+    - 'Принцессы Disney'
+    - 'Пчелка Майя'
+    - Самолеты
+    - Смешарики
+    - Смурфы
+    - София
+    - Союзмультфильм
+    - Тачки
+    - Трансформеры
+    - 'Университет монстров'
+    - Феи
+    - Фиксики
+    - 'Холодное сердце'
+    - Человек-паук
+    - Черепашки-ниндзя

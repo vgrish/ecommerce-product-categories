@@ -1,0 +1,8 @@
+caption: 'Поле зрения (FOV)'
+unit: ''
+description: ''
+key: field_of_view_fov
+type: text
+required: false
+collection: false
+option: {  }

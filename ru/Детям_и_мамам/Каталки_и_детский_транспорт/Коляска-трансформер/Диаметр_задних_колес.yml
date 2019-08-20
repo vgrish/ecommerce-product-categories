@@ -1,0 +1,8 @@
+caption: 'Диаметр задних колес'
+unit: см
+description: 'Только число без единиц измерения.'
+key: diameter_of_rear_wheels
+type: text
+required: false
+collection: false
+option: {  }

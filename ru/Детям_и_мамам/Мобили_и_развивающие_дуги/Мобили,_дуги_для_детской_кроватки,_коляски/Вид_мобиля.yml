@@ -1,0 +1,11 @@
+caption: 'Вид мобиля'
+unit: ''
+description: ''
+key: view_mobile
+type: option
+required: false
+collection: false
+option:
+    - Механический
+    - Электронный
+    - Электронный

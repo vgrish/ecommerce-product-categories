@@ -1,0 +1,8 @@
+caption: 'Тема выпуска'
+unit: ''
+description: ''
+key: theme_issue
+type: text
+required: false
+collection: false
+option: {  }

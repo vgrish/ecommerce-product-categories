@@ -1,0 +1,8 @@
+caption: 'Диаметр стойки'
+unit: мм
+description: ''
+key: diameter_of_strut
+type: text
+required: false
+collection: false
+option: {  }

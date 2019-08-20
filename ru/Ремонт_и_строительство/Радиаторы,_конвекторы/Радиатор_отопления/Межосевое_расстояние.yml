@@ -1,0 +1,13 @@
+caption: 'Межосевое расстояние'
+unit: ''
+description: 'Выбрать из списка значений'
+key: centre_distance
+type: option
+required: false
+collection: true
+option:
+    - '20 см'
+    - '30 см'
+    - '35 см'
+    - '50 см'
+    - '80 см'

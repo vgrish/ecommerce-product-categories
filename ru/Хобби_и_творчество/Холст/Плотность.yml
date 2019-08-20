@@ -1,0 +1,8 @@
+caption: Плотность
+unit: г/м2
+description: 'Необходимо указать значение без единицы измерения.'
+key: density
+type: float
+required: false
+collection: false
+option: {  }

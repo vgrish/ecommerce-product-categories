@@ -1,0 +1,12 @@
+caption: 'Задние колеса'
+unit: ''
+description: 'Конструкция колес и их функционал.'
+key: rear_wheel
+type: option
+required: false
+collection: false
+option:
+    - Двойные
+    - 'Двойные поворотные'
+    - Одинарные
+    - 'Одинарные поворотные'

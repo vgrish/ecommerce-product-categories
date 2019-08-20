@@ -1,0 +1,8 @@
+caption: 'Тип ручки'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: handle_type
+type: text
+required: false
+collection: false
+option: {  }

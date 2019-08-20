@@ -1,0 +1,12 @@
+caption: 'Передние колеса'
+unit: ''
+description: 'Конструкция колес и их функционал.'
+key: front_wheels
+type: option
+required: false
+collection: false
+option:
+    - Двойные
+    - 'Двойные поворотные'
+    - Одинарные
+    - 'Одинарные поворотные'

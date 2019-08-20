@@ -1,0 +1,8 @@
+caption: 'Длина трубы'
+unit: м
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length_of_pipe
+type: text
+required: false
+collection: false
+option: {  }

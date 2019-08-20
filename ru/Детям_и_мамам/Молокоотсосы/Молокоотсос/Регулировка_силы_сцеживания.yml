@@ -1,0 +1,10 @@
+caption: 'Регулировка силы сцеживания'
+unit: ''
+description: ''
+key: adjustment_of_pumping
+type: option
+required: false
+collection: false
+option:
+    - Плавная
+    - Ступенчатая

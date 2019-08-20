@@ -1,0 +1,11 @@
+caption: Предназначение
+unit: ''
+description: 'Выбрать из списка значений'
+key: purpose
+type: option
+required: false
+collection: true
+option:
+    - Демонстрационный
+    - Портновский
+    - Учебный

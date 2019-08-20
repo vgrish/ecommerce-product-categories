@@ -1,0 +1,8 @@
+caption: 'Инструменты в наборе'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: tools_in_toolbox
+type: text
+required: false
+collection: true
+option: {  }

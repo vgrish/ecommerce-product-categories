@@ -1,0 +1,8 @@
+caption: 'Длина спального места'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: berth_length
+type: text
+required: false
+collection: false
+option: {  }

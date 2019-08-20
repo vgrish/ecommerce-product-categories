@@ -1,0 +1,18 @@
+caption: Наука
+unit: ''
+description: ''
+key: science
+type: option
+required: false
+collection: true
+option:
+    - Анатомия
+    - Археология
+    - Астрономия
+    - Биология
+    - Ботаника
+    - Естествознание
+    - Кулинария
+    - 'Опыты с микроскопом'
+    - Физика
+    - Химия

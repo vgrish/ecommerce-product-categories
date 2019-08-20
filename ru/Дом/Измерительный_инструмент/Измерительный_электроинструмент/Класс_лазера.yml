@@ -1,0 +1,13 @@
+caption: 'Класс лазера'
+unit: ''
+description: 'Выбрать из списка значений'
+key: laser_class
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - 2M
+    - '3'
+    - 3R

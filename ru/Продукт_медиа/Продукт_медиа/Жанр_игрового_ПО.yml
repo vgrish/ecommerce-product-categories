@@ -1,0 +1,29 @@
+caption: 'Жанр игрового ПО'
+unit: ''
+description: ''
+key: genre_game_software
+type: option
+required: false
+collection: true
+option:
+    - 'Аркады (Arcade)'
+    - 'Виртуальные животные (Virtual pets)'
+    - 'Гонки (Racing)'
+    - 'Драки (Fighting)'
+    - 'Игровая атрибутика'
+    - 'Квесты (Quest)'
+    - 'Киноигры (Movies & TV)'
+    - 'Логические игры (Logic & Puzzle)'
+    - 'Музыкальные игры (Music & Party)'
+    - 'Онлайн РПГ (MMORPG)'
+    - 'Приключения (Adventure)'
+    - 'РПГ (RPG)'
+    - 'Развивающие игры (Educational)'
+    - 'Семейные и детские игры (Family)'
+    - 'Симуляторы (Simulation)'
+    - 'Симуляторы жизни (Social)'
+    - 'Спортивные игры (Sports)'
+    - 'Стратегии (Strategy)'
+    - 'Ужасы (Horror)'
+    - 'Шутер (Shooter)'
+    - 'Экшн (Action)'

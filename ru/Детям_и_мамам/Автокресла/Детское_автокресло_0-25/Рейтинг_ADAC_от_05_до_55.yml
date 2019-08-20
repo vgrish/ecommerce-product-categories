@@ -1,0 +1,8 @@
+caption: 'Рейтинг ADAC от 0.5 до 5.5'
+unit: ''
+description: ''
+key: adac_rating_from_0_5_to_55
+type: text
+required: false
+collection: false
+option: {  }

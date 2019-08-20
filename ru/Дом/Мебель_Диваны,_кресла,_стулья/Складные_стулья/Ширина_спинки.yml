@@ -1,0 +1,8 @@
+caption: 'Ширина спинки'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: back_width
+type: text
+required: false
+collection: false
+option: {  }

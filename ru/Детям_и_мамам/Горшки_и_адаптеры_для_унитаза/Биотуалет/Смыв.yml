@@ -1,0 +1,10 @@
+caption: Смыв
+unit: ''
+description: ''
+key: flush
+type: option
+required: false
+collection: false
+option:
+    - 'Ручная помпа'
+    - 'Электрическая помпа'

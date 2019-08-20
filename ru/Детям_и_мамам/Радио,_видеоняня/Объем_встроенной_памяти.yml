@@ -1,0 +1,8 @@
+caption: 'Объем встроенной памяти'
+unit: МБ
+description: ''
+key: amount_of_internal_memory
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Диаметр крышки'
+unit: см
+description: "Диаметр крышки, которая подойдёт посуды, в сантиметрах. Необходимо для подбора крышек. \nУказывайте только цифры!"
+key: diameter_of_cover
+type: text
+required: false
+collection: false
+option: {  }

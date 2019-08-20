@@ -1,0 +1,12 @@
+caption: 'Расположение изголовья'
+unit: ''
+description: 'Выбрать из списка значений'
+key: location_of_head
+type: option
+required: false
+collection: false
+option:
+    - Сверху
+    - Слева
+    - Снизу
+    - Справа

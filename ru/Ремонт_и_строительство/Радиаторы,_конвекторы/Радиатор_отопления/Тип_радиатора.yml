@@ -1,0 +1,15 @@
+caption: 'Тип радиатора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_radiator
+type: option
+required: false
+collection: true
+option:
+    - 'Тип 10'
+    - 'Тип 11'
+    - 'Тип 20'
+    - 'Тип 21'
+    - 'Тип 22'
+    - 'Тип 30'
+    - 'Тип 33'

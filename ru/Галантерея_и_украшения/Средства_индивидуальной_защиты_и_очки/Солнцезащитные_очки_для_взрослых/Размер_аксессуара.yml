@@ -1,0 +1,8 @@
+caption: 'Размер аксессуара'
+unit: ''
+description: ''
+key: size_of_accessory
+type: text
+required: false
+collection: false
+option: {  }

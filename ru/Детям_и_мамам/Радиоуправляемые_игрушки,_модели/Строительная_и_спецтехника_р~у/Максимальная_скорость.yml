@@ -1,0 +1,8 @@
+caption: 'Максимальная скорость'
+unit: км/ч
+description: ''
+key: max_speed
+type: text
+required: false
+collection: false
+option: {  }

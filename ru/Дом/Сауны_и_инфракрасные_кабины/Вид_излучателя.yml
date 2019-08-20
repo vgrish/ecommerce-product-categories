@@ -1,0 +1,11 @@
+caption: 'Вид излучателя'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_emitter
+type: option
+required: false
+collection: false
+option:
+    - Карбоновый
+    - Керамический
+    - Трубчатый

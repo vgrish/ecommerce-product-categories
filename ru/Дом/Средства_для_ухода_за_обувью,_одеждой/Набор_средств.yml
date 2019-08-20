@@ -1,0 +1,14 @@
+caption: 'Набор средств'
+unit: ''
+description: 'Если это набор из средств перечислите их через ;'
+key: tools
+type: option
+required: false
+collection: true
+option:
+    - Гель
+    - Мазь
+    - Парафин
+    - Порошок
+    - Смывка
+    - Спрей

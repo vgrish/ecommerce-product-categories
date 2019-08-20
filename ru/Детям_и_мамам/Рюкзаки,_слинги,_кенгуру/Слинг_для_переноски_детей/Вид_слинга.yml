@@ -1,0 +1,12 @@
+caption: 'Вид слинга'
+unit: ''
+description: ''
+key: kind_of_sling
+type: option
+required: false
+collection: false
+option:
+    - Май
+    - 'С кольцом'
+    - Фаст
+    - Шарф

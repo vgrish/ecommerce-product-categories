@@ -1,0 +1,8 @@
+caption: 'Количество фигурок'
+unit: ''
+description: 'Сколько в комплекте игровых или сборных фигурок. Заполняется только для конструкторов, фигурки содержащих.'
+key: number_of_figures
+type: text
+required: false
+collection: false
+option: {  }

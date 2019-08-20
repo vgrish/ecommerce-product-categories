@@ -1,0 +1,8 @@
+caption: 'Высота изножья'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: footboard_height
+type: text
+required: false
+collection: false
+option: {  }

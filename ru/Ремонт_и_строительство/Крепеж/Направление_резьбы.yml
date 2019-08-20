@@ -1,0 +1,10 @@
+caption: 'Направление резьбы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: direction_of_thread
+type: option
+required: false
+collection: false
+option:
+    - Левая
+    - Правая

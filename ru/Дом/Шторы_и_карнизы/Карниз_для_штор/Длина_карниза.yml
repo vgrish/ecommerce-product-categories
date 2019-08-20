@@ -1,0 +1,8 @@
+caption: 'Длина карниза'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length_of_cornice
+type: text
+required: false
+collection: false
+option: {  }

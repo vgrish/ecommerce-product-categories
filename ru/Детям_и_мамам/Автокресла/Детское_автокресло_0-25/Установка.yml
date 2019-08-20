@@ -1,0 +1,10 @@
+caption: Установка
+unit: ''
+description: 'Лицом в какую сторону располагается ребенок.'
+key: installation
+type: option
+required: false
+collection: true
+option:
+    - 'Лицом вперед'
+    - 'Лицом назад'

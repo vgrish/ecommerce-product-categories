@@ -1,0 +1,8 @@
+caption: Рост
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: growth
+type: text
+required: false
+collection: false
+option: {  }

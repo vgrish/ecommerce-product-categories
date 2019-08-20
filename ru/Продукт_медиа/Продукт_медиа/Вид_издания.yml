@@ -1,0 +1,12 @@
+caption: 'Вид издания'
+unit: ''
+description: 'Если издание коллекционное или подарочное - укажите это здесь'
+key: type_of_publication
+type: option
+required: false
+collection: true
+option:
+    - Винтажное
+    - Коллекционное
+    - 'Коллекционное (LP)'
+    - Подарочное

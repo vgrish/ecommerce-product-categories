@@ -1,0 +1,14 @@
+caption: 'Материал рамы'
+unit: ''
+description: 'Выберите основной материал рамы, основания, стойки'
+key: frame_material
+type: option
+required: false
+collection: true
+option:
+    - Дерево
+    - Металл
+    - Пластик
+    - Сосна
+    - Сталь
+    - Ткань

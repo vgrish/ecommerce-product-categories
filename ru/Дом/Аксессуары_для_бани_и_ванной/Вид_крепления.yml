@@ -1,0 +1,16 @@
+caption: 'Вид крепления'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_attachment
+type: option
+required: false
+collection: false
+option:
+    - Быстросъемное
+    - 'На вакуумной присоске'
+    - Накладное
+    - Напольное
+    - Настенное
+    - Настольное
+    - Подвесное
+    - Потолочное

@@ -1,0 +1,17 @@
+caption: 'Тип управления'
+unit: ''
+description: 'Выбрать из списка значений'
+key: control_type
+type: option
+required: false
+collection: false
+option:
+    - Автоматическое
+    - Кнопочное
+    - Механическое
+    - ПДУ
+    - Ручное
+    - Сенсорное
+    - Тактовое
+    - ЧПУ
+    - Электронное

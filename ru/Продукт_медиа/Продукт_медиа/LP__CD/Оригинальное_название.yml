@@ -1,0 +1,8 @@
+caption: 'Оригинальное название'
+unit: ''
+description: 'Укажите название альбома на языке оригинала'
+key: original_title
+type: text
+required: false
+collection: false
+option: {  }

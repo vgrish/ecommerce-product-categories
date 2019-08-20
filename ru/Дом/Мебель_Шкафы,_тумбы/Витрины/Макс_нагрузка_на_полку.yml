@@ -1,0 +1,8 @@
+caption: 'Макс. нагрузка на полку'
+unit: кг
+description: "Укажите максимальную расчетную нагрузку.\nТолько цифры!"
+key: max_load_per_shelf
+type: text
+required: false
+collection: false
+option: {  }

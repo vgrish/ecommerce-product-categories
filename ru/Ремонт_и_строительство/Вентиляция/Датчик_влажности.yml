@@ -1,0 +1,10 @@
+caption: 'Датчик влажности'
+unit: ''
+description: ''
+key: humidity_sensor
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

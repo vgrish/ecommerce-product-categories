@@ -1,0 +1,8 @@
+caption: 'Количество элементов'
+unit: шт
+description: 'Суммарное число всех используемых в эксплуатации деталей'
+key: number_of_elements
+type: text
+required: false
+collection: false
+option: {  }

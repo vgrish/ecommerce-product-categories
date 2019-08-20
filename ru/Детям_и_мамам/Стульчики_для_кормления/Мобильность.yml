@@ -1,0 +1,10 @@
+caption: Мобильность
+unit: ''
+description: 'Стульчик стоит на ножках или колесиках. В случае, если у него выдвигающиеся колесики, заполняем - "колесики"'
+key: mobility
+type: option
+required: false
+collection: true
+option:
+    - Колесики
+    - Ножки

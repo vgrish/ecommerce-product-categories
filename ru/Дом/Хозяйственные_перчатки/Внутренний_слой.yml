@@ -1,0 +1,11 @@
+caption: 'Внутренний слой'
+unit: ''
+description: 'Выберите материал внутреннего слоя перчаток (если есть)'
+key: inner_layer
+type: option
+required: false
+collection: true
+option:
+    - Вискоза
+    - 'Кукурузный крахмал'
+    - Хлопок

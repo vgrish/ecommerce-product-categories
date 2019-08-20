@@ -1,0 +1,13 @@
+caption: Вращение
+unit: ''
+description: ''
+key: rotation
+type: option
+required: false
+collection: true
+option:
+    - 'Без вращения'
+    - Переменное
+    - Переменное
+    - 'По часовой стрелке'
+    - 'Против часовой стрелки'

@@ -1,0 +1,10 @@
+caption: Винтажное
+unit: ''
+description: ''
+key: vintage
+type: option
+required: false
+collection: false
+option:
+    - Винтажное
+    - Современное

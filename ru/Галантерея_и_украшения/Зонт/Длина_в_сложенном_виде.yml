@@ -1,0 +1,8 @@
+caption: 'Длина в сложенном виде'
+unit: см
+description: ''
+key: length_folded
+type: text
+required: false
+collection: false
+option: {  }

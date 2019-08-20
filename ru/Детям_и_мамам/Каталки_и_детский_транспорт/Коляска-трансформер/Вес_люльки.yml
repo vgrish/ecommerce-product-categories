@@ -1,0 +1,8 @@
+caption: 'Вес люльки'
+unit: кг
+description: ''
+key: weight_carrycot
+type: text
+required: false
+collection: false
+option: {  }

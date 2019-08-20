@@ -1,0 +1,8 @@
+caption: Объем
+unit: л
+description: "Объем, на который рассчитан товар. \nУкажите только цифры!"
+key: volume
+type: text
+required: false
+collection: false
+option: {  }

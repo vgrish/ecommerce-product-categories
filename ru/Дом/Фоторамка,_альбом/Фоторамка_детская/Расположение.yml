@@ -1,0 +1,12 @@
+caption: Расположение
+unit: ''
+description: 'Выберите из списка где и как будет распологаться'
+key: location
+type: option
+required: false
+collection: true
+option:
+    - Магнитное
+    - 'На присоске'
+    - Настольное
+    - Подвесное

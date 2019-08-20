@@ -1,0 +1,8 @@
+caption: Мощность
+unit: л.с.
+description: 'Записывается только число'
+key: power
+type: text
+required: false
+collection: false
+option: {  }

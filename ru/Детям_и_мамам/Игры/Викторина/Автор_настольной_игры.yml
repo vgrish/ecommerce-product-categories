@@ -1,0 +1,8 @@
+caption: 'Автор настольной игры'
+unit: ''
+description: ''
+key: author_of_board_game
+type: text
+required: false
+collection: false
+option: {  }

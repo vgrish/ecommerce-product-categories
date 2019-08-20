@@ -1,0 +1,8 @@
+caption: 'Макс. высота матраса'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_height_of_mattress
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Высота линзы'
+unit: мм
+description: ''
+key: lens_height
+type: text
+required: false
+collection: false
+option: {  }

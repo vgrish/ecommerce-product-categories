@@ -1,0 +1,16 @@
+caption: 'Рекомендуемый возраст'
+unit: ''
+description: ''
+key: recommended_age
+type: option
+required: false
+collection: false
+option:
+    - 'От 9 месяцев до 12 лет'
+    - 'от 0 до 1 года'
+    - 'от 0 до 6 месяцев'
+    - 'от 3 до 12 лет'
+    - 'от 3 до 7 лет'
+    - 'от 6 до 12 лет'
+    - 'от 9 месяцев до 4 лет'
+    - 'от 9 месяцев до 7 лет'

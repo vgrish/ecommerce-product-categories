@@ -1,0 +1,8 @@
+caption: 'Количество форсунок для аэромассажа'
+unit: ''
+description: 'Выбрать из списка значений'
+key: number_of_nozzles_for_air_massage
+type: option
+required: false
+collection: false
+option: {  }

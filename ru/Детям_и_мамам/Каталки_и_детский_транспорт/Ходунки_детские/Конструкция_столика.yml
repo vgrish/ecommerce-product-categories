@@ -1,0 +1,11 @@
+caption: 'Конструкция столика'
+unit: ''
+description: ''
+key: design_of_table
+type: option
+required: false
+collection: true
+option:
+    - 'Встроенная игровая панель'
+    - 'Дуга с игрушками'
+    - 'Съемная игровая панель'

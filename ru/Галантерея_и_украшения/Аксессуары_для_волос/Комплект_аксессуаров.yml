@@ -1,0 +1,10 @@
+caption: 'Комплект аксессуаров'
+unit: ''
+description: ''
+key: set_accessories
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

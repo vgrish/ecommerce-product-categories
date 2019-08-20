@@ -1,0 +1,11 @@
+caption: 'Вид стерилизатора'
+unit: ''
+description: ''
+key: view_of_sterilizer
+type: option
+required: false
+collection: false
+option:
+    - 'Для микроволновой печи'
+    - Традиционный
+    - Ультрафиолетовый

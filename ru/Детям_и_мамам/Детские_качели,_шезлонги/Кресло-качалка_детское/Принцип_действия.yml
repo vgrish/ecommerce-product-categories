@@ -1,0 +1,11 @@
+caption: 'Принцип действия'
+unit: ''
+description: ''
+key: principle_of_operation
+type: option
+required: false
+collection: true
+option:
+    - Механический
+    - Электронный
+    - Электронный

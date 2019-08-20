@@ -1,0 +1,8 @@
+caption: 'Высота излива'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: spout_height
+type: text
+required: false
+collection: false
+option: {  }

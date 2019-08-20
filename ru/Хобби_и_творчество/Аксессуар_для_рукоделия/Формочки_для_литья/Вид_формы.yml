@@ -1,0 +1,11 @@
+caption: 'Вид формы'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: form
+type: option
+required: false
+collection: false
+option:
+    - 3D
+    - Пластиковая
+    - Силиконовая

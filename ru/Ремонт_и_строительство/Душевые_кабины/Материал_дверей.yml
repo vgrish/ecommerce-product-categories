@@ -1,0 +1,8 @@
+caption: 'Материал дверей'
+unit: ''
+description: 'Выбрать из списка значений'
+key: door_material
+type: option
+required: false
+collection: false
+option: {  }

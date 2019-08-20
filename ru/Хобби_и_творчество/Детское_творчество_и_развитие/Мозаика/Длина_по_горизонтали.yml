@@ -1,0 +1,8 @@
+caption: 'Длина по горизонтали'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: horizontal_length_of_the
+type: float
+required: false
+collection: false
+option: {  }

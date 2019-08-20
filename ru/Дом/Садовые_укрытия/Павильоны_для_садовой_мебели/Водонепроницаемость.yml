@@ -1,0 +1,8 @@
+caption: Водонепроницаемость
+unit: 'мм. вод. столба'
+description: "Укажите значение водонепроницаемости в миллиметрах водяного столба.\nТолько цифры!"
+key: water_resistant
+type: text
+required: false
+collection: false
+option: {  }

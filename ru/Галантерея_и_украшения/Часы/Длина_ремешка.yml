@@ -1,0 +1,8 @@
+caption: 'Длина ремешка'
+unit: мм
+description: 'Необходимо указать только цифры, без единиц измерения и уточнений'
+key: strap_length
+type: float
+required: false
+collection: false
+option: {  }

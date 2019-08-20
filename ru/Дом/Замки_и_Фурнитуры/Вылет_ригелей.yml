@@ -1,0 +1,8 @@
+caption: 'Вылет ригелей'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: departure_of_crossbars
+type: text
+required: false
+collection: false
+option: {  }

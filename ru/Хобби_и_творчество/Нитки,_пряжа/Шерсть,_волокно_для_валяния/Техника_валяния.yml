@@ -1,0 +1,10 @@
+caption: 'Техника валяния'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: technique_of_felting
+type: option
+required: false
+collection: true
+option:
+    - Мокрая
+    - Сухая

@@ -1,0 +1,8 @@
+caption: 'Рабочее давление'
+unit: бар
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: working_pressure
+type: text
+required: false
+collection: false
+option: {  }

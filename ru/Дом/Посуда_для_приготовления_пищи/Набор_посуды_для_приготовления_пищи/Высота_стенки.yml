@@ -1,0 +1,8 @@
+caption: 'Высота стенки'
+unit: см
+description: "Высота стенки посуды в сантиметрах.\nУказывайте только цифры!"
+key: height_of_wall
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Изменяемый объем'
+unit: л
+description: ''
+key: adjustable_volume
+type: text
+required: false
+collection: false
+option: {  }

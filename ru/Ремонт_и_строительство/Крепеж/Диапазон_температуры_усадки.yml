@@ -1,0 +1,8 @@
+caption: 'Диапазон температуры усадки'
+unit: ''
+description: ''
+key: temperature_range_shrinkage
+type: text
+required: false
+collection: false
+option: {  }

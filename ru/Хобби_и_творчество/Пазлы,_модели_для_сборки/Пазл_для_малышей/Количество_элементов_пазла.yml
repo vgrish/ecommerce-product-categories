@@ -1,0 +1,15 @@
+caption: 'Количество элементов пазла'
+unit: шт
+description: ''
+key: number_of_pieces
+type: option
+required: false
+collection: false
+option:
+    - 'до 500'
+    - 'от 1001 до 1500'
+    - 'от 1501 до 2000'
+    - 'от 2001 до 3000'
+    - 'от 3001 до 6000'
+    - 'от 501 до 1000'
+    - 'от 6001 и более'

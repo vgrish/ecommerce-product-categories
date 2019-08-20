@@ -1,0 +1,8 @@
+caption: 'Ширина ремешка'
+unit: мм
+description: 'Необходимо указать только цифры, без единиц измерения и уточнений'
+key: width_of_strap
+type: float
+required: false
+collection: false
+option: {  }

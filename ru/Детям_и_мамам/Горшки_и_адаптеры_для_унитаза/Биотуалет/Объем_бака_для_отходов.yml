@@ -1,0 +1,8 @@
+caption: 'Объем бака для отходов'
+unit: л
+description: ''
+key: volume_of_tank_waste
+type: text
+required: false
+collection: false
+option: {  }

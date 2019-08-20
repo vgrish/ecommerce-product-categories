@@ -1,0 +1,14 @@
+caption: 'Количество деталей конструктора'
+unit: ''
+description: ''
+key: number_of_parts_designer
+type: option
+required: false
+collection: false
+option:
+    - 'до 50 шт'
+    - 'от 100 до 300 шт'
+    - 'от 1000 шт и больше'
+    - 'от 300 до 500 штук'
+    - 'от 50 до 100 шт'
+    - 'от 500 до 1000 шт'

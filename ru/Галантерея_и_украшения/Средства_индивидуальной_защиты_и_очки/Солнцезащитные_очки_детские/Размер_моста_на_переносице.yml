@@ -1,0 +1,8 @@
+caption: 'Размер моста на переносице'
+unit: мм
+description: ''
+key: size_of_bridge_on_nose
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,10 @@
+caption: Работы
+unit: ''
+description: 'Для каких работ предназначен'
+key: work
+type: option
+required: false
+collection: true
+option:
+    - Внутренние
+    - Наружные

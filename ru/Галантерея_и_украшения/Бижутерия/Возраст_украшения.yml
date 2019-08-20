@@ -1,0 +1,10 @@
+caption: 'Возраст украшения'
+unit: ''
+description: ''
+key: age_jewelry
+type: option
+required: false
+collection: true
+option:
+    - Винтажное
+    - Современное

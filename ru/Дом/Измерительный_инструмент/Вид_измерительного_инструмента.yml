@@ -1,0 +1,10 @@
+caption: 'Вид измерительного инструмента'
+unit: ''
+description: 'Выбрать из списка значений'
+key: of_measuring_tool
+type: option
+required: false
+collection: false
+option:
+    - Механический
+    - Электронный

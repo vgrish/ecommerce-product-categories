@@ -1,0 +1,8 @@
+caption: 'Макс. глубина обнаружения эл.проводки'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_detection_depth_email_posting
+type: text
+required: false
+collection: false
+option: {  }

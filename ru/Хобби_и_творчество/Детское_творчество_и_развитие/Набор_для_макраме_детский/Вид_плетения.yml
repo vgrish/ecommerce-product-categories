@@ -1,0 +1,15 @@
+caption: 'Вид плетения'
+unit: ''
+description: ''
+key: stitch
+type: option
+required: false
+collection: true
+option:
+    - Бисероплетение
+    - 'Из лозы'
+    - 'Из резиночек'
+    - Кружево
+    - Макраме
+    - 'Плетение из фольги'
+    - Фриволите

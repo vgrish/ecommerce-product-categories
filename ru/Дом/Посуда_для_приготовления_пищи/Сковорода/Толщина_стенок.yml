@@ -1,0 +1,8 @@
+caption: 'Толщина стенок'
+unit: мм
+description: "Толщина стенок посуды в миллиметрах.\nУказывайте только цифры!"
+key: thickness_of_walls
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,15 @@
+caption: 'Крепление карниза'
+unit: ''
+description: 'Выберите из списка значений как будет крепиться карниз'
+key: mount_cornice
+type: option
+required: false
+collection: true
+option:
+    - 'К окну'
+    - 'К полке'
+    - 'К полу'
+    - 'К потолку'
+    - 'На присоске'
+    - 'На стену'
+    - Универсальное

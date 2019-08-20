@@ -1,0 +1,8 @@
+caption: 'Количество форсунок для гидромассажа'
+unit: ''
+description: 'Выбрать из списка значений'
+key: number_of_jets_for_hydro_massage
+type: option
+required: false
+collection: false
+option: {  }

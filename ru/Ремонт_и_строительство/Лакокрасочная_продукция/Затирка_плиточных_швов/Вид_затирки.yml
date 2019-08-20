@@ -1,0 +1,11 @@
+caption: 'Вид затирки'
+unit: ''
+description: 'Выберите тип затирки.'
+key: appearance_of_grout
+type: option
+required: false
+collection: false
+option:
+    - 'На основе цемента'
+    - Силиконовая
+    - Эпоксидная

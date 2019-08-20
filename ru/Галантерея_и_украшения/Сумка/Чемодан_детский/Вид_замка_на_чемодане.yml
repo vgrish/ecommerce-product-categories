@@ -1,0 +1,15 @@
+caption: 'Вид замка на чемодане'
+unit: ''
+description: ''
+key: padlock_on_suitcase
+type: option
+required: false
+collection: true
+option:
+    - '"Фигурная гайка"'
+    - 'Замок с функцией TSA'
+    - Ключ
+    - Кодовый
+    - Навесной
+    - Олимпийский
+    - Пружинный

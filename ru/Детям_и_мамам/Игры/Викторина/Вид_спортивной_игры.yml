@@ -1,0 +1,19 @@
+caption: 'Вид спортивной игры'
+unit: ''
+description: ''
+key: sports_games
+type: option
+required: false
+collection: true
+option:
+    - Баскетбол
+    - Бильярд
+    - Гольф
+    - Дартс
+    - 'Другие игры'
+    - Керлинг
+    - Пинбол
+    - Рейсинг
+    - Теннис
+    - Футбол
+    - Хоккей

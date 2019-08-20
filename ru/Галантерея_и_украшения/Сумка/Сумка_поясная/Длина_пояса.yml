@@ -1,0 +1,8 @@
+caption: 'Длина пояса'
+unit: см
+description: 'Длина ремня поясных сумок строго в см. Допускаются дробные значения с разделителем "запятая".'
+key: length_of_belt
+type: float
+required: false
+collection: false
+option: {  }

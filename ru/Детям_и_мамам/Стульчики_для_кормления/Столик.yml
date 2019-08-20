@@ -1,0 +1,11 @@
+caption: Столик
+unit: ''
+description: ''
+key: table
+type: option
+required: false
+collection: true
+option:
+    - 'Двойной(зона для игр)'
+    - Поворотный
+    - Съемный

@@ -1,0 +1,17 @@
+caption: 'Вид замка'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_castle
+type: option
+required: false
+collection: true
+option:
+    - Врезной
+    - Межкомнатный
+    - Навесной
+    - Накладной
+    - Почтовый
+    - Сантехнический
+    - Скоба
+    - Троссовый
+    - Узкопрофильный

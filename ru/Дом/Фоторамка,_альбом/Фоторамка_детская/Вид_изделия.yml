@@ -1,0 +1,13 @@
+caption: 'Вид изделия'
+unit: ''
+description: 'Выберите из списка значений вид рамки'
+key: view__product
+type: option
+required: false
+collection: false
+option:
+    - Мультирамка
+    - Рамка-дерево
+    - Рамка-книжка
+    - Рамка-часы
+    - Ростомер

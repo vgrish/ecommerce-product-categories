@@ -1,0 +1,8 @@
+caption: 'Макс. диагональ экрана ТВ'
+unit: дюймы
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_diagonal_tv
+type: text
+required: false
+collection: false
+option: {  }

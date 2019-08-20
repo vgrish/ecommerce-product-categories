@@ -1,0 +1,8 @@
+caption: 'Макс. воздушный поток'
+unit: л/мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_air_flow
+type: text
+required: false
+collection: false
+option: {  }

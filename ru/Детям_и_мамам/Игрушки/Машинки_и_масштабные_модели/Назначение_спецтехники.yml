@@ -1,0 +1,12 @@
+caption: 'Назначение спецтехники'
+unit: ''
+description: ''
+key: appointment_of_special_equipment
+type: option
+required: false
+collection: true
+option:
+    - Коммунальная
+    - 'Перевозка грузов'
+    - Сельскохозяйственная
+    - Строительная

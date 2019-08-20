@@ -1,0 +1,12 @@
+caption: 'Обработка поверхности изделия'
+unit: ''
+description: ''
+key: surface_treatment_products
+type: option
+required: false
+collection: true
+option:
+    - Зеркальная
+    - Матовая
+    - 'Порошковая окраска'
+    - Шлифованная

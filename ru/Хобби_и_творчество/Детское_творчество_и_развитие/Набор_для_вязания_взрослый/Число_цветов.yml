@@ -1,0 +1,8 @@
+caption: 'Число цветов'
+unit: шт
+description: 'Необходимо указать значение без единицы измерения.'
+key: number_of_colors
+type: int
+required: false
+collection: false
+option: {  }

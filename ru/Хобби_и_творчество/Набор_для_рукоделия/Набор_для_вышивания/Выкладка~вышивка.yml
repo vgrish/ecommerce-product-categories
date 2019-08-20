@@ -1,0 +1,10 @@
+caption: Выкладка/вышивка
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: display_embroidery
+type: option
+required: false
+collection: false
+option:
+    - Полная
+    - Частичная

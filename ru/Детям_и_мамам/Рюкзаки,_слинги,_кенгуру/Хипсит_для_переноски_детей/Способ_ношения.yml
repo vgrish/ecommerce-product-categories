@@ -1,0 +1,11 @@
+caption: 'Способ ношения'
+unit: ''
+description: ''
+key: way_of_wearing
+type: option
+required: false
+collection: true
+option:
+    - 'За спиной'
+    - 'На бедре'
+    - 'На груди'

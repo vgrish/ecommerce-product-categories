@@ -1,0 +1,8 @@
+caption: 'Макс. высота'
+unit: м
+description: 'Высота от земли до последней ступеньки (рабочей площадки).'
+key: max_height
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Длина волокна'
+unit: мм
+description: 'Длина волокна в миллиметрах. Записывайте только число'
+key: fiber_length
+type: float
+required: false
+collection: false
+option: {  }

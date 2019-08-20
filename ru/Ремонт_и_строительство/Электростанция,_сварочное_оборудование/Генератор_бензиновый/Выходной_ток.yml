@@ -1,0 +1,8 @@
+caption: 'Выходной ток'
+unit: А
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: output_current
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Размеры проема'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: size_of_opening
+type: text
+required: false
+collection: false
+option: {  }

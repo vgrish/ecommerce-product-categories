@@ -1,0 +1,8 @@
+caption: 'Максимальная высота холста'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: max_canvas_height
+type: float
+required: false
+collection: false
+option: {  }

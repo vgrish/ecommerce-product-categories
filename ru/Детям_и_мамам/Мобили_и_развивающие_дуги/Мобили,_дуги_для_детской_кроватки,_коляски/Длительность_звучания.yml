@@ -1,0 +1,8 @@
+caption: 'Длительность звучания'
+unit: мин
+description: ''
+key: duration
+type: text
+required: false
+collection: false
+option: {  }

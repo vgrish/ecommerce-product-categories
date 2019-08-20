@@ -1,0 +1,17 @@
+caption: 'Вид ароматизатора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: kind_of_flavor
+type: option
+required: false
+collection: false
+option:
+    - Аэрозоль
+    - Гелевый
+    - Дым
+    - Жидкий
+    - Ионный
+    - Меловой
+    - Мембранный
+    - Натуральный
+    - Пропитанный

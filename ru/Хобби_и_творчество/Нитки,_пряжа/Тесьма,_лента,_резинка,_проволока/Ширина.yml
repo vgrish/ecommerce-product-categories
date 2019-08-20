@@ -1,0 +1,8 @@
+caption: Ширина
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: width
+type: float
+required: false
+collection: false
+option: {  }

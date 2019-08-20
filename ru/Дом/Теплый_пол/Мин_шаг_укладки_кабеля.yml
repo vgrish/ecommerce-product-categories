@@ -1,0 +1,8 @@
+caption: 'Мин. шаг укладки кабеля'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_step_of_cable_laying
+type: text
+required: false
+collection: false
+option: {  }

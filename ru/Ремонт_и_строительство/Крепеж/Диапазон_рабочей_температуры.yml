@@ -1,0 +1,8 @@
+caption: 'Диапазон рабочей температуры'
+unit: ''
+description: ''
+key: operating_temperature_range
+type: text
+required: false
+collection: false
+option: {  }

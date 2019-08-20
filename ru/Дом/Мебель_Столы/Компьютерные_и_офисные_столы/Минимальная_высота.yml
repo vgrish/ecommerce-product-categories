@@ -1,0 +1,8 @@
+caption: 'Минимальная высота'
+unit: см
+description: "Укажите минимальную высоту в сантиметрах. Если регулировки высоты нет - не заполняйте.\nТолько цифры!"
+key: min_height
+type: text
+required: false
+collection: false
+option: {  }

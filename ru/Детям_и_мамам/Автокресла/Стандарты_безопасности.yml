@@ -1,0 +1,12 @@
+caption: 'Стандарты безопасности'
+unit: ''
+description: ''
+key: safety_standards
+type: option
+required: false
+collection: true
+option:
+    - ADAC
+    - 'Стандарт ECE R44/03'
+    - 'Стандарт ECE R44/04'
+    - 'Стандарт I-Size'

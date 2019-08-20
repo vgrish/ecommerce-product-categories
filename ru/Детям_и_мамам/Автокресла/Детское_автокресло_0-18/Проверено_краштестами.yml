@@ -1,0 +1,10 @@
+caption: 'Проверено краштестами'
+unit: ''
+description: 'Проводились ли испытания и есть ли какая-либо сертификация. Используется в фильтрации на сайте.'
+key: checked_cystectomy
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

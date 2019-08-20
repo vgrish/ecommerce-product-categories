@@ -1,0 +1,11 @@
+caption: 'Ремни безопасности'
+unit: ''
+description: 'Выбрать из списка значений'
+key: belts
+type: option
+required: false
+collection: false
+option:
+    - 'Без ремней'
+    - Пятиточечные
+    - Трехточечные

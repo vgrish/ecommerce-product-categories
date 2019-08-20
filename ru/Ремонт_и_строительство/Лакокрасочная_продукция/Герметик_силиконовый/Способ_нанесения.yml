@@ -1,0 +1,8 @@
+caption: 'Способ нанесения'
+unit: ''
+description: 'Например: Кисть; Валик; Распылитель'
+key: method_of_application
+type: text
+required: false
+collection: false
+option: {  }

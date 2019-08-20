@@ -1,0 +1,8 @@
+caption: 'Материал полотна'
+unit: ''
+description: 'Выбрать из списка значений'
+key: cloth_material
+type: option
+required: false
+collection: true
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Число уровней громкости'
+unit: ''
+description: ''
+key: number_of_volume_levels
+type: text
+required: false
+collection: false
+option: {  }

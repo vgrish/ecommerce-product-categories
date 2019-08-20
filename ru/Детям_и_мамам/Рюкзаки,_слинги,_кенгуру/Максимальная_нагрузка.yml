@@ -1,0 +1,8 @@
+caption: 'Максимальная нагрузка'
+unit: кг
+description: 'Максимально допустимый вес ребенка в килограммах.'
+key: max_load
+type: text
+required: false
+collection: false
+option: {  }

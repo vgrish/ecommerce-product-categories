@@ -1,0 +1,11 @@
+caption: 'Вид горшка'
+unit: ''
+description: ''
+key: kind_of_pot
+type: option
+required: false
+collection: false
+option:
+    - Горшок
+    - Писсуар
+    - Стульчик

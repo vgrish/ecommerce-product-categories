@@ -1,0 +1,10 @@
+caption: 'Для путешествий'
+unit: ''
+description: 'Если коляска складывается по принципу "Трость" и весит менее 8 кг, ставим Да. '
+key: for_travel
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

@@ -1,0 +1,8 @@
+caption: 'Высота зеркала'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height_of_mirror
+type: text
+required: false
+collection: false
+option: {  }

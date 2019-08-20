@@ -1,0 +1,8 @@
+caption: 'Число секций'
+unit: шт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_partitions
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Максимальный вес ребёнка'
+unit: кг
+description: 'Внимание! Заполняется только числовое значение.'
+key: ''
+type: text
+required: false
+collection: false
+option: {  }

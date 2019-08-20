@@ -1,0 +1,12 @@
+caption: 'Вид печати'
+unit: ''
+description: 'Выбрать из списка значений'
+key: printing
+type: option
+required: false
+collection: false
+option:
+    - 3D
+    - Гладкокрашеная
+    - Пигментная
+    - Реактивная

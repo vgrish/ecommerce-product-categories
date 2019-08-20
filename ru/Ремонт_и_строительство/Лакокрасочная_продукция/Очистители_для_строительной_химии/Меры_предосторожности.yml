@@ -1,0 +1,8 @@
+caption: 'Меры предосторожности'
+unit: ''
+description: 'Укажите какие меры предосторожности нужно соблюдать. Например: "Беречь от огня!"'
+key: precautions
+type: text
+required: false
+collection: false
+option: {  }

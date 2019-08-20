@@ -1,0 +1,8 @@
+caption: 'Число стирок'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_washings
+type: text
+required: false
+collection: false
+option: {  }

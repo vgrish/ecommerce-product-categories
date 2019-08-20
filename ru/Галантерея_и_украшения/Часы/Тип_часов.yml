@@ -1,0 +1,12 @@
+caption: 'Тип часов'
+unit: ''
+description: ''
+key: type_hours
+type: option
+required: false
+collection: true
+option:
+    - Кварцевые
+    - Механические
+    - Спортивные
+    - Электронные

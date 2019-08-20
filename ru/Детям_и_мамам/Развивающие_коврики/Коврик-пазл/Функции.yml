@@ -1,0 +1,14 @@
+caption: Функции
+unit: ''
+description: ''
+key: function
+type: option
+required: false
+collection: true
+option:
+    - Звуковые
+    - Интерактивные
+    - Музыкальные
+    - Световые
+    - Спортивные
+    - Танцевальные

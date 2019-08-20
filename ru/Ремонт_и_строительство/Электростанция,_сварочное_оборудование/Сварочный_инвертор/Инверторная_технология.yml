@@ -1,0 +1,10 @@
+caption: 'Инверторная технология'
+unit: ''
+description: 'Выбрать из списка значений'
+key: inverter_technology
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

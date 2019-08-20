@@ -1,0 +1,8 @@
+caption: 'Минимальная продолжительность партии'
+unit: мин.
+description: 'Необходимо указать значение без единицы измерения.'
+key: min_duration_of_party
+type: int
+required: false
+collection: false
+option: {  }

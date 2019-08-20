@@ -1,0 +1,8 @@
+caption: 'Частота колебаний'
+unit: кол./мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: oscillation_frequency
+type: text
+required: false
+collection: false
+option: {  }

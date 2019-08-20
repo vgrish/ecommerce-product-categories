@@ -1,0 +1,15 @@
+caption: 'Число предметов в наборе'
+unit: шт
+description: 'В случае, если это комплект из инструментов, укажите их число без единиц измерения.'
+key: number_of_items_in_set
+type: option
+required: false
+collection: false
+option:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '6'
+    - '7'
+    - '10'

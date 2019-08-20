@@ -1,0 +1,8 @@
+caption: 'Рекомендуемые размеры проема'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: recommended_size_of_opening
+type: text
+required: false
+collection: false
+option: {  }

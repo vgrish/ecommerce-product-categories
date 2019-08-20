@@ -1,0 +1,8 @@
+caption: 'Диаметр спицы/крючка'
+unit: мм
+description: 'Необходимо указать значение без единицы измерения.'
+key: diameter_of_knitting_needle_hook
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Объем диспенсера'
+unit: мл
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: volume_of_dispenser
+type: text
+required: false
+collection: false
+option: {  }

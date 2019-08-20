@@ -1,0 +1,10 @@
+caption: Подкормка
+unit: ''
+description: 'Выбрать из списка значений'
+key: dressing
+type: option
+required: false
+collection: false
+option:
+    - 'Не требуется'
+    - Удобрения

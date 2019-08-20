@@ -1,0 +1,8 @@
+caption: 'Мин. высота среза травы'
+unit: см
+description: 'Записывается только число'
+key: min_height_of_cut_grass
+type: text
+required: false
+collection: false
+option: {  }

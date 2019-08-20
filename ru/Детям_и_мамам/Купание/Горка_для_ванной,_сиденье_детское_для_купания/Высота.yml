@@ -1,0 +1,8 @@
+caption: Высота
+unit: см
+description: ''
+key: height
+type: text
+required: false
+collection: false
+option: {  }

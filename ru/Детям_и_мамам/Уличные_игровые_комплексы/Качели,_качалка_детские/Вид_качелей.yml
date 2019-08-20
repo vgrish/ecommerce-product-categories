@@ -1,0 +1,10 @@
+caption: 'Вид качелей'
+unit: ''
+description: 'Конструкция качелей: размещаются на полу/земле, либо подвешиваются к потолку/кронштейну.'
+key: kind_of_swing
+type: option
+required: false
+collection: false
+option:
+    - Напольные
+    - Подвесные

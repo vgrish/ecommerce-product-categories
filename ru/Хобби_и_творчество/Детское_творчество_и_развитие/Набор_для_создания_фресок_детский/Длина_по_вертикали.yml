@@ -1,0 +1,8 @@
+caption: 'Длина по вертикали'
+unit: см
+description: 'Необходимо указать значение без единицы измерения.'
+key: length_vertical
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,19 @@
+caption: 'Вид игрушечного оружия'
+unit: ''
+description: ''
+key: view_toy_weapons
+type: option
+required: false
+collection: true
+option:
+    - Автомат
+    - Арбалет
+    - Бластер
+    - Лук
+    - 'Меч, кинжал'
+    - Пистолет
+    - Помпа
+    - Рогатка
+    - Ружье
+    - 'Световой меч'
+    - 'Щиты и защита'

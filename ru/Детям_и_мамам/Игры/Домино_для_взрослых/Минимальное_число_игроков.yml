@@ -1,0 +1,8 @@
+caption: 'Минимальное число игроков'
+unit: ''
+description: ''
+key: min_number_of_players
+type: int
+required: false
+collection: false
+option: {  }

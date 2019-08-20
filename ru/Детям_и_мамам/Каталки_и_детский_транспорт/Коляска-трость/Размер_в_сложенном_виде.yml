@@ -1,0 +1,8 @@
+caption: 'Размер в сложенном виде'
+unit: см
+description: ''
+key: folded_size
+type: text
+required: false
+collection: false
+option: {  }

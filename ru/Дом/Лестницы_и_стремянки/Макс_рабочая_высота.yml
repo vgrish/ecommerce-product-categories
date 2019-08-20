@@ -1,0 +1,8 @@
+caption: 'Макс. рабочая высота'
+unit: м
+description: 'Рассчитывается как сумма высоты рабочей площадки и роста человека. Максимальную высоту, на которой комфортно работать.'
+key: max_working_height
+type: text
+required: false
+collection: false
+option: {  }

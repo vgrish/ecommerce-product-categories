@@ -1,0 +1,8 @@
+caption: 'Ширина лопаты'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: width_of_shovel
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,38 @@
+caption: 'Модель молокоотсоса'
+unit: ''
+description: ''
+key: model_of_breast_pump
+type: option
+required: false
+collection: true
+option:
+    - 'ARDO AMARYLL'
+    - 'ARDO Amaryll Start'
+    - 'ARDO Calypso'
+    - 'ARDO DOUBLE PUMPSET'
+    - 'ARDO SINGLE PUMPSET'
+    - Baby-Frank
+    - 'BabyOno 51'
+    - 'BabyOno Naturel'
+    - 'BabyOno Sensi Duo'
+    - 'Canpol Babies EasyStart'
+    - 'Canpol babies'
+    - 'Dr.Brown''s ручной'
+    - 'Happy Baby'
+    - Mebby
+    - 'Mebby Love & Science'
+    - 'Medela Freestyle'
+    - 'NUK Jolie'
+    - 'NUK Luna'
+    - 'PIGEON ручной'
+    - 'PIGEON электронный'
+    - 'Philips Avent SCF330/13'
+    - 'Philips Avent SCF330/20'
+    - 'Philips Avent SCF332/01'
+    - 'Ramili SE150'
+    - 'Ramili SE300'
+    - 'Ramili SE350'
+    - 'Курносики 19202'
+    - 'Курносики 19203'
+    - 'Мир детства 19205'
+    - 'Мир детства 19206'

@@ -1,0 +1,21 @@
+caption: 'Температура замерзания'
+unit: ''
+description: ''
+key: freezing_point
+type: option
+required: false
+collection: false
+option:
+    - '-20°C'
+    - '-25°C'
+    - '-30°C'
+    - '-35°C'
+    - '-40°C'
+    - '-45°C'
+    - '-50°C'
+    - '-55°C'
+    - '-60°C'
+    - '-65°C'
+    - '-70°C'
+    - '-75°C'
+    - '-80°C'

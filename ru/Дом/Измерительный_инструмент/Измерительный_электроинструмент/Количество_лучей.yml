@@ -1,0 +1,8 @@
+caption: 'Количество лучей'
+unit: ''
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_rays
+type: text
+required: false
+collection: false
+option: {  }

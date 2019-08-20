@@ -1,0 +1,8 @@
+caption: 'Диаметр столбика'
+unit: мм
+description: ''
+key: diameter_of_column
+type: float
+required: false
+collection: false
+option: {  }

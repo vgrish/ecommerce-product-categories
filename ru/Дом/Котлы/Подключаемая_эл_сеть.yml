@@ -1,0 +1,11 @@
+caption: 'Подключаемая эл. сеть'
+unit: ''
+description: 'Выбрать из списка значений'
+key: connected_email_network
+type: option
+required: false
+collection: true
+option:
+    - Двухфазная
+    - Однофазная
+    - Трехфазная

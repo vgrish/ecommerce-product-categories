@@ -1,0 +1,8 @@
+caption: 'Высота второй шторы'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height_of_second_curtain
+type: text
+required: false
+collection: false
+option: {  }

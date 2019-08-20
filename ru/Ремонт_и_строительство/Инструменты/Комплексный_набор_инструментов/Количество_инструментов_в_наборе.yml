@@ -1,0 +1,8 @@
+caption: 'Количество инструментов в наборе'
+unit: шт.
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_tools_in_toolbox
+type: text
+required: false
+collection: false
+option: {  }

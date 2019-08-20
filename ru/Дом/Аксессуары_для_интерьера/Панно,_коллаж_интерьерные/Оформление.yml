@@ -1,0 +1,12 @@
+caption: Оформление
+unit: ''
+description: 'Выбрать из списка значений'
+key: design
+type: option
+required: false
+collection: true
+option:
+    - Багет
+    - 'Без рамы'
+    - 'В раме'
+    - Стекло

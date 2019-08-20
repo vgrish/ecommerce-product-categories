@@ -1,0 +1,17 @@
+caption: 'Вид шлица'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_slot
+type: option
+required: false
+collection: true
+option:
+    - Pentalobe
+    - Torx
+    - 'Внутренний шестигранник'
+    - 'Для шлицевых гаек'
+    - Квадратный
+    - Крестовой
+    - Прямой
+    - Трехгранный
+    - Шестигранный

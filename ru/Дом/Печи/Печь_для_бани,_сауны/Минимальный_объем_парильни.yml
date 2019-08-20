@@ -1,0 +1,8 @@
+caption: 'Минимальный объем парильни'
+unit: 'куб. м'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_volume_of_mandatory
+type: text
+required: false
+collection: false
+option: {  }

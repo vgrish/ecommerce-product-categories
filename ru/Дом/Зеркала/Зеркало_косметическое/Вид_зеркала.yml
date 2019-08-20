@@ -1,0 +1,12 @@
+caption: 'Вид зеркала'
+unit: ''
+description: 'Выберите вид зеркала - напольное, настенное или настольное'
+key: view_mirror
+type: option
+required: false
+collection: true
+option:
+    - Карманное
+    - Напольное
+    - Настенное
+    - Настольное

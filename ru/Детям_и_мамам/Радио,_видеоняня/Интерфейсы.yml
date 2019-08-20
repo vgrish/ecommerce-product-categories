@@ -1,0 +1,18 @@
+caption: Интерфейсы
+unit: ''
+description: ''
+key: interfaces
+type: option
+required: false
+collection: true
+option:
+    - Coax
+    - 'IEC C13'
+    - 'IEC C5 (3-pin)'
+    - 'IEC C7 (2-pin)'
+    - IEC-320
+    - 'Molex 8981'
+    - RJ-45
+    - SAS
+    - 'VGA (f)'
+    - 'mini SAS'

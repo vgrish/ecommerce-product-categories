@@ -1,0 +1,10 @@
+caption: 'Вставка для разделения ног'
+unit: ''
+description: 'Возможно ли снять разделитель для ног ребенка или он является частью конструкции.'
+key: insert_to_separate_legs
+type: option
+required: false
+collection: false
+option:
+    - Переносная
+    - Стационарная

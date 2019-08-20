@@ -1,0 +1,14 @@
+caption: 'Вид службы'
+unit: ''
+description: ''
+key: service
+type: option
+required: false
+collection: true
+option:
+    - Аварийная
+    - Коммунальная
+    - Медицинская
+    - Пожарная
+    - Полиция
+    - Почта

@@ -1,0 +1,13 @@
+caption: Полив
+unit: ''
+description: 'Выбрать из списка значений'
+key: watering
+type: option
+required: false
+collection: false
+option:
+    - Автополив
+    - Ежедневный
+    - Ограниченный
+    - 'Раз в неделю'
+    - 'Раз в несколько дней'

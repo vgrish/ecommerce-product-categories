@@ -1,0 +1,8 @@
+caption: 'Диаметр основания'
+unit: мм
+description: 'Укажите диаметр основания столбика в миллиметрах'
+key: base_diameter
+type: float
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Общее время звучания'
+unit: мин
+description: 'Укажите общее время звучания всех произведений диска/пластинки в минутах'
+key: total_time
+type: text
+required: false
+collection: false
+option: {  }

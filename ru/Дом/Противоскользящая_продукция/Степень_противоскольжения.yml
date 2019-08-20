@@ -1,0 +1,13 @@
+caption: 'Степень противоскольжения'
+unit: ''
+description: 'Выбрать из списка значений'
+key: degree_of_anti_skid
+type: option
+required: false
+collection: false
+option:
+    - R10
+    - R11
+    - R12
+    - R13
+    - R9

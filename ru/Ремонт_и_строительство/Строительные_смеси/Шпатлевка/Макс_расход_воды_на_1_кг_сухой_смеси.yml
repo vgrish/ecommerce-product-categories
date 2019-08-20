@@ -1,0 +1,8 @@
+caption: 'Макс. расход воды на 1 кг сухой смеси'
+unit: л
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_water_consumption_per_1_kg_of_dry_mix
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,12 @@
+caption: 'Категория манекена'
+unit: ''
+description: 'Выбрать из списка значений'
+key: category_of_dummy
+type: option
+required: false
+collection: false
+option:
+    - Взрослые
+    - Детские
+    - Подростковые
+    - Юниорские

@@ -1,0 +1,13 @@
+caption: 'Передняя стенка'
+unit: ''
+description: 'Выбрать из списка значений'
+key: front_wall
+type: option
+required: false
+collection: false
+option:
+    - 'Люк на "молнии"'
+    - Опускаемая
+    - 'С 2мя съемными стойками'
+    - 'С 3мя съемными стойками'
+    - Съемная

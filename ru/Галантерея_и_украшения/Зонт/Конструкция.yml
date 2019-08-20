@@ -1,0 +1,12 @@
+caption: Конструкция
+unit: ''
+description: ''
+key: design
+type: option
+required: false
+collection: false
+option:
+    - Автомат
+    - Механика
+    - 'Полный автомат'
+    - Полуавтомат

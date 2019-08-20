@@ -1,0 +1,10 @@
+caption: 'Тип газового котла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_gas_boiler
+type: option
+required: false
+collection: false
+option:
+    - Конвекционный
+    - Конденсационный

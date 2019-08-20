@@ -1,0 +1,8 @@
+caption: 'Мелованная бумага'
+unit: ''
+description: 'Если книга содержит страницы из мелованной бумаги - укажите "да", если не содержит - оставьте поле пустым'
+key: coated_paper
+type: bool
+required: false
+collection: false
+option: {  }

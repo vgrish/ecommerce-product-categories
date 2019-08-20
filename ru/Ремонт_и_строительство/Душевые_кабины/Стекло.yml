@@ -1,0 +1,14 @@
+caption: Стекло
+unit: ''
+description: 'Выбрать из списка значений'
+key: glass
+type: option
+required: false
+collection: false
+option:
+    - Витраж
+    - Матовое
+    - Прозрачное
+    - Рифленое
+    - Тонированное
+    - Узорчатое

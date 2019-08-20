@@ -1,0 +1,8 @@
+caption: 'Ширина готового пазла'
+unit: см
+description: ''
+key: width_of_finished_puzzle
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,20 @@
+caption: 'Время посадки на рассаду'
+unit: ''
+description: 'Выбрать из списка значений'
+key: planting_seedlings
+type: option
+required: false
+collection: true
+option:
+    - Август
+    - Апрель
+    - Декабрь
+    - Июль
+    - Июнь
+    - Май
+    - Март
+    - Ноябрь
+    - Октябрь
+    - Сентябрь
+    - Февраль
+    - Январь

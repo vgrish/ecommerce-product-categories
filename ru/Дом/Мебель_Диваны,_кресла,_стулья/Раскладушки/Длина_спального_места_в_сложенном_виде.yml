@@ -1,0 +1,8 @@
+caption: 'Длина спального места в сложенном виде'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: berth_length_folded
+type: text
+required: false
+collection: false
+option: {  }

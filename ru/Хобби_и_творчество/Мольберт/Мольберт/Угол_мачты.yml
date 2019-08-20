@@ -1,0 +1,11 @@
+caption: 'Угол мачты'
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: angle_of_mast
+type: option
+required: false
+collection: false
+option:
+    - Горизонталь
+    - Отрицательный
+    - Произвольный

@@ -1,0 +1,13 @@
+caption: 'Класс износостойкости'
+unit: ''
+description: 'Выбрать из списка значений'
+key: abrasion_class
+type: option
+required: false
+collection: true
+option:
+    - 'PEI 1 низкая посещаемость'
+    - 'PEI 2 небольшая посещаемость'
+    - 'PEI 3 средняя посещаемость'
+    - 'PEI 4 постоянная проходимость'
+    - 'PEI 5 высокая интенсивная проходимость'

@@ -1,0 +1,13 @@
+caption: 'Вид отверстия соски'
+unit: ''
+description: ''
+key: view_openings_nipples
+type: option
+required: false
+collection: false
+option:
+    - Большое
+    - Малое
+    - Среднее
+    - У-образное
+    - Х-образное

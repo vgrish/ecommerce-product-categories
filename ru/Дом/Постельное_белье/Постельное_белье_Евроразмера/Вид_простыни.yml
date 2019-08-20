@@ -1,0 +1,11 @@
+caption: 'Вид простыни'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_sheets
+type: option
+required: false
+collection: true
+option:
+    - 'На резинке'
+    - Непромокаемая
+    - Стандартная

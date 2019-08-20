@@ -1,0 +1,8 @@
+caption: 'Макс. длина раздвижного карниза'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: max_length_of_sliding_ledge
+type: text
+required: false
+collection: false
+option: {  }

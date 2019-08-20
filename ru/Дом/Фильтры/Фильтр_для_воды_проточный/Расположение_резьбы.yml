@@ -1,0 +1,10 @@
+caption: 'Расположение резьбы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: thread_location
+type: option
+required: false
+collection: true
+option:
+    - Внешняя
+    - Внутренняя

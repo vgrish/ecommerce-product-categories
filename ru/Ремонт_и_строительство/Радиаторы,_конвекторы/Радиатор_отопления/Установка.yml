@@ -1,0 +1,15 @@
+caption: Установка
+unit: ''
+description: 'Выбрать из списка значений'
+key: installation
+type: option
+required: false
+collection: true
+option:
+    - 'На поддон'
+    - 'На растяжке'
+    - Напольный
+    - Настенный
+    - Настольный
+    - Подвесной
+    - Пристенный

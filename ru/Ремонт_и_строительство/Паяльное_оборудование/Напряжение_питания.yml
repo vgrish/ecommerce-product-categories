@@ -1,0 +1,8 @@
+caption: 'Напряжение питания'
+unit: В
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: voltage
+type: text
+required: false
+collection: false
+option: {  }

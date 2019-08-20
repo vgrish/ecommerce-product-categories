@@ -1,0 +1,8 @@
+caption: 'Габариты (ДхШхВ'
+unit: мм)
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: dimensions_lxwxh
+type: text
+required: false
+collection: false
+option: {  }

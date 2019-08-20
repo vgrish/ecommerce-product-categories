@@ -1,0 +1,11 @@
+caption: 'Каркас сидений'
+unit: ''
+description: 'Выбрать из списка значений'
+key: seat_frame
+type: option
+required: false
+collection: false
+option:
+    - 'Металлическая сетка'
+    - 'Плетеный ротанг'
+    - Ткань

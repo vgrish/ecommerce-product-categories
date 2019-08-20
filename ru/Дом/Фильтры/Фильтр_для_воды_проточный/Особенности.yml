@@ -1,0 +1,11 @@
+caption: Особенности
+unit: ''
+description: 'Выбрать из списка значений'
+key: features
+type: option
+required: false
+collection: true
+option:
+    - 'Использование для горячей воды'
+    - 'Отдельный кран'
+    - 'Подключение к водопроводу'

@@ -1,0 +1,8 @@
+caption: 'Мин. давление газа'
+unit: Па
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_gas_pressure
+type: text
+required: false
+collection: false
+option: {  }

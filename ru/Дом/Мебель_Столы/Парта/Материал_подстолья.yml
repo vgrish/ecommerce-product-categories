@@ -1,0 +1,14 @@
+caption: 'Материал подстолья'
+unit: ''
+description: 'Выберите основной материал изготовления'
+key: material_podstolya
+type: option
+required: false
+collection: true
+option:
+    - 'Без подклада'
+    - МДФ
+    - Металл
+    - Пластик
+    - Сталь
+    - Фанера

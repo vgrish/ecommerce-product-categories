@@ -1,0 +1,8 @@
+caption: 'Рекомендуемая рабочая влажность'
+unit: '%'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: recommended_operating_humidity
+type: text
+required: false
+collection: false
+option: {  }

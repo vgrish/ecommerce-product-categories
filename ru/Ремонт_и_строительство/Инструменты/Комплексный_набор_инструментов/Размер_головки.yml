@@ -1,0 +1,8 @@
+caption: 'Размер головки'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: head_size
+type: text
+required: false
+collection: true
+option: {  }

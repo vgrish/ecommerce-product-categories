@@ -1,0 +1,8 @@
+caption: 'Отапливаемая площадь'
+unit: 'кв. м'
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: heated_area
+type: text
+required: false
+collection: false
+option: {  }

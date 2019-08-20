@@ -1,0 +1,8 @@
+caption: 'Объем камеры сгорания'
+unit: л
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: volume_of_combustion_chamber
+type: text
+required: false
+collection: false
+option: {  }

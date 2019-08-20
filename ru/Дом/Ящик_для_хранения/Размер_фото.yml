@@ -1,0 +1,10 @@
+caption: 'Размер фото'
+unit: ''
+description: 'Выбрать из списка значений'
+key: size_of_photo
+type: option
+required: false
+collection: false
+option:
+    - '10 x 13 см'
+    - '14 х 23,5 см'

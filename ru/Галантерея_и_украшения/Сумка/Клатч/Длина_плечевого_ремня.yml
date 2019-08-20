@@ -1,0 +1,8 @@
+caption: 'Длина плечевого ремня'
+unit: см
+description: ''
+key: shoulder_strap_length
+type: text
+required: false
+collection: false
+option: {  }

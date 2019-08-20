@@ -1,0 +1,8 @@
+caption: 'Длина рабочего основания'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length_of_working_base
+type: text
+required: false
+collection: false
+option: {  }

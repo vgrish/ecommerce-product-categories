@@ -1,0 +1,15 @@
+caption: Размещение
+unit: ''
+description: 'Выбрать из списка значений'
+key: accommodation
+type: option
+required: false
+collection: false
+option:
+    - 'Вентиляционная решетка'
+    - 'На торпедо'
+    - Настольный
+    - 'Под сиденье'
+    - Подвесной
+    - Стикер
+    - Универсальное

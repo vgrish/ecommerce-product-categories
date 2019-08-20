@@ -1,0 +1,8 @@
+caption: 'Размеры полотна'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: size_of_web
+type: text
+required: false
+collection: false
+option: {  }

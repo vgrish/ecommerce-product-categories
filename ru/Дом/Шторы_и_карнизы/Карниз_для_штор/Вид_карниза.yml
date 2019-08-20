@@ -1,0 +1,14 @@
+caption: 'Вид карниза'
+unit: ''
+description: 'Выбрать из списка значений'
+key: view_of_cornice
+type: option
+required: false
+collection: false
+option:
+    - 'Для эркера'
+    - 'Из профиля'
+    - Кованый
+    - Круглый
+    - 'С багетной планкой'
+    - Шинный

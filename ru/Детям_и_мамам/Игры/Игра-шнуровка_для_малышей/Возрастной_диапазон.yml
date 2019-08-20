@@ -1,0 +1,13 @@
+caption: 'Возрастной диапазон'
+unit: ''
+description: ''
+key: age_range
+type: option
+required: false
+collection: true
+option:
+    - 'от 0 до 1 года'
+    - 'от 1 до 3 лет'
+    - 'от 3 до 5 лет'
+    - 'от 5 до 7 лет'
+    - 'от 7 и старше'

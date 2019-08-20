@@ -1,0 +1,11 @@
+caption: 'Назначение средства'
+unit: ''
+description: 'Выбрать из списка значений'
+key: purpose_of_tool
+type: option
+required: false
+collection: false
+option:
+    - 'Для беговых лыж'
+    - 'Для горных лыж'
+    - 'Для сноуборда'

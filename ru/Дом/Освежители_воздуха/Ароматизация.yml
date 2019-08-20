@@ -1,0 +1,10 @@
+caption: Ароматизация
+unit: ''
+description: 'Выбрать из списка значений'
+key: aromatization
+type: option
+required: false
+collection: false
+option:
+    - Автоматическая
+    - Ручная

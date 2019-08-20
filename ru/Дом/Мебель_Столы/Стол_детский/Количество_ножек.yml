@@ -1,0 +1,8 @@
+caption: 'Количество ножек'
+unit: ''
+description: 'Укажите число ножек.'
+key: number_of_legs
+type: text
+required: false
+collection: false
+option: {  }

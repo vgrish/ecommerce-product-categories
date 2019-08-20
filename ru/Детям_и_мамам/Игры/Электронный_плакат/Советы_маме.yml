@@ -1,0 +1,10 @@
+caption: 'Советы маме'
+unit: ''
+description: ''
+key: tips_mom
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

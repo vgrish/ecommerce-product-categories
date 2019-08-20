@@ -1,0 +1,12 @@
+caption: 'Стандарт подводки шланга'
+unit: ''
+description: 'Выбрать из списка значений'
+key: standard_liner_hose
+type: option
+required: false
+collection: false
+option:
+    - '1/2" x 1/2"'
+    - '1/2" x 3/8"'
+    - 'M22x1,5 мм x 1/2"'
+    - 'M22x1,5 мм x M22x1,5 мм'

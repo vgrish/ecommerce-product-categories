@@ -1,0 +1,10 @@
+caption: 'Можно мыть'
+unit: ''
+description: 'Выбрать из списка значений'
+key: can_be_washed
+type: option
+required: false
+collection: true
+option:
+    - Да
+    - Нет

@@ -1,0 +1,11 @@
+caption: 'Назначение генератора'
+unit: ''
+description: 'Выбрать из списка значений'
+key: purpose_of_generator
+type: option
+required: false
+collection: false
+option:
+    - 'Основное электроснабжение'
+    - Резервный
+    - Сварочный

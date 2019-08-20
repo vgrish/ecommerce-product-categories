@@ -1,0 +1,8 @@
+caption: 'Диаметр дна'
+unit: см
+description: "Диаметр дна посуды, в сантиметрах. Необходимо для совместимости с конфорками электроплит. \nУказывайте только цифры!"
+key: diameter_of_bottom
+type: text
+required: false
+collection: false
+option: {  }

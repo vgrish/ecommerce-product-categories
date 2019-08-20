@@ -1,0 +1,13 @@
+caption: Назначение
+unit: ''
+description: 'Выбрать из списка значений'
+key: appointment
+type: option
+required: false
+collection: true
+option:
+    - Водоотталкивание
+    - 'Защита от износа'
+    - 'Защита от огня'
+    - 'Защита от плесени'
+    - Упрочнение

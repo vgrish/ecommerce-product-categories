@@ -1,0 +1,8 @@
+caption: 'Признак антиквариата'
+unit: ''
+description: 'Отметьте этот атрибут, если товар является предметом винтажа или антиквариата.'
+key: sign_antiques
+type: bool
+required: false
+collection: false
+option: {  }

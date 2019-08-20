@@ -1,0 +1,10 @@
+caption: 'Клапан выдоха'
+unit: ''
+description: ''
+key: exhalation_valve
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

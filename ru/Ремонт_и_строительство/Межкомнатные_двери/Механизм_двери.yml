@@ -1,0 +1,14 @@
+caption: 'Механизм двери'
+unit: ''
+description: 'Выбрать из списка значений'
+key: mechanism_of_door
+type: option
+required: false
+collection: true
+option:
+    - Книжка
+    - Купе
+    - Пенал
+    - Распашная
+    - Рото
+    - Складная

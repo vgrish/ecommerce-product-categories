@@ -1,0 +1,8 @@
+caption: 'Вес автокресла'
+unit: кг
+description: 'Только числовое значение без единиц измерения.'
+key: weight_car_seats
+type: text
+required: false
+collection: false
+option: {  }

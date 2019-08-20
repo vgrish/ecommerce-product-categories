@@ -1,0 +1,8 @@
+caption: Вес
+unit: кг
+description: "Укажите вес в килограммах.\nТолько цифры!"
+key: weight
+type: text
+required: false
+collection: false
+option: {  }

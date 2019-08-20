@@ -1,0 +1,8 @@
+caption: 'Признак ювелирного изделия'
+unit: ''
+description: ''
+key: sign_jewelry
+type: bool
+required: false
+collection: false
+option: {  }

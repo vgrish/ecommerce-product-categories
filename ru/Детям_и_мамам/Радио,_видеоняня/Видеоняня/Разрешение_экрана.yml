@@ -1,0 +1,17 @@
+caption: 'Разрешение экрана'
+unit: ''
+description: ''
+key: screen_resolution
+type: option
+required: false
+collection: false
+option:
+    - 176x220
+    - 320x240
+    - 480x272
+    - 720x480
+    - 800x480
+    - 1280x720
+    - 1560x720
+    - 1920x1080
+    - 3040x1440

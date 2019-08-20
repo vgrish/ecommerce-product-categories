@@ -1,0 +1,8 @@
+caption: 'Рабочая скорость'
+unit: м/мин
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: working_speed
+type: text
+required: false
+collection: false
+option: {  }

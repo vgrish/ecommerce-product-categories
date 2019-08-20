@@ -1,0 +1,8 @@
+caption: 'Цветные иллюстрации'
+unit: ''
+description: 'Если книга содержит цветные иллюстрации - укажите "да", если не содержит - оставьте поле пустым'
+key: color_illustrations
+type: bool
+required: false
+collection: false
+option: {  }

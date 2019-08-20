@@ -1,0 +1,8 @@
+caption: Высота
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: height
+type: text
+required: false
+collection: false
+option: {  }

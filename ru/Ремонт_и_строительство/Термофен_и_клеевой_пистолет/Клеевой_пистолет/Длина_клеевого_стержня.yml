@@ -1,0 +1,8 @@
+caption: 'Длина клеевого стержня'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: length_of_adhesive_rod
+type: text
+required: false
+collection: false
+option: {  }

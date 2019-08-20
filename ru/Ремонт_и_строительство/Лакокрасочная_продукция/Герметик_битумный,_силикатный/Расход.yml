@@ -1,0 +1,8 @@
+caption: Расход
+unit: ''
+description: 'Например: 0,1л/м2'
+key: consumption
+type: text
+required: false
+collection: false
+option: {  }

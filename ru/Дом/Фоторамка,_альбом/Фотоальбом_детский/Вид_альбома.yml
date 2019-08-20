@@ -1,0 +1,11 @@
+caption: 'Вид альбома'
+unit: ''
+description: 'Выберите из списка значений вид альбома.'
+key: view_album
+type: option
+required: false
+collection: false
+option:
+    - Классический
+    - 'С кармашками'
+    - 'С магнитными листами'

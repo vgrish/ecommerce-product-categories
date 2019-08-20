@@ -1,0 +1,12 @@
+caption: 'Тип сцепления'
+unit: ''
+description: ''
+key: type_clutch
+type: option
+required: false
+collection: false
+option:
+    - Гидравлическое
+    - Инерционное
+    - Пневматическое
+    - Ременное

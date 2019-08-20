@@ -1,0 +1,8 @@
+caption: 'Обхват бедер'
+unit: см
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: hip
+type: text
+required: false
+collection: false
+option: {  }

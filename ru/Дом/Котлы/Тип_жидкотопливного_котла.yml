@@ -1,0 +1,10 @@
+caption: 'Тип жидкотопливного котла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_oil_boiler
+type: option
+required: false
+collection: false
+option:
+    - Классический
+    - Конденсационный

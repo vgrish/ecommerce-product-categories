@@ -1,0 +1,8 @@
+caption: 'Число клавиш'
+unit: ''
+description: 'В случае, если инструмент клавишный, укажите сколько на нем клавиш. Только число.'
+key: number_of_keys
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Мин. толщина слоя'
+unit: мм
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: min_layer_thickness
+type: text
+required: false
+collection: false
+option: {  }

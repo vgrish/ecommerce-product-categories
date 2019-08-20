@@ -1,0 +1,15 @@
+caption: 'Дополнительные функции'
+unit: ''
+description: ''
+key: additional_features
+type: option
+required: false
+collection: true
+option:
+    - 'Без эффектов'
+    - 'Белый шум'
+    - Говорящая
+    - Интерактивная
+    - Озвученная
+    - Развивающая
+    - Светящаяся

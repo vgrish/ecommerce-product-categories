@@ -1,0 +1,12 @@
+caption: 'Основа обоев'
+unit: ''
+description: 'Выбрать из списка значений'
+key: basis_of_wallpaper
+type: option
+required: false
+collection: false
+option:
+    - Бумага
+    - 'Бумага с клеевым покрытием'
+    - Текстиль
+    - Флизелин

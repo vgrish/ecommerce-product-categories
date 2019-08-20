@@ -1,0 +1,11 @@
+caption: 'Тип помещения'
+unit: ''
+description: 'Тип помещения в котором можно производить работы'
+key: property_type
+type: option
+required: false
+collection: true
+option:
+    - 'С повышенной влажностью'
+    - 'С умеренной влажностью'
+    - Сухое

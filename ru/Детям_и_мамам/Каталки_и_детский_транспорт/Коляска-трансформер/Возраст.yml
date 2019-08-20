@@ -1,0 +1,11 @@
+caption: Возраст
+unit: ''
+description: 'Для каких возрастных групп рекомендовано.'
+key: age
+type: option
+required: false
+collection: true
+option:
+    - 'от 0 до 1 года'
+    - 'от 3 до 5 лет'
+    - 'от 6 месяцев до 3 лет'

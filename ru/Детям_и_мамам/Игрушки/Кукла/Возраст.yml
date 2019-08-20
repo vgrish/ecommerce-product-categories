@@ -1,0 +1,11 @@
+caption: Возраст
+unit: ''
+description: ''
+key: age
+type: option
+required: false
+collection: false
+option:
+    - 'от 0 до 3-х лет'
+    - 'от 14 лет и старше'
+    - 'от 3-х лет и старше'

@@ -1,0 +1,19 @@
+caption: 'Сечение жилы'
+unit: кв.мм
+description: 'Выбрать из списка значений'
+key: conductor_cross_section
+type: option
+required: false
+collection: false
+option:
+    - '0,2'
+    - '0,5'
+    - '0,75'
+    - '1'
+    - '1,5'
+    - '2,5'
+    - '3'
+    - '3,5'
+    - '4'
+    - '6'
+    - '16'

@@ -1,0 +1,8 @@
+caption: 'Высота изделия'
+unit: мм
+description: 'Укажите высоту изделия в миллиметрах'
+key: height
+type: float
+required: false
+collection: false
+option: {  }

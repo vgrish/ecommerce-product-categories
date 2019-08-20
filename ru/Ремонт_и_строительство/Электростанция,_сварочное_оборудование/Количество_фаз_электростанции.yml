@@ -1,0 +1,12 @@
+caption: 'Количество фаз электростанции'
+unit: ''
+description: 'Выбрать из списка значений'
+key: number_of_phases_of_power_plant
+type: option
+required: false
+collection: true
+option:
+    - Две
+    - Многополосный
+    - Одна
+    - Три

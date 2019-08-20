@@ -1,0 +1,22 @@
+caption: 'Диагональ дисплея'
+unit: ''
+description: ''
+key: display
+type: option
+required: false
+collection: false
+option:
+    - '0.91"'
+    - '0.86"'
+    - '1.8"'
+    - '2.7"'
+    - '2.4"'
+    - '2"'
+    - '2.8"'
+    - '2.36"'
+    - '3.5"'
+    - '4.3"'
+    - '5"'
+    - '10.8"'
+    - '12.3"'
+    - '45"'

@@ -1,0 +1,11 @@
+caption: Конструкция
+unit: ''
+description: ''
+key: design
+type: option
+required: false
+collection: true
+option:
+    - Сборный
+    - Складной
+    - Трансформер

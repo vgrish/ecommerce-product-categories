@@ -1,0 +1,11 @@
+caption: Эффекты
+unit: ''
+description: 'Дополнительные эффекты, которые может игрушка. Дым, подсветка, звук.'
+key: effects
+type: option
+required: false
+collection: true
+option:
+    - Дым
+    - Звуковые
+    - Световые

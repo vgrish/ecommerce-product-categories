@@ -1,0 +1,18 @@
+caption: 'Вид детской игры'
+unit: ''
+description: ''
+key: kind_of_childrens_game
+type: option
+required: false
+collection: true
+option:
+    - 'В подарок'
+    - 'Игра на липучке'
+    - Магнитные
+    - 'На ловкость'
+    - Обучающие
+    - 'Обучающие карточки'
+    - 'Обучающий плакат'
+    - Развивающие
+    - Развлекательные
+    - Шнуровка

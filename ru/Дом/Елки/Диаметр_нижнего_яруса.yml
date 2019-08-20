@@ -1,0 +1,8 @@
+caption: 'Диаметр нижнего яруса'
+unit: см
+description: "Диаметр нижнего яруса. \nТолько цифры!"
+key: diameter_of_bottom_tier
+type: text
+required: false
+collection: false
+option: {  }

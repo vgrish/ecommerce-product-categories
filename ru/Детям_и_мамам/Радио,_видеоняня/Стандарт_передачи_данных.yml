@@ -1,0 +1,11 @@
+caption: 'Стандарт передачи данных'
+unit: ''
+description: ''
+key: data_transmission_standard
+type: option
+required: false
+collection: false
+option:
+    - DECT
+    - Аналоговый
+    - Цифровой

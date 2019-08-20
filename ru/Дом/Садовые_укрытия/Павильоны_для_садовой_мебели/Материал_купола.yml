@@ -1,0 +1,14 @@
+caption: 'Материал купола'
+unit: ''
+description: 'Выберите основной материал изготовления купола/тента/шатра'
+key: material_of_dome
+type: option
+required: false
+collection: true
+option:
+    - Металл
+    - 'ПВХ (поливинилхлорид)'
+    - Пластик
+    - Полипропилен
+    - Полиэстер
+    - Сталь

@@ -1,0 +1,17 @@
+caption: Материал
+unit: ''
+description: 'Необходимо выбрать значение из списка.'
+key: material
+type: option
+required: false
+collection: true
+option:
+    - Бамбук
+    - Береза
+    - Бук
+    - Вяз
+    - Дуб
+    - Липа
+    - Металл
+    - Пластик
+    - Сосна

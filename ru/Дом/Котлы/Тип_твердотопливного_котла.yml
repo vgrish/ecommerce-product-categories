@@ -1,0 +1,11 @@
+caption: 'Тип твердотопливного котла'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_solid_fuel_boiler
+type: option
+required: false
+collection: false
+option:
+    - 'Длительного горения'
+    - Классический
+    - Пиролизный

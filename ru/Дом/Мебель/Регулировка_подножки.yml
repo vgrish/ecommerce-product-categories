@@ -1,0 +1,10 @@
+caption: 'Регулировка подножки'
+unit: ''
+description: 'Выбрать из списка значений'
+key: adjustable_footrests
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

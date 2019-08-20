@@ -1,0 +1,10 @@
+caption: 'Пол куклы'
+unit: ''
+description: ''
+key: gender_doll
+type: option
+required: false
+collection: false
+option:
+    - Девочка
+    - Мальчик

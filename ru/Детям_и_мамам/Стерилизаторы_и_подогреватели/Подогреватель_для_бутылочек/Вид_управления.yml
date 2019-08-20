@@ -1,0 +1,17 @@
+caption: 'Вид управления'
+unit: ''
+description: ''
+key: management
+type: option
+required: false
+collection: false
+option:
+    - Автоматическое
+    - Кнопочное
+    - Механическое
+    - ПДУ
+    - Ручное
+    - Сенсорное
+    - Тактовое
+    - ЧПУ
+    - Электронное

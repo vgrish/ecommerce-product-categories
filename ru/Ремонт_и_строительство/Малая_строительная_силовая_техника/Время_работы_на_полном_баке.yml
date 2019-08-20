@@ -1,0 +1,8 @@
+caption: 'Время работы на полном баке'
+unit: ч
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: working_time_on_full_tank
+type: text
+required: false
+collection: false
+option: {  }

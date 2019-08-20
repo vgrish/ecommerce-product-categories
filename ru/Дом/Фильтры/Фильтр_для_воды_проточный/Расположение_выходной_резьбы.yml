@@ -1,0 +1,10 @@
+caption: 'Расположение выходной резьбы'
+unit: ''
+description: 'Выбрать из списка значений'
+key: location_of_output_thread
+type: option
+required: false
+collection: true
+option:
+    - Внешняя
+    - Внутренняя

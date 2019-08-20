@@ -1,0 +1,8 @@
+caption: 'Вид теплоносителя'
+unit: ''
+description: 'Выбрать из списка значений'
+key: type_of_coolant
+type: option
+required: false
+collection: true
+option: {  }

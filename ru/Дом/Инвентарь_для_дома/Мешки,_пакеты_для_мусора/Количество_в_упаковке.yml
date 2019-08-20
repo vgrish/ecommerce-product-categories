@@ -1,0 +1,8 @@
+caption: 'Количество в упаковке'
+unit: шт.
+description: "Укажите количество товара в индивидуальной упаковке.\nТолько цифры!"
+key: package_quantity
+type: text
+required: false
+collection: false
+option: {  }

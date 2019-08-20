@@ -1,0 +1,8 @@
+caption: 'Число отделений'
+unit: шт
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: number_of_offices
+type: text
+required: false
+collection: false
+option: {  }

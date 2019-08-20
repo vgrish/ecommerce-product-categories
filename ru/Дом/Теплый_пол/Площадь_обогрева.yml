@@ -1,0 +1,8 @@
+caption: 'Площадь обогрева'
+unit: кв.м
+description: 'Укажите значение без единицы измерения. Только цифры!'
+key: heating_area
+type: text
+required: false
+collection: false
+option: {  }

@@ -1,0 +1,8 @@
+caption: 'Минимальный вес ребёнка'
+unit: кг
+description: 'Внимание! Заполняется только числовое значение.'
+key: min_weight_of_child
+type: text
+required: false
+collection: false
+option: {  }
