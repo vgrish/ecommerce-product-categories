@@ -1,0 +1,10 @@
+caption: 'Предмет искусства'
+unit: ''
+description: 'Является ли предметом искусства?'
+key: piece_of_art
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

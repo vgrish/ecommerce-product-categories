@@ -1,0 +1,10 @@
+caption: 'Предмет роскоши'
+unit: ''
+description: 'Является ли предметом роскоши'
+key: luxury
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

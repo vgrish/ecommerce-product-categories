@@ -1,0 +1,11 @@
+caption: Категория
+unit: ''
+description: 'Выберите из списка категорию антиквариата'
+key: category
+type: option
+required: false
+collection: false
+option:
+    - Антиквариат
+    - Винтаж
+    - Современность

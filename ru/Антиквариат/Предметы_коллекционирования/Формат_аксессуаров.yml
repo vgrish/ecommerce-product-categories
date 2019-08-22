@@ -1,0 +1,14 @@
+caption: 'Формат аксессуаров'
+unit: ''
+description: 'Какого формата листы?'
+key: format_accessories
+type: option
+required: false
+collection: false
+option:
+    - Folio
+    - Grande
+    - Kanzlei
+    - Maximum
+    - Optima
+    - Vario

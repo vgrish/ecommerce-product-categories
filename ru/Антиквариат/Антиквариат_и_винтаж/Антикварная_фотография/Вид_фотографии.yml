@@ -1,0 +1,12 @@
+caption: 'Вид фотографии'
+unit: ''
+description: ''
+key: view_photos
+type: option
+required: false
+collection: true
+option:
+    - 'Групповые фото'
+    - Портреты
+    - 'Редкие фото'
+    - Стереопары

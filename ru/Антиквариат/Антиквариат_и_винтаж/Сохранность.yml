@@ -1,0 +1,12 @@
+caption: Сохранность
+unit: ''
+description: 'Выберите из списка степень сохранности'
+key: safety
+type: option
+required: false
+collection: false
+option:
+    - Коллекционная/отличная
+    - 'Очень хорошая'
+    - Удовлетворительная
+    - Хорошая

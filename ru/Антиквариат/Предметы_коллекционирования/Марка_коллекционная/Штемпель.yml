@@ -1,0 +1,10 @@
+caption: Штемпель
+unit: 'оборотная  сторона'
+description: ''
+key: stamp
+type: option
+required: false
+collection: false
+option:
+    - 'Без письма'
+    - 'С письмом'

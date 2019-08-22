@@ -1,0 +1,10 @@
+caption: Комплект
+unit: ''
+description: 'Этот товар из комплекта?'
+key: kit
+type: option
+required: false
+collection: false
+option:
+    - Да
+    - Нет

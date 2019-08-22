@@ -1,0 +1,13 @@
+caption: 'Вид открытки'
+unit: ''
+description: ''
+key: view_postcard
+type: option
+required: false
+collection: true
+option:
+    - 'Визитные карточки'
+    - 'Почтовые карточки'
+    - 'Редкие открытки'
+    - Репринты
+    - 'Рисованные открытки'

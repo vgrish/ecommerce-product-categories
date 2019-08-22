@@ -1,0 +1,12 @@
+caption: 'Вид карты (герграфические карты)'
+unit: ''
+description: ''
+key: map_view_geograficheskie_card
+type: option
+required: false
+collection: true
+option:
+    - 'Дорожные карты'
+    - 'Планы городов'
+    - 'Старинные карты'
+    - 'Туристские схемы'

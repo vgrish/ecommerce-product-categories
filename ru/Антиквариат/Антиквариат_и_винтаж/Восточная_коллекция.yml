@@ -1,0 +1,12 @@
+caption: 'Восточная коллекция'
+unit: ''
+description: 'Если товар из восточной коллекции выберите из списка его страну'
+key: oriental_collection
+type: option
+required: false
+collection: false
+option:
+    - Индия
+    - Китай
+    - 'Южная Корея'
+    - Япония

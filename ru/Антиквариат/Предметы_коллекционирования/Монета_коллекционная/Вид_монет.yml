@@ -1,0 +1,10 @@
+caption: 'Вид монет'
+unit: ''
+description: 'Какие монеты?'
+key: kind_of_coins
+type: option
+required: false
+collection: false
+option:
+    - 'Памятные, юбилейные'
+    - Регулярные
