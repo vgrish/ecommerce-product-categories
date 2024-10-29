@@ -6,7 +6,7 @@
   "description": "",
   "keywords": [
     "ecommerce product categories",
-    "ecommerce",
+    "ecommerce"
   ],
   "authors": [
     {
@@ -14,5 +14,5 @@
       "email": "vgrish@gmail.com"
     }
   ],
-  "prefer-stable": true,
+  "prefer-stable": true
 }
