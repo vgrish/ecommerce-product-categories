@@ -14,5 +14,10 @@
       "email": "vgrish@gmail.com"
     }
   ],
-  "prefer-stable": true
+  "prefer-stable": true,
+  "scripts": {
+    "post-install-cmd": [
+      "cp -r ru/ vendor/vgrish/ecommerce-product-categories/"
+    ]
+  }
 }
